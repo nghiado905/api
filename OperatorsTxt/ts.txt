@@ -1,0 +1,3 @@
+inst_tvr,last_diff_value,ts_arg_max,ts_arg_min,ts_av_diff,ts_count_nans,ts_min_max_diff,ts_product,ts_rank,ts_returns,ts_scale,ts_skewness,ts_stddev,ts_sum,ts_zscore,ts_max,ts_delta,ts_delay,ts_sum,ts_mean,ts_stddev,ts_arg_max,ts_ir,ts_ir,ts_ir,ts_min_diff,ts_skewness,ts_zscore,ts_arg_min,ts_decay_linear,
+inst_tvr,last_diff_value,ts_arg_max,ts_arg_min,ts_av_diff,ts_decay_linear,ts_delay,ts_delta,ts_ir,ts_kurtosis,ts_product,ts_rank,ts_returns,
+ts_scale,ts_skewness,ts_stddev,ts_sum,ts_zscore,ts_min_diff,ts_max,ts_max_diff,ts_mean,ts_median,ts_weighted_sum,ts_weighted_mean,ts_quantile,ts_min_max_cps,ts_moment

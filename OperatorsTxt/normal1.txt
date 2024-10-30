@@ -1,0 +1,1 @@
+winsorize,scale,scale_down,zscore,rank_by_side,rank,log,sqrt,zscore,log_diff,exp,floor,fraction,round,densify,days_from_last_change,abs,ceiling,exp,to_nan,negate,is_not_finite,mean,median,variance,std,skewness,kurtosis,sum,count,range,entropy
