@@ -1,0 +1,44 @@
+,id,description
+0,mdl23_analyst_revisn,Higher score indicates more positive revision by analysts
+1,mdl23_bk_13w_mdl_score_chg,Change in model score over 13 weeks
+2,mdl23_bk_1w_mdl_score_chg,Change in model score over 1 week
+3,mdl23_bk_5_year_beta,Stock beta over 5 years
+4,mdl23_bk_5year_eps_growth,5 year EPS growth forecast
+5,mdl23_bk_6mon_price_change,6 month stock price change
+6,mdl23_bk_analyst_revisn,High score indicates more positive revisions by analysts
+7,mdl23_bk_analyst_valu_sent,High score indicates cheaper stocks according to analysts
+8,mdl23_bk_asset_effcncy,Higher score indicates better asset utilization efficiency
+9,mdl23_bk_asset_valu,High score indicates high book values compared to market cap
+10,mdl23_bk_average_daily_vol,Average daily trading volume
+11,mdl23_bk_company_name,Company name
+12,mdl23_bk_debt_to_equity,Debt to Equity ratio
+13,mdl23_bk_dra,Decile in which stock falls when ranked based on overall score ranging from 1 (top) to 10 (bottom)
+14,mdl23_bk_earn_gth_valu,Higher score indicates better earnings growth prospects
+15,mdl23_bk_entrpris_valu,Higher score indicates higher operating income relative to enterprise value
+16,mdl23_bk_eps_surprise,Most recently reported quarterly eps surprise
+17,mdl23_bk_fcf_valu,Higher score indicates higher free cash flows relative to market cap
+18,mdl23_bk_fund_gth,High score indicates high free cash flow or revenue growth
+19,mdl23_bk_leverage,High score indicates lower debt or better capacity to meet debt obligations
+20,mdl23_bk_market_cap,Market Cap
+21,mdl23_bk_mdl_score,Overall score. Higher score indicates higher chance of outperformance
+22,mdl23_bk_mdl_sector_neutral,Decile in which stock falls when ranked based on sector neutral overall score ranging from 1 (top) to 10 (bottom)
+23,mdl23_bk_net_equity_financ,Higher score indicates higher levels of equity issuance
+24,mdl23_bk_no_ana_fy1s,Indicates how many analysts are covering the stock
+25,mdl23_bk_pric_volatil_ann,Price volatility annualized in percentage
+26,mdl23_bk_prob_1yret_less,Probability of underperforming market over a one year horizon
+27,mdl23_bk_profitabil_chg,Higher score indicates higher icnrease in profitability
+28,mdl23_bk_profitabil_trend,Higher score indicates more consistency in profitability
+29,mdl23_bk_return_on_equity,ROE
+30,mdl23_bk_rev_stabil,Higher score indicates more consistency in Revenue
+31,mdl23_bk_trailing_price,Trailing p/e ratio
+32,mdl23_cash_src_use,Higher score indicates lower external financing and capex in recent period
+33,mdl23_company_name,Company name
+34,mdl23_dra,Decile in which stock falls when ranked based on overall score ranging from 1 (top) to 10 (bottom)
+35,mdl23_fund_growth,"Higher score indicates higher growth in revenue, income, cash flow and dividends"
+36,mdl23_fund_stabil,Higher score indicates higher stability in revenues and cash flows
+37,mdl23_lev_effcncy,High value indicates low long term debt and better revenue to asset ratio
+38,mdl23_mdl_score,Overall score. Higher score indicates higher chance of outperformance
+39,mdl23_mdl_sector_neutral,Decile in which stock falls when ranked based on overall score normalized by sector ranging from 1 (top) to 10 (bottom) excluding TOP 1000 market cap stocks
+40,mdl23_tail_risk,Lower score indicates very high or very low earnings and revenue growth
+41,mdl23_technical_actn,"Lower score indicates low risk adjusted price performance, extreme covariance with market returns and extreme turnover in recent period"
+42,mdl23_valuation,"Higher score indicates higher free cash flow to enterprise value, higher yields"

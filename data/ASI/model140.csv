@@ -1,0 +1,4 @@
+,id,description
+0,mdl140_qes_sinc_comp,"QES SINC (Sensitive to Inflation Change) COMP model is the composite stock-level sensitivity to market-based inflation. It consists of a purified breakeven rate sensitivity (""Pure"" SINC) and interest rate sensitivity (QES SIRC model) two component. Pure SINC is the stock-level sensitivity to changes in the residual of breakeven rates after adjusting for the change in interest rates. This inflation signal can therefore be used together with SIRC as an orthogonal inflation sensitivity factor."
+1,mdl140_qes_sinc_neut,Sensitivity to Expected Inflation Adjusted for Interest Rate Change
+2,mdl140_qes_sinc_sensitivity,Sensitivity to Expected Inflation Proxied by Breakeven Rate Change

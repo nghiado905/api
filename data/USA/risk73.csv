@@ -1,0 +1,41 @@
+,id,description
+0,rsk73_mfm1universal_dsrt,Specific returns
+1,rsk73_mfm1universal_market,Market factors
+2,rsk73_mfm1universal_ri_beta,Beta risk index
+3,rsk73_mfm1universal_ri_divyield,Dividend Yield risk index
+4,rsk73_mfm1universal_ri_earnyield,Earnings Yield risk index
+5,rsk73_mfm1universal_ri_growth,Growth risk index
+6,rsk73_mfm1universal_ri_leverage,Leverage risk index
+7,rsk73_mfm1universal_ri_momentum,Momentum risk index
+8,rsk73_mfm1universal_ri_nonlbeta,Non linear Beta factor risk index
+9,rsk73_mfm1universal_ri_nonlsize,Non linear size factor risk index
+10,rsk73_mfm1universal_ri_size,Size factor risk index
+11,rsk73_mfm1universal_ri_value,Value factor risk index
+12,rsk73_mfm1universal_ri_volatility,Volatility factor risk index
+13,rsk73_mfm1universal_srisk,Systematic risk factor loading
+14,rsk73_mfm2universal_1drevrsl,1-Day reversal factor loading
+15,rsk73_mfm2universal_beta,Beta industry factor loading
+16,rsk73_mfm2universal_divyild,Dividend yield industry factor loading
+17,rsk73_mfm2universal_dsrt,Specific returns
+18,rsk73_mfm2universal_dwnrisk,Downside risk industry factor loading
+19,rsk73_mfm2universal_earnqlty,Earnings quality industry factor loading
+20,rsk73_mfm2universal_earnyild,Earnings yield industry factor loading
+21,rsk73_mfm2universal_growth,Growth industry factor loading
+22,rsk73_mfm2universal_indmom,Industrial momentum industry factor loading
+23,rsk73_mfm2universal_leverage,Leverage industry factor loading
+24,rsk73_mfm2universal_ltrevrsl,Long term reversal industry factor loading
+25,rsk73_mfm2universal_market,Market industry factor loading
+26,rsk73_mfm2universal_mgmtqlty,Management quality industry factor loading
+27,rsk73_mfm2universal_midcap,Midcap industry factor loading
+28,rsk73_mfm2universal_momentum,Momentum industry factor loading
+29,rsk73_mfm2universal_profit,Profit factor loading
+30,rsk73_mfm2universal_prospect,Prospect industry factor loading
+31,rsk73_mfm2universal_regmom,Regional momentum industry factor loading
+32,rsk73_mfm2universal_resvol,Residual volatility industry factor loading
+33,rsk73_mfm2universal_season,Seasonality industry factor loading
+34,rsk73_mfm2universal_sentmt,Sentiment industry factor loading
+35,rsk73_mfm2universal_shortint,Short interest industry factor loading
+36,rsk73_mfm2universal_size,Size factor loading
+37,rsk73_mfm2universal_srisk,Systemic risk factor loading
+38,rsk73_mfm2universal_strevrsl,Short term reversal industry factor loading
+39,rsk73_mfm2universal_value,Value factor loading

@@ -1,0 +1,189 @@
+,id,description
+0,mdl162_22_efcf,Predicting fcfe Field
+1,mdl162_22_ffcf,Predicting fundamental Field 252 days
+2,mdl162_22_q_adbs,Predicting SBDA Field
+3,mdl162_22_q_cnin,Predicting fundamental Field 22 days
+4,mdl162_22_q_drpf,Predicting fprd Field
+5,mdl162_22_q_dtns,Predicting fundamental Field 22 days
+6,mdl162_22_q_eaca,Predicting fundamental Field 22 days
+7,mdl162_22_q_fltf,Predicting FTLF Field
+8,mdl162_22_q_ilti,Predicting fundamental Field 22 days
+9,mdl162_22_q_in,Predicting NI Field
+10,mdl162_22_q_ip,Predicting fundamental Field 22 days
+11,mdl162_22_q_ndlf,Predicting fldn Field
+12,mdl162_22_q_oca,Predicting ACO Field
+13,mdl162_22_q_olto,Predicting fundamental Field 22 days
+14,mdl162_22_q_pa,Predicting fundamental Field 22 days
+15,mdl162_22_q_pdaio,Predicting fundamental Field 22 days
+16,mdl162_22_q_ta,Predicting fundamental Field 22 days
+17,mdl162_22_q_tcl,Predicting lct Field
+18,mdl162_22_q_xfspe,Predicting fundamental Field 22 days
+19,mdl162_252_a_adbs,Predicting SBDA Field
+20,mdl162_252_a_cnin,Predicting fundamental Field 252 days
+21,mdl162_252_a_drpf,Predicting fprd Field
+22,mdl162_252_a_dtns,Predicting fundamental Field 252 days
+23,mdl162_252_a_eaca,Predicting fundamental Field 252 days
+24,mdl162_252_a_fltf,Predicting FTLF Field
+25,mdl162_252_a_ilti,Predicting fundamental Field 252 days
+26,mdl162_252_a_in,Predicting NI Field
+27,mdl162_252_a_ip,Predicting fundamental Field 252 days
+28,mdl162_252_a_ndlf,Predicting fldn Field
+29,mdl162_252_a_oca,Predicting ACO Field
+30,mdl162_252_a_olto,Predicting fundamental Field 252 days
+31,mdl162_252_a_pa,Predicting fundamental Field 252 days
+32,mdl162_252_a_pdaio,Predicting fundamental Field 252 days
+33,mdl162_252_a_ta,Predicting fundamental Field 252 days
+34,mdl162_252_a_tcl,Predicting lct Field
+35,mdl162_252_a_xfspe,Predicting fundamental Field 252 days
+36,mdl162_252_efcf,Predicting fcfe Field
+37,mdl162_252_ffcf,Predicting fundamental Field 22 days
+38,mdl162_621_a_adbs,Predicting SBDA Field
+39,mdl162_621_a_cnin,Predicting fundamental Field 126 days
+40,mdl162_621_a_drpf,Predicting fprd Field
+41,mdl162_621_a_dtns,Predicting fundamental Field 126 days
+42,mdl162_621_a_eaca,Predicting fundamental Field 126 days
+43,mdl162_621_a_fltf,Predicting FTLF Field
+44,mdl162_621_a_ilti,Predicting fundamental Field 126 days
+45,mdl162_621_a_in,Predicting NI Field
+46,mdl162_621_a_ip,Predicting fundamental Field 126 days
+47,mdl162_621_a_ndlf,Predicting fldn Field
+48,mdl162_621_a_oca,Predicting ACO Field
+49,mdl162_621_a_olto,Predicting fundamental Field 126 days
+50,mdl162_621_a_pa,Predicting fundamental Field 126 days
+51,mdl162_621_a_pdaio,Predicting fundamental Field 126 days
+52,mdl162_621_a_ta,Predicting fundamental Field 126 days
+53,mdl162_621_a_tcl,Predicting lct Field
+54,mdl162_621_a_xfspe,Predicting fundamental Field 126 days
+55,mdl162_621_efcf,Predicting fcfe Field
+56,mdl162_621_ffcf,Predicting fundamental Field 126 days
+57,mdl162_66_efcf,Predicting fcfe Field
+58,mdl162_66_ffcf,Predicting fundamental Field 66 days
+59,mdl162_66_q_adbs,Predicting SBDA Field
+60,mdl162_66_q_cnin,Predicting fundamental Field 66 days
+61,mdl162_66_q_drpf,Predicting fprd Field
+62,mdl162_66_q_dtns,Predicting fundamental Field 66 days
+63,mdl162_66_q_eaca,Predicting fundamental Field 66 days
+64,mdl162_66_q_fltf,Predicting FTLF Field
+65,mdl162_66_q_ilti,Predicting fundamental Field 66 days
+66,mdl162_66_q_in,Predicting NI Field
+67,mdl162_66_q_ip,Predicting fundamental Field 66 days
+68,mdl162_66_q_ndlf,Predicting fldn Field
+69,mdl162_66_q_oca,Predicting ACO Field
+70,mdl162_66_q_olto,Predicting fundamental Field 66 days
+71,mdl162_66_q_pa,Predicting fundamental Field 66 days
+72,mdl162_66_q_pdaio,Predicting fundamental Field 66 days
+73,mdl162_66_q_ta,Predicting fundamental Field 66 days
+74,mdl162_66_q_tcl,Predicting lct Field
+75,mdl162_66_q_xfspe,Predicting fundamental Field 66 days
+76,mdl162_acae_a_126_error,Erronenous field
+77,mdl162_acae_a_252_error,Erronenous field
+78,mdl162_acae_q_22_error,Erronenous field
+79,mdl162_acae_q_66_error,Erronenous field
+80,mdl162_aco_a_126_error,Erronenous field
+81,mdl162_aco_a_252_error,Erronenous field
+82,mdl162_aco_q_22_error,Erronenous field
+83,mdl162_aco_q_66_error,Erronenous field
+84,mdl162_ap_a_126_error,Erronenous field
+85,mdl162_ap_a_252_error,Erronenous field
+86,mdl162_ap_q_22_error,Erronenous field
+87,mdl162_ap_q_66_error,Erronenous field
+88,mdl162_at_a_126_error,Erronenous field
+89,mdl162_at_a_252_error,Erronenous field
+90,mdl162_at_q_22_error,Erronenous field
+91,mdl162_at_q_66_error,Erronenous field
+92,mdl162_atot_a_126,Predicting fundamental Field 126 days
+93,mdl162_atot_a_126_error,Erronenous field
+94,mdl162_atot_a_252,Predicting fundamental Field 252 days
+95,mdl162_atot_a_252_error,Erronenous field
+96,mdl162_atot_q_22,Predicting fundamental Field 22 days
+97,mdl162_atot_q_22_error,Erronenous field
+98,mdl162_atot_q_66,Predicting fundamental Field 66 days
+99,mdl162_atot_q_66_error,Erronenous field
+100,mdl162_che_a_126,Predicting CHE Field
+101,mdl162_che_a_126_error,Erronenous field
+102,mdl162_che_a_252,Predicting CHE Field
+103,mdl162_che_a_252_error,Erronenous field
+104,mdl162_che_q_22,Predicting CHE Field
+105,mdl162_che_q_22_error,Erronenous field
+106,mdl162_che_q_66,Predicting CHE Field
+107,mdl162_che_q_66_error,Erronenous field
+108,mdl162_epsfx_a_126_error,Erronenous field
+109,mdl162_epsfx_a_252_error,Erronenous field
+110,mdl162_epsfx_q_22_error,Erronenous field
+111,mdl162_epsfx_q_66_error,Erronenous field
+112,mdl162_fcfe_126_error,Erronenous field
+113,mdl162_fcfe_22_error,Erronenous field
+114,mdl162_fcfe_252_error,Erronenous field
+115,mdl162_fcfe_66_error,Erronenous field
+116,mdl162_fcff_126_error,Erronenous field
+117,mdl162_fcff_22_error,Erronenous field
+118,mdl162_fcff_252_error,Erronenous field
+119,mdl162_fcff_66_error,Erronenous field
+120,mdl162_fldn_a_126_error,Erronenous field
+121,mdl162_fldn_a_252_error,Erronenous field
+122,mdl162_fldn_q_22_error,Erronenous field
+123,mdl162_fldn_q_66_error,Erronenous field
+124,mdl162_fprd_a_126_error,Erronenous field
+125,mdl162_fprd_a_252_error,Erronenous field
+126,mdl162_fprd_q_22_error,Erronenous field
+127,mdl162_fprd_q_66_error,Erronenous field
+128,mdl162_ftlf_a_126_error,Erronenous field
+129,mdl162_ftlf_a_252_error,Erronenous field
+130,mdl162_ftlf_q_22_error,Erronenous field
+131,mdl162_ftlf_q_66_error,Erronenous field
+132,mdl162_itli_a_126_error,Erronenous field
+133,mdl162_itli_a_252_error,Erronenous field
+134,mdl162_itli_q_22_error,Erronenous field
+135,mdl162_itli_q_66_error,Erronenous field
+136,mdl162_lct_a_126_error,Erronenous field
+137,mdl162_lct_a_252_error,Erronenous field
+138,mdl162_lct_q_22_error,Erronenous field
+139,mdl162_lct_q_66_error,Erronenous field
+140,mdl162_ni_a_126_error,Erronenous field
+141,mdl162_ni_a_252_error,Erronenous field
+142,mdl162_ni_q_22_error,Erronenous field
+143,mdl162_ni_q_66_error,Erronenous field
+144,mdl162_ninc_a_126_error,Erronenous field
+145,mdl162_ninc_a_252_error,Erronenous field
+146,mdl162_ninc_q_22_error,Erronenous field
+147,mdl162_ninc_q_66_error,Erronenous field
+148,mdl162_oiadp_a_126_error,Erronenous field
+149,mdl162_oiadp_a_252_error,Erronenous field
+150,mdl162_oiadp_q_22_error,Erronenous field
+151,mdl162_oiadp_q_66_error,Erronenous field
+152,mdl162_otlo_a_126_error,Erronenous field
+153,mdl162_otlo_a_252_error,Erronenous field
+154,mdl162_otlo_q_22_error,Erronenous field
+155,mdl162_otlo_q_66_error,Erronenous field
+156,mdl162_pi_a_126_error,Erronenous field
+157,mdl162_pi_a_252_error,Erronenous field
+158,mdl162_pi_q_22_error,Erronenous field
+159,mdl162_pi_q_66_error,Erronenous field
+160,mdl162_rect_a_126,Predicting fundamental Field 126 days
+161,mdl162_rect_a_126_error,Erronenous field
+162,mdl162_rect_a_252,Predicting fundamental Field 252 days
+163,mdl162_rect_a_252_error,Erronenous field
+164,mdl162_rect_q_22,Predicting fundamental Field 22 days
+165,mdl162_rect_q_22_error,Erronenous field
+166,mdl162_rect_q_66,Predicting fundamental Field 66 days
+167,mdl162_rect_q_66_error,Erronenous field
+168,mdl162_revt_a_126,Predicting fundamental Field 126 days
+169,mdl162_revt_a_126_error,Erronenous field
+170,mdl162_revt_a_252,Predicting fundamental Field 252 days
+171,mdl162_revt_a_252_error,Erronenous field
+172,mdl162_revt_q_22,Predicting fundamental Field 22 days
+173,mdl162_revt_q_22_error,Erronenous field
+174,mdl162_revt_q_66,Predicting fundamental Field 66 days
+175,mdl162_revt_q_66_error,Erronenous field
+176,mdl162_sbda_a_126_error,Erronenous field
+177,mdl162_sbda_a_252_error,Erronenous field
+178,mdl162_sbda_q_22_error,Erronenous field
+179,mdl162_sbda_q_66_error,Erronenous field
+180,mdl162_sntd_a_126_error,Erronenous field
+181,mdl162_sntd_a_252_error,Erronenous field
+182,mdl162_sntd_q_22_error,Erronenous field
+183,mdl162_sntd_q_66_error,Erronenous field
+184,mdl162_vwap_126,Predicing 126 days future vwap
+185,mdl162_vwap_22,Predicing 22 days future vwap
+186,mdl162_vwap_5,Predicing 5 days future vwap
+187,mdl162_vwap_66,Predicing 66 days future vwap

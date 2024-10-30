@@ -1,0 +1,25 @@
+,id,description
+0,mdl28_az1l_asset_drift_pct,1-100 rank of the annualized rate of change of the market value of the firm's assets
+1,mdl28_az1l_asset_volatility_pct,annualized volatility of the market value of the firm's assets
+2,mdl28_az1l_distance_to_default,Number of standard deviations difference between the market value of the firm's assets and its estimated default point.
+3,mdl28_az1l_global_rank,The current global 1-100 percentile rank of a company's 1-year default probability
+4,mdl28_az1l_implied_rating,credit rating implied by the current estimated forward 1.year SCR default probability
+5,mdl28_az1l_industry_rank,"the current 1-100 percentile rank, among other firms in the same region and industry, of a company's 1.year default probability b"
+6,mdl28_az1l_leverage,"The current 1-100 percentile rank, among other firms in the same region and industry, of a company's 1.year default probability"
+7,mdl28_az1l_pd_pct,"A percentage that indicates the probability,that the company will go bankrupt, or default on its debt obligations,
+over the next 1-year period"
+8,mdl28_az1l_region_rank,"The current 1-100 percentile rank, among other firms in the same region, of a company's 1.year default probability"
+9,mdl28_az1l_sector_rank,"The current 1-100 percentile rank, among other firms in the same region and industrial sector, of a company's 1.year default probability"
+10,mdl28_az2_country_rank,"The current 1-100 percentile rank, by country, of a company's 1.year default probabilit"
+11,star_cr_asset_drift_pct,1-100 rank of the annualized rate of change of the market value of the firm's assets
+12,star_cr_asset_volatility_pct,annualized volatility of the market value of the firm's assets
+13,star_cr_country_rank,"The current 1-100 percentile rank, by country, of a company's 1.year default probabilit"
+14,star_cr_dist_to_default,Number of standard deviations difference between the market value of the firm's assets and its estimated default point.
+15,star_cr_global_rank,The current global 1-100 percentile rank of a company's 1-year default probability
+16,star_cr_implied_rating,credit rating implied by the current estimated forward 1.year SCR default probability
+17,star_cr_industry_rank,"the current 1-100 percentile rank, among other firms in the same region and industry, of a company's 1.year default probability b"
+18,star_cr_leverage,"The current 1-100 percentile rank, among other firms in the same region and industry, of a company's 1.year default probability"
+19,star_cr_pd_pct,"A percentage that indicates the probability,that the company will go bankrupt, or default on its debt obligations,
+over the next 1-year period"
+20,star_cr_region_rank,"The current 1-100 percentile rank, among other firms in the same region, of a company's 1.year default probability"
+21,star_cr_sector_rank,"The current 1-100 percentile rank, among other firms in the same region and industrial sector, of a company's 1.year default probability"

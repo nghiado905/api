@@ -1,0 +1,489 @@
+,id,description
+0,mdl211_delta_ebtq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 ebitda
+1,mdl211_delta_ebtq_q1_madp,Mean of absolute deviation of predicted values for Q1 ebitda
+2,mdl211_delta_ebtq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 ebitda
+3,mdl211_delta_ebtq_q1_predict,Predicted value of Q1 ebitda
+4,mdl211_delta_ebtq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 ebitda
+5,mdl211_delta_ebtq_q2_madp,Mean of absolute deviation of predicted values for Q2 ebitda
+6,mdl211_delta_ebtq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 ebitda
+7,mdl211_delta_ebtq_q2_predict,Predicted value of Q2 ebitda
+8,mdl211_delta_ebtq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 ebitda
+9,mdl211_delta_ebtq_q3_madp,Mean of absolute deviation of predicted values for Q3 ebitda
+10,mdl211_delta_ebtq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 ebitda
+11,mdl211_delta_ebtq_q3_predict,Predicted value of Q3 ebitda
+12,mdl211_delta_ebtq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 ebitda
+13,mdl211_delta_ebtq_q4_madp,Mean of absolute deviation of predicted values for Q4 ebitda
+14,mdl211_delta_ebtq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 ebitda
+15,mdl211_delta_ebtq_q4_predict,Predicted value of Q4 ebitda
+16,mdl211_delta_ebty_y1_mada,Mean of absolute deviation of scaled actual values for annual ebitda
+17,mdl211_delta_ebty_y1_madp,Mean of absolute deviation of predicted values for annual ebitda
+18,mdl211_delta_ebty_y1_mae,Mean of absolute error of the model of a particular stock for annual ebitda
+19,mdl211_delta_ebty_y1_predict,Predicted value of annual ebitda
+20,mdl211_delta_epsq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 eps
+21,mdl211_delta_epsq_q1_madp,Mean of absolute deviation of predicted values for Q1 eps
+22,mdl211_delta_epsq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 eps
+23,mdl211_delta_epsq_q1_predict,Predicted value of Q1 eps
+24,mdl211_delta_epsq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 eps
+25,mdl211_delta_epsq_q2_madp,Mean of absolute deviation of predicted values for Q2 eps
+26,mdl211_delta_epsq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 eps
+27,mdl211_delta_epsq_q2_predict,Predicted value of Q2 eps
+28,mdl211_delta_epsq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 eps
+29,mdl211_delta_epsq_q3_madp,Mean of absolute deviation of predicted values for Q3 eps
+30,mdl211_delta_epsq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 eps
+31,mdl211_delta_epsq_q3_predict,Predicted value of Q3 eps
+32,mdl211_delta_epsq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 eps
+33,mdl211_delta_epsq_q4_madp,Mean of absolute deviation of predicted values for Q4 eps
+34,mdl211_delta_epsq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 eps
+35,mdl211_delta_epsq_q4_predict,Predicted value of Q4 eps
+36,mdl211_delta_epsy_y1_mada,Mean of absolute deviation of scaled actual values for annual eps
+37,mdl211_delta_epsy_y1_madp,Mean of absolute deviation of predicted values for annual eps
+38,mdl211_delta_epsy_y1_mae,Mean of absolute error of the model of a particular stock for annual eps
+39,mdl211_delta_epsy_y1_predict,Predicted value of annual eps
+40,mdl211_delta_gpsq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 eps(gaap)
+41,mdl211_delta_gpsq_q1_madp,Mean of absolute deviation of predicted values for Q1 eps(gaap)
+42,mdl211_delta_gpsq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 eps(gaap)
+43,mdl211_delta_gpsq_q1_predict,Predicted value of Q1 eps(gaap)
+44,mdl211_delta_gpsq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 eps(gaap)
+45,mdl211_delta_gpsq_q2_madp,Mean of absolute deviation of predicted values for Q2 eps(gaap)
+46,mdl211_delta_gpsq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 eps(gaap)
+47,mdl211_delta_gpsq_q2_predict,Predicted value of Q2 eps(gaap)
+48,mdl211_delta_gpsq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 eps(gaap)
+49,mdl211_delta_gpsq_q3_madp,Mean of absolute deviation of predicted values for Q3 eps(gaap)
+50,mdl211_delta_gpsq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 eps(gaap)
+51,mdl211_delta_gpsq_q3_predict,Predicted value of Q3 eps(gaap)
+52,mdl211_delta_gpsq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 eps(gaap)
+53,mdl211_delta_gpsq_q4_madp,Mean of absolute deviation of predicted values for Q4 eps(gaap)
+54,mdl211_delta_gpsq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 eps(gaap)
+55,mdl211_delta_gpsq_q4_predict,Predicted value of Q4 eps(gaap)
+56,mdl211_delta_gpsy_y1_mada,Mean of absolute deviation of scaled actual values for annual eps(gaap)
+57,mdl211_delta_gpsy_y1_madp,Mean of absolute deviation of predicted values for annual eps(gaap)
+58,mdl211_delta_gpsy_y1_mae,Mean of absolute error of the model of a particular stock for annual eps(gaap)
+59,mdl211_delta_gpsy_y1_predict,Predicted value of annual eps(gaap)
+60,mdl211_delta_netq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 net income
+61,mdl211_delta_netq_q1_madp,Mean of absolute deviation of predicted values for Q1 net income
+62,mdl211_delta_netq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 net income
+63,mdl211_delta_netq_q1_predict,Predicted value of Q1 net income
+64,mdl211_delta_netq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 net income
+65,mdl211_delta_netq_q2_madp,Mean of absolute deviation of predicted values for Q2 net income
+66,mdl211_delta_netq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 net income
+67,mdl211_delta_netq_q2_predict,Predicted value of Q2 net income
+68,mdl211_delta_netq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 net income
+69,mdl211_delta_netq_q3_madp,Mean of absolute deviation of predicted values for Q3 net income
+70,mdl211_delta_netq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 net income
+71,mdl211_delta_netq_q3_predict,Predicted value of Q3 net income
+72,mdl211_delta_netq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 net income
+73,mdl211_delta_netq_q4_madp,Mean of absolute deviation of predicted values for Q4 net income
+74,mdl211_delta_netq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 net income
+75,mdl211_delta_netq_q4_predict,Predicted value of Q4 net income
+76,mdl211_delta_nety_y1_mada,Mean of absolute deviation of scaled actual values for annual net income
+77,mdl211_delta_nety_y1_madp,Mean of absolute deviation of predicted values for annual net income
+78,mdl211_delta_nety_y1_mae,Mean of absolute error of the model of a particular stock for annual net income
+79,mdl211_delta_nety_y1_predict,Predicted value of annual net income
+80,mdl211_delta_oprq_q1_madp,Mean of absolute deviation of predicted values for Q1 operating income
+81,mdl211_delta_oprq_q1_predict,Predicted value of Q1 operating income
+82,mdl211_delta_oprq_q2_madp,Mean of absolute deviation of predicted values for Q2 operating income
+83,mdl211_delta_oprq_q2_predict,Predicted value of Q2 operating income
+84,mdl211_delta_oprq_q3_madp,Mean of absolute deviation of predicted values for Q3 operating income
+85,mdl211_delta_oprq_q3_predict,Predicted value of Q3 operating income
+86,mdl211_delta_oprq_q4_madp,Mean of absolute deviation of predicted values for Q4 operating income
+87,mdl211_delta_oprq_q4_predict,Predicted value of Q4 operating income
+88,mdl211_delta_opry_y1_madp,Mean of absolute deviation of predicted values for annual operating income
+89,mdl211_delta_opry_y1_predict,Predicted value of annual operating income
+90,mdl211_delta_preq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 pre-tax profit
+91,mdl211_delta_preq_q1_madp,Mean of absolute deviation of predicted values for Q1 pre-tax profit
+92,mdl211_delta_preq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 pre-tax profit
+93,mdl211_delta_preq_q1_predict,Predicted value of Q1 pre-tax profit
+94,mdl211_delta_preq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 pre-tax profit
+95,mdl211_delta_preq_q2_madp,Mean of absolute deviation of predicted values for Q2 pre-tax profit
+96,mdl211_delta_preq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 pre-tax profit
+97,mdl211_delta_preq_q2_predict,Predicted value of Q2 pre-tax profit
+98,mdl211_delta_preq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 pre-tax profit
+99,mdl211_delta_preq_q3_madp,Mean of absolute deviation of predicted values for Q3 pre-tax profit
+100,mdl211_delta_preq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 pre-tax profit
+101,mdl211_delta_preq_q3_predict,Predicted value of Q3 pre-tax profit
+102,mdl211_delta_preq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 pre-tax profit
+103,mdl211_delta_preq_q4_madp,Mean of absolute deviation of predicted values for Q4 pre-tax profit
+104,mdl211_delta_preq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 pre-tax profit
+105,mdl211_delta_preq_q4_predict,Predicted value of Q4 pre-tax profit
+106,mdl211_delta_prey_y1_mada,Mean of absolute deviation of scaled actual values for annual pre-tax profit
+107,mdl211_delta_prey_y1_madp,Mean of absolute deviation of predicted values for annual pre-tax profit
+108,mdl211_delta_prey_y1_mae,Mean of absolute error of the model of a particular stock for annual pre-tax profit
+109,mdl211_delta_prey_y1_predict,Predicted value of annual pre-tax profit
+110,mdl211_delta_salq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 sales
+111,mdl211_delta_salq_q1_madp,Mean of absolute deviation of predicted values for Q1 sales
+112,mdl211_delta_salq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 sales
+113,mdl211_delta_salq_q1_predict,Predicted value of Q1 sales
+114,mdl211_delta_salq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 sales
+115,mdl211_delta_salq_q2_madp,Mean of absolute deviation of predicted values for Q2 sales
+116,mdl211_delta_salq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 sales
+117,mdl211_delta_salq_q2_predict,Predicted value of Q2 sales
+118,mdl211_delta_salq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 sales
+119,mdl211_delta_salq_q3_madp,Mean of absolute deviation of predicted values for Q3 sales
+120,mdl211_delta_salq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 sales
+121,mdl211_delta_salq_q3_predict,Predicted value of Q3 sales
+122,mdl211_delta_salq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 sales
+123,mdl211_delta_salq_q4_madp,Mean of absolute deviation of predicted values for Q4 sales
+124,mdl211_delta_salq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 sales
+125,mdl211_delta_salq_q4_predict,Predicted value of Q4 sales
+126,mdl211_delta_saly_y1_mada,Mean of absolute deviation of scaled actual values for annual sales
+127,mdl211_delta_saly_y1_madp,Mean of absolute deviation of predicted values for annual sales
+128,mdl211_delta_saly_y1_mae,Mean of absolute error of the model of a particular stock for annual sales
+129,mdl211_delta_saly_y1_predict,Predicted value of annual sales
+130,mdl211_ebtq_deltaprofitability_profitability1,profitability measure type 1 based on delta of Q ebitda
+131,mdl211_ebtq_deltaprofitability_profitability10,profitability measure type 10 based on delta of Q ebitda
+132,mdl211_ebtq_deltaprofitability_profitability11,profitability measure type 11 based on delta of Q ebitda
+133,mdl211_ebtq_deltaprofitability_profitability12,profitability measure type 12 based on delta of Q ebitda
+134,mdl211_ebtq_deltaprofitability_profitability2,profitability measure type 2 based on delta of Q ebitda
+135,mdl211_ebtq_deltaprofitability_profitability3,profitability measure type 3 based on delta of Q ebitda
+136,mdl211_ebtq_deltaprofitability_profitability4,profitability measure type 4 based on delta of Q ebitda
+137,mdl211_ebtq_deltaprofitability_profitability5,profitability measure type 5 based on delta of Q ebitda
+138,mdl211_ebtq_deltaprofitability_profitability6,profitability measure type 6 based on delta of Q ebitda
+139,mdl211_ebtq_deltaprofitability_profitability7,profitability measure type 7 based on delta of Q ebitda
+140,mdl211_ebtq_deltaprofitability_profitability8,profitability measure type 8 based on delta of Q ebitda
+141,mdl211_ebtq_deltaprofitability_profitability9,profitability measure type 9 based on delta of Q ebitda
+142,mdl211_ebtq_profitability_profitability1,profitability measure type 1 based on value of Q ebitda
+143,mdl211_ebtq_profitability_profitability10,profitability measure type 10 based on value of Q ebitda
+144,mdl211_ebtq_profitability_profitability11,profitability measure type 11 based on value of Q ebitda
+145,mdl211_ebtq_profitability_profitability12,profitability measure type 12 based on value of Q ebitda
+146,mdl211_ebtq_profitability_profitability2,profitability measure type 2 based on value of Q ebitda
+147,mdl211_ebtq_profitability_profitability3,profitability measure type 3 based on value of Q ebitda
+148,mdl211_ebtq_profitability_profitability4,profitability measure type 4 based on value of Q ebitda
+149,mdl211_ebtq_profitability_profitability5,profitability measure type 5 based on value of Q ebitda
+150,mdl211_ebtq_profitability_profitability6,profitability measure type 6 based on value of Q ebitda
+151,mdl211_ebtq_profitability_profitability7,profitability measure type 7 based on value of Q ebitda
+152,mdl211_ebtq_profitability_profitability8,profitability measure type 8 based on value of Q ebitda
+153,mdl211_ebtq_profitability_profitability9,profitability measure type 9 based on value of Q ebitda
+154,mdl211_ebtq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 ebitda
+155,mdl211_ebtq_q1_madp,Mean of absolute deviation of predicted values for Q1 ebitda
+156,mdl211_ebtq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 ebitda
+157,mdl211_ebtq_q1_predict,Predicted value of Q1 ebitda
+158,mdl211_ebtq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 ebitda
+159,mdl211_ebtq_q2_madp,Mean of absolute deviation of predicted values for Q2 ebitda
+160,mdl211_ebtq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 ebitda
+161,mdl211_ebtq_q2_predict,Predicted value of Q2 ebitda
+162,mdl211_ebtq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 ebitda
+163,mdl211_ebtq_q3_madp,Mean of absolute deviation of predicted values for Q3 ebitda
+164,mdl211_ebtq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 ebitda
+165,mdl211_ebtq_q3_predict,Predicted value of Q3 ebitda
+166,mdl211_ebtq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 ebitda
+167,mdl211_ebtq_q4_madp,Mean of absolute deviation of predicted values for Q4 ebitda
+168,mdl211_ebtq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 ebitda
+169,mdl211_ebtq_q4_predict,Predicted value of Q4 ebitda
+170,mdl211_ebty_deltaprofitability_profitability1,profitability measure type 1 based on delta of annual ebitda
+171,mdl211_ebty_deltaprofitability_profitability10,profitability measure type 10 based on delta of annual ebitda
+172,mdl211_ebty_deltaprofitability_profitability11,profitability measure type 11 based on delta of annual ebitda
+173,mdl211_ebty_deltaprofitability_profitability12,profitability measure type 12 based on delta of annual ebitda
+174,mdl211_ebty_deltaprofitability_profitability2,profitability measure type 2 based on delta of annual ebitda
+175,mdl211_ebty_deltaprofitability_profitability3,profitability measure type 3 based on delta of annual ebitda
+176,mdl211_ebty_deltaprofitability_profitability4,profitability measure type 4 based on delta of annual ebitda
+177,mdl211_ebty_deltaprofitability_profitability5,profitability measure type 5 based on delta of annual ebitda
+178,mdl211_ebty_deltaprofitability_profitability6,profitability measure type 6 based on delta of annual ebitda
+179,mdl211_ebty_deltaprofitability_profitability7,profitability measure type 7 based on delta of annual ebitda
+180,mdl211_ebty_deltaprofitability_profitability8,profitability measure type 8 based on delta of annual ebitda
+181,mdl211_ebty_deltaprofitability_profitability9,profitability measure type 9 based on delta of annual ebitda
+182,mdl211_ebty_profitability_profitability1,profitability measure type 1 based on value of annual ebitda
+183,mdl211_ebty_profitability_profitability10,profitability measure type 10 based on value of annual ebitda
+184,mdl211_ebty_profitability_profitability11,profitability measure type 11 based on value of annual ebitda
+185,mdl211_ebty_profitability_profitability12,profitability measure type 12 based on value of annual ebitda
+186,mdl211_ebty_profitability_profitability2,profitability measure type 2 based on value of annual ebitda
+187,mdl211_ebty_profitability_profitability3,profitability measure type 3 based on value of annual ebitda
+188,mdl211_ebty_profitability_profitability4,profitability measure type 4 based on value of annual ebitda
+189,mdl211_ebty_profitability_profitability5,profitability measure type 5 based on value of annual ebitda
+190,mdl211_ebty_profitability_profitability6,profitability measure type 6 based on value of annual ebitda
+191,mdl211_ebty_profitability_profitability7,profitability measure type 7 based on value of annual ebitda
+192,mdl211_ebty_profitability_profitability8,profitability measure type 8 based on value of annual ebitda
+193,mdl211_ebty_profitability_profitability9,profitability measure type 9 based on value of annual ebitda
+194,mdl211_ebty_y1_mada,Mean of absolute deviation of scaled actual values for annual ebitda
+195,mdl211_ebty_y1_madp,Mean of absolute deviation of predicted values for annual ebitda
+196,mdl211_ebty_y1_mae,Mean of absolute error of the model of a particular stock for annual ebitda
+197,mdl211_ebty_y1_predict,Predicted value of annual ebitda
+198,mdl211_epsq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 eps
+199,mdl211_epsq_q1_madp,Mean of absolute deviation of predicted values for Q1 eps
+200,mdl211_epsq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 eps
+201,mdl211_epsq_q1_predict,Predicted value of Q1 eps
+202,mdl211_epsq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 eps
+203,mdl211_epsq_q2_madp,Mean of absolute deviation of predicted values for Q2 eps
+204,mdl211_epsq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 eps
+205,mdl211_epsq_q2_predict,Predicted value of Q2 eps
+206,mdl211_epsq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 eps
+207,mdl211_epsq_q3_madp,Mean of absolute deviation of predicted values for Q3 eps
+208,mdl211_epsq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 eps
+209,mdl211_epsq_q3_predict,Predicted value of Q3 eps
+210,mdl211_epsq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 eps
+211,mdl211_epsq_q4_madp,Mean of absolute deviation of predicted values for Q4 eps
+212,mdl211_epsq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 eps
+213,mdl211_epsq_q4_predict,Predicted value of Q4 eps
+214,mdl211_epsy_y1_mada,Mean of absolute deviation of scaled actual values for annual eps
+215,mdl211_epsy_y1_madp,Mean of absolute deviation of predicted values for annual eps
+216,mdl211_epsy_y1_mae,Mean of absolute error of the model of a particular stock for annual eps
+217,mdl211_epsy_y1_predict,Predicted value of annual eps
+218,mdl211_gpsq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 eps(gaap)
+219,mdl211_gpsq_q1_madp,Mean of absolute deviation of predicted values for Q1 eps(gaap)
+220,mdl211_gpsq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 eps(gaap)
+221,mdl211_gpsq_q1_predict,Predicted value of Q1 eps(gaap)
+222,mdl211_gpsq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 eps(gaap)
+223,mdl211_gpsq_q2_madp,Mean of absolute deviation of predicted values for Q2 eps(gaap)
+224,mdl211_gpsq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 eps(gaap)
+225,mdl211_gpsq_q2_predict,Predicted value of Q2 eps(gaap)
+226,mdl211_gpsq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 eps(gaap)
+227,mdl211_gpsq_q3_madp,Mean of absolute deviation of predicted values for Q3 eps(gaap)
+228,mdl211_gpsq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 eps(gaap)
+229,mdl211_gpsq_q3_predict,Predicted value of Q3 eps(gaap)
+230,mdl211_gpsq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 eps(gaap)
+231,mdl211_gpsq_q4_madp,Mean of absolute deviation of predicted values for Q4 eps(gaap)
+232,mdl211_gpsq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 eps(gaap)
+233,mdl211_gpsq_q4_predict,Predicted value of Q4 eps(gaap)
+234,mdl211_gpsy_y1_mada,Mean of absolute deviation of scaled actual values for annual eps(gaap)
+235,mdl211_gpsy_y1_madp,Mean of absolute deviation of predicted values for annual eps(gaap)
+236,mdl211_gpsy_y1_mae,Mean of absolute error of the model of a particular stock for annual eps(gaap)
+237,mdl211_gpsy_y1_predict,Predicted value of annual eps(gaap)
+238,mdl211_netq_deltaprofitability_profitability1,profitability measure type 1 based on delta of Q net income
+239,mdl211_netq_deltaprofitability_profitability10,profitability measure type 10 based on delta of Q net income
+240,mdl211_netq_deltaprofitability_profitability11,profitability measure type 11 based on delta of Q net income
+241,mdl211_netq_deltaprofitability_profitability12,profitability measure type 12 based on delta of Q net income
+242,mdl211_netq_deltaprofitability_profitability2,profitability measure type 2 based on delta of Q net income
+243,mdl211_netq_deltaprofitability_profitability3,profitability measure type 3 based on delta of Q net income
+244,mdl211_netq_deltaprofitability_profitability4,profitability measure type 4 based on delta of Q net income
+245,mdl211_netq_deltaprofitability_profitability5,profitability measure type 5 based on delta of Q net income
+246,mdl211_netq_deltaprofitability_profitability6,profitability measure type 6 based on delta of Q net income
+247,mdl211_netq_deltaprofitability_profitability7,profitability measure type 7 based on delta of Q net income
+248,mdl211_netq_deltaprofitability_profitability8,profitability measure type 8 based on delta of Q net income
+249,mdl211_netq_deltaprofitability_profitability9,profitability measure type 9 based on delta of Q net income
+250,mdl211_netq_profitability_profitability1,profitability measure type 1 based on value of Q net income
+251,mdl211_netq_profitability_profitability10,profitability measure type 10 based on value of Q net income
+252,mdl211_netq_profitability_profitability11,profitability measure type 11 based on value of Q net income
+253,mdl211_netq_profitability_profitability12,profitability measure type 12 based on value of Q net income
+254,mdl211_netq_profitability_profitability2,profitability measure type 2 based on value of Q net income
+255,mdl211_netq_profitability_profitability3,profitability measure type 3 based on value of Q net income
+256,mdl211_netq_profitability_profitability4,profitability measure type 4 based on value of Q net income
+257,mdl211_netq_profitability_profitability5,profitability measure type 5 based on value of Q net income
+258,mdl211_netq_profitability_profitability6,profitability measure type 6 based on value of Q net income
+259,mdl211_netq_profitability_profitability7,profitability measure type 7 based on value of Q net income
+260,mdl211_netq_profitability_profitability8,profitability measure type 8 based on value of Q net income
+261,mdl211_netq_profitability_profitability9,profitability measure type 9 based on value of Q net income
+262,mdl211_netq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 net income
+263,mdl211_netq_q1_madp,Mean of absolute deviation of predicted values for Q1 net income
+264,mdl211_netq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 net income
+265,mdl211_netq_q1_predict,Predicted value of Q1 net income
+266,mdl211_netq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 net income
+267,mdl211_netq_q2_madp,Mean of absolute deviation of predicted values for Q2 net income
+268,mdl211_netq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 net income
+269,mdl211_netq_q2_predict,Predicted value of Q2 net income
+270,mdl211_netq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 net income
+271,mdl211_netq_q3_madp,Mean of absolute deviation of predicted values for Q3 net income
+272,mdl211_netq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 net income
+273,mdl211_netq_q3_predict,Predicted value of Q3 net income
+274,mdl211_netq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 net income
+275,mdl211_netq_q4_madp,Mean of absolute deviation of predicted values for Q4 net income
+276,mdl211_netq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 net income
+277,mdl211_netq_q4_predict,Predicted value of Q4 net income
+278,mdl211_nety_deltaprofitability_profitability1,profitability measure type 1 based on delta of annual net income
+279,mdl211_nety_deltaprofitability_profitability10,profitability measure type 10 based on delta of annual net income
+280,mdl211_nety_deltaprofitability_profitability11,profitability measure type 11 based on delta of annual net income
+281,mdl211_nety_deltaprofitability_profitability12,profitability measure type 12 based on delta of annual net income
+282,mdl211_nety_deltaprofitability_profitability2,profitability measure type 2 based on delta of annual net income
+283,mdl211_nety_deltaprofitability_profitability3,profitability measure type 3 based on delta of annual net income
+284,mdl211_nety_deltaprofitability_profitability4,profitability measure type 4 based on delta of annual net income
+285,mdl211_nety_deltaprofitability_profitability5,profitability measure type 5 based on delta of annual net income
+286,mdl211_nety_deltaprofitability_profitability6,profitability measure type 6 based on delta of annual net income
+287,mdl211_nety_deltaprofitability_profitability7,profitability measure type 7 based on delta of annual net income
+288,mdl211_nety_deltaprofitability_profitability8,profitability measure type 8 based on delta of annual net income
+289,mdl211_nety_deltaprofitability_profitability9,profitability measure type 9 based on delta of annual net income
+290,mdl211_nety_profitability_profitability1,profitability measure type 1 based on value of annual net income
+291,mdl211_nety_profitability_profitability10,profitability measure type 10 based on value of annual net income
+292,mdl211_nety_profitability_profitability11,profitability measure type 11 based on value of annual net income
+293,mdl211_nety_profitability_profitability12,profitability measure type 12 based on value of annual net income
+294,mdl211_nety_profitability_profitability2,profitability measure type 2 based on value of annual net income
+295,mdl211_nety_profitability_profitability3,profitability measure type 3 based on value of annual net income
+296,mdl211_nety_profitability_profitability4,profitability measure type 4 based on value of annual net income
+297,mdl211_nety_profitability_profitability5,profitability measure type 5 based on value of annual net income
+298,mdl211_nety_profitability_profitability6,profitability measure type 6 based on value of annual net income
+299,mdl211_nety_profitability_profitability7,profitability measure type 7 based on value of annual net income
+300,mdl211_nety_profitability_profitability8,profitability measure type 8 based on value of annual net income
+301,mdl211_nety_profitability_profitability9,profitability measure type 9 based on value of annual net income
+302,mdl211_nety_y1_mada,Mean of absolute deviation of scaled actual values for annual net income
+303,mdl211_nety_y1_madp,Mean of absolute deviation of predicted values for annual net income
+304,mdl211_nety_y1_mae,Mean of absolute error of the model of a particular stock for annual net income
+305,mdl211_nety_y1_predict,Predicted value of annual net income
+306,mdl211_oprq_deltaprofitability_profitability1,profitability measure type 1 based on delta of Q operating profit
+307,mdl211_oprq_deltaprofitability_profitability10,profitability measure type 10 based on delta of Q operating profit
+308,mdl211_oprq_deltaprofitability_profitability11,profitability measure type 11 based on delta of Q operating profit
+309,mdl211_oprq_deltaprofitability_profitability12,profitability measure type 12 based on delta of Q operating profit
+310,mdl211_oprq_deltaprofitability_profitability2,profitability measure type 2 based on delta of Q operating profit
+311,mdl211_oprq_deltaprofitability_profitability3,profitability measure type 3 based on delta of Q operating profit
+312,mdl211_oprq_deltaprofitability_profitability4,profitability measure type 4 based on delta of Q operating profit
+313,mdl211_oprq_deltaprofitability_profitability5,profitability measure type 5 based on delta of Q operating profit
+314,mdl211_oprq_deltaprofitability_profitability6,profitability measure type 6 based on delta of Q operating profit
+315,mdl211_oprq_deltaprofitability_profitability7,profitability measure type 7 based on delta of Q operating profit
+316,mdl211_oprq_deltaprofitability_profitability8,profitability measure type 8 based on delta of Q operating profit
+317,mdl211_oprq_deltaprofitability_profitability9,profitability measure type 9 based on delta of Q operating profit
+318,mdl211_oprq_profitability_profitability1,profitability measure type 1 based on value of Q operating profit
+319,mdl211_oprq_profitability_profitability10,profitability measure type 10 based on value of Q operating profit
+320,mdl211_oprq_profitability_profitability11,profitability measure type 11 based on value of Q operating profit
+321,mdl211_oprq_profitability_profitability12,profitability measure type 12 based on value of Q operating profit
+322,mdl211_oprq_profitability_profitability2,profitability measure type 2 based on value of Q operating profit
+323,mdl211_oprq_profitability_profitability3,profitability measure type 3 based on value of Q operating profit
+324,mdl211_oprq_profitability_profitability4,profitability measure type 4 based on value of Q operating profit
+325,mdl211_oprq_profitability_profitability5,profitability measure type 5 based on value of Q operating profit
+326,mdl211_oprq_profitability_profitability6,profitability measure type 6 based on value of Q operating profit
+327,mdl211_oprq_profitability_profitability7,profitability measure type 7 based on value of Q operating profit
+328,mdl211_oprq_profitability_profitability8,profitability measure type 8 based on value of Q operating profit
+329,mdl211_oprq_profitability_profitability9,profitability measure type 9 based on value of Q operating profit
+330,mdl211_oprq_q1_madp,Mean of absolute deviation of predicted values for Q1 operating profit
+331,mdl211_oprq_q1_predict,Predicted value of Q1 operating profit
+332,mdl211_oprq_q2_madp,Mean of absolute deviation of predicted values for Q2 operating profit
+333,mdl211_oprq_q2_predict,Predicted value of Q2 operating profit
+334,mdl211_oprq_q3_madp,Mean of absolute deviation of predicted values for Q3 operating profit
+335,mdl211_oprq_q3_predict,Predicted value of Q3 operating profit
+336,mdl211_oprq_q4_madp,Mean of absolute deviation of predicted values for Q4 operating profit
+337,mdl211_oprq_q4_predict,Predicted value of Q4 operating profit
+338,mdl211_opry_deltaprofitability_profitability1,profitability measure type 1 based on delta of annual operating profit
+339,mdl211_opry_deltaprofitability_profitability10,profitability measure type 10 based on delta of annual operating profit
+340,mdl211_opry_deltaprofitability_profitability11,profitability measure type 11 based on delta of annual operating profit
+341,mdl211_opry_deltaprofitability_profitability12,profitability measure type 12 based on delta of annual operating profit
+342,mdl211_opry_deltaprofitability_profitability2,profitability measure type 2 based on delta of annual operating profit
+343,mdl211_opry_deltaprofitability_profitability3,profitability measure type 3 based on delta of annual operating profit
+344,mdl211_opry_deltaprofitability_profitability4,profitability measure type 4 based on delta of annual operating profit
+345,mdl211_opry_deltaprofitability_profitability5,profitability measure type 5 based on delta of annual operating profit
+346,mdl211_opry_deltaprofitability_profitability6,profitability measure type 6 based on delta of annual operating profit
+347,mdl211_opry_deltaprofitability_profitability7,profitability measure type 7 based on delta of annual operating profit
+348,mdl211_opry_deltaprofitability_profitability8,profitability measure type 8 based on delta of annual operating profit
+349,mdl211_opry_deltaprofitability_profitability9,profitability measure type 9 based on delta of annual operating profit
+350,mdl211_opry_profitability_profitability1,profitability measure type 1 based on value of annual operating profit
+351,mdl211_opry_profitability_profitability10,profitability measure type 10 based on value of annual operating profit
+352,mdl211_opry_profitability_profitability11,profitability measure type 11 based on value of annual operating profit
+353,mdl211_opry_profitability_profitability12,profitability measure type 12 based on value of annual operating profit
+354,mdl211_opry_profitability_profitability2,profitability measure type 2 based on value of annual operating profit
+355,mdl211_opry_profitability_profitability3,profitability measure type 3 based on value of annual operating profit
+356,mdl211_opry_profitability_profitability4,profitability measure type 4 based on value of annual operating profit
+357,mdl211_opry_profitability_profitability5,profitability measure type 5 based on value of annual operating profit
+358,mdl211_opry_profitability_profitability6,profitability measure type 6 based on value of annual operating profit
+359,mdl211_opry_profitability_profitability7,profitability measure type 7 based on value of annual operating profit
+360,mdl211_opry_profitability_profitability8,profitability measure type 8 based on value of annual operating profit
+361,mdl211_opry_profitability_profitability9,profitability measure type 9 based on value of annual operating profit
+362,mdl211_opry_y1_madp,Mean of absolute deviation of predicted values for annual operating profit
+363,mdl211_opry_y1_predict,Predicted value of annual operating profit
+364,mdl211_preq_deltaprofitability_profitability1,profitability measure type 1 based on delta of Q pre-tax profit
+365,mdl211_preq_deltaprofitability_profitability10,profitability measure type 10 based on delta of Q pre-tax profit
+366,mdl211_preq_deltaprofitability_profitability11,profitability measure type 11 based on delta of Q pre-tax profit
+367,mdl211_preq_deltaprofitability_profitability12,profitability measure type 12 based on delta of Q pre-tax profit
+368,mdl211_preq_deltaprofitability_profitability2,profitability measure type 2 based on delta of Q pre-tax profit
+369,mdl211_preq_deltaprofitability_profitability3,profitability measure type 3 based on delta of Q pre-tax profit
+370,mdl211_preq_deltaprofitability_profitability4,profitability measure type 4 based on delta of Q pre-tax profit
+371,mdl211_preq_deltaprofitability_profitability5,profitability measure type 5 based on delta of Q pre-tax profit
+372,mdl211_preq_deltaprofitability_profitability6,profitability measure type 6 based on delta of Q pre-tax profit
+373,mdl211_preq_deltaprofitability_profitability7,profitability measure type 7 based on delta of Q pre-tax profit
+374,mdl211_preq_deltaprofitability_profitability8,profitability measure type 8 based on delta of Q pre-tax profit
+375,mdl211_preq_deltaprofitability_profitability9,profitability measure type 9 based on delta of Q pre-tax profit
+376,mdl211_preq_profitability_profitability1,profitability measure type 1 based on value of Q pre-tax profit
+377,mdl211_preq_profitability_profitability10,profitability measure type 10 based on value of Q pre-tax profit
+378,mdl211_preq_profitability_profitability11,profitability measure type 11 based on value of Q pre-tax profit
+379,mdl211_preq_profitability_profitability12,profitability measure type 12 based on value of Q pre-tax profit
+380,mdl211_preq_profitability_profitability2,profitability measure type 2 based on value of Q pre-tax profit
+381,mdl211_preq_profitability_profitability3,profitability measure type 3 based on value of Q pre-tax profit
+382,mdl211_preq_profitability_profitability4,profitability measure type 4 based on value of Q pre-tax profit
+383,mdl211_preq_profitability_profitability5,profitability measure type 5 based on value of Q pre-tax profit
+384,mdl211_preq_profitability_profitability6,profitability measure type 6 based on value of Q pre-tax profit
+385,mdl211_preq_profitability_profitability7,profitability measure type 7 based on value of Q pre-tax profit
+386,mdl211_preq_profitability_profitability8,profitability measure type 8 based on value of Q pre-tax profit
+387,mdl211_preq_profitability_profitability9,profitability measure type 9 based on value of Q pre-tax profit
+388,mdl211_preq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 pre-tax profit
+389,mdl211_preq_q1_madp,Mean of absolute deviation of predicted values for Q1 pre-tax profit
+390,mdl211_preq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 pre-tax profit
+391,mdl211_preq_q1_predict,Predicted value of Q1 pre-tax profit
+392,mdl211_preq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 pre-tax profit
+393,mdl211_preq_q2_madp,Mean of absolute deviation of predicted values for Q2 pre-tax profit
+394,mdl211_preq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 pre-tax profit
+395,mdl211_preq_q2_predict,Predicted value of Q2 pre-tax profit
+396,mdl211_preq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 pre-tax profit
+397,mdl211_preq_q3_madp,Mean of absolute deviation of predicted values for Q3 pre-tax profit
+398,mdl211_preq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 pre-tax profit
+399,mdl211_preq_q3_predict,Predicted value of Q3 pre-tax profit
+400,mdl211_preq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 pre-tax profit
+401,mdl211_preq_q4_madp,Mean of absolute deviation of predicted values for Q4 pre-tax profit
+402,mdl211_preq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 pre-tax profit
+403,mdl211_preq_q4_predict,Predicted value of Q4 pre-tax profit
+404,mdl211_prey_deltaprofitability_profitability1,profitability measure type 1 based on delta of annual pre-tax profit
+405,mdl211_prey_deltaprofitability_profitability10,profitability measure type 10 based on delta of annual pre-tax profit
+406,mdl211_prey_deltaprofitability_profitability11,profitability measure type 11 based on delta of annual pre-tax profit
+407,mdl211_prey_deltaprofitability_profitability12,profitability measure type 12 based on delta of annual pre-tax profit
+408,mdl211_prey_deltaprofitability_profitability2,profitability measure type 2 based on delta of annual pre-tax profit
+409,mdl211_prey_deltaprofitability_profitability3,profitability measure type 3 based on delta of annual pre-tax profit
+410,mdl211_prey_deltaprofitability_profitability4,profitability measure type 4 based on delta of annual pre-tax profit
+411,mdl211_prey_deltaprofitability_profitability5,profitability measure type 5 based on delta of annual pre-tax profit
+412,mdl211_prey_deltaprofitability_profitability6,profitability measure type 6 based on delta of annual pre-tax profit
+413,mdl211_prey_deltaprofitability_profitability7,profitability measure type 7 based on delta of annual pre-tax profit
+414,mdl211_prey_deltaprofitability_profitability8,profitability measure type 8 based on delta of annual pre-tax profit
+415,mdl211_prey_deltaprofitability_profitability9,profitability measure type 9 based on delta of annual pre-tax profit
+416,mdl211_prey_y1_mada,Mean of absolute deviation of scaled actual values for annual pre-tax profit
+417,mdl211_prey_y1_madp,Mean of absolute deviation of predicted values for annual pre-tax profit
+418,mdl211_prey_y1_mae,Mean of absolute error of the model of a particular stock for annual pre-tax profit
+419,mdl211_prey_y1_predict,Predicted value of annual pre-tax profit
+420,mdl211_salq_deltaprofitability_profitability1,profitability measure type 1 based on delta of Q sales
+421,mdl211_salq_deltaprofitability_profitability10,profitability measure type 10 based on delta of Q sales
+422,mdl211_salq_deltaprofitability_profitability11,profitability measure type 11 based on delta of Q sales
+423,mdl211_salq_deltaprofitability_profitability12,profitability measure type 12 based on delta of Q sales
+424,mdl211_salq_deltaprofitability_profitability2,profitability measure type 2 based on delta of Q sales
+425,mdl211_salq_deltaprofitability_profitability3,profitability measure type 3 based on delta of Q sales
+426,mdl211_salq_deltaprofitability_profitability4,profitability measure type 4 based on delta of Q sales
+427,mdl211_salq_deltaprofitability_profitability5,profitability measure type 5 based on delta of Q sales
+428,mdl211_salq_deltaprofitability_profitability6,profitability measure type 6 based on delta of Q sales
+429,mdl211_salq_deltaprofitability_profitability7,profitability measure type 7 based on delta of Q sales
+430,mdl211_salq_deltaprofitability_profitability8,profitability measure type 8 based on delta of Q sales
+431,mdl211_salq_deltaprofitability_profitability9,profitability measure type 9 based on delta of Q sales
+432,mdl211_salq_profitability_profitability1,profitability measure type 1 based on value of Q sales
+433,mdl211_salq_profitability_profitability10,profitability measure type 10 based on value of Q sales
+434,mdl211_salq_profitability_profitability11,profitability measure type 11 based on value of Q sales
+435,mdl211_salq_profitability_profitability12,profitability measure type 12 based on value of Q sales
+436,mdl211_salq_profitability_profitability2,profitability measure type 2 based on value of Q sales
+437,mdl211_salq_profitability_profitability3,profitability measure type 3 based on value of Q sales
+438,mdl211_salq_profitability_profitability4,profitability measure type 4 based on value of Q sales
+439,mdl211_salq_profitability_profitability5,profitability measure type 5 based on value of Q sales
+440,mdl211_salq_profitability_profitability6,profitability measure type 6 based on value of Q sales
+441,mdl211_salq_profitability_profitability7,profitability measure type 7 based on value of Q sales
+442,mdl211_salq_profitability_profitability8,profitability measure type 8 based on value of Q sales
+443,mdl211_salq_profitability_profitability9,profitability measure type 9 based on value of Q sales
+444,mdl211_salq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 sales
+445,mdl211_salq_q1_madp,Mean of absolute deviation of predicted values for Q1 sales
+446,mdl211_salq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 sales
+447,mdl211_salq_q1_predict,Predicted value of Q1 sales
+448,mdl211_salq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 sales
+449,mdl211_salq_q2_madp,Mean of absolute deviation of predicted values for Q2 sales
+450,mdl211_salq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 sales
+451,mdl211_salq_q2_predict,Predicted value of Q2 sales
+452,mdl211_salq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 sales
+453,mdl211_salq_q3_madp,Mean of absolute deviation of predicted values for Q3 sales
+454,mdl211_salq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 sales
+455,mdl211_salq_q3_predict,Predicted value of Q3 sales
+456,mdl211_salq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 sales
+457,mdl211_salq_q4_madp,Mean of absolute deviation of predicted values for Q4 sales
+458,mdl211_salq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 sales
+459,mdl211_salq_q4_predict,Predicted value of Q4 sales
+460,mdl211_saly_deltaprofitability_profitability1,profitability measure type 1 based on delta of annual sales
+461,mdl211_saly_deltaprofitability_profitability10,profitability measure type 10 based on delta of annual sales
+462,mdl211_saly_deltaprofitability_profitability11,profitability measure type 11 based on delta of annual sales
+463,mdl211_saly_deltaprofitability_profitability12,profitability measure type 12 based on delta of annual sales
+464,mdl211_saly_deltaprofitability_profitability2,profitability measure type 2 based on delta of annual sales
+465,mdl211_saly_deltaprofitability_profitability3,profitability measure type 3 based on delta of annual sales
+466,mdl211_saly_deltaprofitability_profitability4,profitability measure type 4 based on delta of annual sales
+467,mdl211_saly_deltaprofitability_profitability5,profitability measure type 5 based on delta of annual sales
+468,mdl211_saly_deltaprofitability_profitability6,profitability measure type 6 based on delta of annual sales
+469,mdl211_saly_deltaprofitability_profitability7,profitability measure type 7 based on delta of annual sales
+470,mdl211_saly_deltaprofitability_profitability8,profitability measure type 8 based on delta of annual sales
+471,mdl211_saly_deltaprofitability_profitability9,profitability measure type 9 based on delta of annual sales
+472,mdl211_saly_profitability_profitability1,profitability measure type 1 based on value of annual sales
+473,mdl211_saly_profitability_profitability10,profitability measure type 10 based on value of annual sales
+474,mdl211_saly_profitability_profitability11,profitability measure type 11 based on value of annual sales
+475,mdl211_saly_profitability_profitability12,profitability measure type 12 based on value of annual sales
+476,mdl211_saly_profitability_profitability2,profitability measure type 2 based on value of annual sales
+477,mdl211_saly_profitability_profitability3,profitability measure type 3 based on value of annual sales
+478,mdl211_saly_profitability_profitability4,profitability measure type 4 based on value of annual sales
+479,mdl211_saly_profitability_profitability5,profitability measure type 5 based on value of annual sales
+480,mdl211_saly_profitability_profitability6,profitability measure type 6 based on value of annual sales
+481,mdl211_saly_profitability_profitability7,profitability measure type 7 based on value of annual sales
+482,mdl211_saly_profitability_profitability8,profitability measure type 8 based on value of annual sales
+483,mdl211_saly_profitability_profitability9,profitability measure type 9 based on value of annual sales
+484,mdl211_saly_y1_mada,Mean of absolute deviation of scaled actual values for annual sales
+485,mdl211_saly_y1_madp,Mean of absolute deviation of predicted values for annual sales
+486,mdl211_saly_y1_mae,Mean of absolute error of the model of a particular stock for annual sales
+487,mdl211_saly_y1_predict,Predicted value of annual sales

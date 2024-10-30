@@ -1,0 +1,28 @@
+,id,description
+176,mdl109_matrix_abn_volm,Abnormal volume
+177,mdl109_matrix_ac_5y_sale,Historical 5Y revenue growth acceleration
+178,mdl109_matrix_accruals,Accruals (Sloan 1996)
+179,mdl109_matrix_altman1968,Altman's z-score [1968]
+180,mdl109_matrix_altman1983,Altman's z-score [1983]
+181,mdl109_matrix_amihud,Amihud illiquidity
+182,mdl109_matrix_asset_gr,"Asset growth anomaly (Cooper, Gulen, Schill [2008])"
+183,mdl109_matrix_asset_ps_gr,"Asset growth anomaly, per share total assets"
+184,mdl109_matrix_bb,Bollinger Bands
+185,mdl109_matrix_berry,Berry ratio (gross profits/operating expenses)
+186,mdl109_matrix_bookp,Book-to-market
+187,mdl109_matrix_bookp_fy1,"Book-to-market, FY1 (future year)"
+188,mdl109_matrix_cfo_curr_liab,Operating cash flow to current liabilities
+189,mdl109_matrix_cfoyld,Operating cash flow yield
+190,mdl109_matrix_cfoyld_fy1,"Operating cash flow yield, FY1 (future year)"
+191,mdl109_matrix_cfps_sur,CFPS surprise (vs consensus)
+192,mdl109_matrix_cfrnoa,Cash flow return on net operating assets (CFRNOA)
+193,mdl109_matrix_cfroa,Cash flow return on asset (CFROA)
+194,mdl109_matrix_icc,Commodity Channel Index
+195,mdl109_matrix_lda,Accumulation/Distribution Line
+196,mdl109_matrix_rg_ac,Growth in current assets
+197,mdl109_matrix_rg_sp_ac,Growth in per share current assets
+198,mdl109_matrix_rta,Average True Range
+199,mdl109_matrix_spd_y5_ca,Historical 5Y DPS growth acceleration
+200,mdl109_matrix_spe_y5_ca,Historical 5Y EPS growth acceleration
+201,mdl109_matrix_speo_y5_ca,Historical 5Y operating EPS growth acceleration
+202,mdl109_matrix_spfc_y5_ca,Historical 5Y CFPS growth acceleration

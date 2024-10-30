@@ -1,0 +1,289 @@
+    ,id                       ,description
+  0 ,anl15_gr_12_m_1m_chg     ,The weighted one month percent change of 12 month forward EPS estimation aggregated within GICS group grouping.
+  1 ,anl15_gr_12_m_3m_chg     ,The weighted three month percent change of 12 month forward EPS estimation aggregated within GICS group grouping.
+  2 ,anl15_gr_12_m_6m_chg     ,The weighted six month percent change of 12 month forward EPS estimation aggregated within GICS group grouping.
+  3 ,anl15_gr_12_m_cos        ,The number of companies with a 12 month forward mean EPS estimation within GICS group grouping.
+  4 ,anl15_gr_12_m_cos_dn     ,The number of companies for which 12 month forward mean EPS estimation has been lowered from last month within GICS group grouping.
+  5 ,anl15_gr_12_m_cos_up     ,The number of companies for which 12 month forward mean EPS estimation has been raised from last month within GICS group grouping.
+  6 ,anl15_gr_12_m_ests       ,The 12 month forward pro-rated total number of estimates within GICS group grouping.
+  7 ,anl15_gr_12_m_ests_dn    ,The 12 month forward pro-rated total number of estimates which have been lowered since last month within GICS group grouping.
+  8 ,anl15_gr_12_m_ests_up    ,The 12 month forward pro-rated total number of estimates which have been raised since last month within GICS group grouping.
+  9 ,anl15_gr_12_m_gro        ,The weighted 12 month forward year over year growth of EPS estimation aggregated within GICS group grouping.
+ 10 ,anl15_gr_12_m_mean       ,The weighted average of 12 month forward EPS estimation aggregated within GICS group grouping.
+ 11 ,anl15_gr_12_m_mktcap     ,The total market capitalization for the companies aggregated within GICS group grouping with a 12 month forward mean price estimation.
+ 12 ,anl15_gr_12_m_pe         ,The weighted average price/earnings ratio based on 12 month forward EPS estimation aggregated within GICS group grouping.
+ 13 ,anl15_gr_12_m_st_dev     ,The weighted average standard deviation of 12 month forward EPS estimation aggregated within GICS group grouping.
+ 14 ,anl15_gr_12_m_total      ,The total of 12 month forward earnings estimation aggregated within GICS group grouping.
+ 15 ,anl15_gr_12_m_tr_mean    ,The weighted average of 12 month trailing EPS aggregated within GICS group grouping.
+ 16 ,anl15_gr_18_m_1m_chg     ,The weighted one month percent change of 18 month forward EPS estimation aggregated within GICS group grouping.
+ 17 ,anl15_gr_18_m_3m_chg     ,The weighted three month percent change of 18 month forward EPS estimation aggregated within GICS group grouping.
+ 18 ,anl15_gr_18_m_6m_chg     ,The weighted six month percent change of 18 month forward EPS estimation aggregated within GICS group grouping.
+ 19 ,anl15_gr_18_m_cos        ,The number of companies with a 18 month forward mean EPS estimation within GICS group grouping.
+ 20 ,anl15_gr_18_m_cos_dn     ,The number of companies for which 18 month forward mean EPS estimation has been lowered from last month within GICS group grouping.
+ 21 ,anl15_gr_18_m_cos_up     ,The number of companies for which 18 month forward mean EPS estimation has been raised from last month within GICS group grouping.
+ 22 ,anl15_gr_18_m_ests       ,The 18 month forward pro-rated total number of estimates within GICS group grouping.
+ 23 ,anl15_gr_18_m_ests_dn    ,The 18 month forward pro-rated total number of estimates which have been lowered since last month within GICS group grouping.
+ 24 ,anl15_gr_18_m_ests_up    ,The 18 month forward pro-rated total number of estimates which have been raised since last month within GICS group grouping.
+ 25 ,anl15_gr_18_m_gro        ,The weighted 18 month forward year over year growth of EPS estimation aggregated within GICS group grouping.
+ 26 ,anl15_gr_18_m_mean       ,The weighted average of 18 month forward EPS estimation aggregated within GICS group grouping.
+ 27 ,anl15_gr_18_m_mktcap     ,The total market capitalization for the companies aggregated within GICS group grouping with a 18 month forward mean price estimation.
+ 28 ,anl15_gr_18_m_pe         ,The weighted average price/earnings ratio based on 18 month forward EPS estimation aggregated within GICS group grouping.
+ 29 ,anl15_gr_18_m_st_dev     ,The weighted average standard deviation of 18 month forward EPS estimation aggregated within GICS group grouping.
+ 30 ,anl15_gr_18_m_total      ,The total of 18 month forward earnings estimation aggregated within GICS group grouping.
+ 31 ,anl15_gr_cal_fy0_gro     ,The weighted year over year growth of EPS estimation for the current calendarized fiscal year aggregated within GICS group grouping.
+ 32 ,anl15_gr_cal_fy0_pe      ,The weighted average price/earnings ratio based on EPS estimation for the current calendarized fiscal year aggregated within GICS group grouping.
+ 33 ,anl15_gr_cal_fy0_total   ,The total of earnings estimation for the current calendarized fiscal year aggregated within GICS group grouping.
+ 34 ,anl15_gr_cal_fy0_val     ,The weighted average of EPS estimation for the current calendarized fiscal year aggregated within GICS group grouping.
+ 35 ,anl15_gr_cal_fy1_1m_chg  ,The weighted one month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 36 ,anl15_gr_cal_fy1_3m_chg  ,The weighted three month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 37 ,anl15_gr_cal_fy1_6m_chg  ,The weighted six month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 38 ,anl15_gr_cal_fy1_cos     ,The number of companies with a calendarized one fiscal year EPS estimation within GICS group grouping.
+ 39 ,anl15_gr_cal_fy1_ests    ,The total number of calendarized one fiscal year EPS estimation within GICS group grouping.
+ 40 ,anl15_gr_cal_fy1_gro     ,The weighted year over year growth of EPS estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 41 ,anl15_gr_cal_fy1_mean    ,The weighted average of EPS estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 42 ,anl15_gr_cal_fy1_mktcap  ,The total market capitalization for the companies aggregated within GICS group grouping with a calendarized one fiscal year mean price estimation.
+ 43 ,anl15_gr_cal_fy1_pe      ,The weighted average price/earnings ratio based on EPS estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 44 ,anl15_gr_cal_fy1_st_dev  ,The weighted average standard deviation of EPS estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 45 ,anl15_gr_cal_fy1_total   ,The total of earnings estimation for the calendarized one fiscal year aggregated within GICS group grouping.
+ 46 ,anl15_gr_cal_fy2_1m_chg  ,The weighted one month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 47 ,anl15_gr_cal_fy2_3m_chg  ,The weighted three month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 48 ,anl15_gr_cal_fy2_6m_chg  ,The weighted six month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 49 ,anl15_gr_cal_fy2_cos     ,The number of companies with a calendarized two fiscal year EPS estimation within GICS group grouping.
+ 50 ,anl15_gr_cal_fy2_ests    ,The total number of calendarized two fiscal year EPS estimation within GICS group grouping.
+ 51 ,anl15_gr_cal_fy2_gro     ,The weighted year over year growth of EPS estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 52 ,anl15_gr_cal_fy2_mean    ,The weighted average of EPS estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 53 ,anl15_gr_cal_fy2_mktcap  ,The total market capitalization for the companies aggregated within GICS group grouping with a calendarized two fiscal year mean price estimation.
+ 54 ,anl15_gr_cal_fy2_pe      ,The weighted average price/earnings ratio based on EPS estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 55 ,anl15_gr_cal_fy2_st_dev  ,The weighted average standard deviation of EPS estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 56 ,anl15_gr_cal_fy2_total   ,The total of earnings estimation for the calendarized two fiscal year aggregated within GICS group grouping.
+ 57 ,anl15_gr_cal_fy3_1m_chg  ,The weighted one month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 58 ,anl15_gr_cal_fy3_3m_chg  ,The weighted three month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 59 ,anl15_gr_cal_fy3_6m_chg  ,The weighted six month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 60 ,anl15_gr_cal_fy3_cos     ,The number of companies with a calendarized three fiscal year EPS estimation within GICS group grouping.
+ 61 ,anl15_gr_cal_fy3_ests    ,The total number of calendarized three fiscal year EPS estimation within GICS group grouping.
+ 62 ,anl15_gr_cal_fy3_gro     ,The weighted year over year growth of EPS estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 63 ,anl15_gr_cal_fy3_mean    ,The weighted average of EPS estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 64 ,anl15_gr_cal_fy3_mktcap  ,The total market capitalization for the companies aggregated within GICS group grouping with a calendarized three fiscal year mean price estimation.
+ 65 ,anl15_gr_cal_fy3_pe      ,The weighted average price/earnings ratio based on EPS estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 66 ,anl15_gr_cal_fy3_st_dev  ,The weighted average standard deviation of EPS estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 67 ,anl15_gr_cal_fy3_total   ,The total of earnings estimation for the calendarized three fiscal year aggregated within GICS group grouping.
+ 68 ,anl15_gr_div_cos         ,The number of companies for which indicated annual dividend data is available within GICS group grouping.
+ 69 ,anl15_gr_divyld          ,The weighted average dividend yield aggregated within GICS group grouping.
+ 70 ,anl15_gr_fy1_cos_dn      ,The number of companies for which EPS estimation for the calendarized one fiscal year has been lowered from last month within GICS group grouping.
+ 71 ,anl15_gr_fy1_cos_up      ,The number of companies for which EPS estimation for the calendarized one fiscal year has been raised from last month within GICS group grouping.
+ 72 ,anl15_gr_fy1_ests_dn     ,The total number of EPS estimation for the calendarized one fiscal year which have been lowered since last month within GICS group grouping.
+ 73 ,anl15_gr_fy1_ests_up     ,The total number of EPS estimation for the calendarized one fiscal year which have been raised since last month within GICS group grouping.
+ 74 ,anl15_gr_fy2_cos_dn      ,The number of companies for which EPS estimation for the calendarized two fiscal year has been lowered from last month within GICS group grouping.
+ 75 ,anl15_gr_fy2_cos_up      ,The number of companies for which EPS estimation for the calendarized two fiscal year has been raised from last month within GICS group grouping.
+ 76 ,anl15_gr_fy2_ests_dn     ,The total number of EPS estimation for the calendarized two fiscal year which have been lowered since last month within GICS group grouping.
+ 77 ,anl15_gr_fy2_ests_up     ,The total number of EPS estimation for the calendarized two fiscal year which have been raised since last month within GICS group grouping.
+ 78 ,anl15_gr_fy3_cos_dn      ,The number of companies for which EPS estimation for the calendarized three fiscal year has been lowered from last month within GICS group grouping.
+ 79 ,anl15_gr_fy3_cos_up      ,The number of companies for which EPS estimation for the calendarized three fiscal year has been raised from last month within GICS group grouping.
+ 80 ,anl15_gr_fy3_ests_dn     ,The total number of EPS estimation for the calendarized three fiscal year which have been lowered since last month within GICS group grouping.
+ 81 ,anl15_gr_fy3_ests_up     ,The total number of EPS estimation for the calendarized three fiscal year which have been raised since last month within GICS group grouping.
+ 82 ,anl15_gr_hist_eps_gro    ,The weighted annual EPS growth rate over the past five years aggregated within GICS group grouping.
+ 83 ,anl15_gr_ltg_1m_chg      ,The weighted one month percent change of long term growth EPS estimation aggregated within GICS group grouping.
+ 84 ,anl15_gr_ltg_3m_chg      ,The weighted three month percent change of long term growth EPS estimation aggregated within GICS group grouping.
+ 85 ,anl15_gr_ltg_6m_chg      ,The weighted six month percent change of long term growth EPS estimation aggregated within GICS group grouping.
+ 86 ,anl15_gr_ltg_cos         ,The number of companies with a long term growth EPS estimation within GICS group grouping.
+ 87 ,anl15_gr_ltg_cos_dn      ,The number of companies for which long term growth EPS estimation has been lowered from last month within GICS group grouping.
+ 88 ,anl15_gr_ltg_cos_up      ,The number of companies for which long term growth EPS estimation has been raised from last month within GICS group grouping.
+ 89 ,anl15_gr_ltg_ests        ,The total number of long term growth EPS estimation within GICS group grouping.
+ 90 ,anl15_gr_ltg_ests_dn     ,The total number of long term growth EPS estimation which have been lowered since last month within GICS group grouping.
+ 91 ,anl15_gr_ltg_ests_up     ,The total number of long term growth EPS estimation which have been raised since last month within GICS group grouping.
+ 92 ,anl15_gr_ltg_mdn         ,The weighted average of long term growth EPS estimation aggregated within GICS group grouping.
+ 93 ,anl15_gr_ltg_mktcap      ,The total market capitalization for the companies aggregated within GICS group grouping with a long term growth price estimation.
+ 94 ,anl15_gr_ltg_st_dev      ,The weighted average standard deviation of long term growth EPS estimation aggregated within GICS group grouping.
+ 95 ,anl15_gr_prc             ,The weighted average price aggregated within GICS group grouping.
+ 96 ,anl15_ind_12_m_1m_chg    ,The weighted one month percent change of 12 month forward EPS estimation aggregated within GICS industry grouping.
+ 97 ,anl15_ind_12_m_3m_chg    ,The weighted three month percent change of 12 month forward EPS estimation aggregated within GICS industry grouping.
+ 98 ,anl15_ind_12_m_6m_chg    ,The weighted six month percent change of 12 month forward EPS estimation aggregated within GICS industry grouping.
+ 99 ,anl15_ind_12_m_cos       ,The number of companies with a 12 month forward mean EPS estimation within GICS industry grouping.
+100 ,anl15_ind_12_m_cos_dn    ,The number of companies for which 12 month forward mean EPS estimation has been lowered from last month within GICS industry grouping.
+101 ,anl15_ind_12_m_cos_up    ,The number of companies for which 12 month forward mean EPS estimation has been raised from last month within GICS industry grouping.
+102 ,anl15_ind_12_m_ests      ,The 12 month forward pro-rated total number of estimates within GICS industry grouping.
+103 ,anl15_ind_12_m_ests_dn   ,The 12 month forward pro-rated total number of estimates which have been lowered since last month within GICS industry grouping.
+104 ,anl15_ind_12_m_ests_up   ,The 12 month forward pro-rated total number of estimates which have been raised since last month within GICS industry grouping.
+105 ,anl15_ind_12_m_gro       ,The weighted 12 month forward year over year growth of EPS estimation aggregated within GICS industry grouping.
+106 ,anl15_ind_12_m_mean      ,The weighted average of 12 month forward EPS estimation aggregated within GICS industry grouping.
+107 ,anl15_ind_12_m_mktcap    ,The total market capitalization for the companies aggregated within GICS industry grouping with a 12 month forward mean price estimation.
+108 ,anl15_ind_12_m_pe        ,The weighted average price/earnings ratio based on 12 month forward EPS estimation aggregated within GICS industry grouping.
+109 ,anl15_ind_12_m_st_dev    ,The weighted average standard deviation of 12 month forward EPS estimation aggregated within GICS industry grouping.
+110 ,anl15_ind_12_m_total     ,The total of 12 month forward earnings estimation aggregated within GICS industry grouping.
+111 ,anl15_ind_12_m_tr_mean   ,The weighted average of 12 month trailing EPS aggregated within GICS industry grouping.
+112 ,anl15_ind_18_m_1m_chg    ,The weighted one month percent change of 18 month forward EPS estimation aggregated within GICS industry grouping.
+113 ,anl15_ind_18_m_3m_chg    ,The weighted three month percent change of 18 month forward EPS estimation aggregated within GICS industry grouping.
+114 ,anl15_ind_18_m_6m_chg    ,The weighted six month percent change of 18 month forward EPS estimation aggregated within GICS industry grouping.
+115 ,anl15_ind_18_m_cos       ,The number of companies with a 18 month forward mean EPS estimation within GICS industry grouping.
+116 ,anl15_ind_18_m_cos_dn    ,The number of companies for which 18 month forward mean EPS estimation has been lowered from last month within GICS industry grouping.
+117 ,anl15_ind_18_m_cos_up    ,The number of companies for which 18 month forward mean EPS estimation has been raised from last month within GICS industry grouping.
+118 ,anl15_ind_18_m_ests      ,The 18 month forward pro-rated total number of estimates within GICS industry grouping.
+119 ,anl15_ind_18_m_ests_dn   ,The 18 month forward pro-rated total number of estimates which have been lowered since last month within GICS industry grouping.
+120 ,anl15_ind_18_m_ests_up   ,The 18 month forward pro-rated total number of estimates which have been raised since last month within GICS industry grouping.
+121 ,anl15_ind_18_m_gro       ,The weighted 18 month forward year over year growth of EPS estimation aggregated within GICS industry grouping.
+122 ,anl15_ind_18_m_mean      ,The weighted average of 18 month forward EPS estimation aggregated within GICS industry grouping.
+123 ,anl15_ind_18_m_mktcap    ,The total market capitalization for the companies aggregated within GICS industry grouping with a 18 month forward mean price estimation.
+124 ,anl15_ind_18_m_pe        ,The weighted average price/earnings ratio based on 18 month forward EPS estimation aggregated within GICS industry grouping.
+125 ,anl15_ind_18_m_st_dev    ,The weighted average standard deviation of 18 month forward EPS estimation aggregated within GICS industry grouping.
+126 ,anl15_ind_18_m_total     ,The total of 18 month forward earnings estimation aggregated within GICS industry grouping.
+127 ,anl15_ind_cal_fy0_gro    ,The weighted year over year growth of EPS estimation for the current calendarized fiscal year aggregated within GICS industry grouping.
+128 ,anl15_ind_cal_fy0_pe     ,The weighted average price/earnings ratio based on EPS estimation for the current calendarized fiscal year aggregated within GICS industry grouping.
+129 ,anl15_ind_cal_fy0_total  ,The total of earnings estimation for the current calendarized fiscal year aggregated within GICS industry grouping.
+130 ,anl15_ind_cal_fy0_val    ,The weighted average of EPS estimation for the current calendarized fiscal year aggregated within GICS industry grouping.
+131 ,anl15_ind_cal_fy1_1m_chg ,The weighted one month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+132 ,anl15_ind_cal_fy1_3m_chg ,The weighted three month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+133 ,anl15_ind_cal_fy1_6m_chg ,The weighted six month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+134 ,anl15_ind_cal_fy1_cos    ,The number of companies with a calendarized one fiscal year EPS estimation within GICS industry grouping.
+135 ,anl15_ind_cal_fy1_ests   ,The total number of calendarized one fiscal year EPS estimation within GICS industry grouping.
+136 ,anl15_ind_cal_fy1_gro    ,The weighted year over year growth of EPS estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+137 ,anl15_ind_cal_fy1_mean   ,The weighted average of EPS estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+138 ,anl15_ind_cal_fy1_mktcap ,The total market capitalization for the companies aggregated within GICS industry grouping with a calendarized one fiscal year mean price estimation.
+139 ,anl15_ind_cal_fy1_pe     ,The weighted average price/earnings ratio based on EPS estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+140 ,anl15_ind_cal_fy1_st_dev ,The weighted average standard deviation of EPS estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+141 ,anl15_ind_cal_fy1_total  ,The total of earnings estimation for the calendarized one fiscal year aggregated within GICS industry grouping.
+142 ,anl15_ind_cal_fy2_1m_chg ,The weighted one month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+143 ,anl15_ind_cal_fy2_3m_chg ,The weighted three month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+144 ,anl15_ind_cal_fy2_6m_chg ,The weighted six month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+145 ,anl15_ind_cal_fy2_cos    ,The number of companies with a calendarized two fiscal year EPS estimation within GICS industry grouping.
+146 ,anl15_ind_cal_fy2_ests   ,The total number of calendarized two fiscal year EPS estimation within GICS industry grouping.
+147 ,anl15_ind_cal_fy2_gro    ,The weighted year over year growth of EPS estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+148 ,anl15_ind_cal_fy2_mean   ,The weighted average of EPS estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+149 ,anl15_ind_cal_fy2_mktcap ,The total market capitalization for the companies aggregated within GICS industry grouping with a calendarized two fiscal year mean price estimation.
+150 ,anl15_ind_cal_fy2_pe     ,The weighted average price/earnings ratio based on EPS estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+151 ,anl15_ind_cal_fy2_st_dev ,The weighted average standard deviation of EPS estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+152 ,anl15_ind_cal_fy2_total  ,The total of earnings estimation for the calendarized two fiscal year aggregated within GICS industry grouping.
+153 ,anl15_ind_cal_fy3_1m_chg ,The weighted one month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+154 ,anl15_ind_cal_fy3_3m_chg ,The weighted three month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+155 ,anl15_ind_cal_fy3_6m_chg ,The weighted six month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+156 ,anl15_ind_cal_fy3_cos    ,The number of companies with a calendarized three fiscal year EPS estimation within GICS industry grouping.
+157 ,anl15_ind_cal_fy3_ests   ,The total number of calendarized three fiscal year EPS estimation within GICS industry grouping.
+158 ,anl15_ind_cal_fy3_gro    ,The weighted year over year growth of EPS estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+159 ,anl15_ind_cal_fy3_mean   ,The weighted average of EPS estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+160 ,anl15_ind_cal_fy3_mktcap ,The total market capitalization for the companies aggregated within GICS industry grouping with a calendarized three fiscal year mean price estimation.
+161 ,anl15_ind_cal_fy3_pe     ,The weighted average price/earnings ratio based on EPS estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+162 ,anl15_ind_cal_fy3_st_dev ,The weighted average standard deviation of EPS estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+163 ,anl15_ind_cal_fy3_total  ,The total of earnings estimation for the calendarized three fiscal year aggregated within GICS industry grouping.
+164 ,anl15_ind_div_cos        ,The number of companies for which indicated annual dividend data is available within GICS industry grouping.
+165 ,anl15_ind_divyld         ,The weighted average dividend yield aggregated within GICS industry grouping.
+166 ,anl15_ind_fy1_cos_dn     ,The number of companies for which EPS estimation for the calendarized one fiscal year has been lowered from last month within GICS industry grouping.
+167 ,anl15_ind_fy1_cos_up     ,The number of companies for which EPS estimation for the calendarized one fiscal year has been raised from last month within GICS industry grouping.
+168 ,anl15_ind_fy1_ests_dn    ,The total number of EPS estimation for the calendarized one fiscal year which have been lowered since last month within GICS industry grouping.
+169 ,anl15_ind_fy1_ests_up    ,The total number of EPS estimation for the calendarized one fiscal year which have been raised since last month within GICS industry grouping.
+170 ,anl15_ind_fy2_cos_dn     ,The number of companies for which EPS estimation for the calendarized two fiscal year has been lowered from last month within GICS industry grouping.
+171 ,anl15_ind_fy2_cos_up     ,The number of companies for which EPS estimation for the calendarized two fiscal year has been raised from last month within GICS industry grouping.
+172 ,anl15_ind_fy2_ests_dn    ,The total number of EPS estimation for the calendarized two fiscal year which have been lowered since last month within GICS industry grouping.
+173 ,anl15_ind_fy2_ests_up    ,The total number of EPS estimation for the calendarized two fiscal year which have been raised since last month within GICS industry grouping.
+174 ,anl15_ind_fy3_cos_dn     ,The number of companies for which EPS estimation for the calendarized three fiscal year has been lowered from last month within GICS industry grouping.
+175 ,anl15_ind_fy3_cos_up     ,The number of companies for which EPS estimation for the calendarized three fiscal year has been raised from last month within GICS industry grouping.
+176 ,anl15_ind_fy3_ests_dn    ,The total number of EPS estimation for the calendarized three fiscal year which have been lowered since last month within GICS industry grouping.
+177 ,anl15_ind_fy3_ests_up    ,The total number of EPS estimation for the calendarized three fiscal year which have been raised since last month within GICS industry grouping.
+178 ,anl15_ind_hist_eps_gro   ,The weighted annual EPS growth rate over the past five years aggregated within GICS industry grouping.
+179 ,anl15_ind_ltg_1m_chg     ,The weighted one month percent change of long term growth EPS estimation aggregated within GICS industry grouping.
+180 ,anl15_ind_ltg_3m_chg     ,The weighted three month percent change of long term growth EPS estimation aggregated within GICS industry grouping.
+181 ,anl15_ind_ltg_6m_chg     ,The weighted six month percent change of long term growth EPS estimation aggregated within GICS industry grouping.
+182 ,anl15_ind_ltg_cos        ,The number of companies with a long term growth EPS estimation within GICS industry grouping.
+183 ,anl15_ind_ltg_cos_dn     ,The number of companies for which long term growth EPS estimation has been lowered from last month within GICS industry grouping.
+184 ,anl15_ind_ltg_cos_up     ,The number of companies for which long term growth EPS estimation has been raised from last month within GICS industry grouping.
+185 ,anl15_ind_ltg_ests       ,The total number of long term growth EPS estimation within GICS industry grouping.
+186 ,anl15_ind_ltg_ests_dn    ,The total number of long term growth EPS estimation which have been lowered since last month within GICS industry grouping.
+187 ,anl15_ind_ltg_ests_up    ,The total number of long term growth EPS estimation which have been raised since last month within GICS industry grouping.
+188 ,anl15_ind_ltg_mdn        ,The weighted average of long term growth EPS estimation aggregated within GICS industry grouping.
+189 ,anl15_ind_ltg_mktcap     ,The total market capitalization for the companies aggregated within GICS industry grouping with a long term growth price estimation.
+190 ,anl15_ind_ltg_st_dev     ,The weighted average standard deviation of long term growth EPS estimation aggregated within GICS industry grouping.
+191 ,anl15_ind_prc            ,The weighted average price aggregated within GICS industry grouping.
+192 ,anl15_s_12_m_1m_chg      ,The weighted one month percent change of 12 month forward EPS estimation aggregated within GICS sector grouping.
+193 ,anl15_s_12_m_3m_chg      ,The weighted three month percent change of 12 month forward EPS estimation aggregated within GICS sector grouping.
+194 ,anl15_s_12_m_6m_chg      ,The weighted six month percent change of 12 month forward EPS estimation aggregated within GICS sector grouping.
+195 ,anl15_s_12_m_cos         ,The number of companies with a 12 month forward mean EPS estimation within GICS sector grouping.
+196 ,anl15_s_12_m_cos_dn      ,The number of companies for which 12 month forward mean EPS estimation has been lowered from last month within GICS sector grouping.
+197 ,anl15_s_12_m_cos_up      ,The number of companies for which 12 month forward mean EPS estimation has been raised from last month within GICS sector grouping.
+198 ,anl15_s_12_m_ests        ,The 12 month forward pro-rated total number of estimates within GICS sector grouping.
+199 ,anl15_s_12_m_ests_dn     ,The 12 month forward pro-rated total number of estimates which have been lowered since last month within GICS sector grouping.
+200 ,anl15_s_12_m_ests_up     ,The 12 month forward pro-rated total number of estimates which have been raised since last month within GICS sector grouping.
+201 ,anl15_s_12_m_gro         ,The weighted 12 month forward year over year growth of EPS estimation aggregated within GICS sector grouping.
+202 ,anl15_s_12_m_mean        ,The weighted average of 12 month forward EPS estimation aggregated within GICS sector grouping.
+203 ,anl15_s_12_m_mktcap      ,The total market capitalization for the companies aggregated within GICS sector grouping with a 12 month forward mean price estimation.
+204 ,anl15_s_12_m_pe          ,The weighted average price/earnings ratio based on 12 month forward EPS estimation aggregated within GICS sector grouping.
+205 ,anl15_s_12_m_st_dev      ,The weighted average standard deviation of 12 month forward EPS estimation aggregated within GICS sector grouping.
+206 ,anl15_s_12_m_total       ,The total of 12 month forward earnings estimation aggregated within GICS sector grouping.
+207 ,anl15_s_12_m_tr_mean     ,The weighted average of 12 month trailing EPS aggregated within GICS sector grouping.
+208 ,anl15_s_18_m_1m_chg      ,The weighted one month percent change of 18 month forward EPS estimation aggregated within GICS sector grouping.
+209 ,anl15_s_18_m_3m_chg      ,The weighted three month percent change of 18 month forward EPS estimation aggregated within GICS sector grouping.
+210 ,anl15_s_18_m_6m_chg      ,The weighted six month percent change of 18 month forward EPS estimation aggregated within GICS sector grouping.
+211 ,anl15_s_18_m_cos         ,The number of companies with a 18 month forward mean EPS estimation within GICS sector grouping.
+212 ,anl15_s_18_m_cos_dn      ,The number of companies for which 18 month forward mean EPS estimation has been lowered from last month within GICS sector grouping.
+213 ,anl15_s_18_m_cos_up      ,The number of companies for which 18 month forward mean EPS estimation has been raised from last month within GICS sector grouping.
+214 ,anl15_s_18_m_ests        ,The 18 month forward pro-rated total number of estimates within GICS sector grouping.
+215 ,anl15_s_18_m_ests_dn     ,The 18 month forward pro-rated total number of estimates which have been lowered since last month within GICS sector grouping.
+216 ,anl15_s_18_m_ests_up     ,The 18 month forward pro-rated total number of estimates which have been raised since last month within GICS sector grouping.
+217 ,anl15_s_18_m_gro         ,The weighted 18 month forward year over year growth of EPS estimation aggregated within GICS sector grouping.
+218 ,anl15_s_18_m_mean        ,The weighted average of 18 month forward EPS estimation aggregated within GICS sector grouping.
+219 ,anl15_s_18_m_mktcap      ,The total market capitalization for the companies aggregated within GICS sector grouping with a 18 month forward mean price estimation.
+220 ,anl15_s_18_m_pe          ,The weighted average price/earnings ratio based on 18 month forward EPS estimation aggregated within GICS sector grouping.
+221 ,anl15_s_18_m_st_dev      ,The weighted average standard deviation of 18 month forward EPS estimation aggregated within GICS sector grouping.
+222 ,anl15_s_18_m_total       ,The total of 18 month forward earnings estimation aggregated within GICS sector grouping.
+223 ,anl15_s_cal_fy0_gro      ,The weighted year over year growth of EPS estimation for the current calendarized fiscal year aggregated within GICS sector grouping.
+224 ,anl15_s_cal_fy0_pe       ,The weighted average price/earnings ratio based on EPS estimation for the current calendarized fiscal year aggregated within GICS sector grouping.
+225 ,anl15_s_cal_fy0_total    ,The total of earnings estimation for the current calendarized fiscal year aggregated within GICS sector grouping.
+226 ,anl15_s_cal_fy0_val      ,The weighted average of EPS estimation for the current calendarized fiscal year aggregated within GICS sector grouping.
+227 ,anl15_s_cal_fy1_1m_chg   ,The weighted one month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+228 ,anl15_s_cal_fy1_3m_chg   ,The weighted three month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+229 ,anl15_s_cal_fy1_6m_chg   ,The weighted six month percent change of EPS estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+230 ,anl15_s_cal_fy1_cos      ,The number of companies with a calendarized one fiscal year EPS estimation within GICS sector grouping.
+231 ,anl15_s_cal_fy1_ests     ,The total number of calendarized one fiscal year EPS estimation within GICS sector grouping.
+232 ,anl15_s_cal_fy1_gro      ,The weighted year over year growth of EPS estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+233 ,anl15_s_cal_fy1_mean     ,The weighted average of EPS estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+234 ,anl15_s_cal_fy1_mktcap   ,The total market capitalization for the companies aggregated within GICS sector grouping with a calendarized one fiscal year mean price estimation.
+235 ,anl15_s_cal_fy1_pe       ,The weighted average price/earnings ratio based on EPS estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+236 ,anl15_s_cal_fy1_st_dev   ,The weighted average standard deviation of EPS estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+237 ,anl15_s_cal_fy1_total    ,The total of earnings estimation for the calendarized one fiscal year aggregated within GICS sector grouping.
+238 ,anl15_s_cal_fy2_1m_chg   ,The weighted one month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+239 ,anl15_s_cal_fy2_3m_chg   ,The weighted three month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+240 ,anl15_s_cal_fy2_6m_chg   ,The weighted six month percent change of EPS estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+241 ,anl15_s_cal_fy2_cos      ,The number of companies with a calendarized two fiscal year EPS estimation within GICS sector grouping.
+242 ,anl15_s_cal_fy2_ests     ,The total number of calendarized two fiscal year EPS estimation within GICS sector grouping.
+243 ,anl15_s_cal_fy2_gro      ,The weighted year over year growth of EPS estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+244 ,anl15_s_cal_fy2_mean     ,The weighted average of EPS estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+245 ,anl15_s_cal_fy2_mktcap   ,The total market capitalization for the companies aggregated within GICS sector grouping with a calendarized two fiscal year mean price estimation.
+246 ,anl15_s_cal_fy2_pe       ,The weighted average price/earnings ratio based on EPS estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+247 ,anl15_s_cal_fy2_st_dev   ,The weighted average standard deviation of EPS estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+248 ,anl15_s_cal_fy2_total    ,The total of earnings estimation for the calendarized two fiscal year aggregated within GICS sector grouping.
+249 ,anl15_s_cal_fy3_1m_chg   ,The weighted one month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+250 ,anl15_s_cal_fy3_3m_chg   ,The weighted three month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+251 ,anl15_s_cal_fy3_6m_chg   ,The weighted six month percent change of EPS estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+252 ,anl15_s_cal_fy3_cos      ,The number of companies with a calendarized three fiscal year EPS estimation within GICS sector grouping.
+253 ,anl15_s_cal_fy3_ests     ,The total number of calendarized three fiscal year EPS estimation within GICS sector grouping.
+254 ,anl15_s_cal_fy3_gro      ,The weighted year over year growth of EPS estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+255 ,anl15_s_cal_fy3_mean     ,The weighted average of EPS estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+256 ,anl15_s_cal_fy3_mktcap   ,The total market capitalization for the companies aggregated within GICS sector grouping with a calendarized three fiscal year mean price estimation.
+257 ,anl15_s_cal_fy3_pe       ,The weighted average price/earnings ratio based on EPS estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+258 ,anl15_s_cal_fy3_st_dev   ,The weighted average standard deviation of EPS estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+259 ,anl15_s_cal_fy3_total    ,The total of earnings estimation for the calendarized three fiscal year aggregated within GICS sector grouping.
+260 ,anl15_s_div_cos          ,The number of companies for which indicated annual dividend data is available within GICS sector grouping.
+261 ,anl15_s_divyld           ,The weighted average dividend yield aggregated within GICS sector grouping.
+262 ,anl15_s_fy1_cos_dn       ,The number of companies for which EPS estimation for the calendarized one fiscal year has been lowered from last month within GICS sector grouping.
+263 ,anl15_s_fy1_cos_up       ,The number of companies for which EPS estimation for the calendarized one fiscal year has been raised from last month within GICS sector grouping.
+264 ,anl15_s_fy1_ests_dn      ,The total number of EPS estimation for the calendarized one fiscal year which have been lowered since last month within GICS sector grouping.
+265 ,anl15_s_fy1_ests_up      ,The total number of EPS estimation for the calendarized one fiscal year which have been raised since last month within GICS sector grouping.
+266 ,anl15_s_fy2_cos_dn       ,The number of companies for which EPS estimation for the calendarized two fiscal year has been lowered from last month within GICS sector grouping.
+267 ,anl15_s_fy2_cos_up       ,The number of companies for which EPS estimation for the calendarized two fiscal year has been raised from last month within GICS sector grouping.
+268 ,anl15_s_fy2_ests_dn      ,The total number of EPS estimation for the calendarized two fiscal year which have been lowered since last month within GICS sector grouping.
+269 ,anl15_s_fy2_ests_up      ,The total number of EPS estimation for the calendarized two fiscal year which have been raised since last month within GICS sector grouping.
+270 ,anl15_s_fy3_cos_dn       ,The number of companies for which EPS estimation for the calendarized three fiscal year has been lowered from last month within GICS sector grouping.
+271 ,anl15_s_fy3_cos_up       ,The number of companies for which EPS estimation for the calendarized three fiscal year has been raised from last month within GICS sector grouping.
+272 ,anl15_s_fy3_ests_dn      ,The total number of EPS estimation for the calendarized three fiscal year which have been lowered since last month within GICS sector grouping.
+273 ,anl15_s_fy3_ests_up      ,The total number of EPS estimation for the calendarized three fiscal year which have been raised since last month within GICS sector grouping.
+274 ,anl15_s_hist_eps_gro     ,The weighted annual EPS growth rate over the past five years aggregated within GICS sector grouping.
+275 ,anl15_s_ltg_1m_chg       ,The weighted one month percent change of long term growth EPS estimation aggregated within GICS sector grouping.
+276 ,anl15_s_ltg_3m_chg       ,The weighted three month percent change of long term growth EPS estimation aggregated within GICS sector grouping.
+277 ,anl15_s_ltg_6m_chg       ,The weighted six month percent change of long term growth EPS estimation aggregated within GICS sector grouping.
+278 ,anl15_s_ltg_cos          ,The number of companies with a long term growth EPS estimation within GICS sector grouping.
+279 ,anl15_s_ltg_cos_dn       ,The number of companies for which long term growth EPS estimation has been lowered from last month within GICS sector grouping.
+280 ,anl15_s_ltg_cos_up       ,The number of companies for which long term growth EPS estimation has been raised from last month within GICS sector grouping.
+281 ,anl15_s_ltg_ests         ,The total number of long term growth EPS estimation within GICS sector grouping.
+282 ,anl15_s_ltg_ests_dn      ,The total number of long term growth EPS estimation which have been lowered since last month within GICS sector grouping.
+283 ,anl15_s_ltg_ests_up      ,The total number of long term growth EPS estimation which have been raised since last month within GICS sector grouping.
+284 ,anl15_s_ltg_mdn          ,The weighted average of long term growth EPS estimation aggregated within GICS sector grouping.
+285 ,anl15_s_ltg_mktcap       ,The total market capitalization for the companies aggregated within GICS sector grouping with a long term growth price estimation.
+286 ,anl15_s_ltg_st_dev       ,The weighted average standard deviation of long term growth EPS estimation aggregated within GICS sector grouping.
+287 ,anl15_s_prc              ,The weighted average price aggregated within GICS sector grouping.

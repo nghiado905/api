@@ -1,0 +1,11 @@
+,id,description
+0,mdl39_1_price_mo_global_rank,Global-relative 1-100 ranking of the Price Mo model
+1,mdl39_1_price_mo_industry_component,Global 1-100 ranking of the Industry Price Momentum Component of the Price Mo model
+2,mdl39_1_price_mo_long_term_component,Global 1-100 ranking of the Long Term Price Momentum Component of the Price Mo model
+3,mdl39_1_price_mo_mid_term_component,Global 1-100 ranking of the Mid Term Price Momentum Component of the Price Mo model
+4,mdl39_1_price_mo_region_rank,Region-relative 1-100 ranking of the Price Mo model
+5,mdl39_1_price_mo_short_term_component,Global 1-100 ranking of the Short Term Price Momentum Component of the Price Mo model
+6,mdl39_1_val_mo_global_rank,Global-relative 1-100 ranking of the Val-Mo model
+7,mdl39_1_val_mo_industry_rank,Industry-relative 1-100 ranking of the Val-Mo model
+8,mdl39_1_val_mo_region_rank,Region-relative 1-100 ranking of the Val-Mo model
+9,mdl39_1_val_mo_sector_rank,Sector-relative 1-100 ranking of the Val-Mo model

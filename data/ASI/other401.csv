@@ -1,0 +1,61 @@
+,id,description
+0,oth401_game_accruals_vol,Accrual Volatility
+1,oth401_game_asset_turnover_chg,Change in Asset Turnover
+2,oth401_game_capex_dep,Capex to Depreciation
+3,oth401_game_capex_sale,Capex to Sales
+4,oth401_game_cash_flow_coverage,Cash Flow Coverage Ratio
+5,oth401_game_contingent_liab,Contingent Liabilities to Equity
+6,oth401_game_deferred_tax_asset_chg,Change in Deferred Tax Assets
+7,oth401_game_deferred_tax_liab_chg,Change in Deferred Tax Liabilities
+8,oth401_game_depreciation_chg,Change in Depreciation Rate
+9,oth401_game_earning_smooth,Earnings Smoothness
+10,oth401_game_eff_interest_rate,Effective Interest Rate
+11,oth401_game_eps_sur_vol,Analyst forecast error
+12,oth401_game_eps_vol,Earnings Volatility
+13,oth401_game_equity_dilution,Equity Dilution
+14,oth401_game_finished_goods,Finished Goods to Inventory
+15,oth401_game_gma_chg,Change in Gross Margin
+16,oth401_game_gross_margin_vol,Gross Margin Volatility
+17,oth401_game_inc_cash_tax,Income Statement Tax to Cash Tax
+18,oth401_game_interest_investment_inc,Interest and Investment Income
+19,oth401_game_inventory_chg,Change in Inventory
+20,oth401_game_inventory_days,Inventory Days
+21,oth401_game_labor_efficiency_chg,Change in Labor Efficiency
+22,oth401_game_minority_interest,Minority Interest to Equity
+23,oth401_game_noa,Net Operating Assets
+24,oth401_game_non_oper_inc,Non Operating Income to EBITDA
+25,oth401_game_non_production_asset,Non-production Assets
+26,oth401_game_optimism_gma,Analyst Optimism Gross Margin
+27,oth401_game_optimism_sale,Analyst Optimism Sales
+28,oth401_game_other_asset_gr,Other Asset Growth
+29,oth401_game_payble_days,Payable Days
+30,oth401_game_pension_debt_equi_pbo,Debt Equiv Net PBO
+31,oth401_game_pension_discount_rate,Pension Discount Rate
+32,oth401_game_pension_ev,Pension and Oth Benefit to TEV
+33,oth401_game_pension_expense,Pension Expense to EBITDA
+34,oth401_game_pension_interest,Pension Interest Cost
+35,oth401_game_pension_pbo,Projected Benefit Obligation to TEV
+36,oth401_game_receivable_chg,Change in Receivables
+37,oth401_game_receivable_days,Receivable Days
+38,oth401_game_relative_rtn_vol,Relative Volatility
+39,oth401_game_serial_special,Serial Special Items to Sales
+40,oth401_game_sg_a_cost_ratio,SG&A Cost Ratio
+41,oth401_game_sg_a_inefficiency,SG&A Inefficiency
+42,oth401_game_sg_a_vol,SG&A Volatility
+43,oth401_game_short_term_debt,Short term debt Ratio
+44,oth401_game_tax_rate,Tax Rate
+45,oth401_game_total_debt_chg,Change in Debt
+46,oth401_qes_gamef_cashflow_var,Cash Flow Variability
+47,oth401_qes_gamef_chs_default,CHS_DEFAULT
+48,oth401_qes_gamef_cscore,Montier's C Score
+49,oth401_qes_gamef_earn_var,Earnings Variability
+50,oth401_qes_gamef_earnigs_timeliness,EARNIGS_TIMELINESS
+51,oth401_qes_gamef_grossprofit_asset,Gross Profit over Asset
+52,oth401_qes_gamef_icfroe_1y,Incremental Cash Flow Return over Equity over 1 year
+53,oth401_qes_gamef_icfroe_3y,Incremental Cash Flow Return over Equity over 3 year
+54,oth401_qes_gamef_icfroe_5y,Incremental Cash Flow Return over Equity over 5 years
+55,oth401_qes_gamef_mohanram,MOHANRAM
+56,oth401_qes_gamef_negative_earnings,NEGATIVE_EARNINGS
+57,oth401_qes_gamef_ohlson,OHLSON
+58,oth401_qes_gamef_pscore,PIOTROSKI
+59,oth401_qes_gamef_score,SCORE

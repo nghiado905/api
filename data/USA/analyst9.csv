@@ -1,0 +1,6 @@
+,id,description
+0,anl9_companyidmap,companyIdIx idx
+1,anl9_estAnalystMap,[di][estimateAnalystId] = estimateAnalystIx idx
+6,anl9_recommendationbrokeroptioncode,[di][recommedationScaleId] = recommendation code received from the contributing broker
+7,anl9_recommendationnumericvalue,"[di][recommedationScaleId] = The standardized S&P Capital IQ recommendation field (1~5 scale, 6 is NA)"
+8,anl9_scaleconversionflag,[di][idx of dataItemIx]

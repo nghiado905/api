@@ -1,0 +1,21 @@
+,id,description
+7,nws7_headlinetone_2_news_freq,number of news
+8,nws7_headlinetone_news_freq,number of news
+11,nws7_livenews_freq_qerf,"number of news with ""sale|earning|anlyst|sales|earnings|EPS|insider"" key words"
+13,nws7_news_earning_qerf,"number of news with ""earning|earnings|EPS"" key words"
+14,nws7_news_freq_2_qerf,"number of news with ""sale|sales|earning|earnings|EPS|analyst"" key words"
+15,nws7_news_freq_ins_qerf,"number of news with ""insider"" key words"
+16,nws7_news_freq_insider_qerf,"number of news without ""insider"" key words"
+17,nws7_news_freq_lcadata_qerf,number of news
+18,nws7_news_sales_qerf,"number of news with ""sale|sales|earnings"" key words"
+21,nws7_newsfreq_d1_qerf,"number of news without ""insider|imbalace"" key words"
+33,nws7_storytone_news_freq,number of news
+41,nws7_usa_news_headlinetone_2_negative_freq,how many negative words in headline of all news
+42,nws7_usa_news_headlinetone_2_negative_score,average negative score (negative words by all words) of all news
+43,nws7_usa_news_headlinetone_2_tone_score,average tone_score ( (pos - neg) / (pos + neg) )
+45,nws7_usa_news_storytone_negative_freq,how many negative words in headline of all news
+46,nws7_usa_news_storytone_negative_score,average negative score (negative words by all words) of all news
+47,nws7_usa_news_storytone_positive_freq,how many positive words in headline of all news
+48,nws7_usa_news_storytone_positive_score,average positive score (negative words by all words) of all news
+49,nws7_usa_news_storytone_tone_score,average tone_score ( (pos - neg) / (pos + neg) )
+60,nws7_usa_xtangnewsfreqrawnf_daily_raw,raw news number by interval

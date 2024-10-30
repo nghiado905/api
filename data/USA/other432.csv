@@ -1,0 +1,1140 @@
+,id,description
+0,oth432_aacr_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Accounts Receivable
+1,oth432_aacr_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Accounts Receivable
+2,oth432_aacr_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Accounts Receivable
+3,oth432_aacr_trkdpitdeltapredict_funda_predict,Predict value of Accounts Receivable
+4,oth432_acae_a_profitability_profitability1,1st profitability field of Annual Cash&Equivalents
+5,oth432_acae_a_profitability_profitability10,10th profitability field of Annual Cash&Equivalents
+6,oth432_acae_a_profitability_profitability11,11th profitability field of Annual Cash&Equivalents
+7,oth432_acae_a_profitability_profitability12,12th profitability field of Annual Cash&Equivalents
+8,oth432_acae_a_profitability_profitability2,2nd profitability field of Annual Cash&Equivalents
+9,oth432_acae_a_profitability_profitability3,3rd profitability field of Annual Cash&Equivalents
+10,oth432_acae_a_profitability_profitability4,4th profitability field of Annual Cash&Equivalents
+11,oth432_acae_a_profitability_profitability5,5th profitability field of Annual Cash&Equivalents
+12,oth432_acae_a_profitability_profitability6,6th profitability field of Annual Cash&Equivalents
+13,oth432_acae_a_profitability_profitability7,7th profitability field of Annual Cash&Equivalents
+14,oth432_acae_a_profitability_profitability8,8th profitability field of Annual Cash&Equivalents
+15,oth432_acae_a_profitability_profitability9,9th profitability field of Annual Cash&Equivalents
+16,oth432_acae_mae,Mean Average Error of the model of Cash & Equivalents
+17,oth432_acae_predict,Predict value of Cash & Equivalents
+18,oth432_acae_q_profitability_profitability1,1st profitability field of Quarterly Cash&Equivalents
+19,oth432_acae_q_profitability_profitability10,10th profitability field of Quarterly Cash&Equivalents
+20,oth432_acae_q_profitability_profitability11,11th profitability field of Quarterly Cash&Equivalents
+21,oth432_acae_q_profitability_profitability12,12th profitability field of Quarterly Cash&Equivalents
+22,oth432_acae_q_profitability_profitability2,2nd profitability field of Quarterly Cash&Equivalents
+23,oth432_acae_q_profitability_profitability3,3rd profitability field of Quarterly Cash&Equivalents
+24,oth432_acae_q_profitability_profitability4,4th profitability field of Quarterly Cash&Equivalents
+25,oth432_acae_q_profitability_profitability5,5th profitability field of Quarterly Cash&Equivalents
+26,oth432_acae_q_profitability_profitability6,6th profitability field of Quarterly Cash&Equivalents
+27,oth432_acae_q_profitability_profitability7,7th profitability field of Quarterly Cash&Equivalents
+28,oth432_acae_q_profitability_profitability8,8th profitability field of Quarterly Cash&Equivalents
+29,oth432_acae_q_profitability_profitability9,9th profitability field of Quarterly Cash&Equivalents
+30,oth432_acae_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Cash&Equivalents
+31,oth432_acae_trkdpitdeltapredict_annual_funda_predict,Predict value of Annual Cash&Equivalents
+32,oth432_acae_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Quarterly Cash&Equivalents
+33,oth432_acae_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Quarterly Cash&Equivalents
+34,oth432_acae_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Quarterly Cash&Equivalents
+35,oth432_acae_trkdpitdeltapredict_funda_predict,Predict value of Quarterly Cash&Equivalents
+36,oth432_accruals_oeps12_mae,Mean Average Error of the model of Earnings Per Share from Operations - 12 Months Moving
+37,oth432_accruals_oeps12_predict,Predict value of Earnings Per Share from Operations - 12 Months Moving
+38,oth432_acoq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Other Current Assets
+39,oth432_acoq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Other Current Assets
+40,oth432_acoq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Other Current Assets
+41,oth432_acoq_compustatdeltapredict_funda_predict,Predict value of Other Current Assets
+42,oth432_acoq_mae,Mean Average Error of the model of Current Assets - Other - Total
+43,oth432_acoq_predict,Predict value of Current Assets - Other - Total
+44,oth432_act_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Current Assets
+45,oth432_act_compustatdeltapredict_annual_funda_predict,Predict value of Annual Current Assets
+46,oth432_actq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Current Assets
+47,oth432_actq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Current Assets
+48,oth432_actq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Current Assets
+49,oth432_actq_compustatdeltapredict_funda_predict,Predict value of Current Assets
+50,oth432_ad,Debt to Asset ratio of Predictive models
+51,oth432_aint_predict,"Predict value of Intangibles, Net"
+52,oth432_aitl_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Inventories
+53,oth432_aitl_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Inventories
+54,oth432_aitl_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Inventories
+55,oth432_aitl_trkdpitdeltapredict_funda_predict,Predict value of Total Inventories
+56,oth432_altman,Altman Zscore estimates of Predictive models
+57,oth432_ancq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Non-current Assets
+58,oth432_ancq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Non-current Assets
+59,oth432_ancq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Non-current Assets
+60,oth432_ancq_compustatdeltapredict_funda_predict,Predict value of Non-current Assets
+61,oth432_ancq_predict,Predict value of Non-Current Assets - Total
+62,oth432_ap_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Accounts Payable
+63,oth432_ap_compustatdeltapredict_annual_funda_predict,Predict value of Annual Accounts Payable
+64,oth432_appn_predict,"Predict value of Property/Plant/Equipment, Total - Net"
+65,oth432_appn_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Property/Plant/Equipment
+66,oth432_appn_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Property/Plant/Equipment
+67,oth432_appn_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Property/Plant/Equipment
+68,oth432_appn_trkdpitdeltapredict_funda_predict,Predict value of Property/Plant/Equipment
+69,oth432_apq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Accounts Payable
+70,oth432_apq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Accounts Payable
+71,oth432_apq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Accounts Payable
+72,oth432_apq_compustatdeltapredict_funda_predict,Predict value of Accounts Payable
+73,oth432_apq_mae,Mean Average Error of the model of Account Payable/Creditors - Trade
+74,oth432_apq_predict,Predict value of Account Payable/Creditors - Trade
+75,oth432_assets_otlo_predict,Predict value of Cash from Operating Activities
+76,oth432_assets_revtq_predict,Predict value of Revenue - Total
+77,oth432_at_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Total Assets
+78,oth432_at_compustatdeltapredict_annual_funda_predict,Predict value of Total Assets
+79,oth432_atca_mae,Mean Average Error of the model of Total Current Assets
+80,oth432_atca_predict,Predict value of Total Current Assets
+81,oth432_atca_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Current Assets
+82,oth432_atca_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Current Assets
+83,oth432_atca_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Current Assets
+84,oth432_atca_trkdpitdeltapredict_funda_predict,Predict value of Total Current Assets
+85,oth432_atot_predict,Predict value of Total Assets
+86,oth432_atq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Assets
+87,oth432_atq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Assets
+88,oth432_atq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Total Assets
+89,oth432_atq_compustatdeltapredict_funda_predict,Predict value of Total Assets
+90,oth432_atq_predict,Predict value of Assets - Total
+91,oth432_atrc_mae,"Mean Average Error of the model of Total Receivables, Net"
+92,oth432_atrc_predict,"Predict value of Total Receivables, Net"
+93,oth432_aul3_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Assets Level3(unobservable)
+94,oth432_aul3_compustatdeltapredict_annual_funda_predict,Predict value of Assets Level3(unobservable)
+95,oth432_bkvlps_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Book value per share
+96,oth432_bkvlps_compustatdeltapredict_annual_funda_predict,Predict value of Book value per share
+97,oth432_capital_otlo_predict,Predict value of Cash from Operating Activities
+98,oth432_capital_revtq_mae,Mean Average Error of the model of Revenue - Total
+99,oth432_capital_revtq_predict,Predict value of Revenue - Total
+100,oth432_captq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Capitalized Costs
+101,oth432_captq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Capitalized Costs
+102,oth432_captq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Capitalized Costs
+103,oth432_captq_compustatdeltapredict_funda_predict,Predict value of Capitalized Costs
+104,oth432_capx_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Capital Expenditure
+105,oth432_capx_compustatdeltapredict_annual_funda_predict,Predict value of Capital Expenditure
+106,oth432_cash_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+107,oth432_cash_otlo_predict,Predict value of Cash from Operating Activities
+108,oth432_cash_rtlr_mae,Mean Average Error of the model of Total Revenue
+109,oth432_cash_rtlr_predict,Predict value of Total Revenue
+110,oth432_cashflows_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+111,oth432_cashflows_otlo_predict,Predict value of Cash from Operating Activities
+112,oth432_cashflows_rtlr_mae,Mean Average Error of the model of Total Revenue
+113,oth432_cashflows_rtlr_predict,Predict value of Total Revenue
+114,oth432_ceq_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Common Equity
+115,oth432_ceq_compustatdeltapredict_annual_funda_predict,Predict value of Common Equity
+116,oth432_cfo_cap,CFO to cap ratio of Predictive models
+117,oth432_cfo_yield,CFO Yield of Predictive models
+118,oth432_che_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Cash and Short-term Investments
+119,oth432_che_compustatdeltapredict_annual_funda_predict,Predict value of Annual Cash and Short-term Investments
+120,oth432_che_profitability_profitability1,1st profitability field of Cash and Short-term Investments
+121,oth432_che_profitability_profitability10,10th profitability field of Cash and Short-term Investments
+122,oth432_che_profitability_profitability11,11th profitability field of Cash and Short-term Investments
+123,oth432_che_profitability_profitability12,12th profitability field of Cash and Short-term Investments
+124,oth432_che_profitability_profitability2,2nd profitability field of Cash and Short-term Investments
+125,oth432_che_profitability_profitability3,3rd profitability field of Cash and Short-term Investments
+126,oth432_che_profitability_profitability4,4th profitability field of Cash and Short-term Investments
+127,oth432_che_profitability_profitability5,5th profitability field of Cash and Short-term Investments
+128,oth432_che_profitability_profitability6,6th profitability field of Cash and Short-term Investments
+129,oth432_che_profitability_profitability7,7th profitability field of Cash and Short-term Investments
+130,oth432_che_profitability_profitability8,8th profitability field of Cash and Short-term Investments
+131,oth432_che_profitability_profitability9,9th profitability field of Cash and Short-term Investments
+132,oth432_cheq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash and Short-term Investments
+133,oth432_cheq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash and Short-term Investments
+134,oth432_cheq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Cash and Short-term Investments
+135,oth432_cheq_compustatdeltapredict_funda_predict,Predict value of Cash and Short-term Investments
+136,oth432_cheq_mae,Mean Average Error of the model of Cash and Short-Term Investments
+137,oth432_cheq_predict,Predict value of Cash and Short-Term Investments
+138,oth432_cheq_profitability_profitability1,1st profitability field of Cash and Short-term Investments
+139,oth432_cheq_profitability_profitability10,10th profitability field of Cash and Short-term Investments
+140,oth432_cheq_profitability_profitability11,11th profitability field of Cash and Short-term Investments
+141,oth432_cheq_profitability_profitability12,12th profitability field of Cash and Short-term Investments
+142,oth432_cheq_profitability_profitability2,2nd profitability field of Cash and Short-term Investments
+143,oth432_cheq_profitability_profitability3,3rd profitability field of Cash and Short-term Investments
+144,oth432_cheq_profitability_profitability4,4th profitability field of Cash and Short-term Investments
+145,oth432_cheq_profitability_profitability5,5th profitability field of Cash and Short-term Investments
+146,oth432_cheq_profitability_profitability6,6th profitability field of Cash and Short-term Investments
+147,oth432_cheq_profitability_profitability7,7th profitability field of Cash and Short-term Investments
+148,oth432_cheq_profitability_profitability8,8th profitability field of Cash and Short-term Investments
+149,oth432_cheq_profitability_profitability9,9th profitability field of Cash and Short-term Investments
+150,oth432_ciac_mae,Mean Average Error of the model of Income Available to Com Excl ExtraOrd
+151,oth432_ciac_predict,Predict value of Income Available to Com Excl ExtraOrd
+152,oth432_cogs_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Cost of Goods Sold
+153,oth432_cogs_compustatdeltapredict_annual_funda_predict,Predict value of Annual Cost of Goods Sold
+154,oth432_cogsq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Quarterly Cost of Goods Sold
+155,oth432_cogsq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Quarterly Cost of Goods Sold
+156,oth432_cogsq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Quarterly Cost of Goods Sold
+157,oth432_cogsq_compustatdeltapredict_funda_predict,Predict value of Quarterly Cost of Goods Sold
+158,oth432_cogsq_mae,Mean Average Error of the model of Cost of Goods Sold
+159,oth432_cogsq_predict,Predict value of Cost of Goods Sold
+160,oth432_compustat_models_leverage_payoff1,1st deleveraged profitability measure of Predictive models
+161,oth432_compustat_models_leverage_payoff2,2nd deleveraged profitability measure of Predictive models
+162,oth432_compustat_models_leverage_payoff3,3rd deleveraged profitability measure of Predictive models
+163,oth432_compustat_models_leverage_payoff4,4th deleveraged profitability measure of Predictive models
+164,oth432_compustat_models_leverage_payoff5,5th deleveraged profitability measure of Predictive models
+165,oth432_compustat_models_profitability1,1st profitability field of Predictive models
+166,oth432_compustat_models_profitability10,10th profitability field of Predictive models
+167,oth432_compustat_models_profitability11,11th profitability field of Predictive models
+168,oth432_compustat_models_profitability12,12th profitability field of Predictive models
+169,oth432_compustat_models_profitability13,13th profitability field of Predictive models
+170,oth432_compustat_models_profitability14,14th profitability field of Predictive models
+171,oth432_compustat_models_profitability15,15th profitability field of Predictive models
+172,oth432_compustat_models_profitability2,2nd profitability field of Predictive models
+173,oth432_compustat_models_profitability3,3rd profitability field of Predictive models
+174,oth432_compustat_models_profitability4,4th profitability field of Predictive models
+175,oth432_compustat_models_profitability5,5th profitability field of Predictive models
+176,oth432_compustat_models_profitability6,6th profitability field of Predictive models
+177,oth432_compustat_models_profitability7,7th profitability field of Predictive models
+178,oth432_compustat_models_profitability8,8th profitability field of Predictive models
+179,oth432_compustat_models_profitability9,9th profitability field of Predictive models
+180,oth432_compustat_models_tot_rev_cap,Total Revenue to market cap ratio of Predictive models
+181,oth432_compustat_models_tot_rev_yield,Total Revenue Yield of Predictive models
+182,oth432_compustatpredictiveacoq_mad_act,Mean Absolute Deviation of scaled actual value of Other Current Assets
+183,oth432_compustatpredictiveacoq_mad_pred,Mean Absolute Deviation of predicted value of Other Current Assets
+184,oth432_compustatpredictiveacoq_mae,Mean Average Error of the model of Other Current Assets
+185,oth432_compustatpredictiveacoq_prediction,Predict value of Other Current Assets
+186,oth432_compustatpredictiveancq_mad_act,Mean Absolute Deviation of scaled actual value of Non-current Assets
+187,oth432_compustatpredictiveancq_mad_pred,Mean Absolute Deviation of predicted value of Non-current Assets
+188,oth432_compustatpredictiveancq_mae,Mean Average Error of the model of Non-current Assets
+189,oth432_compustatpredictiveancq_prediction,Predict value of Non-current Assets
+190,oth432_compustatpredictiveapq_mad_act,Mean Absolute Deviation of scaled actual value of Accounts Payable
+191,oth432_compustatpredictiveapq_mad_pred,Mean Absolute Deviation of predicted value of Accounts Payable
+192,oth432_compustatpredictiveapq_mae,Mean Average Error of the model of Accounts Payable
+193,oth432_compustatpredictiveapq_prediction,Predict value of Accounts Payable
+194,oth432_compustatpredictiveatq_mad_act,Mean Absolute Deviation of scaled actual value of Total Assets
+195,oth432_compustatpredictiveatq_mad_pred,Mean Absolute Deviation of predicted value of Total Assets
+196,oth432_compustatpredictiveatq_mae,Mean Average Error of the model of Total Assets
+197,oth432_compustatpredictiveatq_prediction,Predict value of Total Assets
+198,oth432_compustatpredictivecheq_mad_act,Mean Absolute Deviation of scaled actual value of Cash and Short-term Investments
+199,oth432_compustatpredictivecheq_mad_pred,Mean Absolute Deviation of predicted value of Cash and Short-term Investments
+200,oth432_compustatpredictivecheq_mae,Mean Average Error of the model of Cash and Short-term Investments
+201,oth432_compustatpredictivecheq_prediction,Predict value of Cash and Short-term Investments
+202,oth432_compustatpredictivecogsq_mad_act,Mean Absolute Deviation of scaled actual value of Quarterly Cost of Goods Sold
+203,oth432_compustatpredictivecogsq_mad_pred,Mean Absolute Deviation of predicted value of Quarterly Cost of Goods Sold
+204,oth432_compustatpredictivecogsq_mae,Mean Average Error of the model of Quarterly Cost of Goods Sold
+205,oth432_compustatpredictivecogsq_prediction,Predict value of Quarterly Cost of Goods Sold
+206,oth432_compustatpredictivedlttq_mad_act,Mean Absolute Deviation of scaled actual value of Long-term Debt
+207,oth432_compustatpredictivedlttq_mad_pred,Mean Absolute Deviation of predicted value of Long-term Debt
+208,oth432_compustatpredictivedlttq_mae,Mean Average Error of the model of Long-term Debt
+209,oth432_compustatpredictivedlttq_prediction,Predict value of Long-term Debt
+210,oth432_compustatpredictiveepsfiq_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Diluted), including extraordinary items"
+211,oth432_compustatpredictiveepsfiq_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Diluted), including extraordinary items"
+212,oth432_compustatpredictiveepsfiq_mae,"Mean Average Error of the model of Earnings per Share(Diluted), including extraordinary items"
+213,oth432_compustatpredictiveepsfiq_prediction,"Predict value of Earnings per Share(Diluted), including extraordinary items"
+214,oth432_compustatpredictiveepsfxq_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Diluted), excluding extraordinary items"
+215,oth432_compustatpredictiveepsfxq_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Diluted), excluding extraordinary items"
+216,oth432_compustatpredictiveepsfxq_mae,"Mean Average Error of the model of Earnings per Share(Diluted), excluding extraordinary items"
+217,oth432_compustatpredictiveepsfxq_prediction,"Predict value of Earnings per Share(Diluted), excluding extraordinary items"
+218,oth432_compustatpredictiveepspiq_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Basic), including extraordinary items"
+219,oth432_compustatpredictiveepspiq_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Basic), including extraordinary items"
+220,oth432_compustatpredictiveepspiq_mae,"Mean Average Error of the model of Earnings per Share(Basic), including extraordinary items"
+221,oth432_compustatpredictiveepspiq_prediction,"Predict value of Earnings per Share(Basic), including extraordinary items"
+222,oth432_compustatpredictiveepsx12_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+223,oth432_compustatpredictiveepsx12_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+224,oth432_compustatpredictiveepsx12_mae,"Mean Average Error of the model of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+225,oth432_compustatpredictiveepsx12_prediction,"Predict value of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+226,oth432_compustatpredictivegdwlq_mad_act,Mean Absolute Deviation of scaled actual value of Goodwill
+227,oth432_compustatpredictivegdwlq_mad_pred,Mean Absolute Deviation of predicted value of Goodwill
+228,oth432_compustatpredictivegdwlq_mae,Mean Average Error of the model of Goodwill
+229,oth432_compustatpredictivegdwlq_prediction,Predict value of Goodwill
+230,oth432_compustatpredictiveintanoq_mad_act,Mean Absolute Deviation of scaled actual value of Other Intangibles
+231,oth432_compustatpredictiveintanoq_mad_pred,Mean Absolute Deviation of predicted value of Other Intangibles
+232,oth432_compustatpredictiveintanoq_mae,Mean Average Error of the model of Other Intangibles
+233,oth432_compustatpredictiveintanoq_prediction,Predict value of Other Intangibles
+234,oth432_compustatpredictiveinvtq_mad_act,Mean Absolute Deviation of scaled actual value of Total Inventories
+235,oth432_compustatpredictiveinvtq_mad_pred,Mean Absolute Deviation of predicted value of Total Inventories
+236,oth432_compustatpredictiveinvtq_mae,Mean Average Error of the model of Total Inventories
+237,oth432_compustatpredictiveinvtq_prediction,Predict value of Total Inventories
+238,oth432_compustatpredictivelctq_mad_act,Mean Absolute Deviation of scaled actual value of Total Current Liabilities
+239,oth432_compustatpredictivelctq_mad_pred,Mean Absolute Deviation of predicted value of Total Current Liabilities
+240,oth432_compustatpredictivelctq_mae,Mean Average Error of the model of Total Current Liabilities
+241,oth432_compustatpredictivelctq_prediction,Predict value of Total Current Liabilities
+242,oth432_compustatpredictiveltq_mad_act,Mean Absolute Deviation of scaled actual value of Total Liabilities
+243,oth432_compustatpredictiveltq_mad_pred,Mean Absolute Deviation of predicted value of Total Liabilities
+244,oth432_compustatpredictiveltq_mae,Mean Average Error of the model of Total Liabilities
+245,oth432_compustatpredictiveltq_prediction,Predict value of Total Liabilities
+246,oth432_compustatpredictiveniq_mad_act,Mean Absolute Deviation of scaled actual value of Net Income
+247,oth432_compustatpredictiveniq_mad_pred,Mean Absolute Deviation of predicted value of Net Income
+248,oth432_compustatpredictiveniq_mae,Mean Average Error of the model of Net Income
+249,oth432_compustatpredictiveniq_prediction,Predict value of Net Income
+250,oth432_compustatpredictiveoeps12_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share from Operations, 12 months moving"
+251,oth432_compustatpredictiveoeps12_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share from Operations, 12 months moving"
+252,oth432_compustatpredictiveoeps12_mae,"Mean Average Error of the model of Earnings per Share from Operations, 12 months moving"
+253,oth432_compustatpredictiveoeps12_prediction,"Predict value of Earnings per Share from Operations, 12 months moving"
+254,oth432_compustatpredictiveoiadpq_mad_act,Mean Absolute Deviation of scaled actual value of Operating income after Depreciation
+255,oth432_compustatpredictiveoiadpq_mad_pred,Mean Absolute Deviation of predicted value of Operating income after Depreciation
+256,oth432_compustatpredictiveoiadpq_mae,Mean Average Error of the model of Operating income after Depreciation
+257,oth432_compustatpredictiveoiadpq_prediction,Predict value of Operating income after Depreciation
+258,oth432_compustatpredictivepiq_mad_act,Mean Absolute Deviation of scaled actual value of Pretax Income
+259,oth432_compustatpredictivepiq_mad_pred,Mean Absolute Deviation of predicted value of Pretax Income
+260,oth432_compustatpredictivepiq_mae,Mean Average Error of the model of Pretax Income
+261,oth432_compustatpredictivepiq_prediction,Predict value of Pretax Income
+262,oth432_compustatpredictiveppentq_mad_act,Mean Absolute Deviation of scaled actual value of Property Plant and Equipment - Total (Net)
+263,oth432_compustatpredictiveppentq_mad_pred,Mean Absolute Deviation of predicted value of Property Plant and Equipment - Total (Net)
+264,oth432_compustatpredictiveppentq_mae,Mean Average Error of the model of Property Plant and Equipment - Total (Net)
+265,oth432_compustatpredictiveppentq_prediction,Predict value of Property Plant and Equipment - Total (Net)
+266,oth432_compustatpredictiverectq_mad_act,Mean Absolute Deviation of scaled actual value of Receivables - Total
+267,oth432_compustatpredictiverectq_mad_pred,Mean Absolute Deviation of predicted value of Receivables - Total
+268,oth432_compustatpredictiverectq_mae,Mean Average Error of the model of Receivables - Total
+269,oth432_compustatpredictiverectq_prediction,Predict value of Receivables - Total
+270,oth432_compustatpredictiverevtq_mad_act,Mean Absolute Deviation of scaled actual value of Revenue - Total
+271,oth432_compustatpredictiverevtq_mad_pred,Mean Absolute Deviation of predicted value of Revenue - Total
+272,oth432_compustatpredictiverevtq_mae,Mean Average Error of the model of Revenue - Total
+273,oth432_compustatpredictiverevtq_prediction,Predict value of Revenue - Total
+274,oth432_compustatpredictivetxtq_mad_act,Mean Absolute Deviation of scaled actual value of Income Taxes - Total
+275,oth432_compustatpredictivetxtq_mad_pred,Mean Absolute Deviation of predicted value of Income Taxes - Total
+276,oth432_compustatpredictivetxtq_mae,Mean Average Error of the model of Income Taxes - Total
+277,oth432_compustatpredictivetxtq_prediction,Predict value of Income Taxes - Total
+278,oth432_compustatpredictivexintq_mad_act,Mean Absolute Deviation of scaled actual value of Interest and Related Expense- Total
+279,oth432_compustatpredictivexintq_mad_pred,Mean Absolute Deviation of predicted value of Interest and Related Expense- Total
+280,oth432_compustatpredictivexintq_mae,Mean Average Error of the model of Interest and Related Expense- Total
+281,oth432_compustatpredictivexintq_prediction,Predict value of Interest and Related Expense- Total
+282,oth432_currents_oeps12_mae,Mean Average Error of the model of Earnings Per Share from Operations - 12 Months Moving
+283,oth432_currents_oeps12_predict,Predict value of Earnings Per Share from Operations - 12 Months Moving
+284,oth432_currents_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+285,oth432_currents_otlo_predict,Predict value of Cash from Operating Activities
+286,oth432_ddps1_predict,Predict value of DPS - Common Stock Primary Issue
+287,oth432_ddps1_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of DPS - Common Stock Primary Issue
+288,oth432_ddps1_trkdpitdeltapredict_annual_funda_predict,Predict value of DPS - Common Stock Primary Issue
+289,oth432_debt_rtlr_predict,Predict value of Total Revenue
+290,oth432_deltapredictebit_a_mae,Mean Average Error of the model of Earnings before Interest and Tax
+291,oth432_deltapredictebit_a_predict,Predict value of Earnings before Interest and Tax
+292,oth432_deltapredictebit_q_mae,Mean Average Error of the model of Earnings before Interest and Tax
+293,oth432_deltapredictebit_q_predict,Predict value of Earnings before Interest and Tax
+294,oth432_deltapredictebit_ttm_mae,Mean Average Error of the model of Earnings before Interest and Tax
+295,oth432_deltapredictebit_ttm_predict,Predict value of Earnings before Interest and Tax
+296,oth432_deltapredictebitd_a_mae,"Mean Average Error of the model of Earnings before Interest,Tax and Depreciation"
+297,oth432_deltapredictebitd_a_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+298,oth432_deltapredictebitd_q_mae,"Mean Average Error of the model of Earnings before Interest,Tax and Depreciation"
+299,oth432_deltapredictebitd_q_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+300,oth432_deltapredictebitd_ttm_mae,"Mean Average Error of the model of Earnings before Interest,Tax and Depreciation"
+301,oth432_deltapredictebitd_ttm_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+302,oth432_deltapredictebt_a_mae,Mean Average Error of the model of Earnings before tax
+303,oth432_deltapredictebt_a_predict,Predict value of Earnings before tax
+304,oth432_deltapredictebt_q_mae,Mean Average Error of the model of Earnings before tax
+305,oth432_deltapredictebt_q_predict,Predict value of Earnings before tax
+306,oth432_deltapredictebt_ttm_mae,Mean Average Error of the model of Earnings before tax
+307,oth432_deltapredictebt_ttm_predict,Predict value of Earnings before tax
+308,oth432_deltapredictev_cur_mae,Mean Average Error of the model of Enterprise Value
+309,oth432_deltapredictev_cur_predict,Predict value of Enterprise Value
+310,oth432_deltapredictfcf_a_mae,Mean Average Error of the model of Free Cash Flow
+311,oth432_deltapredictfcf_a_predict,Predict value of Free Cash Flow
+312,oth432_deltapredictfcf_q_mae,Mean Average Error of the model of Free Cash Flow
+313,oth432_deltapredictfcf_q_predict,Predict value of Free Cash Flow
+314,oth432_deltapredictfcf_ttm_mae,Mean Average Error of the model of Free Cash Flow
+315,oth432_deltapredictfcf_ttm_predict,Predict value of Free Cash Flow
+316,oth432_deltapredictni_a_mae,Mean Average Error of the model of Net Income
+317,oth432_deltapredictni_a_predict,Predict value of Net Income
+318,oth432_deltapredictni_q_mae,Mean Average Error of the model of Net Income
+319,oth432_deltapredictni_q_predict,Predict value of Net Income
+320,oth432_deltapredictni_ttm_mae,Mean Average Error of the model of Net Income
+321,oth432_deltapredictni_ttm_predict,Predict value of Net Income
+322,oth432_deltapredictrev_a_mae,Mean Average Error of the model of Revenue - Total
+323,oth432_deltapredictrev_a_predict,Predict value of Revenue - Total
+324,oth432_deltapredictrev_q_mae,Mean Average Error of the model of Revenue - Total
+325,oth432_deltapredictrev_q_predict,Predict value of Revenue - Total
+326,oth432_deltapredictrev_ttm_mae,Mean Average Error of the model of Revenue - Total
+327,oth432_deltapredictrev_ttm_predict,Predict value of Revenue - Total
+328,oth432_deltapredicttotd_a_predict,Predict value of Total Debt
+329,oth432_deltapredicttotd_q_predict,Predict value of Total Debt
+330,oth432_div_yield,Dividend Yield of Predictive models
+331,oth432_divp,Dividend to Price ratio of Predictive models
+332,oth432_dlc_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Debt in Current Liabilities - Total
+333,oth432_dlc_compustatdeltapredict_annual_funda_predict,Predict value of Annual Debt in Current Liabilities - Total
+334,oth432_dlcq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Debt in Current Liabilities
+335,oth432_dlcq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Debt in Current Liabilities
+336,oth432_dlcq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Debt in Current Liabilities
+337,oth432_dlcq_compustatdeltapredict_funda_predict,Predict value of Debt in Current Liabilities
+338,oth432_dltt_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Long-Term Debt - Total
+339,oth432_dltt_compustatdeltapredict_annual_funda_predict,Predict value of Annual Long-Term Debt - Total
+340,oth432_dlttq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Long-Term Debt - Total
+341,oth432_dlttq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Long-Term Debt - Total
+342,oth432_dlttq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Long-Term Debt - Total
+343,oth432_dlttq_compustatdeltapredict_funda_predict,Predict value of Long-Term Debt - Total
+344,oth432_dlttq_mae,Mean Average Error of the model of Long-Term Debt - Total
+345,oth432_dlttq_predict,Predict value of Long-Term Debt - Total
+346,oth432_dpact_compustatdeltapredict_annual_funda_madp,"Mean Absolute Deviation of predicted value of Depreciation, Depletion and Amortization (Accumulated)"
+347,oth432_dpact_compustatdeltapredict_annual_funda_predict,"Predict value of Depreciation, Depletion and Amortization (Accumulated)"
+348,oth432_dpc_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Depreciation and Amortization (Cash Flow)
+349,oth432_dpc_compustatdeltapredict_annual_funda_predict,Predict value of Depreciation and Amortization (Cash Flow)
+350,oth432_dpq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Depreciation and Amortization - Total
+351,oth432_dpq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Depreciation and Amortization - Total
+352,oth432_dpq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Depreciation and Amortization - Total
+353,oth432_dpq_compustatdeltapredict_funda_predict,Predict value of Depreciation and Amortization - Total
+354,oth432_earnings_cap1,Earnings to cap ratio of Predictive models
+355,oth432_earnings_cap2,Earnings to cap ratio of Predictive models
+356,oth432_earnings_cap3,Earnings to cap ratio of Predictive models
+357,oth432_earnings_yield1,Earnings Yield of Predictive models
+358,oth432_earnings_yield2,Earnings Yield of Predictive models
+359,oth432_earnings_yield3,Earnings Yield of Predictive models
+360,oth432_ebit_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Earnings Before Interest and Taxes
+361,oth432_ebit_compustatdeltapredict_annual_funda_predict,Predict value of Annual Earnings Before Interest and Taxes
+362,oth432_ebit_profitability_profitability1,1st profitability field of Earnings Before Interest and Taxes
+363,oth432_ebit_profitability_profitability10,10th profitability field of Earnings Before Interest and Taxes
+364,oth432_ebit_profitability_profitability11,11th profitability field of Earnings Before Interest and Taxes
+365,oth432_ebit_profitability_profitability12,12th profitability field of Earnings Before Interest and Taxes
+366,oth432_ebit_profitability_profitability2,2nd profitability field of Earnings Before Interest and Taxes
+367,oth432_ebit_profitability_profitability3,3rd profitability field of Earnings Before Interest and Taxes
+368,oth432_ebit_profitability_profitability4,4th profitability field of Earnings Before Interest and Taxes
+369,oth432_ebit_profitability_profitability5,5th profitability field of Earnings Before Interest and Taxes
+370,oth432_ebit_profitability_profitability6,6th profitability field of Earnings Before Interest and Taxes
+371,oth432_ebit_profitability_profitability7,7th profitability field of Earnings Before Interest and Taxes
+372,oth432_ebit_profitability_profitability8,8th profitability field of Earnings Before Interest and Taxes
+373,oth432_ebit_profitability_profitability9,9th profitability field of Earnings Before Interest and Taxes
+374,oth432_ebitda_cap,EBITDA to cap ratio of Predictive models
+375,oth432_ebitda_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Earnings Before Interest
+376,oth432_ebitda_compustatdeltapredict_annual_funda_predict,Predict value of Annual Earnings Before Interest
+377,oth432_ebitda_debt,EBITDA to debt ratio of Predictive models
+378,oth432_ebitda_ev,EBITDA to EV ratio of Predictive models
+379,oth432_ebitda_profitability_profitability1,1st profitability field of Earnings Before Interest
+380,oth432_ebitda_profitability_profitability10,10th profitability field of Earnings Before Interest
+381,oth432_ebitda_profitability_profitability11,11th profitability field of Earnings Before Interest
+382,oth432_ebitda_profitability_profitability12,12th profitability field of Earnings Before Interest
+383,oth432_ebitda_profitability_profitability2,2nd profitability field of Earnings Before Interest
+384,oth432_ebitda_profitability_profitability3,3rd profitability field of Earnings Before Interest
+385,oth432_ebitda_profitability_profitability4,4th profitability field of Earnings Before Interest
+386,oth432_ebitda_profitability_profitability5,5th profitability field of Earnings Before Interest
+387,oth432_ebitda_profitability_profitability6,6th profitability field of Earnings Before Interest
+388,oth432_ebitda_profitability_profitability7,7th profitability field of Earnings Before Interest
+389,oth432_ebitda_profitability_profitability8,8th profitability field of Earnings Before Interest
+390,oth432_ebitda_profitability_profitability9,9th profitability field of Earnings Before Interest
+391,oth432_ebitda_yield,EBITDA Yield of Predictive models
+392,oth432_ecor_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cost of Revenue
+393,oth432_ecor_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cost of Revenue
+394,oth432_ecor_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cost of Revenue
+395,oth432_ecor_trkdpitdeltapredict_funda_predict,Predict value of Cost of Revenue
+396,oth432_ed,Debt to Equity ratio of Predictive models
+397,oth432_efcf,Free Cash Flow Equity of Predictive models
+398,oth432_eibt_a_profitability_profitability1,1st profitability field of Annual Net Income Before Taxes
+399,oth432_eibt_a_profitability_profitability10,10th profitability field of Annual Net Income Before Taxes
+400,oth432_eibt_a_profitability_profitability11,11th profitability field of Annual Net Income Before Taxes
+401,oth432_eibt_a_profitability_profitability12,12th profitability field of Annual Net Income Before Taxes
+402,oth432_eibt_a_profitability_profitability2,2nd profitability field of Annual Net Income Before Taxes
+403,oth432_eibt_a_profitability_profitability3,3rd profitability field of Annual Net Income Before Taxes
+404,oth432_eibt_a_profitability_profitability4,4th profitability field of Annual Net Income Before Taxes
+405,oth432_eibt_a_profitability_profitability5,5th profitability field of Annual Net Income Before Taxes
+406,oth432_eibt_a_profitability_profitability6,6th profitability field of Annual Net Income Before Taxes
+407,oth432_eibt_a_profitability_profitability7,7th profitability field of Annual Net Income Before Taxes
+408,oth432_eibt_a_profitability_profitability8,8th profitability field of Annual Net Income Before Taxes
+409,oth432_eibt_a_profitability_profitability9,9th profitability field of Annual Net Income Before Taxes
+410,oth432_eibt_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Net Income Before Taxes
+411,oth432_eibt_trkdpitdeltapredict_annual_funda_predict,Predict value of Net Income Before Taxes
+412,oth432_eps_oeps12_mae,Mean Average Error of the model of Earnings Per Share from Operations - 12 Months Moving
+413,oth432_eps_oeps12_predict,Predict value of Earnings Per Share from Operations - 12 Months Moving
+414,oth432_epsfi_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Earnings Per Share (Diluted) - Including Extraordinary items
+415,oth432_epsfi_compustatdeltapredict_annual_funda_predict,Predict value of Earnings Per Share (Diluted) - Including Extraordinary items
+416,oth432_epsfiq_mae,Mean Average Error of the model of Earnings Per Share (Diluted) - Including Extraordinary Items
+417,oth432_epsfiq_predict,Predict value of Earnings Per Share (Diluted) - Including Extraordinary Items
+418,oth432_epsfxq_mae,Mean Average Error of the model of Earnings Per Share (Diluted) - Excluding Extraordinary items
+419,oth432_epsfxq_predict,Predict value of Earnings Per Share (Diluted) - Excluding Extraordinary items
+420,oth432_epspi_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Earnings Per Share (Basic) Including Extraordinary Items
+421,oth432_epspi_compustatdeltapredict_annual_funda_predict,Predict value of Earnings Per Share (Basic) Including Extraordinary Items
+422,oth432_epspiq_mae,Mean Average Error of the model of Earnings Per Share (Basic) - Including Extraordinary Items
+423,oth432_epspiq_predict,Predict value of Earnings Per Share (Basic) - Including Extraordinary Items
+424,oth432_epsx12_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Earnings Per Share (Basic) Excluding Extraordinary Items 12 Months Moving
+425,oth432_epsx12_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Earnings Per Share (Basic) Excluding Extraordinary Items 12 Months Moving
+426,oth432_epsx12_compustatdeltapredict_funda_mae,Mean Average Error of the model of Earnings Per Share (Basic) Excluding Extraordinary Items 12 Months Moving
+427,oth432_epsx12_compustatdeltapredict_funda_predict,Predict value of Earnings Per Share (Basic) Excluding Extraordinary Items 12 Months Moving
+428,oth432_epsx12_mae,Mean Average Error of the model of Earnings Per Share (Basic) - Excluding Extraordinary Items - 12 Months Moving
+429,oth432_epsx12_predict,Predict value of Earnings Per Share (Basic) - Excluding Extraordinary Items - 12 Months Moving
+430,oth432_expense_oeps12_mae,Mean Average Error of the model of Earnings Per Share from Operations - 12 Months Moving
+431,oth432_expense_oeps12_predict,Predict value of Earnings Per Share from Operations - 12 Months Moving
+432,oth432_expense_piq_mae,Mean Average Error of the model of Pretax Income
+433,oth432_expense_piq_predict,Predict value of Pretax Income
+434,oth432_fcfe_cap,FCFE to cap ratio of Predictive models
+435,oth432_fcfe_yield,FCFE yield of Predictive models
+436,oth432_fcff_cap,FCFF to cap ratio of Predictive models
+437,oth432_fcff_yield,FCFF yield of Predictive models
+438,oth432_fcsn_trkdpitdeltapredict_annual_funda_madp,"Mean Absolute Deviation of predicted value of Common Stock, Net"
+439,oth432_fcsn_trkdpitdeltapredict_annual_funda_predict,"Predict value of Common Stock, Net"
+440,oth432_ffcf,Free cash flow Firm of Predictive models
+441,oth432_ffcf_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Other Financing Cash Flow
+442,oth432_ffcf_trkdpitdeltapredict_annual_funda_predict,Predict value of Other Financing Cash Flow
+443,oth432_fincf_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Financing Activities - Net Cash Flow
+444,oth432_fincf_compustatdeltapredict_annual_funda_predict,Predict value of Financing Activities - Net Cash Flow
+445,oth432_fldn_predict,"Predict value of Long Term Debt, Net"
+446,oth432_flows_acae_mae,Mean Average Error of the model of Cash & Equivalents
+447,oth432_flows_acae_predict,Predict value of Cash & Equivalents
+448,oth432_fprd_predict,"Predict value of Issuance (Retirement) of Debt, Net"
+449,oth432_fprd_trkdpitdeltapredict_annual_funda_madp,"Mean Absolute Deviation of predicted value of Issuance (Retirement) of Debt, Net"
+450,oth432_fprd_trkdpitdeltapredict_annual_funda_predict,"Predict value of Issuance (Retirement) of Debt, Net"
+451,oth432_fsic_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Sale/Issuance of Common
+452,oth432_fsic_trkdpitdeltapredict_annual_funda_predict,Predict value of Sale/Issuance of Common
+453,oth432_ftlf_mae,Mean Average Error of the model of Cash from Financing Activities
+454,oth432_ftlf_predict,Predict value of Cash from Financing Activities
+455,oth432_ftlf_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash from Financing Activities
+456,oth432_ftlf_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash from Financing Activities
+457,oth432_ftlf_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash from Financing Activities
+458,oth432_ftlf_trkdpitdeltapredict_funda_predict,Predict value of Cash from Financing Activities
+459,oth432_gdwlq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Goodwill
+460,oth432_gdwlq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Goodwill
+461,oth432_gdwlq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Goodwill
+462,oth432_gdwlq_compustatdeltapredict_funda_predict,Predict value of Goodwill
+463,oth432_gdwlq_predict,Predict value of Goodwill (net)
+464,oth432_gp_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Gross Profit (Loss)
+465,oth432_gp_compustatdeltapredict_annual_funda_predict,Predict value of Gross Profit (Loss)
+466,oth432_iicf_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Other Investing Cash Flow
+467,oth432_iicf_trkdpitdeltapredict_annual_funda_predict,Predict value of Other Investing Cash Flow
+468,oth432_income_oeps12_mae,Mean Average Error of the model of Earnings Per Share from Operations - 12 Months Moving
+469,oth432_income_oeps12_predict,Predict value of Earnings Per Share from Operations - 12 Months Moving
+470,oth432_income_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+471,oth432_income_otlo_predict,Predict value of Cash from Operating Activities
+472,oth432_income_piq_mae,Mean Average Error of the model of Pretax Income
+473,oth432_income_piq_predict,Predict value of Pretax Income
+474,oth432_income_revtq_mae,Mean Average Error of the model of Revenue - Total
+475,oth432_income_revtq_predict,Predict value of Revenue - Total
+476,oth432_intanoq_predict,Predict value of Other Intangibles
+477,oth432_invt_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Inventories - Total
+478,oth432_invt_compustatdeltapredict_annual_funda_predict,Predict value of Annual Inventories - Total
+479,oth432_itli_mae,Mean Average Error of the model of Cash from Investing Activities
+480,oth432_itli_predict,Predict value of Cash from Investing Activities
+481,oth432_itli_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash from Investing Activities
+482,oth432_itli_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash from Investing Activities
+483,oth432_itli_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash from Investing Activities
+484,oth432_itli_trkdpitdeltapredict_funda_predict,Predict value of Cash from Investing Activities
+485,oth432_ivncf_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Investing Activities - Net Cash Flow
+486,oth432_ivncf_compustatdeltapredict_annual_funda_predict,Predict value of Investing Activities - Net Cash Flow
+487,oth432_lapb_mae,Mean Average Error of the model of Accounts Payable
+488,oth432_lapb_predict,Predict value of Accounts Payable
+489,oth432_lapb_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Accounts Payable
+490,oth432_lapb_trkdpitdeltapredict_annual_funda_predict,Predict value of Annual Accounts Payable
+491,oth432_lapb_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Accounts Payable
+492,oth432_lapb_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Accounts Payable
+493,oth432_lapb_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Accounts Payable
+494,oth432_lapb_trkdpitdeltapredict_funda_predict,Predict value of Accounts Payable
+495,oth432_lco_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Current Liabilities - Other - Total
+496,oth432_lco_compustatdeltapredict_annual_funda_predict,Predict value of Annual Current Liabilities - Other - Total
+497,oth432_lcoq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Current Liabilities - Other - Total
+498,oth432_lcoq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Current Liabilities - Other - Total
+499,oth432_lcoq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Current Liabilities - Other - Total
+500,oth432_lcoq_compustatdeltapredict_funda_predict,Predict value of Current Liabilities - Other - Total
+501,oth432_lct_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Current Liabilities - Total
+502,oth432_lct_compustatdeltapredict_annual_funda_predict,Predict value of Annual Current Liabilities - Total
+503,oth432_lctq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Current Liabilities - Total
+504,oth432_lctq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Current Liabilities - Total
+505,oth432_lctq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Current Liabilities - Total
+506,oth432_lctq_compustatdeltapredict_funda_predict,Predict value of Current Liabilities - Total
+507,oth432_lctq_mae,Mean Average Error of the model of Current Liabilities - Total
+508,oth432_lctq_predict,Predict value of Current Liabilities - Total
+509,oth432_lo_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Liabilities - Other
+510,oth432_lo_compustatdeltapredict_annual_funda_predict,Predict value of Liabilities - Other
+511,oth432_lt_compustatdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Liabilities - Total
+512,oth432_lt_compustatdeltapredict_annual_funda_predict,Predict value of Annual Liabilities - Total
+513,oth432_ltcl_mae,Mean Average Error of the model of Total Current Liabilities
+514,oth432_ltcl_predict,Predict value of Total Current Liabilities
+515,oth432_ltq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Liabilities - Total
+516,oth432_ltq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Liabilities - Total
+517,oth432_ltq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Liabilities - Total
+518,oth432_ltq_compustatdeltapredict_funda_predict,Predict value of Liabilities - Total
+519,oth432_ltq_mae,Mean Average Error of the model of Liabilities - Total
+520,oth432_ltq_predict,Predict value of Liabilities - Total
+521,oth432_lttd_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Long Term Debt
+522,oth432_lttd_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Long Term Debt
+523,oth432_lttd_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Long Term Debt
+524,oth432_lttd_trkdpitdeltapredict_funda_predict,Predict value of Total Long Term Debt
+525,oth432_ninc_mae,Mean Average Error of the model of Net Income (Loss) - Nonconsolidated
+526,oth432_ninc_predict,Predict value of Net Income (Loss) - Nonconsolidated
+527,oth432_ninc_q_profitability_profitability1,1st profitability field of Income Incl Extra Before Distributions
+528,oth432_ninc_q_profitability_profitability10,10th profitability field of Income Incl Extra Before Distributions
+529,oth432_ninc_q_profitability_profitability11,11th profitability field of Income Incl Extra Before Distributions
+530,oth432_ninc_q_profitability_profitability12,12th profitability field of Income Incl Extra Before Distributions
+531,oth432_ninc_q_profitability_profitability2,2nd profitability field of Income Incl Extra Before Distributions
+532,oth432_ninc_q_profitability_profitability3,3rd profitability field of Income Incl Extra Before Distributions
+533,oth432_ninc_q_profitability_profitability4,4th profitability field of Income Incl Extra Before Distributions
+534,oth432_ninc_q_profitability_profitability5,5th profitability field of Income Incl Extra Before Distributions
+535,oth432_ninc_q_profitability_profitability6,6th profitability field of Income Incl Extra Before Distributions
+536,oth432_ninc_q_profitability_profitability7,7th profitability field of Income Incl Extra Before Distributions
+537,oth432_ninc_q_profitability_profitability8,8th profitability field of Income Incl Extra Before Distributions
+538,oth432_ninc_q_profitability_profitability9,9th profitability field of Income Incl Extra Before Distributions
+539,oth432_ninc_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Income Incl Extra Before Distributions
+540,oth432_ninc_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Income Incl Extra Before Distributions
+541,oth432_ninc_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Income Incl Extra Before Distributions
+542,oth432_ninc_trkdpitdeltapredict_funda_predict,Predict value of Income Incl Extra Before Distributions
+543,oth432_niq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Net Income
+544,oth432_niq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Net Income
+545,oth432_niq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Net Income
+546,oth432_niq_compustatdeltapredict_funda_predict,Predict value of Net Income
+547,oth432_niq_mae,Mean Average Error of the model of Net Income (Loss)
+548,oth432_niq_predict,Predict value of Net Income (Loss)
+549,oth432_niq_profitability_profitability1,1st profitability field of Net Income
+550,oth432_niq_profitability_profitability10,10th profitability field of Net Income
+551,oth432_niq_profitability_profitability11,11th profitability field of Net Income
+552,oth432_niq_profitability_profitability12,12th profitability field of Net Income
+553,oth432_niq_profitability_profitability2,2nd profitability field of Net Income
+554,oth432_niq_profitability_profitability3,3rd profitability field of Net Income
+555,oth432_niq_profitability_profitability4,4th profitability field of Net Income
+556,oth432_niq_profitability_profitability5,5th profitability field of Net Income
+557,oth432_niq_profitability_profitability6,6th profitability field of Net Income
+558,oth432_niq_profitability_profitability7,7th profitability field of Net Income
+559,oth432_niq_profitability_profitability8,8th profitability field of Net Income
+560,oth432_niq_profitability_profitability9,9th profitability field of Net Income
+561,oth432_oiadpq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Operating Income After Depreciation
+562,oth432_oiadpq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Operating Income After Depreciation
+563,oth432_oiadpq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Operating Income After Depreciation
+564,oth432_oiadpq_compustatdeltapredict_funda_predict,Predict value of Operating Income After Depreciation
+565,oth432_oiadpq_mae,Mean Average Error of the model of Operating Income After Depreciation
+566,oth432_oiadpq_predict,Predict value of Operating Income After Depreciation
+567,oth432_oiadpq_profitability_profitability1,1st profitability field of Operating Income After Depreciation
+568,oth432_oiadpq_profitability_profitability10,10th profitability field of Operating Income After Depreciation
+569,oth432_oiadpq_profitability_profitability11,11th profitability field of Operating Income After Depreciation
+570,oth432_oiadpq_profitability_profitability12,12th profitability field of Operating Income After Depreciation
+571,oth432_oiadpq_profitability_profitability2,2nd profitability field of Operating Income After Depreciation
+572,oth432_oiadpq_profitability_profitability3,3rd profitability field of Operating Income After Depreciation
+573,oth432_oiadpq_profitability_profitability4,4th profitability field of Operating Income After Depreciation
+574,oth432_oiadpq_profitability_profitability5,5th profitability field of Operating Income After Depreciation
+575,oth432_oiadpq_profitability_profitability6,6th profitability field of Operating Income After Depreciation
+576,oth432_oiadpq_profitability_profitability7,7th profitability field of Operating Income After Depreciation
+577,oth432_oiadpq_profitability_profitability8,8th profitability field of Operating Income After Depreciation
+578,oth432_oiadpq_profitability_profitability9,9th profitability field of Operating Income After Depreciation
+579,oth432_oibdpq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Operating Income Before Depreciation
+580,oth432_oibdpq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Operating Income Before Depreciation
+581,oth432_oibdpq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Operating Income Before Depreciation
+582,oth432_oibdpq_compustatdeltapredict_funda_predict,Predict value of Operating Income Before Depreciation
+583,oth432_oibdpq_profitability_profitability1,1st profitability field of Operating Income Before Depreciation
+584,oth432_oibdpq_profitability_profitability10,10th profitability field of Operating Income Before Depreciation
+585,oth432_oibdpq_profitability_profitability11,11th profitability field of Operating Income Before Depreciation
+586,oth432_oibdpq_profitability_profitability12,12th profitability field of Operating Income Before Depreciation
+587,oth432_oibdpq_profitability_profitability2,2nd profitability field of Operating Income Before Depreciation
+588,oth432_oibdpq_profitability_profitability3,3rd profitability field of Operating Income Before Depreciation
+589,oth432_oibdpq_profitability_profitability4,4th profitability field of Operating Income Before Depreciation
+590,oth432_oibdpq_profitability_profitability5,5th profitability field of Operating Income Before Depreciation
+591,oth432_oibdpq_profitability_profitability6,6th profitability field of Operating Income Before Depreciation
+592,oth432_oibdpq_profitability_profitability7,7th profitability field of Operating Income Before Depreciation
+593,oth432_oibdpq_profitability_profitability8,8th profitability field of Operating Income Before Depreciation
+594,oth432_oibdpq_profitability_profitability9,9th profitability field of Operating Income Before Depreciation
+595,oth432_op_yield,Operating Yield of Predictive models
+596,oth432_opr_margin,Operating Margin of Predictive models
+597,oth432_otlo_a_profitability_profitability1,1st profitability field of Cash from Operating Activities
+598,oth432_otlo_a_profitability_profitability10,10th profitability field of Cash from Operating Activities
+599,oth432_otlo_a_profitability_profitability11,11th profitability field of Cash from Operating Activities
+600,oth432_otlo_a_profitability_profitability12,12th profitability field of Cash from Operating Activities
+601,oth432_otlo_a_profitability_profitability2,2nd profitability field of Cash from Operating Activities
+602,oth432_otlo_a_profitability_profitability3,3rd profitability field of Cash from Operating Activities
+603,oth432_otlo_a_profitability_profitability4,4th profitability field of Cash from Operating Activities
+604,oth432_otlo_a_profitability_profitability5,5th profitability field of Cash from Operating Activities
+605,oth432_otlo_a_profitability_profitability6,6th profitability field of Cash from Operating Activities
+606,oth432_otlo_a_profitability_profitability7,7th profitability field of Cash from Operating Activities
+607,oth432_otlo_a_profitability_profitability8,8th profitability field of Cash from Operating Activities
+608,oth432_otlo_a_profitability_profitability9,9th profitability field of Cash from Operating Activities
+609,oth432_otlo_q_profitability_profitability1,1st profitability field of Cash from Operating Activities
+610,oth432_otlo_q_profitability_profitability10,10th profitability field of Cash from Operating Activities
+611,oth432_otlo_q_profitability_profitability11,11th profitability field of Cash from Operating Activities
+612,oth432_otlo_q_profitability_profitability12,12th profitability field of Cash from Operating Activities
+613,oth432_otlo_q_profitability_profitability2,2nd profitability field of Cash from Operating Activities
+614,oth432_otlo_q_profitability_profitability3,3rd profitability field of Cash from Operating Activities
+615,oth432_otlo_q_profitability_profitability4,4th profitability field of Cash from Operating Activities
+616,oth432_otlo_q_profitability_profitability5,5th profitability field of Cash from Operating Activities
+617,oth432_otlo_q_profitability_profitability6,6th profitability field of Cash from Operating Activities
+618,oth432_otlo_q_profitability_profitability7,7th profitability field of Cash from Operating Activities
+619,oth432_otlo_q_profitability_profitability8,8th profitability field of Cash from Operating Activities
+620,oth432_otlo_q_profitability_profitability9,9th profitability field of Cash from Operating Activities
+621,oth432_otlo_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Cash from Operating Activities
+622,oth432_otlo_trkdpitdeltapredict_annual_funda_predict,Predict value of Annual Cash from Operating Activities
+623,oth432_otlo_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash from Operating Activities
+624,oth432_otlo_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash from Operating Activities
+625,oth432_otlo_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash from Operating Activities
+626,oth432_otlo_trkdpitdeltapredict_funda_predict,Predict value of Cash from Operating Activities
+627,oth432_ouie_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Unusual Items
+628,oth432_ouie_trkdpitdeltapredict_annual_funda_predict,Predict value of Unusual Items
+629,oth432_pbt,Tangible book to price ratio of Predictive models
+630,oth432_pe_po,Operating Earnings to Price ratio of Predictive models
+631,oth432_piq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Pretax Income
+632,oth432_piq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Pretax Income
+633,oth432_piq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Pretax Income
+634,oth432_piq_compustatdeltapredict_funda_predict,Predict value of Pretax Income
+635,oth432_piq_profitability_profitability1,1st profitability field of Pretax Income
+636,oth432_piq_profitability_profitability10,10th profitability field of Pretax Income
+637,oth432_piq_profitability_profitability11,11th profitability field of Pretax Income
+638,oth432_piq_profitability_profitability12,12th profitability field of Pretax Income
+639,oth432_piq_profitability_profitability2,2nd profitability field of Pretax Income
+640,oth432_piq_profitability_profitability3,3rd profitability field of Pretax Income
+641,oth432_piq_profitability_profitability4,4th profitability field of Pretax Income
+642,oth432_piq_profitability_profitability5,5th profitability field of Pretax Income
+643,oth432_piq_profitability_profitability6,6th profitability field of Pretax Income
+644,oth432_piq_profitability_profitability7,7th profitability field of Pretax Income
+645,oth432_piq_profitability_profitability8,8th profitability field of Pretax Income
+646,oth432_piq_profitability_profitability9,9th profitability field of Pretax Income
+647,oth432_ppentq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Property Plant and Equipment - Total (Net)
+648,oth432_ppentq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Property Plant and Equipment - Total (Net)
+649,oth432_ppentq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Property Plant and Equipment - Total (Net)
+650,oth432_ppentq_compustatdeltapredict_funda_predict,Predict value of Property Plant and Equipment - Total (Net)
+651,oth432_ppentq_mae,Mean Average Error of the model of Property Plant and Equipment - Total (Net)
+652,oth432_ppentq_predict,Predict value of Property Plant and Equipment - Total (Net)
+653,oth432_pred_cfo_yield,CFO Yield of Predictive models
+654,oth432_pred_fcfe_yield,FCFE yield of Predictive models
+655,oth432_pred_fcff_yield,FCFF yield of Predictive models
+656,oth432_predictive_models_profitability1,1st profitability field of Predictive models
+657,oth432_predictive_models_profitability2,2nd profitability field of Predictive models
+658,oth432_predictive_models_profitability3,3rd profitability field of Predictive models
+659,oth432_predictive_models_profitability4,4th profitability field of Predictive models
+660,oth432_predictive_models_profitability5,5th profitability field of Predictive models
+661,oth432_predictive_models_profitability6,6th profitability field of Predictive models
+662,oth432_predictiveebit_a_predict,Predict value of Earnings before Interest and Tax
+663,oth432_predictiveebit_q_predict,Predict value of Earnings before Interest and Tax
+664,oth432_predictiveebit_ttm_predict,Predict value of Earnings before Interest and Tax
+665,oth432_predictiveebitd_a_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+666,oth432_predictiveebitd_q_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+667,oth432_predictiveebitd_ttm_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+668,oth432_predictiveebt_a_predict,Predict value of Earnings before tax
+669,oth432_predictiveebt_q_predict,Predict value of Earnings before tax
+670,oth432_predictiveebt_ttm_predict,Predict value of Earnings before tax
+671,oth432_predictiveev_cur_mae,Mean Average Error of the model of Enterprise Value
+672,oth432_predictiveev_cur_predict,Predict value of Enterprise Value
+673,oth432_predictivefcf_a_predict,Predict value of Free Cash Flow
+674,oth432_predictivefcf_q_predict,Predict value of Free Cash Flow
+675,oth432_predictivefcf_ttm_predict,Predict value of Free Cash Flow
+676,oth432_predictiveni_a_predict,Predict value of Net Income
+677,oth432_predictiveni_q_predict,Predict value of Net Income
+678,oth432_predictiveni_ttm_predict,Predict value of Net Income
+679,oth432_predictiverev_a_predict,Predict value of Revenue - Total
+680,oth432_predictiverev_q_predict,Predict value of Revenue - Total
+681,oth432_predictiverev_ttm_predict,Predict value of Revenue - Total
+682,oth432_predictivetotd_a_predict,Predict value of Total Debt
+683,oth432_predictivetotd_q_predict,Predict value of Total Debt
+684,oth432_qcom_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Other Comprehensive Income
+685,oth432_qcom_trkdpitdeltapredict_annual_funda_predict,Predict value of Other Comprehensive Income
+686,oth432_qpic_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Additional Paid-In Capital
+687,oth432_qpic_trkdpitdeltapredict_annual_funda_predict,Predict value of Additional Paid-In Capital
+688,oth432_qtco_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Common Shares Outstanding
+689,oth432_qtco_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Common Shares Outstanding
+690,oth432_qtco_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Common Shares Outstanding
+691,oth432_qtco_trkdpitdeltapredict_funda_predict,Predict value of Total Common Shares Outstanding
+692,oth432_qtel_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Liabilities & Shareholders' Equity
+693,oth432_qtel_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Liabilities & Shareholders' Equity
+694,oth432_qtel_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Liabilities & Shareholders' Equity
+695,oth432_qtel_trkdpitdeltapredict_funda_predict,Predict value of Total Liabilities & Shareholders' Equity
+696,oth432_qtle_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Equity
+697,oth432_qtle_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Equity
+698,oth432_qtle_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Equity
+699,oth432_qtle_trkdpitdeltapredict_funda_predict,Predict value of Total Equity
+700,oth432_qtll_predict,Predict value of Total Equity & Minority Interest
+701,oth432_rasv2splitprofitabilityebit_q_profitability1,1st profitability field of Earnings before Interest and Tax
+702,oth432_rasv2splitprofitabilityebit_q_profitability10,10th profitability field of Earnings before Interest and Tax
+703,oth432_rasv2splitprofitabilityebit_q_profitability11,11th profitability field of Earnings before Interest and Tax
+704,oth432_rasv2splitprofitabilityebit_q_profitability12,12th profitability field of Earnings before Interest and Tax
+705,oth432_rasv2splitprofitabilityebit_q_profitability2,2nd profitability field of Earnings before Interest and Tax
+706,oth432_rasv2splitprofitabilityebit_q_profitability3,3rd profitability field of Earnings before Interest and Tax
+707,oth432_rasv2splitprofitabilityebit_q_profitability4,4th profitability field of Earnings before Interest and Tax
+708,oth432_rasv2splitprofitabilityebit_q_profitability5,5th profitability field of Earnings before Interest and Tax
+709,oth432_rasv2splitprofitabilityebit_q_profitability6,6th profitability field of Earnings before Interest and Tax
+710,oth432_rasv2splitprofitabilityebit_q_profitability7,7th profitability field of Earnings before Interest and Tax
+711,oth432_rasv2splitprofitabilityebit_q_profitability8,8th profitability field of Earnings before Interest and Tax
+712,oth432_rasv2splitprofitabilityebit_q_profitability9,9th profitability field of Earnings before Interest and Tax
+713,oth432_rasv2splitprofitabilityebit_ttm_profitability1,"1st profitability field of Earnings before Interest and Tax, trailing 12 months"
+714,oth432_rasv2splitprofitabilityebit_ttm_profitability10,"10th profitability field of Earnings before Interest and Tax, trailing 12 months"
+715,oth432_rasv2splitprofitabilityebit_ttm_profitability11,"11th profitability field of Earnings before Interest and Tax, trailing 12 months"
+716,oth432_rasv2splitprofitabilityebit_ttm_profitability12,"12th profitability field of Earnings before Interest and Tax, trailing 12 months"
+717,oth432_rasv2splitprofitabilityebit_ttm_profitability2,"2nd profitability field of Earnings before Interest and Tax, trailing 12 months"
+718,oth432_rasv2splitprofitabilityebit_ttm_profitability3,"3rd profitability field of Earnings before Interest and Tax, trailing 12 months"
+719,oth432_rasv2splitprofitabilityebit_ttm_profitability4,"4th profitability field of Earnings before Interest and Tax, trailing 12 months"
+720,oth432_rasv2splitprofitabilityebit_ttm_profitability5,"5th profitability field of Earnings before Interest and Tax, trailing 12 months"
+721,oth432_rasv2splitprofitabilityebit_ttm_profitability6,"6th profitability field of Earnings before Interest and Tax, trailing 12 months"
+722,oth432_rasv2splitprofitabilityebit_ttm_profitability7,"7th profitability field of Earnings before Interest and Tax, trailing 12 months"
+723,oth432_rasv2splitprofitabilityebit_ttm_profitability8,"8th profitability field of Earnings before Interest and Tax, trailing 12 months"
+724,oth432_rasv2splitprofitabilityebit_ttm_profitability9,"9th profitability field of Earnings before Interest and Tax, trailing 12 months"
+725,oth432_rasv2splitprofitabilityebitd_q_profitability1,"1st profitability field of Earnings before Interest,Tax and Depreciation"
+726,oth432_rasv2splitprofitabilityebitd_q_profitability10,"10th profitability field of Earnings before Interest,Tax and Depreciation"
+727,oth432_rasv2splitprofitabilityebitd_q_profitability11,"11th profitability field of Earnings before Interest,Tax and Depreciation"
+728,oth432_rasv2splitprofitabilityebitd_q_profitability12,"12th profitability field of Earnings before Interest,Tax and Depreciation"
+729,oth432_rasv2splitprofitabilityebitd_q_profitability2,"2nd profitability field of Earnings before Interest,Tax and Depreciation"
+730,oth432_rasv2splitprofitabilityebitd_q_profitability3,"3rd profitability field of Earnings before Interest,Tax and Depreciation"
+731,oth432_rasv2splitprofitabilityebitd_q_profitability4,"4th profitability field of Earnings before Interest,Tax and Depreciation"
+732,oth432_rasv2splitprofitabilityebitd_q_profitability5,"5th profitability field of Earnings before Interest,Tax and Depreciation"
+733,oth432_rasv2splitprofitabilityebitd_q_profitability6,"6th profitability field of Earnings before Interest,Tax and Depreciation"
+734,oth432_rasv2splitprofitabilityebitd_q_profitability7,"7th profitability field of Earnings before Interest,Tax and Depreciation"
+735,oth432_rasv2splitprofitabilityebitd_q_profitability8,"8th profitability field of Earnings before Interest,Tax and Depreciation"
+736,oth432_rasv2splitprofitabilityebitd_q_profitability9,"9th profitability field of Earnings before Interest,Tax and Depreciation"
+737,oth432_rasv2splitprofitabilityebitd_ttm_profitability1,"1st profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+738,oth432_rasv2splitprofitabilityebitd_ttm_profitability10,"10th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+739,oth432_rasv2splitprofitabilityebitd_ttm_profitability11,"11th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+740,oth432_rasv2splitprofitabilityebitd_ttm_profitability12,"12th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+741,oth432_rasv2splitprofitabilityebitd_ttm_profitability2,"2nd profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+742,oth432_rasv2splitprofitabilityebitd_ttm_profitability3,"3rd profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+743,oth432_rasv2splitprofitabilityebitd_ttm_profitability4,"4th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+744,oth432_rasv2splitprofitabilityebitd_ttm_profitability5,"5th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+745,oth432_rasv2splitprofitabilityebitd_ttm_profitability6,"6th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+746,oth432_rasv2splitprofitabilityebitd_ttm_profitability7,"7th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+747,oth432_rasv2splitprofitabilityebitd_ttm_profitability8,"8th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+748,oth432_rasv2splitprofitabilityebitd_ttm_profitability9,"9th profitability field of Earnings before Interest,Tax and Depreciation, trailing 12 months"
+749,oth432_rasv2splitprofitabilityebt_q_profitability1,1st profitability field of Earnings before tax
+750,oth432_rasv2splitprofitabilityebt_q_profitability10,10th profitability field of Earnings before tax
+751,oth432_rasv2splitprofitabilityebt_q_profitability11,11th profitability field of Earnings before tax
+752,oth432_rasv2splitprofitabilityebt_q_profitability12,12th profitability field of Earnings before tax
+753,oth432_rasv2splitprofitabilityebt_q_profitability2,2nd profitability field of Earnings before tax
+754,oth432_rasv2splitprofitabilityebt_q_profitability3,3rd profitability field of Earnings before tax
+755,oth432_rasv2splitprofitabilityebt_q_profitability4,4th profitability field of Earnings before tax
+756,oth432_rasv2splitprofitabilityebt_q_profitability5,5th profitability field of Earnings before tax
+757,oth432_rasv2splitprofitabilityebt_q_profitability6,6th profitability field of Earnings before tax
+758,oth432_rasv2splitprofitabilityebt_q_profitability7,7th profitability field of Earnings before tax
+759,oth432_rasv2splitprofitabilityebt_q_profitability8,8th profitability field of Earnings before tax
+760,oth432_rasv2splitprofitabilityebt_q_profitability9,9th profitability field of Earnings before tax
+761,oth432_rasv2splitprofitabilityebt_ttm_profitability1,"1st profitability field of Earnings before tax, trailing 12 months"
+762,oth432_rasv2splitprofitabilityebt_ttm_profitability10,"10th profitability field of Earnings before tax, trailing 12 months"
+763,oth432_rasv2splitprofitabilityebt_ttm_profitability11,"11th profitability field of Earnings before tax, trailing 12 months"
+764,oth432_rasv2splitprofitabilityebt_ttm_profitability12,"12th profitability field of Earnings before tax, trailing 12 months"
+765,oth432_rasv2splitprofitabilityebt_ttm_profitability2,"2nd profitability field of Earnings before tax, trailing 12 months"
+766,oth432_rasv2splitprofitabilityebt_ttm_profitability3,"3rd profitability field of Earnings before tax, trailing 12 months"
+767,oth432_rasv2splitprofitabilityebt_ttm_profitability4,"4th profitability field of Earnings before tax, trailing 12 months"
+768,oth432_rasv2splitprofitabilityebt_ttm_profitability5,"5th profitability field of Earnings before tax, trailing 12 months"
+769,oth432_rasv2splitprofitabilityebt_ttm_profitability6,"6th profitability field of Earnings before tax, trailing 12 months"
+770,oth432_rasv2splitprofitabilityebt_ttm_profitability7,"7th profitability field of Earnings before tax, trailing 12 months"
+771,oth432_rasv2splitprofitabilityebt_ttm_profitability8,"8th profitability field of Earnings before tax, trailing 12 months"
+772,oth432_rasv2splitprofitabilityebt_ttm_profitability9,"9th profitability field of Earnings before tax, trailing 12 months"
+773,oth432_rasv2splitprofitabilityfcf_q_profitability1,1st profitability field of Free Cash Flow
+774,oth432_rasv2splitprofitabilityfcf_q_profitability10,10th profitability field of Free Cash Flow
+775,oth432_rasv2splitprofitabilityfcf_q_profitability11,11th profitability field of Free Cash Flow
+776,oth432_rasv2splitprofitabilityfcf_q_profitability12,12th profitability field of Free Cash Flow
+777,oth432_rasv2splitprofitabilityfcf_q_profitability2,2nd profitability field of Free Cash Flow
+778,oth432_rasv2splitprofitabilityfcf_q_profitability3,3rd profitability field of Free Cash Flow
+779,oth432_rasv2splitprofitabilityfcf_q_profitability4,4th profitability field of Free Cash Flow
+780,oth432_rasv2splitprofitabilityfcf_q_profitability5,5th profitability field of Free Cash Flow
+781,oth432_rasv2splitprofitabilityfcf_q_profitability6,6th profitability field of Free Cash Flow
+782,oth432_rasv2splitprofitabilityfcf_q_profitability7,7th profitability field of Free Cash Flow
+783,oth432_rasv2splitprofitabilityfcf_q_profitability8,8th profitability field of Free Cash Flow
+784,oth432_rasv2splitprofitabilityfcf_q_profitability9,9th profitability field of Free Cash Flow
+785,oth432_rasv2splitprofitabilityfcf_ttm_profitability1,"1st profitability field of Free Cash Flow, trailing 12 months"
+786,oth432_rasv2splitprofitabilityfcf_ttm_profitability10,"10th profitability field of Free Cash Flow, trailing 12 months"
+787,oth432_rasv2splitprofitabilityfcf_ttm_profitability11,"11th profitability field of Free Cash Flow, trailing 12 months"
+788,oth432_rasv2splitprofitabilityfcf_ttm_profitability12,"12th profitability field of Free Cash Flow, trailing 12 months"
+789,oth432_rasv2splitprofitabilityfcf_ttm_profitability2,"2nd profitability field of Free Cash Flow, trailing 12 months"
+790,oth432_rasv2splitprofitabilityfcf_ttm_profitability3,"3rd profitability field of Free Cash Flow, trailing 12 months"
+791,oth432_rasv2splitprofitabilityfcf_ttm_profitability4,"4th profitability field of Free Cash Flow, trailing 12 months"
+792,oth432_rasv2splitprofitabilityfcf_ttm_profitability5,"5th profitability field of Free Cash Flow, trailing 12 months"
+793,oth432_rasv2splitprofitabilityfcf_ttm_profitability6,"6th profitability field of Free Cash Flow, trailing 12 months"
+794,oth432_rasv2splitprofitabilityfcf_ttm_profitability7,"7th profitability field of Free Cash Flow, trailing 12 months"
+795,oth432_rasv2splitprofitabilityfcf_ttm_profitability8,"8th profitability field of Free Cash Flow, trailing 12 months"
+796,oth432_rasv2splitprofitabilityfcf_ttm_profitability9,"9th profitability field of Free Cash Flow, trailing 12 months"
+797,oth432_rasv2splitprofitabilityni_q_profitability1,1st profitability field of Net Income
+798,oth432_rasv2splitprofitabilityni_q_profitability10,10th profitability field of Net Income
+799,oth432_rasv2splitprofitabilityni_q_profitability11,11th profitability field of Net Income
+800,oth432_rasv2splitprofitabilityni_q_profitability12,12th profitability field of Net Income
+801,oth432_rasv2splitprofitabilityni_q_profitability2,2nd profitability field of Net Income
+802,oth432_rasv2splitprofitabilityni_q_profitability3,3rd profitability field of Net Income
+803,oth432_rasv2splitprofitabilityni_q_profitability4,4th profitability field of Net Income
+804,oth432_rasv2splitprofitabilityni_q_profitability5,5th profitability field of Net Income
+805,oth432_rasv2splitprofitabilityni_q_profitability6,6th profitability field of Net Income
+806,oth432_rasv2splitprofitabilityni_q_profitability7,7th profitability field of Net Income
+807,oth432_rasv2splitprofitabilityni_q_profitability8,8th profitability field of Net Income
+808,oth432_rasv2splitprofitabilityni_q_profitability9,9th profitability field of Net Income
+809,oth432_rasv2splitprofitabilityni_ttm_profitability1,"1st profitability field of Net Income, trailing 12 months"
+810,oth432_rasv2splitprofitabilityni_ttm_profitability10,"10th profitability field of Net Income, trailing 12 months"
+811,oth432_rasv2splitprofitabilityni_ttm_profitability11,"11th profitability field of Net Income, trailing 12 months"
+812,oth432_rasv2splitprofitabilityni_ttm_profitability12,"12th profitability field of Net Income, trailing 12 months"
+813,oth432_rasv2splitprofitabilityni_ttm_profitability2,"2nd profitability field of Net Income, trailing 12 months"
+814,oth432_rasv2splitprofitabilityni_ttm_profitability3,"3rd profitability field of Net Income, trailing 12 months"
+815,oth432_rasv2splitprofitabilityni_ttm_profitability4,"4th profitability field of Net Income, trailing 12 months"
+816,oth432_rasv2splitprofitabilityni_ttm_profitability5,"5th profitability field of Net Income, trailing 12 months"
+817,oth432_rasv2splitprofitabilityni_ttm_profitability6,"6th profitability field of Net Income, trailing 12 months"
+818,oth432_rasv2splitprofitabilityni_ttm_profitability7,"7th profitability field of Net Income, trailing 12 months"
+819,oth432_rasv2splitprofitabilityni_ttm_profitability8,"8th profitability field of Net Income, trailing 12 months"
+820,oth432_rasv2splitprofitabilityni_ttm_profitability9,"9th profitability field of Net Income, trailing 12 months"
+821,oth432_rasv2splitprofitabilityrev_q_profitability1,1st profitability field of Revenue - Total
+822,oth432_rasv2splitprofitabilityrev_q_profitability10,10th profitability field of Revenue - Total
+823,oth432_rasv2splitprofitabilityrev_q_profitability11,11th profitability field of Revenue - Total
+824,oth432_rasv2splitprofitabilityrev_q_profitability12,12th profitability field of Revenue - Total
+825,oth432_rasv2splitprofitabilityrev_q_profitability2,2nd profitability field of Revenue - Total
+826,oth432_rasv2splitprofitabilityrev_q_profitability3,3rd profitability field of Revenue - Total
+827,oth432_rasv2splitprofitabilityrev_q_profitability4,4th profitability field of Revenue - Total
+828,oth432_rasv2splitprofitabilityrev_q_profitability5,5th profitability field of Revenue - Total
+829,oth432_rasv2splitprofitabilityrev_q_profitability6,6th profitability field of Revenue - Total
+830,oth432_rasv2splitprofitabilityrev_q_profitability7,7th profitability field of Revenue - Total
+831,oth432_rasv2splitprofitabilityrev_q_profitability8,8th profitability field of Revenue - Total
+832,oth432_rasv2splitprofitabilityrev_q_profitability9,9th profitability field of Revenue - Total
+833,oth432_rasv2splitprofitabilityrev_ttm_profitability1,"1st profitability field of Revenue - Total, trailing 12 months"
+834,oth432_rasv2splitprofitabilityrev_ttm_profitability10,"10th profitability field of Revenue - Total, trailing 12 months"
+835,oth432_rasv2splitprofitabilityrev_ttm_profitability11,"11th profitability field of Revenue - Total, trailing 12 months"
+836,oth432_rasv2splitprofitabilityrev_ttm_profitability12,"12th profitability field of Revenue - Total, trailing 12 months"
+837,oth432_rasv2splitprofitabilityrev_ttm_profitability2,"2nd profitability field of Revenue - Total, trailing 12 months"
+838,oth432_rasv2splitprofitabilityrev_ttm_profitability3,"3rd profitability field of Revenue - Total, trailing 12 months"
+839,oth432_rasv2splitprofitabilityrev_ttm_profitability4,"4th profitability field of Revenue - Total, trailing 12 months"
+840,oth432_rasv2splitprofitabilityrev_ttm_profitability5,"5th profitability field of Revenue - Total, trailing 12 months"
+841,oth432_rasv2splitprofitabilityrev_ttm_profitability6,"6th profitability field of Revenue - Total, trailing 12 months"
+842,oth432_rasv2splitprofitabilityrev_ttm_profitability7,"7th profitability field of Revenue - Total, trailing 12 months"
+843,oth432_rasv2splitprofitabilityrev_ttm_profitability8,"8th profitability field of Revenue - Total, trailing 12 months"
+844,oth432_rasv2splitprofitabilityrev_ttm_profitability9,"9th profitability field of Revenue - Total, trailing 12 months"
+845,oth432_rc,Current Ratio of Predictive models
+846,oth432_rectq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Receivables - Total
+847,oth432_rectq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Receivables - Total
+848,oth432_rectq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Receivables - Total
+849,oth432_rectq_compustatdeltapredict_funda_predict,Predict value of Receivables - Total
+850,oth432_rectq_mae,Mean Average Error of the model of Receivables - Total
+851,oth432_rectq_predict,Predict value of Receivables - Total
+852,oth432_rid,Defensive Interval Ratio of Predictive models
+853,oth432_rnts_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Net Sales
+854,oth432_rnts_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Net Sales
+855,oth432_rnts_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Net Sales
+856,oth432_rnts_trkdpitdeltapredict_funda_predict,Predict value of Net Sales
+857,oth432_rtlr_q_profitability_profitability1,1st profitability field of Total Revenue
+858,oth432_rtlr_q_profitability_profitability10,10th profitability field of Total Revenue
+859,oth432_rtlr_q_profitability_profitability11,11th profitability field of Total Revenue
+860,oth432_rtlr_q_profitability_profitability12,12th profitability field of Total Revenue
+861,oth432_rtlr_q_profitability_profitability2,2nd profitability field of Total Revenue
+862,oth432_rtlr_q_profitability_profitability3,3rd profitability field of Total Revenue
+863,oth432_rtlr_q_profitability_profitability4,4th profitability field of Total Revenue
+864,oth432_rtlr_q_profitability_profitability5,5th profitability field of Total Revenue
+865,oth432_rtlr_q_profitability_profitability6,6th profitability field of Total Revenue
+866,oth432_rtlr_q_profitability_profitability7,7th profitability field of Total Revenue
+867,oth432_rtlr_q_profitability_profitability8,8th profitability field of Total Revenue
+868,oth432_rtlr_q_profitability_profitability9,9th profitability field of Total Revenue
+869,oth432_rtlr_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Revenue
+870,oth432_rtlr_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Revenue
+871,oth432_rtlr_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Revenue
+872,oth432_rtlr_trkdpitdeltapredict_funda_predict,Predict value of Total Revenue
+873,oth432_saleq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Sales/Turnover (Net)
+874,oth432_saleq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Sales/Turnover (Net)
+875,oth432_saleq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Sales/Turnover (Net)
+876,oth432_saleq_compustatdeltapredict_funda_predict,Predict value of Sales/Turnover (Net)
+877,oth432_saleq_profitability_profitability1,1st profitability field of Sales/Turnover (Net)
+878,oth432_saleq_profitability_profitability10,10th profitability field of Sales/Turnover (Net)
+879,oth432_saleq_profitability_profitability11,11th profitability field of Sales/Turnover (Net)
+880,oth432_saleq_profitability_profitability12,12th profitability field of Sales/Turnover (Net)
+881,oth432_saleq_profitability_profitability2,2nd profitability field of Sales/Turnover (Net)
+882,oth432_saleq_profitability_profitability3,3rd profitability field of Sales/Turnover (Net)
+883,oth432_saleq_profitability_profitability4,4th profitability field of Sales/Turnover (Net)
+884,oth432_saleq_profitability_profitability5,5th profitability field of Sales/Turnover (Net)
+885,oth432_saleq_profitability_profitability6,6th profitability field of Sales/Turnover (Net)
+886,oth432_saleq_profitability_profitability7,7th profitability field of Sales/Turnover (Net)
+887,oth432_saleq_profitability_profitability8,8th profitability field of Sales/Turnover (Net)
+888,oth432_saleq_profitability_profitability9,9th profitability field of Sales/Turnover (Net)
+889,oth432_sales_ev,Sales to Enterprise value ratio of Predictive models
+890,oth432_sbda_a_profitability_profitability1,1st profitability field of Normalized EBITDA
+891,oth432_sbda_a_profitability_profitability10,10th profitability field of Normalized EBITDA
+892,oth432_sbda_a_profitability_profitability11,11th profitability field of Normalized EBITDA
+893,oth432_sbda_a_profitability_profitability12,12th profitability field of Normalized EBITDA
+894,oth432_sbda_a_profitability_profitability2,2nd profitability field of Normalized EBITDA
+895,oth432_sbda_a_profitability_profitability3,3rd profitability field of Normalized EBITDA
+896,oth432_sbda_a_profitability_profitability4,4th profitability field of Normalized EBITDA
+897,oth432_sbda_a_profitability_profitability5,5th profitability field of Normalized EBITDA
+898,oth432_sbda_a_profitability_profitability6,6th profitability field of Normalized EBITDA
+899,oth432_sbda_a_profitability_profitability7,7th profitability field of Normalized EBITDA
+900,oth432_sbda_a_profitability_profitability8,8th profitability field of Normalized EBITDA
+901,oth432_sbda_a_profitability_profitability9,9th profitability field of Normalized EBITDA
+902,oth432_sbda_mae,Mean Average Error of the model of Normalized EBITDA
+903,oth432_sbda_predict,Predict value of Normalized EBITDA
+904,oth432_sbda_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Annual Normalized EBITDA
+905,oth432_sbda_trkdpitdeltapredict_annual_funda_predict,Predict value of Annual Normalized EBITDA
+906,oth432_scex_predict,Predict value of Capital Expenditures
+907,oth432_scex_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Capital Expenditures
+908,oth432_scex_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Capital Expenditures
+909,oth432_scex_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Capital Expenditures
+910,oth432_scex_trkdpitdeltapredict_funda_predict,Predict value of Capital Expenditures
+911,oth432_scip_trkdpitdeltapredict_funda_mada,"Mean Absolute Deviation of scaled actual value of Cash Interest Paid, Supplemental"
+912,oth432_scip_trkdpitdeltapredict_funda_madp,"Mean Absolute Deviation of predicted value of Cash Interest Paid, Supplemental"
+913,oth432_scip_trkdpitdeltapredict_funda_mae,"Mean Average Error of the model of Cash Interest Paid, Supplemental"
+914,oth432_scip_trkdpitdeltapredict_funda_predict,"Predict value of Cash Interest Paid, Supplemental"
+915,oth432_scor_mae,"Mean Average Error of the model of Cost of Revenue, Total"
+916,oth432_scor_predict,"Predict value of Cost of Revenue, Total"
+917,oth432_scsi_mae,Mean Average Error of the model of Cash and Short Term Investments
+918,oth432_scsi_predict,Predict value of Cash and Short Term Investments
+919,oth432_scsi_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash and Short Term Investments
+920,oth432_scsi_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash and Short Term Investments
+921,oth432_scsi_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash and Short Term Investments
+922,oth432_scsi_trkdpitdeltapredict_funda_predict,Predict value of Cash and Short Term Investments
+923,oth432_sctp_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Cash Taxes Paid
+924,oth432_sctp_trkdpitdeltapredict_annual_funda_predict,Predict value of Cash Taxes Paid
+925,oth432_scui_mae,Mean Average Error of the model of Total Current Assets less Inventory
+926,oth432_scui_predict,Predict value of Total Current Assets less Inventory
+927,oth432_sdaj_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Dilution Adjustment
+928,oth432_sdaj_trkdpitdeltapredict_annual_funda_predict,Predict value of Dilution Adjustment
+929,oth432_sfcf_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Financing Cash Flow Items
+930,oth432_sfcf_trkdpitdeltapredict_annual_funda_predict,Predict value of Financing Cash Flow Items
+931,oth432_sgpp_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Gross Margin
+932,oth432_sgpp_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Gross Margin
+933,oth432_sgpp_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Gross Margin
+934,oth432_sgpp_trkdpitdeltapredict_funda_predict,Predict value of Gross Margin
+935,oth432_sgrp_mae,Mean Average Error of the model of Gross Profit
+936,oth432_sgrp_predict,Predict value of Gross Profit
+937,oth432_sgrp_q_profitability_profitability1,1st profitability field of Gross Margin
+938,oth432_sgrp_q_profitability_profitability10,10th profitability field of Gross Margin
+939,oth432_sgrp_q_profitability_profitability11,11th profitability field of Gross Margin
+940,oth432_sgrp_q_profitability_profitability12,12th profitability field of Gross Margin
+941,oth432_sgrp_q_profitability_profitability2,2nd profitability field of Gross Margin
+942,oth432_sgrp_q_profitability_profitability3,3rd profitability field of Gross Margin
+943,oth432_sgrp_q_profitability_profitability4,4th profitability field of Gross Margin
+944,oth432_sgrp_q_profitability_profitability5,5th profitability field of Gross Margin
+945,oth432_sgrp_q_profitability_profitability6,6th profitability field of Gross Margin
+946,oth432_sgrp_q_profitability_profitability7,7th profitability field of Gross Margin
+947,oth432_sgrp_q_profitability_profitability8,8th profitability field of Gross Margin
+948,oth432_sgrp_q_profitability_profitability9,9th profitability field of Gross Margin
+949,oth432_sgrp_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Gross Margin
+950,oth432_sgrp_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Gross Margin
+951,oth432_sgrp_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Gross Margin
+952,oth432_sgrp_trkdpitdeltapredict_funda_predict,Predict value of Gross Margin
+953,oth432_sicf_trkdpitdeltapredict_annual_funda_madp,"Mean Absolute Deviation of predicted value of Other Investing Cash Flow Items, Total"
+954,oth432_sicf_trkdpitdeltapredict_annual_funda_predict,"Predict value of Other Investing Cash Flow Items, Total"
+955,oth432_sncc_mae,Mean Average Error of the model of Net Change in Cash
+956,oth432_sncc_predict,Predict value of Net Change in Cash
+957,oth432_sncc_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Net Change in Cash
+958,oth432_sncc_trkdpitdeltapredict_annual_funda_predict,Predict value of Net Change in Cash
+959,oth432_snce_mae,Mean Average Error of the model of Net Cash - Ending Balance
+960,oth432_snce_predict,Predict value of Net Cash - Ending Balance
+961,oth432_sntd_predict,Predict value of Net Debt Incl. Pref.Stock & Min.Interest
+962,oth432_sntd_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Net Debt Incl. Pref.Stock & Min.Interest
+963,oth432_sntd_trkdpitdeltapredict_annual_funda_predict,Predict value of Net Debt Incl. Pref.Stock & Min.Interest
+964,oth432_socf_predict,Predict value of Changes in Working Capital
+965,oth432_socf_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Changes in Working Capital
+966,oth432_socf_trkdpitdeltapredict_annual_funda_predict,Predict value of Changes in Working Capital
+967,oth432_socf_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Changes in Working Capital
+968,oth432_socf_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Changes in Working Capital
+969,oth432_socf_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Changes in Working Capital
+970,oth432_socf_trkdpitdeltapredict_funda_predict,Predict value of Changes in Working Capital
+971,oth432_sola_trkdpitdeltapredict_annual_funda_madp,"Mean Absolute Deviation of predicted value of Other Long Term Assets, Total"
+972,oth432_sola_trkdpitdeltapredict_annual_funda_predict,"Predict value of Other Long Term Assets, Total"
+973,oth432_sptm_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Pretax Margin
+974,oth432_sptm_trkdpitdeltapredict_annual_funda_predict,Predict value of Pretax Margin
+975,oth432_srev_mae,Mean Average Error of the model of Revenue
+976,oth432_srev_predict,Predict value of Revenue
+977,oth432_srev_q_profitability_profitability1,1st profitability field of Revenue
+978,oth432_srev_q_profitability_profitability10,10th profitability field of Revenue
+979,oth432_srev_q_profitability_profitability11,11th profitability field of Revenue
+980,oth432_srev_q_profitability_profitability12,12th profitability field of Revenue
+981,oth432_srev_q_profitability_profitability2,2nd profitability field of Revenue
+982,oth432_srev_q_profitability_profitability3,3rd profitability field of Revenue
+983,oth432_srev_q_profitability_profitability4,4th profitability field of Revenue
+984,oth432_srev_q_profitability_profitability5,5th profitability field of Revenue
+985,oth432_srev_q_profitability_profitability6,6th profitability field of Revenue
+986,oth432_srev_q_profitability_profitability7,7th profitability field of Revenue
+987,oth432_srev_q_profitability_profitability8,8th profitability field of Revenue
+988,oth432_srev_q_profitability_profitability9,9th profitability field of Revenue
+989,oth432_srev_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Revenue
+990,oth432_srev_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Revenue
+991,oth432_srev_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Revenue
+992,oth432_srev_trkdpitdeltapredict_funda_predict,Predict value of Revenue
+993,oth432_stbp_predict,"Predict value of Tangible Book Value per Share, Common Eq"
+994,oth432_stld_predict,Predict value of Total Debt
+995,oth432_stld_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Debt
+996,oth432_stld_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Debt
+997,oth432_stld_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Debt
+998,oth432_stld_trkdpitdeltapredict_funda_predict,Predict value of Total Debt
+999,oth432_total_coverage,Total Coverage of Predictive models
+1000,oth432_trkdpit_models_leverage_payoff1,1st deleveraged profitability measure of Predictive models
+1001,oth432_trkdpit_models_leverage_payoff2,2nd deleveraged profitability measure of Predictive models
+1002,oth432_trkdpit_models_leverage_payoff3,3rd deleveraged profitability measure of Predictive models
+1003,oth432_trkdpit_models_leverage_payoff4,4th deleveraged profitability measure of Predictive models
+1004,oth432_trkdpit_models_leverage_payoff5,5th deleveraged profitability measure of Predictive models
+1005,oth432_trkdpit_models_profitability1,1st profitability field of Predictive models
+1006,oth432_trkdpit_models_profitability10,10th profitability field of Predictive models
+1007,oth432_trkdpit_models_profitability11,11th profitability field of Predictive models
+1008,oth432_trkdpit_models_profitability12,12th profitability field of Predictive models
+1009,oth432_trkdpit_models_profitability13,13th profitability field of Predictive models
+1010,oth432_trkdpit_models_profitability14,14th profitability field of Predictive models
+1011,oth432_trkdpit_models_profitability15,15th profitability field of Predictive models
+1012,oth432_trkdpit_models_profitability2,2nd profitability field of Predictive models
+1013,oth432_trkdpit_models_profitability3,3rd profitability field of Predictive models
+1014,oth432_trkdpit_models_profitability4,4th profitability field of Predictive models
+1015,oth432_trkdpit_models_profitability5,5th profitability field of Predictive models
+1016,oth432_trkdpit_models_profitability6,6th profitability field of Predictive models
+1017,oth432_trkdpit_models_profitability7,7th profitability field of Predictive models
+1018,oth432_trkdpit_models_profitability8,8th profitability field of Predictive models
+1019,oth432_trkdpit_models_profitability9,9th profitability field of Predictive models
+1020,oth432_trkdpit_models_tot_rev_cap,Total Revenue to market cap ratio of Predictive models
+1021,oth432_trkdpit_models_tot_rev_yield,Total Revenue Yield of Predictive models
+1022,oth432_trkdpitpredictiveaccpayable_mad_act,Mean Absolute Deviation of scaled actual value of Account Payable
+1023,oth432_trkdpitpredictiveaccpayable_mad_pred,Mean Absolute Deviation of predicted value of Account Payable
+1024,oth432_trkdpitpredictiveaccpayable_mae,Mean Average Error of the model of Account Payable
+1025,oth432_trkdpitpredictiveaccpayable_prediction,Predict value of Account Payable
+1026,oth432_trkdpitpredictivecapex_mad_act,Mean Absolute Deviation of scaled actual value of Capital Expenditure
+1027,oth432_trkdpitpredictivecapex_mad_pred,Mean Absolute Deviation of predicted value of Capital Expenditure
+1028,oth432_trkdpitpredictivecapex_mae,Mean Average Error of the model of Capital Expenditure
+1029,oth432_trkdpitpredictivecapex_prediction,Predict value of Capital Expenditure
+1030,oth432_trkdpitpredictivecfo_mad_act,Mean Absolute Deviation of scaled actual value of CFO
+1031,oth432_trkdpitpredictivecfo_mad_pred,Mean Absolute Deviation of predicted value of CFO
+1032,oth432_trkdpitpredictivecfo_mae,Mean Average Error of the model of CFO
+1033,oth432_trkdpitpredictivecfo_prediction,Predict value of CFO
+1034,oth432_trkdpitpredictivecogs_mad_act,Mean Absolute Deviation of scaled actual value of Cost of Goods sold
+1035,oth432_trkdpitpredictivecogs_mad_pred,Mean Absolute Deviation of predicted value of Cost of Goods sold
+1036,oth432_trkdpitpredictivecogs_mae,Mean Average Error of the model of Cost of Goods sold
+1037,oth432_trkdpitpredictivecogs_prediction,Predict value of Cost of Goods sold
+1038,oth432_trkdpitpredictivecurrassets_mad_act,Mean Absolute Deviation of scaled actual value of Current Assets
+1039,oth432_trkdpitpredictivecurrassets_mad_pred,Mean Absolute Deviation of predicted value of Current Assets
+1040,oth432_trkdpitpredictivecurrassets_mae,Mean Average Error of the model of Current Assets
+1041,oth432_trkdpitpredictivecurrassets_prediction,Predict value of Current Assets
+1042,oth432_trkdpitpredictivecurrliabilities_mad_act,Mean Absolute Deviation of scaled actual value of Current Liabilities
+1043,oth432_trkdpitpredictivecurrliabilities_mad_pred,Mean Absolute Deviation of predicted value of Current Liabilities
+1044,oth432_trkdpitpredictivecurrliabilities_mae,Mean Average Error of the model of Current Liabilities
+1045,oth432_trkdpitpredictivecurrliabilities_prediction,Predict value of Current Liabilities
+1046,oth432_trkdpitpredictivedebtissuance_mad_act,Mean Absolute Deviation of scaled actual value of Debt Issuance
+1047,oth432_trkdpitpredictivedebtissuance_mad_pred,Mean Absolute Deviation of predicted value of Debt Issuance
+1048,oth432_trkdpitpredictivedebtissuance_mae,Mean Average Error of the model of Debt Issuance
+1049,oth432_trkdpitpredictivedebtissuance_prediction,Predict value of Debt Issuance
+1050,oth432_trkdpitpredictivedps_mad_act,Mean Absolute Deviation of scaled actual value of Dividend per share
+1051,oth432_trkdpitpredictivedps_mad_pred,Mean Absolute Deviation of predicted value of Dividend per share
+1052,oth432_trkdpitpredictivedps_mae,Mean Average Error of the model of Dividend per share
+1053,oth432_trkdpitpredictivedps_prediction,Predict value of Dividend per share
+1054,oth432_trkdpitpredictiveebit_mad_act,Mean Absolute Deviation of scaled actual value of Earnings before Interest and Tax
+1055,oth432_trkdpitpredictiveebit_mad_pred,Mean Absolute Deviation of predicted value of Earnings before Interest and Tax
+1056,oth432_trkdpitpredictiveebit_mae,Mean Average Error of the model of Earnings before Interest and Tax
+1057,oth432_trkdpitpredictiveebit_prediction,Predict value of Earnings before Interest and Tax
+1058,oth432_trkdpitpredictiveebitda_mad_act,Mean Absolute Deviation of scaled actual value of Earnings Before Interest
+1059,oth432_trkdpitpredictiveebitda_mad_pred,Mean Absolute Deviation of predicted value of Earnings Before Interest
+1060,oth432_trkdpitpredictiveebitda_mae,Mean Average Error of the model of Earnings Before Interest
+1061,oth432_trkdpitpredictiveebitda_prediction,Predict value of Earnings Before Interest
+1062,oth432_trkdpitpredictiveev_mad_act,Mean Absolute Deviation of scaled actual value of Enterprise Value
+1063,oth432_trkdpitpredictiveev_mad_pred,Mean Absolute Deviation of predicted value of Enterprise Value
+1064,oth432_trkdpitpredictiveev_mae,Mean Average Error of the model of Enterprise Value
+1065,oth432_trkdpitpredictiveev_prediction,Predict value of Enterprise Value
+1066,oth432_trkdpitpredictivefcfe_mad_act,Mean Absolute Deviation of scaled actual value of Free Cash Flow Equity
+1067,oth432_trkdpitpredictivefcfe_mad_pred,Mean Absolute Deviation of predicted value of Free Cash Flow Equity
+1068,oth432_trkdpitpredictivefcfe_mae,Mean Average Error of the model of Free Cash Flow Equity
+1069,oth432_trkdpitpredictivefcfe_prediction,Predict value of Free Cash Flow Equity
+1070,oth432_trkdpitpredictivefcff_mad_act,Mean Absolute Deviation of scaled actual value of Free Cash Flow Firm
+1071,oth432_trkdpitpredictivefcff_mad_pred,Mean Absolute Deviation of predicted value of Free Cash Flow Firm
+1072,oth432_trkdpitpredictivefcff_mae,Mean Average Error of the model of Free Cash Flow Firm
+1073,oth432_trkdpitpredictivefcff_prediction,Predict value of Free Cash Flow Firm
+1074,oth432_trkdpitpredictiveltcashnequivalents_mad_act,Mean Absolute Deviation of scaled actual value of Long-term Cash&Equivalents
+1075,oth432_trkdpitpredictiveltcashnequivalents_mad_pred,Mean Absolute Deviation of predicted value of Long-term Cash&Equivalents
+1076,oth432_trkdpitpredictiveltcashnequivalents_mae,Mean Average Error of the model of Long-term Cash&Equivalents
+1077,oth432_trkdpitpredictiveltcashnequivalents_prediction,Predict value of Long-term Cash&Equivalents
+1078,oth432_trkdpitpredictiveltdebt_mad_act,Mean Absolute Deviation of scaled actual value of Long-term debt
+1079,oth432_trkdpitpredictiveltdebt_mad_pred,Mean Absolute Deviation of predicted value of Long-term debt
+1080,oth432_trkdpitpredictiveltdebt_mae,Mean Average Error of the model of Long-term debt
+1081,oth432_trkdpitpredictiveltdebt_prediction,Predict value of Long-term debt
+1082,oth432_trkdpitpredictivenetdebt_mad_act,Mean Absolute Deviation of scaled actual value of Net Debt
+1083,oth432_trkdpitpredictivenetdebt_mad_pred,Mean Absolute Deviation of predicted value of Net Debt
+1084,oth432_trkdpitpredictivenetdebt_mae,Mean Average Error of the model of Net Debt
+1085,oth432_trkdpitpredictivenetdebt_prediction,Predict value of Net Debt
+1086,oth432_trkdpitpredictivenetincome_mad_act,Mean Absolute Deviation of scaled actual value of Net Income
+1087,oth432_trkdpitpredictivenetincome_mad_pred,Mean Absolute Deviation of predicted value of Net Income
+1088,oth432_trkdpitpredictivenetincome_mae,Mean Average Error of the model of Net Income
+1089,oth432_trkdpitpredictivenetincome_prediction,Predict value of Net Income
+1090,oth432_trkdpitpredictivenetreceivables_mad_act,Mean Absolute Deviation of scaled actual value of Net Receivables
+1091,oth432_trkdpitpredictivenetreceivables_mad_pred,Mean Absolute Deviation of predicted value of Net Receivables
+1092,oth432_trkdpitpredictivenetreceivables_mae,Mean Average Error of the model of Net Receivables
+1093,oth432_trkdpitpredictivenetreceivables_prediction,Predict value of Net Receivables
+1094,oth432_trkdpitpredictiverndexpense_mad_act,Mean Absolute Deviation of scaled actual value of Research&Development Expense
+1095,oth432_trkdpitpredictiverndexpense_mad_pred,Mean Absolute Deviation of predicted value of Research&Development Expense
+1096,oth432_trkdpitpredictiverndexpense_mae,Mean Average Error of the model of Research&Development Expense
+1097,oth432_trkdpitpredictiverndexpense_prediction,Predict value of Research&Development Expense
+1098,oth432_trkdpitpredictiveroa_mad_act,Mean Absolute Deviation of scaled actual value of Return on Assets
+1099,oth432_trkdpitpredictiveroa_mad_pred,Mean Absolute Deviation of predicted value of Return on Assets
+1100,oth432_trkdpitpredictiveroa_mae,Mean Average Error of the model of Return on Assets
+1101,oth432_trkdpitpredictiveroa_prediction,Predict value of Return on Assets
+1102,oth432_trkdpitpredictiveroe_mad_act,Mean Absolute Deviation of scaled actual value of Return on Equity
+1103,oth432_trkdpitpredictiveroe_mad_pred,Mean Absolute Deviation of predicted value of Return on Equity
+1104,oth432_trkdpitpredictiveroe_mae,Mean Average Error of the model of Return on Equity
+1105,oth432_trkdpitpredictiveroe_prediction,Predict value of Return on Equity
+1106,oth432_trkdpitpredictivetangiblebvps_mad_act,Mean Absolute Deviation of scaled actual value of Tangible book value per share
+1107,oth432_trkdpitpredictivetangiblebvps_mad_pred,Mean Absolute Deviation of predicted value of Tangible book value per share
+1108,oth432_trkdpitpredictivetangiblebvps_mae,Mean Average Error of the model of Tangible book value per share
+1109,oth432_trkdpitpredictivetangiblebvps_prediction,Predict value of Tangible book value per share
+1110,oth432_trkdpitpredictivetotassets_mad_act,Mean Absolute Deviation of scaled actual value of Total Assets
+1111,oth432_trkdpitpredictivetotassets_mad_pred,Mean Absolute Deviation of predicted value of Total Assets
+1112,oth432_trkdpitpredictivetotassets_mae,Mean Average Error of the model of Total Assets
+1113,oth432_trkdpitpredictivetotassets_prediction,Predict value of Total Assets
+1114,oth432_trkdpitpredictivetotinventory_mad_act,Mean Absolute Deviation of scaled actual value of Total Inventories
+1115,oth432_trkdpitpredictivetotinventory_mad_pred,Mean Absolute Deviation of predicted value of Total Inventories
+1116,oth432_trkdpitpredictivetotinventory_mae,Mean Average Error of the model of Total Inventories
+1117,oth432_trkdpitpredictivetotinventory_prediction,Predict value of Total Inventories
+1118,oth432_trkdpitpredictivetotrevenue_mad_act,Mean Absolute Deviation of scaled actual value of Total Revenue
+1119,oth432_trkdpitpredictivetotrevenue_mad_pred,Mean Absolute Deviation of predicted value of Total Revenue
+1120,oth432_trkdpitpredictivetotrevenue_mae,Mean Average Error of the model of Total Revenue
+1121,oth432_trkdpitpredictivetotrevenue_prediction,Predict value of Total Revenue
+1122,oth432_txtq_compustatdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Income Taxes - Total
+1123,oth432_txtq_compustatdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Income Taxes - Total
+1124,oth432_txtq_compustatdeltapredict_funda_mae,Mean Average Error of the model of Income Taxes - Total
+1125,oth432_txtq_compustatdeltapredict_funda_predict,Predict value of Income Taxes - Total
+1126,oth432_txtq_mae,Mean Average Error of the model of Income Taxes - Total
+1127,oth432_txtq_predict,Predict value of Income Taxes - Total
+1128,oth432_ve,Enterprise Value of Predictive models
+1129,oth432_viex_trkdpitdeltapredict_annual_funda_madp,"Mean Absolute Deviation of predicted value of Interest Expense, Supplemental"
+1130,oth432_viex_trkdpitdeltapredict_annual_funda_predict,"Predict value of Interest Expense, Supplemental"
+1131,oth432_visibility,Visibility of Predictive models
+1132,oth432_vitt_trkdpitdeltapredict_annual_funda_madp,Mean Absolute Deviation of predicted value of Income Tax - Total
+1133,oth432_vitt_trkdpitdeltapredict_annual_funda_predict,Predict value of Income Tax - Total
+1134,oth432_xintq_mae,Mean Average Error of the model of Interest and Related Expense- Total
+1135,oth432_xintq_predict,Predict value of Interest and Related Expense- Total
+1136,oth432_yoy_change_cr,YOY change in current ratio of Predictive models
+1137,oth432_yoy_change_da,YOY change in debt to asset ratio of Predictive models
+1138,oth432_yoy_change_de,YOY change in debt to equity ratio of Predictive models

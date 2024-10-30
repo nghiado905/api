@@ -1,0 +1,32 @@
+,id,description
+0,anl39_2_curfperiodend,Current fiscal period end
+1,anl39_2_curfyearend,Current fiscal year end
+2,anl39_2_curperiodnum,Number of current period
+3,anl39_2_cursharesoutstanding,Current shares outstanding
+4,anl39_2_xrefmap,Company xref
+5,anl39_2curfperiodend,Current fiscal period end
+6,anl39_2curfyearend,Current fiscal year end
+7,anl39_2curperiodtype,Type of current period
+8,anl39_2cursharesoutstanding,Current shares outstanding
+9,anl39_2xrefmap,Company xref
+10,anl39_all_delay_1_analyststart,Analyst start date
+11,anl39_all_delay_1_brokerstart,Broker start date
+12,anl39_analyststart,Analyst start date
+13,anl39_curfperiodend,Current fiscal period end
+14,anl39_curfyearend,Current fiscal year end
+15,anl39_curperiodtype,Type of current period
+16,anl39_cursharesoutstanding,Current shares outstanding
+17,anl39_ltg_all_delay_1_high,High estimate
+18,anl39_ltg_all_delay_1_low,Low estimate
+19,anl39_ltg_all_delay_1_mean,Mean estimate
+20,anl39_ltg_all_delay_1_median,Median estimate
+21,anl39_ltg_all_delay_1_numofests,Number of estimates
+22,anl39_rkdrepnomap,Company report number
+23,anl39_rkdxrefmap,Company xref
+24,anl39_tp_all_delay_1_high,High estimate
+25,anl39_tp_all_delay_1_low,Low estimate
+26,anl39_tp_all_delay_1_mean,Mean estimate
+27,anl39_tp_all_delay_1_median,Median estimate
+28,anl39_tp_all_delay_1_numofests,Number of estimates
+29,anl39_tp_all_delay_1_stddev,Standart deviation of estimates
+30,anl39_xrefmap,Company xref

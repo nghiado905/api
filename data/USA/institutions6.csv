@@ -1,0 +1,12 @@
+,id,description
+0,inst6_num_of_institutional_buyers,Number of institutional buyers for security
+1,inst6_num_of_institutional_holders,Number of institutional owners for security
+2,inst6_num_of_institutional_sellers,Number of institutional sellers for security
+3,inst6_num_of_institutional_shares_bought,Number of shares purchased by institutions
+4,inst6_num_of_institutional_shares_sold,Number of shares sold by institutions
+5,inst6_total_share_held_by_owners,"Aggregate shares held by all owners, with duplication between child and parent owners removed"
+6,inst6_total_shares_held_by_institutions,Aggregate shares held by institutions
+7,inst6_value_held_by_institutions,Aggregate Dollar value of holding shares by institutions
+8,inst6_value_held_by_owners,Aggregate Dollar value of holding shares by all owners with duplication between child and parent owners removed
+9,inst6_value_of_institutional_shares_bought,Aggregate dollar value of shares purchased by institutions
+10,inst6_value_of_institutional_shares_sold,Aggregate dollar value of shares sold by institutions

@@ -1,0 +1,13 @@
+,id,description
+0,ern2_corppresntn_d1_calendar_next,Next conference presentation date
+1,ern2_corppresntn_d1_calendar_prev,Previous conference presentation date
+2,ern2_earnconfcall_d1_calendar_next,Next earnings conference call date
+3,ern2_earnconfcall_d1_calendar_prev,Previous earnings conference call date
+4,ern2_earnrelease_d1_calendar_next,Next earnings release date
+5,ern2_earnrelease_d1_calendar_prev,Previous earnings release date
+6,ern2_earnrelease_d1_estimate_calendar_next,Estimated next earnings release date
+7,ern2_exdivdnd_d1_calendar_next,Next ex-dividend date
+8,ern2_exdivdnd_d1_calendar_prev,Previous ex-dividend date
+9,ern2_shareholdrannmeet_d1_calendar_next,Next Shareholder Annual Meeting  date
+10,ern2_shareholdrannmeet_d1_calendar_prev,Previous Shareholder Annual Meeting  date
+11,ern2_shareholdrannmeet_d1_estimate_calendar_next,Estimated next Shareholder Annual Meeting  date

@@ -1,0 +1,29 @@
+,id,description
+0,mdl30_numnly_fq1_eps,Number of SmartEstimate Analysts FQ1 EPS
+1,mdl30_numnly_fq2_eps,Number of SmartEstimate Analysts FQ2 EPS
+2,mdl30_numnly_fy1_eps,Number of SmartEstimate Analysts FY1 EPS
+3,mdl30_numnly_fy2_eps,Number of SmartEstimate Analysts FY2 EPS
+4,mdl30_psprise_pct_f12m_eps,Predicted Surprise % F12M EPS
+5,mdl30_psprise_pct_fq1_eps,Predicted Surprise % FQ1 EPS
+6,mdl30_psprise_pct_fq2_eps,Predicted Surprise % FQ2 EPS
+7,mdl30_psprise_pct_fy1_eps,Predicted Surprise % FY1 EPS
+8,mdl30_psprise_pct_fy2_eps,Predicted Surprise % FY2 EPS
+9,mdl30_smartestimate_f12m_eps,SmartEstimate F12M EPS
+10,mdl30_smartestimate_fq1_eps,SmartEstimate FQ1 EPS
+11,mdl30_smartestimate_fq2_eps,SmartEstimate FQ2 EPS
+12,mdl30_smartestimate_fy1_eps,SmartEstimate FY1 EPS
+13,mdl30_smartestimate_fy2_eps,SmartEstimate FY2 EPS
+14,star_eps_analyst_number_fq1,Number of SmartEstimate Analysts FQ1 EPS
+15,star_eps_analyst_number_fq2,Number of SmartEstimate Analysts FQ2 EPS
+16,star_eps_analyst_number_fy1,Number of SmartEstimate Analysts FY1 EPS
+17,star_eps_analyst_number_fy2,Number of SmartEstimate Analysts FY2 EPS
+18,star_eps_smart_estimate_12m,SmartEstimate F12M EPS
+19,star_eps_smart_estimate_fq1,SmartEstimate FQ1 EPS
+20,star_eps_smart_estimate_fq2,SmartEstimate FQ2 EPS
+21,star_eps_smart_estimate_fy1,SmartEstimate FY1 EPS
+22,star_eps_smart_estimate_fy2,SmartEstimate FY2 EPS
+23,star_eps_surprise_prediction_12m,Predicted Surprise % F12M EPS
+24,star_eps_surprise_prediction_fq1,Predicted Surprise % FQ1 EPS
+25,star_eps_surprise_prediction_fq2,Predicted Surprise % FQ2 EPS
+26,star_eps_surprise_prediction_fy1,Predicted Surprise % FY1 EPS
+27,star_eps_surprise_prediction_fy2,Predicted Surprise % FY2 EPS

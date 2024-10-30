@@ -1,0 +1,5 @@
+,id,description
+1,ern3_next_interval,trading days before next report date
+2,ern3_next_reptime,next report time
+3,ern3_pre_interval,trading days before last report date (so it's always a non-positive number)
+4,ern3_pre_reptime,last report time

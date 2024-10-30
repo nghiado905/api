@@ -1,0 +1,25 @@
+,id,description
+0,mdl37_bk_broker_research,The global 1-100 rank of a company's credit riskiness based on textual data in broker research documents
+1,mdl37_bk_country_rank,"The 1-100 percentile rank, by country, of a company's 1-year default probability"
+2,mdl37_bk_credit_textscore,The global 1-100 rank of a company's credit riskiness based on  conference call transcripts text data
+3,mdl37_bk_external,The global 1-100 rank of a company based on the language regarding market conditions or third parties that have a material impact on the company
+4,mdl37_bk_filings,"The global 1-100 rank of a company's credit riskiness based on textual data in 10-K, 10-Q, and 8-K filings"
+5,mdl37_bk_global_rank,The global 1-100 percentile rank of a company's 1-year default probability
+6,mdl37_bk_income,The global 1-100 rank of a company based on the language related to the company's earnings and profitability
+7,mdl37_bk_index_rating,"probability of default by quantitatively analyzing textual content including transcripts, news, filings, and research"
+8,mdl37_bk_industry_rank,"The 1-100 percentile rank, among other firms in the same region and industry, of a company's 1-year default probability"
+9,mdl37_bk_legal,The global 1-100 rank of a company based on the language regarding the company's agreements with its partners or financers.
+10,mdl37_bk_news,The global 1-100 rank of a company's credit riskiness based on textual data
+11,mdl37_bk_pd_pct,"A decimal value that indicates the probability that the company will go bankrupt, or default on its debt obligations over the next 1-year period"
+12,mdl37_bk_region_rank,"The 1-100 percentile rank, among other firms in the same region, of a company's 1-year default probability"
+13,mdl37_bk_sector_rank,"The 1-100 percentile rank, among other firms in the same region and sector, of a company's 1-year default probability"
+14,mdl37_bk_structural,"The global 1-100 rank of a company based on the language related to the manner in which a company structures its debt, stock, and accounts"
+15,mdl37_bk_structural_rating,"rating indicating probability of default based on structural leverage, asset volatility, and asset drift"
+16,mdl37_bk_t12m_brc,The number of broker research documents within the trailing 12 months
+17,mdl37_bk_t12m_filings_count,The number of filing documents within the trailing 12 months
+18,mdl37_bk_t12m_news_count,The number of news documents within the trailing 12 months
+19,mdl37_bk_t12m_tr_cnt,The number of transcript documents within the trailing 12 months
+20,mdl37_bk_t1m_brc,The number of broker research documents within the trailing 1 month
+21,mdl37_bk_t1m_filings_count,The number of filing documents within the trailing 1 month
+22,mdl37_bk_t1m_news_count,The number of news documents within the trailing 1 month
+23,mdl37_bk_t1m_tr_cnt,The number of transcript documents within the trailing 1 month

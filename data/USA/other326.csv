@@ -1,0 +1,18 @@
+,id,description
+11,oth326_mean_ascore,score for adverb or adjective from direction mentioned in event headline
+12,oth326_mean_aspe,alpha value of the regression for eps
+13,oth326_mean_bspe,beta value of the regression for eps
+14,oth326_mean_espe,square root of sum of squares for error for eps
+15,oth326_mean_neta,alpha value of the regression for netIncome
+16,oth326_mean_netb,beta value of the regression for netIncome
+17,oth326_mean_nete,square root of sum of squares for error for netIncome
+18,oth326_mean_nscore,score for item mentioned in event headline
+19,oth326_mean_reva,alpha value of the regression for revenue
+20,oth326_mean_revb,beta value of the regression for revenue
+21,oth326_mean_reve,square root of sum of squares for error for revenue
+22,oth326_mean_score1,score for event headline. the higher the better.
+23,oth326_mean_score2,"score for event headline, but with high correlation with oth376_mean_score1. the higher the better"
+24,oth326_mean_score3,score for event headline. the higher the better.
+25,oth326_mean_score4,score for event headline. the higher the better.
+26,oth326_mean_score5,score for event headline. the higher the better.
+27,oth326_mean_vscore,score for direction mentioned in event headline

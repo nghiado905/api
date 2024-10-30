@@ -1,0 +1,5 @@
+,id,description
+0,pv106_lastspread,Spread over last 30 minutes
+1,pv106_lastspreadbp,Spread over last 30 minutes in basis points
+2,pv106_spread,Spread is the difference between bid and ask price
+3,pv106_spreadbp,Spread in basis points

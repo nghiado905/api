@@ -1,0 +1,6 @@
+,id,description
+0,mdl112_cam1,Cross-Asset Model Score
+1,mdl112_cam1_slow,Moving average of Cross-Asset Model score
+2,mdl112_skew_component,Skew component. Captures factor related to the volatility smirk
+3,mdl112_spread_component,"Spread component, rank 100 represent the stocks most likely to outperform according to that component. Captures factor related to the put-call parity."
+4,mdl112_volume_component,Volume component. Captures factor related to volume of options.

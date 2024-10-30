@@ -1,0 +1,13 @@
+,id,description
+0,mdl210_num_categories,The number of categories listed on the company's main page
+1,mdl210_num_external_links,The number of external links on the company's main page
+2,mdl210_num_headings,The number of headings on the company's main page
+3,mdl210_num_internal_links,The number of internal links on the company's main page
+4,mdl210_revision_diff_bytes_abs_avg,The average absolute byte difference in page revisions
+5,mdl210_revision_diff_bytes_abs_sum,The sum of absolute byte difference in page revisions
+6,mdl210_revision_diff_bytes_avg,The average byte difference in page revisions
+7,mdl210_revision_diff_bytes_count,The number of revisions of the company's main page
+8,mdl210_revision_diff_bytes_sum,The sum of byte difference in page revisions
+9,mdl210_revision_history_size,The total number of revisions up to now (historical count)
+10,mdl210_revision_history_size_avg,The number of revisions of the company's main page relative to historical count
+11,mdl210_revision_history_size_count,The number of revisions of the company's main page

@@ -1,0 +1,6 @@
+,id,description
+0,mdl15_growth,"A growth stock in upward trend has high ""growth"" score."
+1,mdl15_mixed_score,Probability of outperformance in the next half year is measured by this score.
+2,mdl15_momentum,"The ""momentum"" score refers to the recent historical returns of the company."
+3,mdl15_quality,"A financially strong company has higher ""quality"" score."
+4,mdl15_value,"A relatively underpriced company gets high ""value"" score."

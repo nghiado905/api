@@ -1,0 +1,14 @@
+,id,description
+4,anl9_consensusconsolflag,consolidation flag
+5,anl9_consensusidmap,consensusIdMap
+41,anl9_estAnalystMap,[di][estimateAnalystId] = estimateAnalystIx idx
+50,anl9_periodFiscalQtr,[di][periodIdIx idx] = The fiscal quarter for this financial period
+51,anl9_periodMap,map of period id
+52,anl9_periodcalendarquarter,[di][periodIdIx idx] = calculated periodicity that corresponds to a particular financial period
+53,anl9_periodcalendaryear,[di][periodIdIx idx] = calculated periodicity using actuals and estimates and reflects 12-month data
+54,anl9_periodfiscalyear,[di][periodIdIx idx] = The fiscal year for this financial period
+55,anl9_periodrelativeconstant,[di][periodIdIx idx] = A relative constant applies to periodic items only
+56,anl9_recommendationbrokeroptioncode,[di][recommedationScaleId] = recommendation code received from the contributing broker
+57,anl9_recommendationnumericvalue,"[di][recommedationScaleId] = The standardized S&P Capital IQ recommendation field (1~5 scale, 6 is NA)"
+66,anl9_scaleconversionflag,[di][idx of dataItemIx]
+68,anl9_tradingitemidmapii,[di][tradingItemIdIx idx]

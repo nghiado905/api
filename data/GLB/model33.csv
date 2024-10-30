@@ -1,0 +1,15 @@
+,id,description
+0,star_rev_analyst_number_fq1,Number of analysts for forward 1 quarter revenue
+1,star_rev_analyst_number_fq2,Number of analysts for forward 2 quarters revenue
+2,star_rev_analyst_number_fy1,Number of analysts for forward 1 year revenue
+3,star_rev_analyst_number_fy2,Number of analysts for forward 2 years revenue
+4,star_rev_smart_estimate_12m,Analyst predicted revenue forward 12 months
+5,star_rev_smart_estimate_fq1,Analyst predicted revenue forward 1 quarter
+6,star_rev_smart_estimate_fq2,Analyst predicted revenue forward 2 quarters
+7,star_rev_smart_estimate_fy1,Analyst predicted revenue forward 1 year
+8,star_rev_smart_estimate_fy2,Analyst predicted revenue forward 2 years
+9,star_rev_surprise_prediction_12m,Revenue predicted surprise pct - forward 12 months
+10,star_rev_surprise_prediction_fq1,Revenue predicted surprise pct - forward 1 quarter
+11,star_rev_surprise_prediction_fq2,Revenue predicted surprise pct - forward 2 quarters
+12,star_rev_surprise_prediction_fy1,Revenue predicted surprise pct - forward 1 year
+13,star_rev_surprise_prediction_fy2,Revenue predicted surprise pct - forward 2 years

@@ -1,0 +1,76 @@
+,id,description
+0,pv103_1m_cusm_mean,daily mean of cumulative smflow over 1-minute-intervals
+1,pv103_1m_insm_mean,daily mean of 1-minute-interval smflow
+2,pv103_1m_ivam_mean,daily mean of 1-minute-interval volume above mid quote
+3,pv103_1m_lask_mean,daily mean of 1-minute-interval  lowest ask price
+4,pv103_1m_lbid_mean,daily mean of 1-minute-interval  lowest bid price
+5,pv103_1m_maks_mean,daily mean of average ask size per message over 1-minute-intervals
+6,pv103_1m_mask_mean,daily mean of average ask price per message over 1-minute-intervals
+7,pv103_1m_mbds_mean,daily mean of average bid size per message over 1-minute-intervals
+8,pv103_1m_mbid_mean,daily mean of average bid price per message over 1-minute-intervals
+9,pv103_1m_mlrt_mean,daily mean of 1-minute-interval average log(bidsize/asksize)
+10,pv103_1m_task_mean,daily mean of 1-minute-interval time-averaged ask price
+11,pv103_1m_tbid_mean,daily mean of 1-minute-interval time-averaged bid price
+12,pv103_1m_tlrt_mean,daily mean of 1-minute-interval time-weighted log(bidsize/asksize)
+13,pv103_c_price,Close auction indicative price
+14,pv103_c_volume,Close auction volume
+15,pv103_ctwp_mean,daily mean of time-weighted average price of 1-minute-intervals
+16,pv103_hask_mean,daily mean of inverval highest ask price over 1-minute-intervals
+17,pv103_hasz_mean,daily mean of  1-minute-interval highest ask size
+18,pv103_hbid_mean,daily mean of 1-minute-interval  highest bid price
+19,pv103_hbsz_mean,daily mean of  1-minute-interval  highest bid size
+20,pv103_htsz_mean,daily mean of max last size of 1-minute-intervals
+21,pv103_inam_mean,daily mean of 1-minute-interval number of trades above mid quote
+22,pv103_insm_topofbook_insm_mean,daily mean of 5-minute-interval smflow of top of order
+23,pv103_inth_mean,daily mean of interval high price over 5-minute-intervals of top of book
+24,pv103_intl_mean,daily mean of interval low price over 5-minute-intervals of top of book
+25,pv103_intv_mean,daily mean of interval volume over 5-minute-intervals of top of book
+26,pv103_ivam_sum,daily sum of interval volume above mid quote
+27,pv103_ivam_topofbook_ivam_mean,daily mean of 5-minute-interval volume above mid quote of top of book
+28,pv103_ivwp_mean,daily mean of 5-minute-interval  vwap of top of order
+29,pv103_laks_mean,daily mean of 5-minute-interval last ask size of top of book
+30,pv103_lask_topofbook_lask_mean,daily mean of 5-minute-interval last ask size of top of book
+31,pv103_lasz_mean,daily mean of  1-minute-interval  lowest ask size
+32,pv103_lbid_topofbook_lbid_mean,daily mean of 5-minute-interval  lowest bid price of top of book
+33,pv103_lbsz_mean,daily mean of  1-minute-interval  lowest bid size
+34,pv103_lstp_mean,daily mean of 5-minute-interval  last trade price of top of book
+35,pv103_madt_mean,Full order book: daily mean of time average of mean ask distance from mid per order over 5-minute-intervals
+36,pv103_maks_topofbook_maks_mean,daily mean of average ask size per message over 5-minute-intervals of top of book
+37,pv103_mask_topofbook_mask_mean,daily mean of average ask price per message over 5-minute-intervals of top of book
+38,pv103_masz_mean,Full order book:  daily mean of  time average of mean ask size over  5-minute-intervals of full order book
+39,pv103_maud_mean,Full order book: daily mean of mean ask distance from mid per update message over 5-minute-intervals
+40,pv103_maus_mean,Full order book: daily mean of mean ask size change per update message over 5-minute-intervals
+41,pv103_mbds_topofbook_mbds_mean,daily mean of average bid size per message over 5-minute-intervals of top of book
+42,pv103_mbdt_mean,Full order book: daily mean of time average of mean bid distance from mid per order over 5-minute-intervals
+43,pv103_mbid_topofbook_mbid_mean,daily mean of average bid price per message over 5-minute-intervals of top of book
+44,pv103_mbsz_mean,Full order book: daily mean of time average of mean bid size over 5-minute-intervals
+45,pv103_mbud_mean,Full order book: daily mean of mean bid distance from mid per update message over 5-minute-intervals
+46,pv103_mbus_mean,Full order book: daily mean of mean bid size change per update message over 5-minute-intervals
+47,pv103_medn_mean,daily mean of 1-minute-interval median trade price
+48,pv103_mlrt_topofbook_mlrt_mean,daily mean of average log(bid size/ask size) per message over 5-minute-intervals of top of book
+49,pv103_mtrd_mean,daily mean of 1-minute-interval mean of last price
+50,pv103_mtsq_mean,daily mean of 1-minute-interval mean of square root of last price
+51,pv103_nalv_mean,Full order book:  daily mean of   time average of number of ask levels over 5-minute-intervals of full order book
+52,pv103_naod_mean,Full order book: daily mean of time average of ask orders over 5-minute-intervals
+53,pv103_nask_mean,"daily mean of 1-minute-interval number of ask changes (+1,-1)"
+54,pv103_naup_mean,Full order book: daily mean of number of ask updates in the interval over 5-minute-intervals
+55,pv103_nbid_mean,"daily mean of 1-minute-interval number of bid changes (+1,-1)"
+56,pv103_nblv_mean,Full order book: daily mean of time average of number of bid levels over 5-minute-intervals
+57,pv103_nbod_mean,Full order book: daily mean of time average of bid orders over 5-minute-intervals
+58,pv103_nbup_mean,Full order book:  daily mean of  number of bid updates in the interval over 5-minute-intervals of full order book
+59,pv103_ntrd_mean,daily mean of number of trades in the 1-minute-interval
+60,pv103_ntrd_sum,daily sum of number of trades in the interval
+61,pv103_o_price,Open auction indicative price
+62,pv103_o_volume,Open auction volume
+63,pv103_saps_mean,"Full order book: daily mean of time average of sum( (1 / (asklevel_n)^n) * (asksize_n / max((ask_1 - ask_n)*100,1) )) over 5-minute-intervals of full order book"
+64,pv103_sasz_mean,Full order book:  daily mean of  time average of sum(asksize_n/(mid - ask_n)) over 5-minute-intervals of full order book
+65,pv103_sbps_mean,"Full order book: daily mean of time average of sum( (1 / (bidlevel_n)^n) * (bidsize_n / max((bid_1 - bid_n)*100,1) )) over 5-minute-intervals"
+66,pv103_sbsz_mean,Full order book: daily mean of time average of sum(bidsize_n/(mid - bid_n)) over 5-minute-intervals
+67,pv103_taks_mean,daily mean of time-averaged ask size over 5-minute-intervals of top of book
+68,pv103_task_topofbook_task_mean,daily mean of 5-minute-interval time-averaged ask price of top of book
+69,pv103_tasz_mean,daily mean of 1-minute-interval time-weighted ask size
+70,pv103_tbds_mean,daily mean of time-averaged bid size over 5-minute-intervals of top of book
+71,pv103_tbid_topofbook_tbid_mean,daily mean of 5-minute-interval time-averaged bid price of top of book
+72,pv103_tbsz_mean,daily mean of 1-minute-interval time-weighted bid size
+73,pv103_tlrt_topofbook_tlrt_mean,daily mean of 5-minute-interval time-weighted log(bidsize/asksize) of top of book
+74,pv103_vlty_mean,daily mean of 5-minute-interval  interval volatility of trade price of top of book

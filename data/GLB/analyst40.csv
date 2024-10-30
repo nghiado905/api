@@ -1,0 +1,10 @@
+,id,description
+0,anl40_addin,Number of new directors
+2,anl40_brdcount,"How many board directors in this company after today's movement. Due to lack of original data on history file, there is no BrdCount record before 20160731"
+3,anl40_employmentrate,AddIn / (OldCount + NewCount). No record before 20160729
+4,anl40_moveout,Number of leaving directors
+5,anl40_netturnoverrate,TotalChanges / (OldCount + NewCount). No record before 20160729.
+6,anl40_newcount,"How many directors in this company after today's movement. Due to lack of original data on history file, there is no newCount record before 20160729."
+7,anl40_oldcount,"How many directors in this company before today's movement. Due to lack of original data on history file, there is no oldCount record before 20160729."
+9,anl40_totalchange,"Total changes in director members in that day, which equals (addIn - moveOut)."
+10,anl40_turnoverrate,MoveOut / (OldCount + NewCount). No record before 20160729.

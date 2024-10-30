@@ -1,0 +1,3 @@
+,id,description
+0,oth238_mktcap,Market Cap of the company.
+1,oth238_nice,The model`s composite signal. It is a normaliyed score.

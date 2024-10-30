@@ -1,0 +1,9 @@
+,id,description
+0,inst8_countrycode,Country code
+1,inst8_regioncode,Region code
+2,star_in_country_rank,"A 1-100 rank score for a company based on combining the NetBuyerRatioRank, PurchaseDepthRank and SellingDepthRank. Higher ranks are more bullish"
+3,star_in_industry_rank,A 1-100 rank score for a company based on InsiderCountryRank under industry-by-industry basis. Higher ranks are more bullish
+4,star_in_netbuyer_ratio_rank,A 1-100 rank score that represents the consensus direction of buying or selling of company equity among all insiders at that company. Higher ranks are more bullish
+5,star_in_purchase_depth_rank,A 1-100 rank score that represents how much purchasing of company equity by insiders has taken place. Higher ranks are more bullish
+6,star_in_sector_rank,A 1-100 rank score for a company based on InsiderCountryRank under sector-by-sector basis. Higher ranks are more bullish
+7,star_in_selling_depth_rank,A 1-100 rank score that represents how much selling of company equity by insiders has taken place. Higher ranks are more bullish

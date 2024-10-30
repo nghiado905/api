@@ -1,0 +1,6 @@
+,id,description
+0,oth351_lm_nnc,CNN_ML model score
+1,oth351_score,GINA model score
+2,oth351_sentiment_ml,Sentimental model score
+3,oth351_similarity10k,Similarity Score 10K
+4,oth351_similarity10q,Similarity Score 10Q

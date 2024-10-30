@@ -1,0 +1,33 @@
+,id,description
+0,oth434_convention_cng_longdebt_equity,Change in Long Term Debt to Equity
+1,oth434_convention_current_ratio,Current Ratio
+2,oth434_convention_debt_capital,Total Debt to Total Capital
+3,oth434_convention_debt_equity,Debt to Equity
+4,oth434_convention_debt_mktcapital,Total Debt to Market Capital
+5,oth434_convention_longdebt_capital,Long Term Debt to Total Capital
+6,oth434_convention_longdebt_equity,Long Term Debt to Common Equity
+7,oth434_convention_ocf_currliab,Operating Cashflow to Current Liabilities
+8,oth434_convention_quick_ratio,Quick Ratio
+9,oth434_mktcap,Market Capitalization
+10,oth434_model_altman_zscore,Altman's Z-score
+11,oth434_model_chs_default,CHS Default Prediction Model
+12,oth434_model_merton,Merton Distance to Default
+13,oth434_model_ohlson_oscore,Ohlson's O-score
+14,oth434_qes_alter_debt_weighted_duration,Debt Weighted Average Duration
+15,oth434_qes_alter_debt_weighted_interest_rate,Debt Weighted Average Interest Rate
+16,oth434_qes_alter_distance_insolvency_1y,Distance to Insolvency (1 Year)
+17,oth434_qes_alter_extreme_insolvency_stress_1y,Measures a firm's extreme Insolvency risk over the next 1 Year based on its capital structure
+18,oth434_qes_alter_extreme_insolvency_stress_9m,Measures a firm's extreme Insolvency risk over the next 9 months  based on its capital structure
+19,oth434_qes_alter_growth_shortterm_debt,Year-over-Year Growth in Short Term Debt Due within 5 Years
+20,oth434_qes_alter_insolvency_stress_1y,Measures a firm's Insolvency risk over the next 1 Year based on its capital structure
+21,oth434_qes_alter_insolvency_stress_2y,Measures a firm's Insolvency risk over the next 2 Year based on its capital structure
+22,oth434_qes_alter_insolvency_stress_9m,Measures a firm's Insolvency risk over the next 9 months based on its capital structure
+23,oth434_qes_alter_moderate_insolvency_stress_1y,Measures a firm's moderate  Insolvency risk over the next 1 Year  based on its capital structure
+24,oth434_qes_alter_moderate_insolvency_stress_2y,Measures a firm's moderate  Insolvency risk over the next 2 Year  based on its capital structure
+25,oth434_qes_alter_moderate_insolvency_stress_9m,Measures a firm's moderate  Insolvency risk over the next 9 months  based on its capital structure
+26,oth434_qes_alter_revolver_debt,Cash available on Revolver to Total Debt
+27,oth434_qes_alter_short_longterm_debt_ratio,Short Term Debt to Debt Due Within 5 years
+28,oth434_qes_alter_shortterm_debt_ratio,Short Term Debt to Total Debt
+29,oth434_qes_model_impliedalpha,Model's Implied Alpha score
+30,oth434_qes_model_prelimcomposite,Model's Preliminary Composite
+31,oth434_qes_model_score,Model score

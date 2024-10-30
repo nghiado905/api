@@ -1,0 +1,88 @@
+,id,description
+0,fnd13_acoa,Other Current Assets
+1,fnd13_adbs,Normalized EBITDA
+2,fnd13_adep,"Accumulated Depreciation, Total"
+3,fnd13_agse,Selling/General/Administrative Expense
+4,fnd13_aing,Intangibles - Gross
+5,fnd13_aptc,"Property/Plant/Equipment, Total - Gross"
+6,fnd13_asti,Short Term Investments
+7,fnd13_caic,Income Available to Common Excluding Extraordinary Items
+8,fnd13_cinx,Income Available to Common Excluding Extraordinary Items
+9,fnd13_cmin,Minority Interest
+10,fnd13_cstq,Treasury Stock - Common
+11,fnd13_dlcl,Current Portion of Long Term Debt/Capital Leases
+12,fnd13_dlts,Total Debt
+13,fnd13_dtll,Long Term Debt
+14,fnd13_dtns,Net Debt
+15,fnd13_dtsl,Notes Payable/Short Term Debt
+16,fnd13_eaca,Cash & Equivalents
+17,fnd13_ecor,Cost of Revenue
+18,fnd13_erad,Research & Development
+19,fnd13_fbbs,Basic EPS Excluding Extraordinary Items
+20,fnd13_graa,"Accounts Receivable - Trade, Gross"
+21,fnd13_iabs,Basic EPS Including Extraordinary Items
+22,fnd13_ifpv,Net Income after Stock Based Compensation Expense
+23,fnd13_ists,Total Special Items
+24,fnd13_itpv,Normalized Income Before Taxes
+25,fnd13_ixts,Total Extraordinary Items
+26,fnd13_lcol,Other Current Liabilities
+27,fnd13_letq,Total Liabilities & Shareholders' Equity
+28,fnd13_lmin,Minority Interest
+29,fnd13_ltll,Other Long Term Liabilities
+30,fnd13_ltls,"Other Liabilities, Total"
+31,fnd13_mpns,Net Profit Margin
+32,fnd13_mtps,Pretax Margin
+33,fnd13_nins,"Interest Income (Expense), Net-Non-Operating, Total"
+34,fnd13_ntiv,Inc Tax Ex Impact of Sp Items
+35,fnd13_octq,Total Common Shares Outstanding
+36,fnd13_pxtl,Income Taxes Payable
+37,fnd13_qred,Retained Earnings (Accumulated Deficit)
+38,fnd13_rkdbal_orianno,Original Announcement
+39,fnd13_rkdbalancesheetq_acta,Total Current Assets
+40,fnd13_rkdbalancesheetq_aint,"Intangibles, Net"
+41,fnd13_rkdbalancesheetq_aitl,Total Inventory
+42,fnd13_rkdbalancesheetq_atot,Total Assets
+43,fnd13_rkdbalancesheetq_crta,"Total Receivables, Net"
+44,fnd13_rkdbalancesheetq_dttl,Total Long Term Debt
+45,fnd13_rkdbalancesheetq_eltq,Total Equity
+46,fnd13_rkdbalancesheetq_iscs,Cash and Short Term Investments
+47,fnd13_rkdbalancesheetq_iwga,"Goodwill, Net"
+48,fnd13_rkdbalancesheetq_lapb,Accounts Payable
+49,fnd13_rkdbalancesheetq_lctl,Total Current Liabilities
+50,fnd13_rkdbalancesheetq_lltl,Total Liabilities
+51,fnd13_rkdbalancesheetq_nppa,"Property/Plant/Equipment, Total - Net"
+52,fnd13_rkdbalancesheetq_rcaa,"Accounts Receivable - Trade, Net"
+53,fnd13_rkdbalancesheetq_xeal,Accrued Expenses
+54,fnd13_rkdbalancesheetq_yppa,Prepaid Expenses
+55,fnd13_rkdic_ori_anno,Original Announcement
+56,fnd13_rkdincomestatementq_agss,"Selling/General/Admin. Expenses, Total"
+57,fnd13_rkdincomestatementq_cnin,Net Income
+58,fnd13_rkdincomestatementq_dgcd,Gross Dividends - Common Stock
+59,fnd13_rkdincomestatementq_etoe,Total Operating Expense
+60,fnd13_rkdincomestatementq_nibx,Net Income Before Extra. Items
+61,fnd13_rkdincomestatementq_pede,Depreciation
+62,fnd13_rkdincomestatementq_prgs,Gross Profit
+63,fnd13_rkdincomestatementq_rltr,Total Revenue
+64,fnd13_rkdincomestatementq_rpds,Depreciation/Amortization
+65,fnd13_rkdincomestatementq_sopi,Operating Income
+66,fnd13_rkdincomestatementq_srev,Revenue
+67,fnd13_rkdincomestatementq_stnr,Net Sales
+68,fnd13_rkdincomestatementq_tait,Net Income After Taxes
+69,fnd13_rkdincomestatementq_tbie,Net Income Before Taxes
+70,fnd13_rkdincomestatementq_vbes,Basic Normalized EPS
+71,fnd13_rkm_or_anno,Original Announcement
+72,fnd13_saoa,Other Long Term Assets
+73,fnd13_sbit,Normalized EBIT
+74,fnd13_scor,"Cost of Revenue, Total"
+75,fnd13_sinv,Long Term Investments
+76,fnd13_smcq,Common Stock
+77,fnd13_smcs,"Common Stock, Total"
+78,fnd13_soca,"Other Current Assets, Total"
+79,fnd13_socl,"Other Current liabilities, Total"
+80,fnd13_sola,"Other Long Term Assets, Total"
+81,fnd13_sopp,Operating Margin
+82,fnd13_tdbs,Deferred Income Tax
+83,fnd13_ttax,Provision for Income Taxes
+84,fnd13_vaia,Accumulated amortization against intangible fixed assets.
+85,fnd13_viac,Normalized Income Avail to Common Shareholders
+86,fnd13_viat,Normalized Income After Taxes

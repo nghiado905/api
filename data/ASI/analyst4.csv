@@ -1,0 +1,87 @@
+,id,description
+4,anl4_adjusted_netincome_ft,Adjusted net income - forecast type (revision/new/...)
+6,anl4_afv4_cfps_high,"Cash Flow - The highest estimation, per share"
+7,anl4_afv4_cfps_low,Cash Flow Per Share - The lowest estimation
+8,anl4_afv4_cfps_mean,Cash Flow Per Share - average of estimations
+9,anl4_afv4_cfps_median,Cash Flow Per Share - Median value among forecasts
+10,anl4_afv4_cfps_number,Cash Flow Per Share - number of estimations
+11,anl4_afv4_div_high,Dividend per share - The highest estimation
+12,anl4_afv4_div_low,Dividend per share - The lowest value among forecasts
+13,anl4_afv4_div_mean,Dividend per share - average of estimations
+14,anl4_afv4_div_median,Dividend per share - median of estimations
+15,anl4_afv4_div_number,Dividend per share - number of estimations
+16,anl4_afv4_div_std,Dividend per share - std of estimations
+17,anl4_afv4_dts_spe,Earnings per share - std of estimations
+18,anl4_afv4_dts_spfc,Cash Flow Per Share - std of estimations
+19,anl4_afv4_eps_high,Earnings per share - The highest estimation
+20,anl4_afv4_eps_low,Earnings per share - The lowest estimation
+21,anl4_afv4_eps_mean,Earnings per share - mean of estimations
+22,anl4_afv4_eps_number,Earnings per share - number of estimations
+23,anl4_afv4_median_eps,"EPS - aggregation on estimations, 50th-percentile"
+26,anl4_bvps_flag,Book value per share - forecast type (revision/new/...)
+27,anl4_bvps_high,"Book value - the highest estimation, per share"
+28,anl4_bvps_low,"Book value - the lowest estimation, per share"
+29,anl4_bvps_median,Book value per share - Median value among forecasts
+30,anl4_bvps_number,Book value per share - number of estimations
+31,anl4_capex_flag,Capital Expenditures - forecast type (revision/new/...)
+32,anl4_cff_flag,Cash Flow From Financing Activities - forecast type (revision/new/...)
+33,anl4_cfi_flag,Cash Flow From Investing - forecast type (revision/new/...)
+34,anl4_cfo_flag,Cash Flow From Operations - forecast type (revision/new/...)
+55,anl4_ebit_high,Earnings before interest and taxes - The highest estimation
+56,anl4_ebit_low,Earnings before interest and taxes - The lowest estimation
+57,anl4_ebit_median,Earnings before interest and taxes - median of estimations
+58,anl4_ebit_number,Earnings before interest and taxes - number of estimations
+59,anl4_ebitda_flag,"Earnings before interest, taxes, depreciation and amortization - forecast type (revision/new/...)"
+60,anl4_epsa_flag,Earnings per share adjusted by excluding extraordinary items and stock option expenses - forecast type (revision/new/...)
+61,anl4_epsa_high,Earnings per share adjusted by excluding extraordinary items and stock option expenses - The highest estimation
+62,anl4_epsa_low,Earnings per share adjusted by excluding extraordinary items and stock option expenses - The lowest estimation
+63,anl4_epsa_median,Earnings per share adjusted by excluding extraordinary items and stock option expenses - median of estimations
+64,anl4_epsa_number,Earnings per share adjusted by excluding extraordinary items and stock option expenses - number of estimations
+65,anl4_epsr_flag,"GAAP Earnings- estimation type (revision/new/...), per share"
+66,anl4_fcf_flag,Free cash flow- forecast type (revision/new/...)
+67,anl4_fcfps_flag,Free cash flow per share - forecast type (revision/new/...)
+68,anl4_ffo_flag,Funds from operation- forecast type (revision/new/...)
+69,anl4_flag_erbfintax,Earnings before interest and taxes - forecast type (revision/new/...)
+70,anl4_gric_flag,Gross income- forecast type (revision/new/...)
+71,anl4_gric_high,Gross income- The highest estimation
+72,anl4_gric_low,Gross income- The lowest estimation
+73,anl4_gric_median,Gross income- median of estimations
+74,anl4_gric_number,Gross income- number of estimations
+75,anl4_netdebt_flag,Net debt - forecast type (revision/new/...)
+76,anl4_netprofit_flag,Net profit - forecast type (revision/new/...)
+77,anl4_netprofit_high,Net profit- The highest estimation
+78,anl4_netprofit_low,Net profit- The lowest estimation
+79,anl4_netprofit_median,Net profit- median of estimations
+80,anl4_netprofit_number,Net profit- number of estimations
+81,anl4_netprofit_std,Net profit- std of estimations
+82,anl4_netprofita_high,Adjusted net income- The highest estimation
+83,anl4_netprofita_low,Adjusted net income- The lowest estimation
+84,anl4_netprofita_median,Adjusted net income- median of estimations
+85,anl4_netprofita_number,Adjusted net income- number of estimations
+86,anl4_ptp_flag,Pretax income - forecast type (revision/new/...)
+87,anl4_ptp_high,Pretax income- The highest estimation
+88,anl4_ptp_low,Pretax income- The lowest estimation
+89,anl4_ptp_median,Pretax income- median of estimations
+90,anl4_ptp_number,Pretax income- number of estimations
+91,anl4_ptpr_flag,Reported Pretax income - forecast type (revision/new/...)
+93,anl4_qfv4_eps_high,Earnings per share - The highest estimation
+94,anl4_qfv4_eps_low,Earnings per share - The lowest estimation
+95,anl4_qfv4_eps_mean,Earnings per share - mean of estimations
+96,anl4_qfv4_eps_number,Earnings per share - number of estimations
+97,anl4_qfv4_median_eps,"EPS - aggregation on estimations, 50th-percentile"
+98,anl4_rd_exp_flag,Research and Development Expense - forecast type (revision/new/...)
+99,anl4_tbve_ft,Tangible Book Value per Share - forecast type (revision/new/...)
+100,anl4_tot_gw_ft,Total Goodwill - forecast type (revision/new/...)
+101,anl4_totassets_flag,Total Assets - forecast type (revision/new/...)
+102,anl4_totassets_high,Total Assets - The highest estimation
+103,anl4_totassets_low,Total Assets - The lowest estimation
+104,anl4_totassets_median,Total Assets - median of estimations
+105,anl4_totassets_number,Total Assets - number of estimations
+106,est_bookvalue_ps,Book value per share - average of estimations
+107,est_ebit,Earnings before interest and taxes - mean of estimations
+108,est_epsa,Earnings per share adjusted by excluding extraordinary items and stock option expenses - average of estimations
+109,est_grossincome,Gross income- mean of estimations
+110,est_netprofit,Net profit- mean of estimations
+111,est_netprofit_adj,Adjusted net income- mean of estimations
+112,est_ptp,Pretax income- mean of estimations
+113,est_tot_assets,Total Assets - mean of estimations

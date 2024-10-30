@@ -1,0 +1,354 @@
+,id,description
+0,mdl55_groupindustry_aat_stocks,"Number of stocks used to calculate the Aggregate Asset Turnover (%) for the specific time period, industry and indicator"
+1,mdl55_groupindustry_abm_stocks,"Number of stocks used to calculate the Aggregate Book / Market Value (%) for the specific time period, industry and indicator"
+2,mdl55_groupindustry_acr_stocks,"Number of stocks used to calculate the Aggregate Current Ratio for the specific time period, industry and indicator"
+3,mdl55_groupindustry_acs_stocks,"Number of stocks used to calculate the Aggregate CAPEX / Sales Ratio (%) for the specific time period, industry and indicator"
+4,mdl55_groupindustry_adc_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage (%) for the specific time period, industry and indicator"
+5,mdl55_groupindustry_adcx_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage excl Nonpayers (%) for the specific time period, industry and indicator"
+6,mdl55_groupindustry_ade_20pctl,20th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+7,mdl55_groupindustry_ade_50pctl,50th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+8,mdl55_groupindustry_ade_80pctl,80th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+9,mdl55_groupindustry_ade_mcwa,Market Capitalization Weighted Average of Aggregate Debt / Equity Ratio (%) for all stocks within the industry
+10,mdl55_groupindustry_ade_stocks,"Number of stocks used to calculate the Aggregate Debt / Equity Ratio (%) for the specific time period, industry and indicator"
+11,mdl55_groupindustry_ady_50pctl,50th percentile value of Aggregate Dividend Yield (%) for the stock industry
+12,mdl55_groupindustry_ady_80pctl,80th percentile value of Aggregate Dividend Yield (%) for the stock industry
+13,mdl55_groupindustry_ady_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield (%) for all stocks within the industry
+14,mdl55_groupindustry_ady_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield (%) for the specific time period, industry and indicator"
+15,mdl55_groupindustry_adyx_20pctl,20th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+16,mdl55_groupindustry_adyx_50pctl,50th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+17,mdl55_groupindustry_adyx_80pctl,80th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+18,mdl55_groupindustry_adyx_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield excl Nonpayers (%) for all stocks within the industry
+19,mdl55_groupindustry_adyx_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield excl Nonpayers (%) for the specific time period, industry and indicator"
+20,mdl55_groupindustry_aee_stocks,"Number of stocks used to calculate the Aggregate EBITDA / Enterprise Value (%) for the specific time period, industry and indicator"
+21,mdl55_groupindustry_aey_stocks,"Number of stocks used to calculate the Aggregate Earnings Yield (%) for the specific time period, industry and indicator"
+22,mdl55_groupindustry_afs_stocks,"Number of stocks used to calculate the Aggregate Free Cash FLow / Sales Ratio (%) for the specific time period, industry and indicator"
+23,mdl55_groupindustry_agm_stocks,"Number of stocks used to calculate the Aggregate Gross Margin (%) for the specific time period, industry and indicator"
+24,mdl55_groupindustry_aom_stocks,"Number of stocks used to calculate the Aggregate Operating Margin (%) for the specific time period, industry and indicator"
+25,mdl55_groupindustry_aroc_20pctl,20th percentile value of Aggregate Return on Capital (%) for the stock industry
+26,mdl55_groupindustry_aroc_50pctl,50th percentile value of Aggregate Return on Capital (%) for the stock industry
+27,mdl55_groupindustry_aroc_80pctl,80th percentile value of Aggregate Return on Capital (%) for the stock industry
+28,mdl55_groupindustry_aroc_mcwa,Market Capitalization Weighted Average of Aggregate Return on Capital (%) for all stocks within the industry
+29,mdl55_groupindustry_aroc_stocks,"Number of stocks used to calculate the Aggregate Return on Capital (%) for the specific time period, industry and indicator"
+30,mdl55_groupindustry_aroe_20pctl,20th percentile value of Aggregate Return on Equity (%) for the stock industry
+31,mdl55_groupindustry_aroe_50pctl,50th percentile value of Aggregate Return on Equity (%) for the stock industry
+32,mdl55_groupindustry_aroe_80pctl,80th percentile value of Aggregate Return on Equity (%) for the stock industry
+33,mdl55_groupindustry_aroe_mcwa,Market Capitalization Weighted Average of Aggregate Return on Equity (%) for all stocks within the industry
+34,mdl55_groupindustry_aroe_stocks,"Number of stocks used to calculate the Aggregate Return on Equity (%) for the specific time period, industry and indicator"
+35,mdl55_groupindustry_ase_20pctl,20th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+36,mdl55_groupindustry_ase_50pctl,50th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+37,mdl55_groupindustry_ase_80pctl,80th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+38,mdl55_groupindustry_ase_mcwa,Market Capitalization Weighted Average of Aggregate Sales / Enterprise Value (%) for all stocks within the industry
+39,mdl55_groupindustry_ase_stocks,"Number of stocks used to calculate the Aggregate Sales / Enterprise Value (%) for the specific time period, industry and indicator"
+40,mdl55_groupindustry_atr_stocks,"Number of stocks used to calculate the Aggregate Tax Rate (%) for the specific time period, industry and indicator"
+41,mdl55_groupindustry_awcm_cda,Market Capitalization Weighted Average of Aggregate Dividend Coverage (%) for all stocks within the industry
+42,mdl55_groupindustry_awcm_eea,Market Capitalization Weighted Average of Aggregate EBITDA / Enterprise Value (%) for all stocks within the industry
+43,mdl55_groupindustry_awcm_mba,Market Capitalization Weighted Average of Aggregate Book / Market Value (%) for all stocks within the industry
+44,mdl55_groupindustry_awcm_mga,Market Capitalization Weighted Average of Aggregate Gross Margin (%) for all stocks within the industry
+45,mdl55_groupindustry_awcm_moa,Market Capitalization Weighted Average of Aggregate Operating Margin (%) for all stocks within the industry
+46,mdl55_groupindustry_awcm_rca,Market Capitalization Weighted Average of Aggregate Current Ratio for all stocks within the industry
+47,mdl55_groupindustry_awcm_rta,Market Capitalization Weighted Average of Aggregate Tax Rate (%) for all stocks within the industry
+48,mdl55_groupindustry_awcm_sca,Market Capitalization Weighted Average of Aggregate CAPEX / Sales Ratio (%) for all stocks within the industry
+49,mdl55_groupindustry_awcm_sfa,Market Capitalization Weighted Average of Aggregate Free Cash FLow / Sales Ratio (%) for all stocks within the industry
+50,mdl55_groupindustry_awcm_taa,Market Capitalization Weighted Average of Aggregate Asset Turnover (%) for all stocks within the industry
+51,mdl55_groupindustry_awcm_xcda,Market Capitalization Weighted Average of Aggregate Dividend Coverage excl Nonpayers (%) for all stocks within the industry
+52,mdl55_groupindustry_awcm_yea,Market Capitalization Weighted Average of Aggregate Earnings Yield (%) for all stocks within the industry
+53,mdl55_groupindustry_ltcp02_eea,20th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+54,mdl55_groupindustry_ltcp02_mba,20th percentile value of Aggregate Book / Market Value (%)) for the stock industry
+55,mdl55_groupindustry_ltcp02_mga,20th percentile value of Aggregate Gross Margin (%) for the stock industry
+56,mdl55_groupindustry_ltcp02_moa,20th percentile value of Aggregate Operating Margin (%) for the stock industry
+57,mdl55_groupindustry_ltcp02_rca,20th percentile value of Aggregate Current Ratio for the stock industry
+58,mdl55_groupindustry_ltcp02_sca,20th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+59,mdl55_groupindustry_ltcp02_sfa,20th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+60,mdl55_groupindustry_ltcp02_taa,20th percentile value of Aggregate Asset Turnover (%) for the stock industry
+61,mdl55_groupindustry_ltcp02_xcda,20th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+62,mdl55_groupindustry_ltcp02_yea,20th percentile value of Aggregate Earnings Yield (%) for the stock industry
+63,mdl55_groupindustry_ltcp05_cda,50th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+64,mdl55_groupindustry_ltcp05_eea,50th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+65,mdl55_groupindustry_ltcp05_mba,50th percentile value of Aggregate Book / Market Value (%) for the stock industry
+66,mdl55_groupindustry_ltcp05_mga,50th percentile value of Aggregate Gross Margin (%) for the stock industry
+67,mdl55_groupindustry_ltcp05_moa,50th percentile value of Aggregate Operating Margin (%) for the stock industry
+68,mdl55_groupindustry_ltcp05_rca,50th percentile value of Aggregate Current Ratio for the stock industry
+69,mdl55_groupindustry_ltcp05_rta,50th percentile value of Aggregate Tax Rate (%) for the stock industry
+70,mdl55_groupindustry_ltcp05_sca,50th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+71,mdl55_groupindustry_ltcp05_sfa,50th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+72,mdl55_groupindustry_ltcp05_taa,50th percentile value of Aggregate Asset Turnover (%) for the stock industry
+73,mdl55_groupindustry_ltcp05_xcda,50th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+74,mdl55_groupindustry_ltcp05_yea,50th percentile value of Aggregate Earnings Yield (%) for the stock industry
+75,mdl55_groupindustry_ltcp08_cda,80th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+76,mdl55_groupindustry_ltcp08_eea,80th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+77,mdl55_groupindustry_ltcp08_mba,80th percentile value of Aggregate Book / Market Value (%) for the stock industry
+78,mdl55_groupindustry_ltcp08_mga,80th percentile value of Aggregate Gross Margin (%) for the stock industry
+79,mdl55_groupindustry_ltcp08_moa,80th percentile value of Aggregate Operating Margin (%) for the stock industry
+80,mdl55_groupindustry_ltcp08_rca,80th percentile value of Aggregate Current Ratio for the stock industry
+81,mdl55_groupindustry_ltcp08_rta,80th percentile value of Aggregate Tax Rate (%) for the stock industry
+82,mdl55_groupindustry_ltcp08_sca,80th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+83,mdl55_groupindustry_ltcp08_sfa,80th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+84,mdl55_groupindustry_ltcp08_taa,80th percentile value of Aggregate Asset Turnover (%) for the stock industry
+85,mdl55_groupindustry_ltcp08_xcda,80th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+86,mdl55_groupindustry_ltcp08_yea,80th percentile value of Aggregate Earnings Yield (%) for the stock industry
+87,mdl55_industry_aat_stocks,"Number of stocks used to calculate the Aggregate Asset Turnover (%) for the specific time period, industry and indicator"
+88,mdl55_industry_abm_stocks,"Number of stocks used to calculate the Aggregate Book / Market Value (%) for the specific time period, industry and indicator"
+89,mdl55_industry_acr_stocks,"Number of stocks used to calculate the Aggregate Current Ratio for the specific time period, industry and indicator"
+90,mdl55_industry_acs_stocks,"Number of stocks used to calculate the Aggregate CAPEX / Sales Ratio (%) for the specific time period, industry and indicator"
+91,mdl55_industry_adc_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage (%) for the specific time period, industry and indicator"
+92,mdl55_industry_adcx_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage excl Nonpayers (%) for the specific time period, industry and indicator"
+93,mdl55_industry_ade_20pctl,20th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+94,mdl55_industry_ade_50pctl,50th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+95,mdl55_industry_ade_80pctl,80th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+96,mdl55_industry_ade_mcwa,Market Capitalization Weighted Average of Aggregate Debt / Equity Ratio (%) for all stocks within the industry
+97,mdl55_industry_ade_stocks,"Number of stocks used to calculate the Aggregate Debt / Equity Ratio (%) for the specific time period, industry and indicator"
+98,mdl55_industry_ady_50pctl,50th percentile value of Aggregate Dividend Yield (%) for the stock industry
+99,mdl55_industry_ady_80pctl,80th percentile value of Aggregate Dividend Yield (%) for the stock industry
+100,mdl55_industry_ady_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield (%) for all stocks within the industry
+101,mdl55_industry_ady_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield (%) for the specific time period, industry and indicator"
+102,mdl55_industry_adyx_20pctl,20th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+103,mdl55_industry_adyx_50pctl,50th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+104,mdl55_industry_adyx_80pctl,80th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+105,mdl55_industry_adyx_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield excl Nonpayers (%) for all stocks within the industry
+106,mdl55_industry_adyx_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield excl Nonpayers (%) for the specific time period, industry and indicator"
+107,mdl55_industry_aee_stocks,"Number of stocks used to calculate the Aggregate EBITDA / Enterprise Value (%) for the specific time period, industry and indicator"
+108,mdl55_industry_aey_stocks,"Number of stocks used to calculate the Aggregate Earnings Yield (%) for the specific time period, industry and indicator"
+109,mdl55_industry_afs_stocks,"Number of stocks used to calculate the Aggregate Free Cash FLow / Sales Ratio (%) for the specific time period, industry and indicator"
+110,mdl55_industry_agm_stocks,"Number of stocks used to calculate the Aggregate Gross Margin (%) for the specific time period, industry and indicator"
+111,mdl55_industry_aom_stocks,"Number of stocks used to calculate the Aggregate Operating Margin (%) for the specific time period, industry and indicator"
+112,mdl55_industry_aroc_20pctl,20th percentile value of Aggregate Return on Capital (%) for the stock industry
+113,mdl55_industry_aroc_50pctl,50th percentile value of Aggregate Return on Capital (%) for the stock industry
+114,mdl55_industry_aroc_80pctl,80th percentile value of Aggregate Return on Capital (%) for the stock industry
+115,mdl55_industry_aroc_mcwa,Market Capitalization Weighted Average of Aggregate Return on Capital (%) for all stocks within the industry
+116,mdl55_industry_aroc_stocks,"Number of stocks used to calculate the Aggregate Return on Capital (%) for the specific time period, industry and indicator"
+117,mdl55_industry_aroe_20pctl,20th percentile value of Aggregate Return on Equity (%) for the stock industry
+118,mdl55_industry_aroe_50pctl,50th percentile value of Aggregate Return on Equity (%) for the stock industry
+119,mdl55_industry_aroe_80pctl,80th percentile value of Aggregate Return on Equity (%) for the stock industry
+120,mdl55_industry_aroe_mcwa,Market Capitalization Weighted Average of Aggregate Return on Equity (%) for all stocks within the industry
+121,mdl55_industry_aroe_stocks,"Number of stocks used to calculate the Aggregate Return on Equity (%) for the specific time period, industry and indicator"
+122,mdl55_industry_ase_20pctl,20th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+123,mdl55_industry_ase_50pctl,50th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+124,mdl55_industry_ase_80pctl,80th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+125,mdl55_industry_ase_mcwa,Market Capitalization Weighted Average of Aggregate Sales / Enterprise Value (%) for all stocks within the industry
+126,mdl55_industry_ase_stocks,"Number of stocks used to calculate the Aggregate Sales / Enterprise Value (%) for the specific time period, industry and indicator"
+127,mdl55_industry_atr_stocks,"Number of stocks used to calculate the Aggregate Tax Rate (%) for the specific time period, industry and indicator"
+128,mdl55_industry_awcm_cda,Market Capitalization Weighted Average of Aggregate Dividend Coverage (%) for all stocks within the industry
+129,mdl55_industry_awcm_eea,Market Capitalization Weighted Average of Aggregate EBITDA / Enterprise Value (%) for all stocks within the industry
+130,mdl55_industry_awcm_mba,Market Capitalization Weighted Average of Aggregate Book / Market Value (%) for all stocks within the industry
+131,mdl55_industry_awcm_mga,Market Capitalization Weighted Average of Aggregate Gross Margin (%) for all stocks within the industry
+132,mdl55_industry_awcm_moa,Market Capitalization Weighted Average of Aggregate Operating Margin (%) for all stocks within the industry
+133,mdl55_industry_awcm_rca,Market Capitalization Weighted Average of Aggregate Current Ratio for all stocks within the industry
+134,mdl55_industry_awcm_rta,Market Capitalization Weighted Average of Aggregate Tax Rate (%) for all stocks within the industry
+135,mdl55_industry_awcm_sca,Market Capitalization Weighted Average of Aggregate CAPEX / Sales Ratio (%) for all stocks within the industry
+136,mdl55_industry_awcm_sfa,Market Capitalization Weighted Average of Aggregate Free Cash FLow / Sales Ratio (%) for all stocks within the industry
+137,mdl55_industry_awcm_taa,Market Capitalization Weighted Average of Aggregate Asset Turnover (%) for all stocks within the industry
+138,mdl55_industry_awcm_xcda,Market Capitalization Weighted Average of Aggregate Dividend Coverage excl Nonpayers (%) for all stocks within the industry
+139,mdl55_industry_awcm_yea,Market Capitalization Weighted Average of Aggregate Earnings Yield (%) for all stocks within the industry
+140,mdl55_industry_ltcp02_eea,20th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+141,mdl55_industry_ltcp02_mba,20th percentile value of Aggregate Book / Market Value (%)) for the stock industry
+142,mdl55_industry_ltcp02_mga,20th percentile value of Aggregate Gross Margin (%) for the stock industry
+143,mdl55_industry_ltcp02_moa,20th percentile value of Aggregate Operating Margin (%) for the stock industry
+144,mdl55_industry_ltcp02_rca,20th percentile value of Aggregate Current Ratio for the stock industry
+145,mdl55_industry_ltcp02_rta,20th percentile value of Aggregate Tax Rate (%) for the stock industry
+146,mdl55_industry_ltcp02_sca,20th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+147,mdl55_industry_ltcp02_sfa,20th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+148,mdl55_industry_ltcp02_taa,20th percentile value of Aggregate Asset Turnover (%) for the stock industry
+149,mdl55_industry_ltcp02_xcda,20th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+150,mdl55_industry_ltcp02_yea,20th percentile value of Aggregate Earnings Yield (%) for the stock industry
+151,mdl55_industry_ltcp05_cda,50th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+152,mdl55_industry_ltcp05_eea,50th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+153,mdl55_industry_ltcp05_mba,50th percentile value of Aggregate Book / Market Value (%) for the stock industry
+154,mdl55_industry_ltcp05_mga,50th percentile value of Aggregate Gross Margin (%) for the stock industry
+155,mdl55_industry_ltcp05_moa,50th percentile value of Aggregate Operating Margin (%) for the stock industry
+156,mdl55_industry_ltcp05_rca,50th percentile value of Aggregate Current Ratio for the stock industry
+157,mdl55_industry_ltcp05_rta,50th percentile value of Aggregate Tax Rate (%) for the stock industry
+158,mdl55_industry_ltcp05_sca,50th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+159,mdl55_industry_ltcp05_sfa,50th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+160,mdl55_industry_ltcp05_taa,50th percentile value of Aggregate Asset Turnover (%) for the stock industry
+161,mdl55_industry_ltcp05_xcda,50th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+162,mdl55_industry_ltcp05_yea,50th percentile value of Aggregate Earnings Yield (%) for the stock industry
+163,mdl55_industry_ltcp08_cda,80th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+164,mdl55_industry_ltcp08_eea,80th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+165,mdl55_industry_ltcp08_mba,80th percentile value of Aggregate Book / Market Value (%) for the stock industry
+166,mdl55_industry_ltcp08_mga,80th percentile value of Aggregate Gross Margin (%) for the stock industry
+167,mdl55_industry_ltcp08_moa,80th percentile value of Aggregate Operating Margin (%) for the stock industry
+168,mdl55_industry_ltcp08_rca,80th percentile value of Aggregate Current Ratio for the stock industry
+169,mdl55_industry_ltcp08_rta,80th percentile value of Aggregate Tax Rate (%) for the stock industry
+170,mdl55_industry_ltcp08_sca,80th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+171,mdl55_industry_ltcp08_sfa,80th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+172,mdl55_industry_ltcp08_taa,80th percentile value of Aggregate Asset Turnover (%) for the stock industry
+173,mdl55_industry_ltcp08_xcda,80th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+174,mdl55_industry_ltcp08_yea,80th percentile value of Aggregate Earnings Yield (%) for the stock industry
+175,mdl55_sector_aat_stocks,"Number of stocks used to calculate the Aggregate Asset Turnover (%) for the specific time period, industry and indicator"
+176,mdl55_sector_abm_stocks,"Number of stocks used to calculate the Aggregate Book / Market Value (%) for the specific time period, industry and indicator"
+177,mdl55_sector_acr_stocks,"Number of stocks used to calculate the Aggregate Current Ratio for the specific time period, industry and indicator"
+178,mdl55_sector_acs_stocks,"Number of stocks used to calculate the Aggregate CAPEX / Sales Ratio (%) for the specific time period, industry and indicator"
+179,mdl55_sector_adc_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage (%) for the specific time period, industry and indicator"
+180,mdl55_sector_adcx_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage excl Nonpayers (%) for the specific time period, industry and indicator"
+181,mdl55_sector_ade_20pctl,20th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+182,mdl55_sector_ade_50pctl,50th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+183,mdl55_sector_ade_80pctl,80th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+184,mdl55_sector_ade_mcwa,Market Capitalization Weighted Average of Aggregate Debt / Equity Ratio (%) for all stocks within the industry
+185,mdl55_sector_ade_stocks,"Number of stocks used to calculate the Aggregate Debt / Equity Ratio (%) for the specific time period, industry and indicator"
+186,mdl55_sector_ady_50pctl,50th percentile value of Aggregate Dividend Yield (%) for the stock industry
+187,mdl55_sector_ady_80pctl,80th percentile value of Aggregate Dividend Yield (%) for the stock industry
+188,mdl55_sector_ady_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield (%) for all stocks within the industry
+189,mdl55_sector_ady_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield (%) for the specific time period, industry and indicator"
+190,mdl55_sector_adyx_20pctl,20th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+191,mdl55_sector_adyx_50pctl,50th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+192,mdl55_sector_adyx_80pctl,80th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+193,mdl55_sector_adyx_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield excl Nonpayers (%) for all stocks within the industry
+194,mdl55_sector_adyx_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield excl Nonpayers (%) for the specific time period, industry and indicator"
+195,mdl55_sector_aee_stocks,"Number of stocks used to calculate the Aggregate EBITDA / Enterprise Value (%) for the specific time period, industry and indicator"
+196,mdl55_sector_aey_stocks,"Number of stocks used to calculate the Aggregate Earnings Yield (%) for the specific time period, industry and indicator"
+197,mdl55_sector_afs_stocks,"Number of stocks used to calculate the Aggregate Free Cash FLow / Sales Ratio (%) for the specific time period, industry and indicator"
+198,mdl55_sector_agm_stocks,"Number of stocks used to calculate the Aggregate Gross Margin (%) for the specific time period, industry and indicator"
+199,mdl55_sector_aom_stocks,"Number of stocks used to calculate the Aggregate Operating Margin (%) for the specific time period, industry and indicator"
+200,mdl55_sector_aroc_20pctl,20th percentile value of Aggregate Return on Capital (%) for the stock industry
+201,mdl55_sector_aroc_50pctl,50th percentile value of Aggregate Return on Capital (%) for the stock industry
+202,mdl55_sector_aroc_80pctl,80th percentile value of Aggregate Return on Capital (%) for the stock industry
+203,mdl55_sector_aroc_mcwa,Market Capitalization Weighted Average of Aggregate Return on Capital (%) for all stocks within the industry
+204,mdl55_sector_aroc_stocks,"Number of stocks used to calculate the Aggregate Return on Capital (%) for the specific time period, industry and indicator"
+205,mdl55_sector_aroe_20pctl,20th percentile value of Aggregate Return on Equity (%) for the stock industry
+206,mdl55_sector_aroe_50pctl,50th percentile value of Aggregate Return on Equity (%) for the stock industry
+207,mdl55_sector_aroe_80pctl,80th percentile value of Aggregate Return on Equity (%) for the stock industry
+208,mdl55_sector_aroe_mcwa,Market Capitalization Weighted Average of Aggregate Return on Equity (%) for all stocks within the industry
+209,mdl55_sector_aroe_stocks,"Number of stocks used to calculate the Aggregate Return on Equity (%) for the specific time period, industry and indicator"
+210,mdl55_sector_ase_20pctl,20th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+211,mdl55_sector_ase_50pctl,50th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+212,mdl55_sector_ase_80pctl,80th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+213,mdl55_sector_ase_mcwa,Market Capitalization Weighted Average of Aggregate Sales / Enterprise Value (%) for all stocks within the industry
+214,mdl55_sector_ase_stocks,"Number of stocks used to calculate the Aggregate Sales / Enterprise Value (%) for the specific time period, industry and indicator"
+215,mdl55_sector_atr_stocks,"Number of stocks used to calculate the Aggregate Tax Rate (%) for the specific time period, industry and indicator"
+216,mdl55_sector_awcm_cda,Market Capitalization Weighted Average of Aggregate Dividend Coverage (%) for all stocks within the industry
+217,mdl55_sector_awcm_eea,Market Capitalization Weighted Average of Aggregate EBITDA / Enterprise Value (%) for all stocks within the industry
+218,mdl55_sector_awcm_mba,Market Capitalization Weighted Average of Aggregate Book / Market Value (%) for all stocks within the industry
+219,mdl55_sector_awcm_mga,Market Capitalization Weighted Average of Aggregate Gross Margin (%) for all stocks within the industry
+220,mdl55_sector_awcm_moa,Market Capitalization Weighted Average of Aggregate Operating Margin (%) for all stocks within the industry
+221,mdl55_sector_awcm_rca,Market Capitalization Weighted Average of Aggregate Current Ratio for all stocks within the industry
+222,mdl55_sector_awcm_rta,Market Capitalization Weighted Average of Aggregate Tax Rate (%) for all stocks within the industry
+223,mdl55_sector_awcm_sca,Market Capitalization Weighted Average of Aggregate CAPEX / Sales Ratio (%) for all stocks within the industry
+224,mdl55_sector_awcm_sfa,Market Capitalization Weighted Average of Aggregate Free Cash FLow / Sales Ratio (%) for all stocks within the industry
+225,mdl55_sector_awcm_taa,Market Capitalization Weighted Average of Aggregate Asset Turnover (%) for all stocks within the industry
+226,mdl55_sector_awcm_xcda,Market Capitalization Weighted Average of Aggregate Dividend Coverage excl Nonpayers (%) for all stocks within the industry
+227,mdl55_sector_awcm_yea,Market Capitalization Weighted Average of Aggregate Earnings Yield (%) for all stocks within the industry
+228,mdl55_sector_ltcp02_eea,20th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+229,mdl55_sector_ltcp02_mba,20th percentile value of Aggregate Book / Market Value (%)) for the stock industry
+230,mdl55_sector_ltcp02_mga,20th percentile value of Aggregate Gross Margin (%) for the stock industry
+231,mdl55_sector_ltcp02_moa,20th percentile value of Aggregate Operating Margin (%) for the stock industry
+232,mdl55_sector_ltcp02_rca,20th percentile value of Aggregate Current Ratio for the stock industry
+233,mdl55_sector_ltcp02_rta,20th percentile value of Aggregate Tax Rate (%) for the stock industry
+234,mdl55_sector_ltcp02_sca,20th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+235,mdl55_sector_ltcp02_sfa,20th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+236,mdl55_sector_ltcp02_taa,20th percentile value of Aggregate Asset Turnover (%) for the stock industry
+237,mdl55_sector_ltcp02_xcda,20th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+238,mdl55_sector_ltcp02_yea,20th percentile value of Aggregate Earnings Yield (%) for the stock industry
+239,mdl55_sector_ltcp05_cda,50th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+240,mdl55_sector_ltcp05_eea,50th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+241,mdl55_sector_ltcp05_mba,50th percentile value of Aggregate Book / Market Value (%) for the stock industry
+242,mdl55_sector_ltcp05_mga,50th percentile value of Aggregate Gross Margin (%) for the stock industry
+243,mdl55_sector_ltcp05_moa,50th percentile value of Aggregate Operating Margin (%) for the stock industry
+244,mdl55_sector_ltcp05_rca,50th percentile value of Aggregate Current Ratio for the stock industry
+245,mdl55_sector_ltcp05_rta,50th percentile value of Aggregate Tax Rate (%) for the stock industry
+246,mdl55_sector_ltcp05_sca,50th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+247,mdl55_sector_ltcp05_sfa,50th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+248,mdl55_sector_ltcp05_taa,50th percentile value of Aggregate Asset Turnover (%) for the stock industry
+249,mdl55_sector_ltcp05_xcda,50th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+250,mdl55_sector_ltcp05_yea,50th percentile value of Aggregate Earnings Yield (%) for the stock industry
+251,mdl55_sector_ltcp08_cda,80th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+252,mdl55_sector_ltcp08_eea,80th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+253,mdl55_sector_ltcp08_mba,80th percentile value of Aggregate Book / Market Value (%) for the stock industry
+254,mdl55_sector_ltcp08_mga,80th percentile value of Aggregate Gross Margin (%) for the stock industry
+255,mdl55_sector_ltcp08_moa,80th percentile value of Aggregate Operating Margin (%) for the stock industry
+256,mdl55_sector_ltcp08_rca,80th percentile value of Aggregate Current Ratio for the stock industry
+257,mdl55_sector_ltcp08_rta,80th percentile value of Aggregate Tax Rate (%) for the stock industry
+258,mdl55_sector_ltcp08_sca,80th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+259,mdl55_sector_ltcp08_sfa,80th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+260,mdl55_sector_ltcp08_taa,80th percentile value of Aggregate Asset Turnover (%) for the stock industry
+261,mdl55_sector_ltcp08_xcda,80th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+262,mdl55_sector_ltcp08_yea,80th percentile value of Aggregate Earnings Yield (%) for the stock industry
+263,mdl55_subindustry_aat_stocks,"Number of stocks used to calculate the Aggregate Asset Turnover (%) for the specific time period, industry and indicator"
+264,mdl55_subindustry_abm_stocks,"Number of stocks used to calculate the Aggregate Book / Market Value (%) for the specific time period, industry and indicator"
+265,mdl55_subindustry_acr_stocks,"Number of stocks used to calculate the Aggregate Current Ratio for the specific time period, industry and indicator"
+266,mdl55_subindustry_acs_stocks,"Number of stocks used to calculate the Aggregate CAPEX / Sales Ratio (%) for the specific time period, industry and indicator"
+267,mdl55_subindustry_adc_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage (%) for the specific time period, industry and indicator"
+268,mdl55_subindustry_adcx_stocks,"Number of stocks used to calculate the Aggregate Dividend Coverage excl Nonpayers (%) for the specific time period, industry and indicator"
+269,mdl55_subindustry_ade_20pctl,20th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+270,mdl55_subindustry_ade_50pctl,50th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+271,mdl55_subindustry_ade_80pctl,80th percentile value of Aggregate Debt / Equity Ratio (%) for the stock industry
+272,mdl55_subindustry_ade_mcwa,Market Capitalization Weighted Average of Aggregate Debt / Equity Ratio (%) for all stocks within the industry
+273,mdl55_subindustry_ade_stocks,"Number of stocks used to calculate the Aggregate Debt / Equity Ratio (%) for the specific time period, industry and indicator"
+274,mdl55_subindustry_ady_20pctl,20th percentile value of Aggregate Dividend Yield (%) for the stock industry
+275,mdl55_subindustry_ady_50pctl,50th percentile value of Aggregate Dividend Yield (%) for the stock industry
+276,mdl55_subindustry_ady_80pctl,80th percentile value of Aggregate Dividend Yield (%) for the stock industry
+277,mdl55_subindustry_ady_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield (%) for all stocks within the industry
+278,mdl55_subindustry_ady_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield (%) for the specific time period, industry and indicator"
+279,mdl55_subindustry_adyx_20pctl,20th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+280,mdl55_subindustry_adyx_50pctl,50th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+281,mdl55_subindustry_adyx_80pctl,80th percentile value of Aggregate Dividend Yield excl Nonpayers (%) for the stock industry
+282,mdl55_subindustry_adyx_mcwa,Market Capitalization Weighted Average of Aggregate Dividend Yield excl Nonpayers (%) for all stocks within the industry
+283,mdl55_subindustry_adyx_stocks,"Number of stocks used to calculate the Aggregate Dividend Yield excl Nonpayers (%) for the specific time period, industry and indicator"
+284,mdl55_subindustry_aee_stocks,"Number of stocks used to calculate the Aggregate EBITDA / Enterprise Value (%) for the specific time period, industry and indicator"
+285,mdl55_subindustry_aey_stocks,"Number of stocks used to calculate the Aggregate Earnings Yield (%) for the specific time period, industry and indicator"
+286,mdl55_subindustry_afs_stocks,"Number of stocks used to calculate the Aggregate Free Cash FLow / Sales Ratio (%) for the specific time period, industry and indicator"
+287,mdl55_subindustry_agm_stocks,"Number of stocks used to calculate the Aggregate Gross Margin (%) for the specific time period, industry and indicator"
+288,mdl55_subindustry_aom_stocks,"Number of stocks used to calculate the Aggregate Operating Margin (%) for the specific time period, industry and indicator"
+289,mdl55_subindustry_aroc_20pctl,20th percentile value of Aggregate Return on Capital (%) for the stock industry
+290,mdl55_subindustry_aroc_50pctl,50th percentile value of Aggregate Return on Capital (%) for the stock industry
+291,mdl55_subindustry_aroc_80pctl,80th percentile value of Aggregate Return on Capital (%) for the stock industry
+292,mdl55_subindustry_aroc_mcwa,Market Capitalization Weighted Average of Aggregate Return on Capital (%) for all stocks within the industry
+293,mdl55_subindustry_aroc_stocks,"Number of stocks used to calculate the Aggregate Return on Capital (%) for the specific time period, industry and indicator"
+294,mdl55_subindustry_aroe_20pctl,20th percentile value of Aggregate Return on Equity (%) for the stock industry
+295,mdl55_subindustry_aroe_50pctl,50th percentile value of Aggregate Return on Equity (%) for the stock industry
+296,mdl55_subindustry_aroe_80pctl,80th percentile value of Aggregate Return on Equity (%) for the stock industry
+297,mdl55_subindustry_aroe_mcwa,Market Capitalization Weighted Average of Aggregate Return on Equity (%) for all stocks within the industry
+298,mdl55_subindustry_aroe_stocks,"Number of stocks used to calculate the Aggregate Return on Equity (%) for the specific time period, industry and indicator"
+299,mdl55_subindustry_ase_20pctl,20th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+300,mdl55_subindustry_ase_50pctl,50th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+301,mdl55_subindustry_ase_80pctl,80th percentile value of Aggregate Sales / Enterprise Value (%) for the stock industry
+302,mdl55_subindustry_ase_mcwa,Market Capitalization Weighted Average of Aggregate Sales / Enterprise Value (%) for all stocks within the industry
+303,mdl55_subindustry_ase_stocks,"Number of stocks used to calculate the Aggregate Sales / Enterprise Value (%) for the specific time period, industry and indicator"
+304,mdl55_subindustry_atr_stocks,"Number of stocks used to calculate the Aggregate Tax Rate (%) for the specific time period, industry and indicator"
+305,mdl55_subindustry_awcm_cda,Market Capitalization Weighted Average of Aggregate Dividend Coverage (%) for all stocks within the industry
+306,mdl55_subindustry_awcm_eea,Market Capitalization Weighted Average of Aggregate EBITDA / Enterprise Value (%) for all stocks within the industry
+307,mdl55_subindustry_awcm_mba,Market Capitalization Weighted Average of Aggregate Book / Market Value (%) for all stocks within the industry
+308,mdl55_subindustry_awcm_mga,Market Capitalization Weighted Average of Aggregate Gross Margin (%) for all stocks within the industry
+309,mdl55_subindustry_awcm_moa,Market Capitalization Weighted Average of Aggregate Operating Margin (%) for all stocks within the industry
+310,mdl55_subindustry_awcm_rca,Market Capitalization Weighted Average of Aggregate Current Ratio for all stocks within the industry
+311,mdl55_subindustry_awcm_rta,Market Capitalization Weighted Average of Aggregate Tax Rate (%) for all stocks within the industry
+312,mdl55_subindustry_awcm_sca,Market Capitalization Weighted Average of Aggregate CAPEX / Sales Ratio (%) for all stocks within the industry
+313,mdl55_subindustry_awcm_sfa,Market Capitalization Weighted Average of Aggregate Free Cash FLow / Sales Ratio (%) for all stocks within the industry
+314,mdl55_subindustry_awcm_taa,Market Capitalization Weighted Average of Aggregate Asset Turnover (%) for all stocks within the industry
+315,mdl55_subindustry_awcm_xcda,Market Capitalization Weighted Average of Aggregate Dividend Coverage excl Nonpayers (%) for all stocks within the industry
+316,mdl55_subindustry_awcm_yea,Market Capitalization Weighted Average of Aggregate Earnings Yield (%) for all stocks within the industry
+317,mdl55_subindustry_ltcp02_cda,20th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+318,mdl55_subindustry_ltcp02_eea,20th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+319,mdl55_subindustry_ltcp02_mba,20th percentile value of Aggregate Book / Market Value (%)) for the stock industry
+320,mdl55_subindustry_ltcp02_mga,20th percentile value of Aggregate Gross Margin (%) for the stock industry
+321,mdl55_subindustry_ltcp02_moa,20th percentile value of Aggregate Operating Margin (%) for the stock industry
+322,mdl55_subindustry_ltcp02_rca,20th percentile value of Aggregate Current Ratio for the stock industry
+323,mdl55_subindustry_ltcp02_rta,20th percentile value of Aggregate Tax Rate (%) for the stock industry
+324,mdl55_subindustry_ltcp02_sca,20th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+325,mdl55_subindustry_ltcp02_sfa,20th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+326,mdl55_subindustry_ltcp02_taa,20th percentile value of Aggregate Asset Turnover (%) for the stock industry
+327,mdl55_subindustry_ltcp02_xcda,20th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+328,mdl55_subindustry_ltcp02_yea,20th percentile value of Aggregate Earnings Yield (%) for the stock industry
+329,mdl55_subindustry_ltcp05_cda,50th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+330,mdl55_subindustry_ltcp05_eea,50th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+331,mdl55_subindustry_ltcp05_mba,50th percentile value of Aggregate Book / Market Value (%) for the stock industry
+332,mdl55_subindustry_ltcp05_mga,50th percentile value of Aggregate Gross Margin (%) for the stock industry
+333,mdl55_subindustry_ltcp05_moa,50th percentile value of Aggregate Operating Margin (%) for the stock industry
+334,mdl55_subindustry_ltcp05_rca,50th percentile value of Aggregate Current Ratio for the stock industry
+335,mdl55_subindustry_ltcp05_rta,50th percentile value of Aggregate Tax Rate (%) for the stock industry
+336,mdl55_subindustry_ltcp05_sca,50th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+337,mdl55_subindustry_ltcp05_sfa,50th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+338,mdl55_subindustry_ltcp05_taa,50th percentile value of Aggregate Asset Turnover (%) for the stock industry
+339,mdl55_subindustry_ltcp05_xcda,50th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+340,mdl55_subindustry_ltcp05_yea,50th percentile value of Aggregate Earnings Yield (%) for the stock industry
+341,mdl55_subindustry_ltcp08_cda,80th percentile value of Aggregate Dividend Coverage (%) for the stock industry
+342,mdl55_subindustry_ltcp08_eea,80th percentile value of Aggregate EBITDA / Enterprise Value (%) for the stock industry
+343,mdl55_subindustry_ltcp08_mba,80th percentile value of Aggregate Book / Market Value (%) for the stock industry
+344,mdl55_subindustry_ltcp08_mga,80th percentile value of Aggregate Gross Margin (%) for the stock industry
+345,mdl55_subindustry_ltcp08_moa,80th percentile value of Aggregate Operating Margin (%) for the stock industry
+346,mdl55_subindustry_ltcp08_rca,80th percentile value of Aggregate Current Ratio for the stock industry
+347,mdl55_subindustry_ltcp08_rta,80th percentile value of Aggregate Tax Rate (%) for the stock industry
+348,mdl55_subindustry_ltcp08_sca,80th percentile value of Aggregate CAPEX / Sales Ratio (%) for the stock industry
+349,mdl55_subindustry_ltcp08_sfa,80th percentile value of Aggregate Free Cash FLow / Sales Ratio (%) for the stock industry
+350,mdl55_subindustry_ltcp08_taa,80th percentile value of Aggregate Asset Turnover (%) for the stock industry
+351,mdl55_subindustry_ltcp08_xcda,80th percentile value of Aggregate Dividend Coverage excl Nonpayers (%) for the stock industry
+352,mdl55_subindustry_ltcp08_yea,80th percentile value of Aggregate Earnings Yield (%) for the stock industry

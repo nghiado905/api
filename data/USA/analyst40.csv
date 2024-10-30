@@ -1,0 +1,21 @@
+,id,description
+0,anl40_addin,Number of new directors
+2,anl40_brdcount,"How many board directors in this company after today's movement. Due to lack of original data on history file, there is no BrdCount record before 20160729"
+3,anl40_ed_genderratio,proportion of male directors of executive directors
+4,anl40_ed_timeretirement,average time to retirment of executive directors
+5,anl40_ed_timerole,average time in role of executive directors
+6,anl40_employmentrate,AddIn / (OldCount + NewCount). No record before 20160729
+7,anl40_moveout,Number of leaving directors
+8,anl40_netturnoverrate,TotalChanges / (OldCount + NewCount). No record before 20160729.
+9,anl40_newcount,"How many directors in this company after today's movement. Due to lack of original data on history file, there is no newCount record before 20160729."
+10,anl40_oldcount,"How many directors in this company before today's movement. Due to lack of original data on history file, there is no oldCount record before 20160729."
+11,anl40_overall_genderratio,proportion of male directors of overall directors
+12,anl40_overall_stdevage,standard deviation of directors' ages of overall directors
+13,anl40_overall_timeretirement,average time to retirement of overall directors
+14,anl40_overall_timerole,average time in role of overall directors
+16,anl40_sd_genderratio,proportion of male directors of supervisory directors
+17,anl40_sd_stdevage,standard deviation of directors' ages of supervisory directors
+18,anl40_sd_timeretirement,average time to retirement of supervisory directors
+19,anl40_sd_timerole,average time in role of supervisory directors
+20,anl40_totalchange,"Total changes in director members in that day, which equals (addIn - moveOut)."
+21,anl40_turnoverrate,MoveOut / (OldCount + NewCount). No record before 20160729.

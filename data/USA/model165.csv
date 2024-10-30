@@ -1,0 +1,393 @@
+,id,description
+0,mdl165_dl8ibesnuggetschiwumodel1_01v,layer 1 feature derived from analyst data
+1,mdl165_dl8ibesnuggetschiwumodel1_02v,layer 1 feature derived from analyst data
+2,mdl165_dl8ibesnuggetschiwumodel1_03v,layer 2 feature derived from analyst data
+3,mdl165_dl8ibesnuggetschiwumodel1_04v,layer 2 feature derived from analyst data
+4,mdl165_dl8ibesnuggetschiwumodel1_11v,layer 1 feature derived from analyst data
+5,mdl165_dl8ibesnuggetschiwumodel1_12v,layer 1 feature derived from analyst data
+6,mdl165_dl8ibesnuggetschiwumodel1_13v,layer 2 feature derived from analyst data
+7,mdl165_dl8ibesnuggetschiwumodel1_14v,layer 2 feature derived from analyst data
+8,mdl165_dl8ibesnuggetschiwumodel1_1v,layer 1 feature derived from analyst data
+9,mdl165_dl8ibesnuggetschiwumodel1_21v,layer 1 feature derived from analyst data
+10,mdl165_dl8ibesnuggetschiwumodel1_22v,layer 1 feature derived from analyst data
+11,mdl165_dl8ibesnuggetschiwumodel1_23v,layer 2 feature derived from analyst data
+12,mdl165_dl8ibesnuggetschiwumodel1_24v,layer 2 feature derived from analyst data
+13,mdl165_dl8ibesnuggetschiwumodel1_2v,layer 1 feature derived from analyst data
+14,mdl165_dl8ibesnuggetschiwumodel1_31v,layer 1 feature derived from analyst data
+15,mdl165_dl8ibesnuggetschiwumodel1_32v,layer 1 feature derived from analyst data
+16,mdl165_dl8ibesnuggetschiwumodel1_33v,layer 2 feature derived from analyst data
+17,mdl165_dl8ibesnuggetschiwumodel1_34v,layer 2 feature derived from analyst data
+18,mdl165_dl8ibesnuggetschiwumodel1_3v,layer 1 feature derived from analyst data
+19,mdl165_dl8ibesnuggetschiwumodel1_41v,layer 1 feature derived from analyst data
+20,mdl165_dl8ibesnuggetschiwumodel1_42v,layer 1 feature derived from analyst data
+21,mdl165_dl8ibesnuggetschiwumodel1_43v,layer 2 feature derived from analyst data
+22,mdl165_dl8ibesnuggetschiwumodel1_44v,layer 2 feature derived from analyst data
+23,mdl165_dl8ibesnuggetschiwumodel1_4v,layer 1 feature derived from analyst data
+24,mdl165_dl8ibesnuggetschiwumodel1_51v,layer 1 feature derived from analyst data
+25,mdl165_dl8ibesnuggetschiwumodel1_52v,layer 2 feature derived from analyst data
+26,mdl165_dl8ibesnuggetschiwumodel1_53v,layer 2 feature derived from analyst data
+27,mdl165_dl8ibesnuggetschiwumodel1_54v,layer 2 feature derived from analyst data
+28,mdl165_dl8ibesnuggetschiwumodel1_5v,layer 1 feature derived from analyst data
+29,mdl165_dl8ibesnuggetschiwumodel1_61v,layer 1 feature derived from analyst data
+30,mdl165_dl8ibesnuggetschiwumodel1_62v,layer 2 feature derived from analyst data
+31,mdl165_dl8ibesnuggetschiwumodel1_63v,layer 2 feature derived from analyst data
+32,mdl165_dl8ibesnuggetschiwumodel1_64v,layer 2 feature derived from analyst data
+33,mdl165_dl8ibesnuggetschiwumodel1_6v,layer 1 feature derived from analyst data
+34,mdl165_dl8ibesnuggetschiwumodel1_71v,layer 1 feature derived from analyst data
+35,mdl165_dl8ibesnuggetschiwumodel1_72v,layer 2 feature derived from analyst data
+36,mdl165_dl8ibesnuggetschiwumodel1_73v,layer 2 feature derived from analyst data
+37,mdl165_dl8ibesnuggetschiwumodel1_74v,layer 2 feature derived from analyst data
+38,mdl165_dl8ibesnuggetschiwumodel1_7v,layer 1 feature derived from analyst data
+39,mdl165_dl8ibesnuggetschiwumodel1_81v,layer 1 feature derived from analyst data
+40,mdl165_dl8ibesnuggetschiwumodel1_82v,layer 2 feature derived from analyst data
+41,mdl165_dl8ibesnuggetschiwumodel1_83v,layer 2 feature derived from analyst data
+42,mdl165_dl8ibesnuggetschiwumodel1_84v,layer 2 feature derived from analyst data
+43,mdl165_dl8ibesnuggetschiwumodel1_8v,layer 1 feature derived from analyst data
+44,mdl165_dl8ibesnuggetschiwumodel1_91v,layer 1 feature derived from analyst data
+45,mdl165_dl8ibesnuggetschiwumodel1_92v,layer 2 feature derived from analyst data
+46,mdl165_dl8ibesnuggetschiwumodel1_93v,layer 2 feature derived from analyst data
+47,mdl165_dl8ibesnuggetschiwumodel1_9v,layer 1 feature derived from analyst data
+48,mdl165_dl8ibesnuggetschiwumodel1_sop,model position derived from analyst data
+49,mdl165_dl8ibesnuggetschiwumodel2_01v,layer 1 feature derived from analyst data
+50,mdl165_dl8ibesnuggetschiwumodel2_02v,layer 1 feature derived from analyst data
+51,mdl165_dl8ibesnuggetschiwumodel2_03v,layer 2 feature derived from analyst data
+52,mdl165_dl8ibesnuggetschiwumodel2_04v,layer 2 feature derived from analyst data
+53,mdl165_dl8ibesnuggetschiwumodel2_11v,layer 1 feature derived from analyst data
+54,mdl165_dl8ibesnuggetschiwumodel2_12v,layer 1 feature derived from analyst data
+55,mdl165_dl8ibesnuggetschiwumodel2_13v,layer 2 feature derived from analyst data
+56,mdl165_dl8ibesnuggetschiwumodel2_14v,layer 2 feature derived from analyst data
+57,mdl165_dl8ibesnuggetschiwumodel2_1v,layer 1 feature derived from analyst data
+58,mdl165_dl8ibesnuggetschiwumodel2_21v,layer 1 feature derived from analyst data
+59,mdl165_dl8ibesnuggetschiwumodel2_22v,layer 1 feature derived from analyst data
+60,mdl165_dl8ibesnuggetschiwumodel2_23v,layer 2 feature derived from analyst data
+61,mdl165_dl8ibesnuggetschiwumodel2_24v,layer 2 feature derived from analyst data
+62,mdl165_dl8ibesnuggetschiwumodel2_2v,layer 1 feature derived from analyst data
+63,mdl165_dl8ibesnuggetschiwumodel2_31v,layer 1 feature derived from analyst data
+64,mdl165_dl8ibesnuggetschiwumodel2_32v,layer 1 feature derived from analyst data
+65,mdl165_dl8ibesnuggetschiwumodel2_33v,layer 2 feature derived from analyst data
+66,mdl165_dl8ibesnuggetschiwumodel2_34v,layer 2 feature derived from analyst data
+67,mdl165_dl8ibesnuggetschiwumodel2_3v,layer 1 feature derived from analyst data
+68,mdl165_dl8ibesnuggetschiwumodel2_41v,layer 1 feature derived from analyst data
+69,mdl165_dl8ibesnuggetschiwumodel2_42v,layer 1 feature derived from analyst data
+70,mdl165_dl8ibesnuggetschiwumodel2_43v,layer 2 feature derived from analyst data
+71,mdl165_dl8ibesnuggetschiwumodel2_44v,layer 2 feature derived from analyst data
+72,mdl165_dl8ibesnuggetschiwumodel2_4v,layer 1 feature derived from analyst data
+73,mdl165_dl8ibesnuggetschiwumodel2_51v,layer 1 feature derived from analyst data
+74,mdl165_dl8ibesnuggetschiwumodel2_52v,layer 2 feature derived from analyst data
+75,mdl165_dl8ibesnuggetschiwumodel2_53v,layer 2 feature derived from analyst data
+76,mdl165_dl8ibesnuggetschiwumodel2_54v,layer 2 feature derived from analyst data
+77,mdl165_dl8ibesnuggetschiwumodel2_5v,layer 1 feature derived from analyst data
+78,mdl165_dl8ibesnuggetschiwumodel2_61v,layer 1 feature derived from analyst data
+79,mdl165_dl8ibesnuggetschiwumodel2_62v,layer 2 feature derived from analyst data
+80,mdl165_dl8ibesnuggetschiwumodel2_63v,layer 2 feature derived from analyst data
+81,mdl165_dl8ibesnuggetschiwumodel2_64v,layer 2 feature derived from analyst data
+82,mdl165_dl8ibesnuggetschiwumodel2_6v,layer 1 feature derived from analyst data
+83,mdl165_dl8ibesnuggetschiwumodel2_71v,layer 1 feature derived from analyst data
+84,mdl165_dl8ibesnuggetschiwumodel2_72v,layer 2 feature derived from analyst data
+85,mdl165_dl8ibesnuggetschiwumodel2_73v,layer 2 feature derived from analyst data
+86,mdl165_dl8ibesnuggetschiwumodel2_74v,layer 2 feature derived from analyst data
+87,mdl165_dl8ibesnuggetschiwumodel2_7v,layer 1 feature derived from analyst data
+88,mdl165_dl8ibesnuggetschiwumodel2_81v,layer 1 feature derived from analyst data
+89,mdl165_dl8ibesnuggetschiwumodel2_82v,layer 2 feature derived from analyst data
+90,mdl165_dl8ibesnuggetschiwumodel2_83v,layer 2 feature derived from analyst data
+91,mdl165_dl8ibesnuggetschiwumodel2_84v,layer 2 feature derived from analyst data
+92,mdl165_dl8ibesnuggetschiwumodel2_8v,layer 1 feature derived from analyst data
+93,mdl165_dl8ibesnuggetschiwumodel2_91v,layer 1 feature derived from analyst data
+94,mdl165_dl8ibesnuggetschiwumodel2_92v,layer 2 feature derived from analyst data
+95,mdl165_dl8ibesnuggetschiwumodel2_93v,layer 2 feature derived from analyst data
+96,mdl165_dl8ibesnuggetschiwumodel2_9v,layer 1 feature derived from analyst data
+97,mdl165_dl8ibesnuggetschiwumodel2_sop,model position derived from analyst data
+98,mdl165_dl8ibesnuggetskachengmodel1_01v,layer 1 feature derived from analyst data
+99,mdl165_dl8ibesnuggetskachengmodel1_02v,layer 1 feature derived from analyst data
+100,mdl165_dl8ibesnuggetskachengmodel1_03v,layer 2 feature derived from analyst data
+101,mdl165_dl8ibesnuggetskachengmodel1_04v,layer 2 feature derived from analyst data
+102,mdl165_dl8ibesnuggetskachengmodel1_11v,layer 1 feature derived from analyst data
+103,mdl165_dl8ibesnuggetskachengmodel1_12v,layer 1 feature derived from analyst data
+104,mdl165_dl8ibesnuggetskachengmodel1_13v,layer 2 feature derived from analyst data
+105,mdl165_dl8ibesnuggetskachengmodel1_14v,layer 2 feature derived from analyst data
+106,mdl165_dl8ibesnuggetskachengmodel1_1v,layer 1 feature derived from analyst data
+107,mdl165_dl8ibesnuggetskachengmodel1_21v,layer 1 feature derived from analyst data
+108,mdl165_dl8ibesnuggetskachengmodel1_22v,layer 1 feature derived from analyst data
+109,mdl165_dl8ibesnuggetskachengmodel1_23v,layer 2 feature derived from analyst data
+110,mdl165_dl8ibesnuggetskachengmodel1_24v,layer 2 feature derived from analyst data
+111,mdl165_dl8ibesnuggetskachengmodel1_2v,layer 1 feature derived from analyst data
+112,mdl165_dl8ibesnuggetskachengmodel1_31v,layer 1 feature derived from analyst data
+113,mdl165_dl8ibesnuggetskachengmodel1_32v,layer 1 feature derived from analyst data
+114,mdl165_dl8ibesnuggetskachengmodel1_33v,layer 2 feature derived from analyst data
+115,mdl165_dl8ibesnuggetskachengmodel1_34v,layer 2 feature derived from analyst data
+116,mdl165_dl8ibesnuggetskachengmodel1_3v,layer 1 feature derived from analyst data
+117,mdl165_dl8ibesnuggetskachengmodel1_41v,layer 1 feature derived from analyst data
+118,mdl165_dl8ibesnuggetskachengmodel1_42v,layer 1 feature derived from analyst data
+119,mdl165_dl8ibesnuggetskachengmodel1_43v,layer 2 feature derived from analyst data
+120,mdl165_dl8ibesnuggetskachengmodel1_44v,layer 2 feature derived from analyst data
+121,mdl165_dl8ibesnuggetskachengmodel1_4v,layer 1 feature derived from analyst data
+122,mdl165_dl8ibesnuggetskachengmodel1_51v,layer 1 feature derived from analyst data
+123,mdl165_dl8ibesnuggetskachengmodel1_52v,layer 2 feature derived from analyst data
+124,mdl165_dl8ibesnuggetskachengmodel1_53v,layer 2 feature derived from analyst data
+125,mdl165_dl8ibesnuggetskachengmodel1_54v,layer 2 feature derived from analyst data
+126,mdl165_dl8ibesnuggetskachengmodel1_5v,layer 1 feature derived from analyst data
+127,mdl165_dl8ibesnuggetskachengmodel1_61v,layer 1 feature derived from analyst data
+128,mdl165_dl8ibesnuggetskachengmodel1_62v,layer 2 feature derived from analyst data
+129,mdl165_dl8ibesnuggetskachengmodel1_63v,layer 2 feature derived from analyst data
+130,mdl165_dl8ibesnuggetskachengmodel1_64v,layer 2 feature derived from analyst data
+131,mdl165_dl8ibesnuggetskachengmodel1_6v,layer 1 feature derived from analyst data
+132,mdl165_dl8ibesnuggetskachengmodel1_71v,layer 1 feature derived from analyst data
+133,mdl165_dl8ibesnuggetskachengmodel1_72v,layer 2 feature derived from analyst data
+134,mdl165_dl8ibesnuggetskachengmodel1_73v,layer 2 feature derived from analyst data
+135,mdl165_dl8ibesnuggetskachengmodel1_74v,layer 2 feature derived from analyst data
+136,mdl165_dl8ibesnuggetskachengmodel1_7v,layer 1 feature derived from analyst data
+137,mdl165_dl8ibesnuggetskachengmodel1_81v,layer 1 feature derived from analyst data
+138,mdl165_dl8ibesnuggetskachengmodel1_82v,layer 2 feature derived from analyst data
+139,mdl165_dl8ibesnuggetskachengmodel1_83v,layer 2 feature derived from analyst data
+140,mdl165_dl8ibesnuggetskachengmodel1_84v,layer 2 feature derived from analyst data
+141,mdl165_dl8ibesnuggetskachengmodel1_8v,layer 1 feature derived from analyst data
+142,mdl165_dl8ibesnuggetskachengmodel1_91v,layer 1 feature derived from analyst data
+143,mdl165_dl8ibesnuggetskachengmodel1_92v,layer 2 feature derived from analyst data
+144,mdl165_dl8ibesnuggetskachengmodel1_93v,layer 2 feature derived from analyst data
+145,mdl165_dl8ibesnuggetskachengmodel1_9v,layer 1 feature derived from analyst data
+146,mdl165_dl8ibesnuggetskachengmodel1_sop,model position derived from analyst data
+147,mdl165_dl8qsgnuggetskachengmodel1_01v,layer 1 feature derived from quant model data
+148,mdl165_dl8qsgnuggetskachengmodel1_02v,layer 1 feature derived from quant model data
+149,mdl165_dl8qsgnuggetskachengmodel1_03v,layer 2 feature derived from quant model data
+150,mdl165_dl8qsgnuggetskachengmodel1_04v,layer 2 feature derived from quant model data
+151,mdl165_dl8qsgnuggetskachengmodel1_11v,layer 1 feature derived from quant model data
+152,mdl165_dl8qsgnuggetskachengmodel1_12v,layer 1 feature derived from quant model data
+153,mdl165_dl8qsgnuggetskachengmodel1_13v,layer 2 feature derived from quant model data
+154,mdl165_dl8qsgnuggetskachengmodel1_14v,layer 2 feature derived from quant model data
+155,mdl165_dl8qsgnuggetskachengmodel1_1v,layer 1 feature derived from quant model data
+156,mdl165_dl8qsgnuggetskachengmodel1_21v,layer 1 feature derived from quant model data
+157,mdl165_dl8qsgnuggetskachengmodel1_22v,layer 1 feature derived from quant model data
+158,mdl165_dl8qsgnuggetskachengmodel1_23v,layer 2 feature derived from quant model data
+159,mdl165_dl8qsgnuggetskachengmodel1_24v,layer 2 feature derived from quant model data
+160,mdl165_dl8qsgnuggetskachengmodel1_2v,layer 1 feature derived from quant model data
+161,mdl165_dl8qsgnuggetskachengmodel1_31v,layer 1 feature derived from quant model data
+162,mdl165_dl8qsgnuggetskachengmodel1_32v,layer 1 feature derived from quant model data
+163,mdl165_dl8qsgnuggetskachengmodel1_33v,layer 2 feature derived from quant model data
+164,mdl165_dl8qsgnuggetskachengmodel1_34v,layer 2 feature derived from quant model data
+165,mdl165_dl8qsgnuggetskachengmodel1_3v,layer 1 feature derived from quant model data
+166,mdl165_dl8qsgnuggetskachengmodel1_41v,layer 1 feature derived from quant model data
+167,mdl165_dl8qsgnuggetskachengmodel1_42v,layer 1 feature derived from quant model data
+168,mdl165_dl8qsgnuggetskachengmodel1_43v,layer 2 feature derived from quant model data
+169,mdl165_dl8qsgnuggetskachengmodel1_44v,layer 2 feature derived from quant model data
+170,mdl165_dl8qsgnuggetskachengmodel1_4v,layer 1 feature derived from quant model data
+171,mdl165_dl8qsgnuggetskachengmodel1_51v,layer 1 feature derived from quant model data
+172,mdl165_dl8qsgnuggetskachengmodel1_52v,layer 2 feature derived from quant model data
+173,mdl165_dl8qsgnuggetskachengmodel1_53v,layer 2 feature derived from quant model data
+174,mdl165_dl8qsgnuggetskachengmodel1_54v,layer 2 feature derived from quant model data
+175,mdl165_dl8qsgnuggetskachengmodel1_5v,layer 1 feature derived from quant model data
+176,mdl165_dl8qsgnuggetskachengmodel1_61v,layer 1 feature derived from quant model data
+177,mdl165_dl8qsgnuggetskachengmodel1_62v,layer 2 feature derived from quant model data
+178,mdl165_dl8qsgnuggetskachengmodel1_63v,layer 2 feature derived from quant model data
+179,mdl165_dl8qsgnuggetskachengmodel1_64v,layer 2 feature derived from quant model data
+180,mdl165_dl8qsgnuggetskachengmodel1_6v,layer 1 feature derived from quant model data
+181,mdl165_dl8qsgnuggetskachengmodel1_71v,layer 1 feature derived from quant model data
+182,mdl165_dl8qsgnuggetskachengmodel1_72v,layer 2 feature derived from quant model data
+183,mdl165_dl8qsgnuggetskachengmodel1_73v,layer 2 feature derived from quant model data
+184,mdl165_dl8qsgnuggetskachengmodel1_74v,layer 2 feature derived from quant model data
+185,mdl165_dl8qsgnuggetskachengmodel1_7v,layer 1 feature derived from quant model data
+186,mdl165_dl8qsgnuggetskachengmodel1_81v,layer 1 feature derived from quant model data
+187,mdl165_dl8qsgnuggetskachengmodel1_82v,layer 2 feature derived from quant model data
+188,mdl165_dl8qsgnuggetskachengmodel1_83v,layer 2 feature derived from quant model data
+189,mdl165_dl8qsgnuggetskachengmodel1_84v,layer 2 feature derived from quant model data
+190,mdl165_dl8qsgnuggetskachengmodel1_8v,layer 1 feature derived from quant model data
+191,mdl165_dl8qsgnuggetskachengmodel1_91v,layer 1 feature derived from quant model data
+192,mdl165_dl8qsgnuggetskachengmodel1_92v,layer 2 feature derived from quant model data
+193,mdl165_dl8qsgnuggetskachengmodel1_93v,layer 2 feature derived from quant model data
+194,mdl165_dl8qsgnuggetskachengmodel1_9v,layer 1 feature derived from quant model data
+195,mdl165_dl8qsgnuggetskachengmodel1_sop,model position derived from quant model data
+196,mdl165_dl8qsgnuggetskachengmodel2_01v,layer 1 feature derived from quant model data
+197,mdl165_dl8qsgnuggetskachengmodel2_02v,layer 1 feature derived from quant model data
+198,mdl165_dl8qsgnuggetskachengmodel2_03v,layer 2 feature derived from quant model data
+199,mdl165_dl8qsgnuggetskachengmodel2_04v,layer 2 feature derived from quant model data
+200,mdl165_dl8qsgnuggetskachengmodel2_11v,layer 1 feature derived from quant model data
+201,mdl165_dl8qsgnuggetskachengmodel2_12v,layer 1 feature derived from quant model data
+202,mdl165_dl8qsgnuggetskachengmodel2_13v,layer 2 feature derived from quant model data
+203,mdl165_dl8qsgnuggetskachengmodel2_14v,layer 2 feature derived from quant model data
+204,mdl165_dl8qsgnuggetskachengmodel2_1v,layer 1 feature derived from quant model data
+205,mdl165_dl8qsgnuggetskachengmodel2_21v,layer 1 feature derived from quant model data
+206,mdl165_dl8qsgnuggetskachengmodel2_22v,layer 1 feature derived from quant model data
+207,mdl165_dl8qsgnuggetskachengmodel2_23v,layer 2 feature derived from quant model data
+208,mdl165_dl8qsgnuggetskachengmodel2_24v,layer 2 feature derived from quant model data
+209,mdl165_dl8qsgnuggetskachengmodel2_2v,layer 1 feature derived from quant model data
+210,mdl165_dl8qsgnuggetskachengmodel2_31v,layer 1 feature derived from quant model data
+211,mdl165_dl8qsgnuggetskachengmodel2_32v,layer 1 feature derived from quant model data
+212,mdl165_dl8qsgnuggetskachengmodel2_33v,layer 2 feature derived from quant model data
+213,mdl165_dl8qsgnuggetskachengmodel2_34v,layer 2 feature derived from quant model data
+214,mdl165_dl8qsgnuggetskachengmodel2_3v,layer 1 feature derived from quant model data
+215,mdl165_dl8qsgnuggetskachengmodel2_41v,layer 1 feature derived from quant model data
+216,mdl165_dl8qsgnuggetskachengmodel2_42v,layer 1 feature derived from quant model data
+217,mdl165_dl8qsgnuggetskachengmodel2_43v,layer 2 feature derived from quant model data
+218,mdl165_dl8qsgnuggetskachengmodel2_44v,layer 2 feature derived from quant model data
+219,mdl165_dl8qsgnuggetskachengmodel2_4v,layer 1 feature derived from quant model data
+220,mdl165_dl8qsgnuggetskachengmodel2_51v,layer 1 feature derived from quant model data
+221,mdl165_dl8qsgnuggetskachengmodel2_52v,layer 2 feature derived from quant model data
+222,mdl165_dl8qsgnuggetskachengmodel2_53v,layer 2 feature derived from quant model data
+223,mdl165_dl8qsgnuggetskachengmodel2_54v,layer 2 feature derived from quant model data
+224,mdl165_dl8qsgnuggetskachengmodel2_5v,layer 1 feature derived from quant model data
+225,mdl165_dl8qsgnuggetskachengmodel2_61v,layer 1 feature derived from quant model data
+226,mdl165_dl8qsgnuggetskachengmodel2_62v,layer 2 feature derived from quant model data
+227,mdl165_dl8qsgnuggetskachengmodel2_63v,layer 2 feature derived from quant model data
+228,mdl165_dl8qsgnuggetskachengmodel2_64v,layer 2 feature derived from quant model data
+229,mdl165_dl8qsgnuggetskachengmodel2_6v,layer 1 feature derived from quant model data
+230,mdl165_dl8qsgnuggetskachengmodel2_71v,layer 1 feature derived from quant model data
+231,mdl165_dl8qsgnuggetskachengmodel2_72v,layer 2 feature derived from quant model data
+232,mdl165_dl8qsgnuggetskachengmodel2_73v,layer 2 feature derived from quant model data
+233,mdl165_dl8qsgnuggetskachengmodel2_74v,layer 2 feature derived from quant model data
+234,mdl165_dl8qsgnuggetskachengmodel2_7v,layer 1 feature derived from quant model data
+235,mdl165_dl8qsgnuggetskachengmodel2_81v,layer 1 feature derived from quant model data
+236,mdl165_dl8qsgnuggetskachengmodel2_82v,layer 2 feature derived from quant model data
+237,mdl165_dl8qsgnuggetskachengmodel2_83v,layer 2 feature derived from quant model data
+238,mdl165_dl8qsgnuggetskachengmodel2_84v,layer 2 feature derived from quant model data
+239,mdl165_dl8qsgnuggetskachengmodel2_8v,layer 1 feature derived from quant model data
+240,mdl165_dl8qsgnuggetskachengmodel2_91v,layer 1 feature derived from quant model data
+241,mdl165_dl8qsgnuggetskachengmodel2_92v,layer 2 feature derived from quant model data
+242,mdl165_dl8qsgnuggetskachengmodel2_93v,layer 2 feature derived from quant model data
+243,mdl165_dl8qsgnuggetskachengmodel2_9v,layer 1 feature derived from quant model data
+244,mdl165_dl8qsgnuggetskachengmodel2_sop,model position derived from quant model data
+245,mdl165_dl8starminenuggetschiehuangmodel1_01v,layer 1 feature derived from fundamental data
+246,mdl165_dl8starminenuggetschiehuangmodel1_02v,layer 1 feature derived from fundamental data
+247,mdl165_dl8starminenuggetschiehuangmodel1_03v,layer 2 feature derived from fundamental data
+248,mdl165_dl8starminenuggetschiehuangmodel1_04v,layer 2 feature derived from fundamental data
+249,mdl165_dl8starminenuggetschiehuangmodel1_11v,layer 1 feature derived from fundamental data
+250,mdl165_dl8starminenuggetschiehuangmodel1_12v,layer 1 feature derived from fundamental data
+251,mdl165_dl8starminenuggetschiehuangmodel1_13v,layer 2 feature derived from fundamental data
+252,mdl165_dl8starminenuggetschiehuangmodel1_14v,layer 2 feature derived from fundamental data
+253,mdl165_dl8starminenuggetschiehuangmodel1_1v,layer 1 feature derived from fundamental data
+254,mdl165_dl8starminenuggetschiehuangmodel1_21v,layer 1 feature derived from fundamental data
+255,mdl165_dl8starminenuggetschiehuangmodel1_22v,layer 1 feature derived from fundamental data
+256,mdl165_dl8starminenuggetschiehuangmodel1_23v,layer 2 feature derived from fundamental data
+257,mdl165_dl8starminenuggetschiehuangmodel1_24v,layer 2 feature derived from fundamental data
+258,mdl165_dl8starminenuggetschiehuangmodel1_2v,layer 1 feature derived from fundamental data
+259,mdl165_dl8starminenuggetschiehuangmodel1_31v,layer 1 feature derived from fundamental data
+260,mdl165_dl8starminenuggetschiehuangmodel1_32v,layer 1 feature derived from fundamental data
+261,mdl165_dl8starminenuggetschiehuangmodel1_33v,layer 2 feature derived from fundamental data
+262,mdl165_dl8starminenuggetschiehuangmodel1_34v,layer 2 feature derived from fundamental data
+263,mdl165_dl8starminenuggetschiehuangmodel1_3v,layer 1 feature derived from fundamental data
+264,mdl165_dl8starminenuggetschiehuangmodel1_41v,layer 1 feature derived from fundamental data
+265,mdl165_dl8starminenuggetschiehuangmodel1_42v,layer 1 feature derived from fundamental data
+266,mdl165_dl8starminenuggetschiehuangmodel1_43v,layer 2 feature derived from fundamental data
+267,mdl165_dl8starminenuggetschiehuangmodel1_44v,layer 2 feature derived from fundamental data
+268,mdl165_dl8starminenuggetschiehuangmodel1_4v,layer 1 feature derived from fundamental data
+269,mdl165_dl8starminenuggetschiehuangmodel1_51v,layer 1 feature derived from fundamental data
+270,mdl165_dl8starminenuggetschiehuangmodel1_52v,layer 2 feature derived from fundamental data
+271,mdl165_dl8starminenuggetschiehuangmodel1_53v,layer 2 feature derived from fundamental data
+272,mdl165_dl8starminenuggetschiehuangmodel1_54v,layer 2 feature derived from fundamental data
+273,mdl165_dl8starminenuggetschiehuangmodel1_5v,layer 1 feature derived from fundamental data
+274,mdl165_dl8starminenuggetschiehuangmodel1_61v,layer 1 feature derived from fundamental data
+275,mdl165_dl8starminenuggetschiehuangmodel1_62v,layer 2 feature derived from fundamental data
+276,mdl165_dl8starminenuggetschiehuangmodel1_63v,layer 2 feature derived from fundamental data
+277,mdl165_dl8starminenuggetschiehuangmodel1_64v,layer 2 feature derived from fundamental data
+278,mdl165_dl8starminenuggetschiehuangmodel1_6v,layer 1 feature derived from fundamental data
+279,mdl165_dl8starminenuggetschiehuangmodel1_71v,layer 1 feature derived from fundamental data
+280,mdl165_dl8starminenuggetschiehuangmodel1_72v,layer 2 feature derived from fundamental data
+281,mdl165_dl8starminenuggetschiehuangmodel1_73v,layer 2 feature derived from fundamental data
+282,mdl165_dl8starminenuggetschiehuangmodel1_74v,layer 2 feature derived from fundamental data
+283,mdl165_dl8starminenuggetschiehuangmodel1_7v,layer 1 feature derived from fundamental data
+284,mdl165_dl8starminenuggetschiehuangmodel1_81v,layer 1 feature derived from fundamental data
+285,mdl165_dl8starminenuggetschiehuangmodel1_82v,layer 2 feature derived from fundamental data
+286,mdl165_dl8starminenuggetschiehuangmodel1_83v,layer 2 feature derived from fundamental data
+287,mdl165_dl8starminenuggetschiehuangmodel1_84v,layer 2 feature derived from fundamental data
+288,mdl165_dl8starminenuggetschiehuangmodel1_8v,layer 1 feature derived from fundamental data
+289,mdl165_dl8starminenuggetschiehuangmodel1_91v,layer 1 feature derived from fundamental data
+290,mdl165_dl8starminenuggetschiehuangmodel1_92v,layer 2 feature derived from fundamental data
+291,mdl165_dl8starminenuggetschiehuangmodel1_93v,layer 2 feature derived from fundamental data
+292,mdl165_dl8starminenuggetschiehuangmodel1_9v,layer 1 feature derived from fundamental data
+293,mdl165_dl8starminenuggetschiehuangmodel1_sop,model position derived from fundamental data
+294,mdl165_forddl8nuggetv1_01v,layer 1 feature derived from fundamental data
+295,mdl165_forddl8nuggetv1_02v,layer 1 feature derived from fundamental data
+296,mdl165_forddl8nuggetv1_03v,layer 2 feature derived from fundamental data
+297,mdl165_forddl8nuggetv1_04v,layer 2 feature derived from fundamental data
+298,mdl165_forddl8nuggetv1_11v,layer 1 feature derived from fundamental data
+299,mdl165_forddl8nuggetv1_12v,layer 1 feature derived from fundamental data
+300,mdl165_forddl8nuggetv1_13v,layer 2 feature derived from fundamental data
+301,mdl165_forddl8nuggetv1_14v,layer 2 feature derived from fundamental data
+302,mdl165_forddl8nuggetv1_1v,layer 1 feature derived from fundamental data
+303,mdl165_forddl8nuggetv1_21v,layer 1 feature derived from fundamental data
+304,mdl165_forddl8nuggetv1_22v,layer 1 feature derived from fundamental data
+305,mdl165_forddl8nuggetv1_23v,layer 2 feature derived from fundamental data
+306,mdl165_forddl8nuggetv1_24v,layer 2 feature derived from fundamental data
+307,mdl165_forddl8nuggetv1_2v,layer 1 feature derived from fundamental data
+308,mdl165_forddl8nuggetv1_31v,layer 1 feature derived from fundamental data
+309,mdl165_forddl8nuggetv1_32v,layer 1 feature derived from fundamental data
+310,mdl165_forddl8nuggetv1_33v,layer 2 feature derived from fundamental data
+311,mdl165_forddl8nuggetv1_34v,layer 2 feature derived from fundamental data
+312,mdl165_forddl8nuggetv1_3v,layer 1 feature derived from fundamental data
+313,mdl165_forddl8nuggetv1_41v,layer 1 feature derived from fundamental data
+314,mdl165_forddl8nuggetv1_42v,layer 1 feature derived from fundamental data
+315,mdl165_forddl8nuggetv1_43v,layer 2 feature derived from fundamental data
+316,mdl165_forddl8nuggetv1_44v,layer 2 feature derived from fundamental data
+317,mdl165_forddl8nuggetv1_4v,layer 1 feature derived from fundamental data
+318,mdl165_forddl8nuggetv1_51v,layer 1 feature derived from fundamental data
+319,mdl165_forddl8nuggetv1_52v,layer 2 feature derived from fundamental data
+320,mdl165_forddl8nuggetv1_53v,layer 2 feature derived from fundamental data
+321,mdl165_forddl8nuggetv1_54v,layer 2 feature derived from fundamental data
+322,mdl165_forddl8nuggetv1_5v,layer 1 feature derived from fundamental data
+323,mdl165_forddl8nuggetv1_61v,layer 1 feature derived from fundamental data
+324,mdl165_forddl8nuggetv1_62v,layer 2 feature derived from fundamental data
+325,mdl165_forddl8nuggetv1_63v,layer 2 feature derived from fundamental data
+326,mdl165_forddl8nuggetv1_64v,layer 2 feature derived from fundamental data
+327,mdl165_forddl8nuggetv1_6v,layer 1 feature derived from fundamental data
+328,mdl165_forddl8nuggetv1_71v,layer 1 feature derived from fundamental data
+329,mdl165_forddl8nuggetv1_72v,layer 2 feature derived from fundamental data
+330,mdl165_forddl8nuggetv1_73v,layer 2 feature derived from fundamental data
+331,mdl165_forddl8nuggetv1_74v,layer 2 feature derived from fundamental data
+332,mdl165_forddl8nuggetv1_7v,layer 1 feature derived from fundamental data
+333,mdl165_forddl8nuggetv1_81v,layer 1 feature derived from fundamental data
+334,mdl165_forddl8nuggetv1_82v,layer 2 feature derived from fundamental data
+335,mdl165_forddl8nuggetv1_83v,layer 2 feature derived from fundamental data
+336,mdl165_forddl8nuggetv1_84v,layer 2 feature derived from fundamental data
+337,mdl165_forddl8nuggetv1_8v,layer 1 feature derived from fundamental data
+338,mdl165_forddl8nuggetv1_91v,layer 1 feature derived from fundamental data
+339,mdl165_forddl8nuggetv1_92v,layer 2 feature derived from fundamental data
+340,mdl165_forddl8nuggetv1_93v,layer 2 feature derived from fundamental data
+341,mdl165_forddl8nuggetv1_9v,layer 1 feature derived from fundamental data
+342,mdl165_forddl8nuggetv1_sop,model position derived from fundamental data
+343,mdl165_forddl8nuggetv2_01v,layer 1 feature derived from fundamental data
+344,mdl165_forddl8nuggetv2_02v,layer 1 feature derived from fundamental data
+345,mdl165_forddl8nuggetv2_03v,layer 2 feature derived from fundamental data
+346,mdl165_forddl8nuggetv2_04v,layer 2 feature derived from fundamental data
+347,mdl165_forddl8nuggetv2_11v,layer 1 feature derived from fundamental data
+348,mdl165_forddl8nuggetv2_12v,layer 1 feature derived from fundamental data
+349,mdl165_forddl8nuggetv2_13v,layer 2 feature derived from fundamental data
+350,mdl165_forddl8nuggetv2_14v,layer 2 feature derived from fundamental data
+351,mdl165_forddl8nuggetv2_1v,layer 1 feature derived from fundamental data
+352,mdl165_forddl8nuggetv2_21v,layer 1 feature derived from fundamental data
+353,mdl165_forddl8nuggetv2_22v,layer 1 feature derived from fundamental data
+354,mdl165_forddl8nuggetv2_23v,layer 2 feature derived from fundamental data
+355,mdl165_forddl8nuggetv2_24v,layer 2 feature derived from fundamental data
+356,mdl165_forddl8nuggetv2_2v,layer 1 feature derived from fundamental data
+357,mdl165_forddl8nuggetv2_31v,layer 1 feature derived from fundamental data
+358,mdl165_forddl8nuggetv2_32v,layer 1 feature derived from fundamental data
+359,mdl165_forddl8nuggetv2_33v,layer 2 feature derived from fundamental data
+360,mdl165_forddl8nuggetv2_34v,layer 2 feature derived from fundamental data
+361,mdl165_forddl8nuggetv2_3v,layer 1 feature derived from fundamental data
+362,mdl165_forddl8nuggetv2_41v,layer 1 feature derived from fundamental data
+363,mdl165_forddl8nuggetv2_42v,layer 1 feature derived from fundamental data
+364,mdl165_forddl8nuggetv2_43v,layer 2 feature derived from fundamental data
+365,mdl165_forddl8nuggetv2_44v,layer 2 feature derived from fundamental data
+366,mdl165_forddl8nuggetv2_4v,layer 1 feature derived from fundamental data
+367,mdl165_forddl8nuggetv2_51v,layer 1 feature derived from fundamental data
+368,mdl165_forddl8nuggetv2_52v,layer 2 feature derived from fundamental data
+369,mdl165_forddl8nuggetv2_53v,layer 2 feature derived from fundamental data
+370,mdl165_forddl8nuggetv2_54v,layer 2 feature derived from fundamental data
+371,mdl165_forddl8nuggetv2_5v,layer 1 feature derived from fundamental data
+372,mdl165_forddl8nuggetv2_61v,layer 1 feature derived from fundamental data
+373,mdl165_forddl8nuggetv2_62v,layer 2 feature derived from fundamental data
+374,mdl165_forddl8nuggetv2_63v,layer 2 feature derived from fundamental data
+375,mdl165_forddl8nuggetv2_64v,layer 2 feature derived from fundamental data
+376,mdl165_forddl8nuggetv2_6v,layer 1 feature derived from fundamental data
+377,mdl165_forddl8nuggetv2_71v,layer 1 feature derived from fundamental data
+378,mdl165_forddl8nuggetv2_72v,layer 2 feature derived from fundamental data
+379,mdl165_forddl8nuggetv2_73v,layer 2 feature derived from fundamental data
+380,mdl165_forddl8nuggetv2_74v,layer 2 feature derived from fundamental data
+381,mdl165_forddl8nuggetv2_7v,layer 1 feature derived from fundamental data
+382,mdl165_forddl8nuggetv2_81v,layer 1 feature derived from fundamental data
+383,mdl165_forddl8nuggetv2_82v,layer 2 feature derived from fundamental data
+384,mdl165_forddl8nuggetv2_83v,layer 2 feature derived from fundamental data
+385,mdl165_forddl8nuggetv2_84v,layer 2 feature derived from fundamental data
+386,mdl165_forddl8nuggetv2_8v,layer 1 feature derived from fundamental data
+387,mdl165_forddl8nuggetv2_91v,layer 1 feature derived from fundamental data
+388,mdl165_forddl8nuggetv2_92v,layer 2 feature derived from fundamental data
+389,mdl165_forddl8nuggetv2_93v,layer 2 feature derived from fundamental data
+390,mdl165_forddl8nuggetv2_9v,layer 1 feature derived from fundamental data
+391,mdl165_forddl8nuggetv2_sop,model position derived from fundamental data

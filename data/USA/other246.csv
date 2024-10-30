@@ -1,0 +1,8 @@
+,id,description
+0,oth246_collection,"Series aggregation type. Possible values: A - Average; S - Sum, E - End of Period; U - None; V - Undefined"
+1,oth246_decimals,Series decimal precision. Possible values are numbers between 0 to 9.
+2,oth246_geography,Series GEO code (same as country code)
+3,oth246_obs_status,"Refers to whether or not the point is Not-available. Possible values: A - Actual Value; M - Not Available (In such cases, the program manually writes the value as 0)"
+4,oth246_obs_value,Value of the observation
+5,oth246_time_period,Date of the observation
+6,oth246_unit_mult,"Series Magnitude. For example, 9 is for billions. Possible values are numbers between 0 and 15."

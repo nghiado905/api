@@ -1,0 +1,13 @@
+,id,description
+0,adv20,Average daily volume in past 20 days
+1,cap,Daily market capitalization (in millions)
+2,close,Daily close price
+4,dividend,Dividend
+6,high,Daily high price
+8,low,Daily low price
+10,open,Daily open price
+11,returns,Daily returns
+13,sharesout,Daily outstanding shares (in millions)
+14,split,Stock split ratio
+16,volume,Daily volume
+17,vwap,Daily volume weighted average price

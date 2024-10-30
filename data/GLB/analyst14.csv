@@ -1,0 +1,927 @@
+,id,description
+0,anl14_actvalue_bvps_fp0,Book Value Per Share - recent last quarter
+1,anl14_actvalue_capex_fp0,Capital Expenditures - recent last quarter
+2,anl14_actvalue_cfps_fp0,Cash Flow Per Share - recent last quarter
+3,anl14_actvalue_div_fp0,Dividend - recent last quarter
+4,anl14_actvalue_ebit_fp0,Earnings Before Interest & Taxes - recent last quarter
+5,anl14_actvalue_ebitda_fp0,"Earnings Before Interest, Taxes, Depreciation & Amortization - recent last quarter"
+6,anl14_actvalue_eps_fp0,Earnings Per Share - recent last quarter
+7,anl14_actvalue_epsrep_fp0,Reported Earnings Per Share - recent last quarter
+8,anl14_actvalue_ndebt_fp0,Net debt - recent last quarter
+9,anl14_actvalue_ntp_fp0,Net profit - recent last quarter
+10,anl14_actvalue_ntprep_fp0,Reported Net Profit - recent last quarter
+11,anl14_actvalue_opp_fp0,Operating Profit - recent last quarter
+12,anl14_actvalue_ptp_fp0,Pretax Profit - recent last quarter
+13,anl14_actvalue_ptprep_fp0,Reported Pretax Profit - recent last quarter
+14,anl14_actvalue_revenue_fp0,Revenue - recent last quarter
+15,anl14_actvalue_roe_fp0,Returns on Equity - recent last quarter
+16,anl14_d1_curperiodnum,Number of period -
+17,anl14_d1_curperiodtype,Type of period -
+18,anl14_d1_cursharesoutstanding,current Share Outstanding -
+19,anl14_d1_xrefmap,Reference Map to Stock -
+20,anl14_high_bvps_fp1,The Highest estimation of Book Value Per Share - upcoming quarter
+21,anl14_high_bvps_fp2,The Highest estimation of Book Value Per Share - upcoming 2 quarters
+22,anl14_high_bvps_fp3,The Highest estimation of Book Value Per Share - upcoming 3 quarters
+23,anl14_high_bvps_fp4,The Highest estimation of Book Value Per Share - upcoming 4 quarters
+24,anl14_high_bvps_fp5,The Highest estimation of Book Value Per Share - upcoming 5 quarters
+25,anl14_high_bvps_fy1,The Highest estimation of Book Value Per Share - upcoming year
+26,anl14_high_bvps_fy2,The Highest estimation of Book Value Per Share - upcoming 2 years
+27,anl14_high_bvps_fy3,The Highest estimation of Book Value Per Share - upcoming 3 years
+28,anl14_high_bvps_fy4,The Highest estimation of Book Value Per Share - upcoming 4 years
+29,anl14_high_bvps_fy5,The Highest estimation of Book Value Per Share - upcoming 5 years
+30,anl14_high_capex_fp1,The Highest estimation of Capital Expenditures - upcoming quarter
+31,anl14_high_capex_fp2,The Highest estimation of Capital Expenditures - upcoming 2 quarters
+32,anl14_high_capex_fp3,The Highest estimation of Capital Expenditures - upcoming 3 quarters
+33,anl14_high_capex_fp4,The Highest estimation of Capital Expenditures - upcoming 4 quarters
+34,anl14_high_capex_fp5,The Highest estimation of Capital Expenditures - upcoming 5 quarters
+35,anl14_high_capex_fy1,The Highest estimation of Capital Expenditures - upcoming year
+36,anl14_high_capex_fy2,The Highest estimation of Capital Expenditures - upcoming 2 years
+37,anl14_high_capex_fy3,The Highest estimation of Capital Expenditures - upcoming 3 years
+38,anl14_high_capex_fy4,The Highest estimation of Capital Expenditures - upcoming 4 years
+39,anl14_high_capex_fy5,The Highest estimation of Capital Expenditures - upcoming 5 years
+40,anl14_high_cfps_fp1,The Highest estimation of Cash Flow Per Share - upcoming quarter
+41,anl14_high_cfps_fp2,The Highest estimation of Cash Flow Per Share - upcoming 2 quarters
+42,anl14_high_cfps_fp3,The Highest estimation of Cash Flow Per Share - upcoming 3 quarters
+43,anl14_high_cfps_fp4,The Highest estimation of Cash Flow Per Share - upcoming 4 quarters
+44,anl14_high_cfps_fy1,The Highest estimation of Cash Flow Per Share - upcoming year
+45,anl14_high_cfps_fy2,The Highest estimation of Cash Flow Per Share - upcoming 2 years
+46,anl14_high_cfps_fy3,The Highest estimation of Cash Flow Per Share - upcoming 3 years
+47,anl14_high_cfps_fy4,The Highest estimation of Cash Flow Per Share - upcoming 4 years
+48,anl14_high_div_fp1,The Highest estimation of Dividend - upcoming quarter
+49,anl14_high_div_fp2,The Highest estimation of Dividend - upcoming 2 quarters
+50,anl14_high_div_fp3,The Highest estimation of Dividend - upcoming 3 quarters
+51,anl14_high_div_fp4,The Highest estimation of Dividend - upcoming 4 quarters
+52,anl14_high_div_fp5,The Highest estimation of Dividend - upcoming 5 quarters
+53,anl14_high_div_fy1,The Highest estimation of Dividend - upcoming year
+54,anl14_high_div_fy2,The Highest estimation of Dividend - upcoming 2 years
+55,anl14_high_div_fy3,The Highest estimation of Dividend - upcoming 3 years
+56,anl14_high_div_fy4,The Highest estimation of Dividend - upcoming 4 years
+57,anl14_high_div_fy5,The Highest estimation of Dividend - upcoming 5 years
+58,anl14_high_ebit_fp1,The Highest estimation of Earnings Before Interest & Taxes - upcoming quarter
+59,anl14_high_ebit_fp2,The Highest estimation of Earnings Before Interest & Taxes - upcoming 2 quarters
+60,anl14_high_ebit_fp3,The Highest estimation of Earnings Before Interest & Taxes - upcoming 3 quarters
+61,anl14_high_ebit_fp4,The Highest estimation of Earnings Before Interest & Taxes - upcoming 4 quarters
+62,anl14_high_ebit_fp5,The Highest estimation of Earnings Before Interest & Taxes - upcoming 5 quarters
+63,anl14_high_ebit_fy1,The Highest estimation of Earnings Before Interest & Taxes - upcoming year
+64,anl14_high_ebit_fy2,The Highest estimation of Earnings Before Interest & Taxes - upcoming 2 years
+65,anl14_high_ebit_fy3,The Highest estimation of Earnings Before Interest & Taxes - upcoming 3 years
+66,anl14_high_ebit_fy4,The Highest estimation of Earnings Before Interest & Taxes - upcoming 4 years
+67,anl14_high_ebit_fy5,The Highest estimation of Earnings Before Interest & Taxes - upcoming 5 years
+68,anl14_high_ebitda_fp1,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming quarter"
+69,anl14_high_ebitda_fp2,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 quarters"
+70,anl14_high_ebitda_fp3,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 quarters"
+71,anl14_high_ebitda_fp4,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 quarters"
+72,anl14_high_ebitda_fp5,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 quarters"
+73,anl14_high_ebitda_fy1,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming year"
+74,anl14_high_ebitda_fy2,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 years"
+75,anl14_high_ebitda_fy3,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 years"
+76,anl14_high_ebitda_fy4,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 years"
+77,anl14_high_ebitda_fy5,"The Highest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 years"
+78,anl14_high_eps_fp1,The Highest estimation of Earnings Per Share - upcoming quarter
+79,anl14_high_eps_fp2,The Highest estimation of Earnings Per Share - upcoming 2 quarters
+80,anl14_high_eps_fp3,The Highest estimation of Earnings Per Share - upcoming 3 quarters
+81,anl14_high_eps_fp4,The Highest estimation of Earnings Per Share - upcoming 4 quarters
+82,anl14_high_eps_fp5,The Highest estimation of Earnings Per Share - upcoming 5 quarters
+83,anl14_high_eps_fy1,The Highest estimation of Earnings Per Share - upcoming year
+84,anl14_high_eps_fy2,The Highest estimation of Earnings Per Share - upcoming 2 years
+85,anl14_high_eps_fy3,The Highest estimation of Earnings Per Share - upcoming 3 years
+86,anl14_high_eps_fy4,The Highest estimation of Earnings Per Share - upcoming 4 years
+87,anl14_high_eps_fy5,The Highest estimation of Earnings Per Share - upcoming 5 years
+88,anl14_high_epsrep_fp1,The Highest estimation of Reported Earnings Per Share - upcoming quarter
+89,anl14_high_epsrep_fp2,The Highest estimation of Reported Earnings Per Share - upcoming 2 quarters
+90,anl14_high_epsrep_fp3,The Highest estimation of Reported Earnings Per Share - upcoming 3 quarters
+91,anl14_high_epsrep_fp4,The Highest estimation of Reported Earnings Per Share - upcoming 4 quarters
+92,anl14_high_epsrep_fp5,The Highest estimation of Reported Earnings Per Share - upcoming 5 quarters
+93,anl14_high_epsrep_fy1,The Highest estimation of Reported Earnings Per Share - upcoming year
+94,anl14_high_epsrep_fy2,The Highest estimation of Reported Earnings Per Share - upcoming 2 years
+95,anl14_high_epsrep_fy3,The Highest estimation of Reported Earnings Per Share - upcoming 3 years
+96,anl14_high_epsrep_fy4,The Highest estimation of Reported Earnings Per Share - upcoming 4 years
+97,anl14_high_epsrep_fy5,The Highest estimation of Reported Earnings Per Share - upcoming 5 years
+98,anl14_high_nav_fy1,The Highest estimation of Net asset value - upcoming year
+99,anl14_high_nav_fy2,The Highest estimation of Net asset value - upcoming 2 years
+100,anl14_high_nav_fy3,The Highest estimation of Net asset value - upcoming 3 years
+101,anl14_high_ndebt_fp1,The Highest estimation of Net debt - upcoming quarter
+102,anl14_high_ndebt_fp2,The Highest estimation of Net debt - upcoming 2 quarters
+103,anl14_high_ndebt_fp3,The Highest estimation of Net debt - upcoming 3 quarters
+104,anl14_high_ndebt_fp4,The Highest estimation of Net debt - upcoming 4 quarters
+105,anl14_high_ndebt_fy1,The Highest estimation of Net debt - upcoming year
+106,anl14_high_ndebt_fy2,The Highest estimation of Net debt - upcoming 2 years
+107,anl14_high_ndebt_fy3,The Highest estimation of Net debt - upcoming 3 years
+108,anl14_high_ndebt_fy4,The Highest estimation of Net debt - upcoming 4 years
+109,anl14_high_ndebt_fy5,The Highest estimation of Net debt - upcoming 5 years
+110,anl14_high_ntp_fp1,The Highest estimation of Net profit - upcoming quarter
+111,anl14_high_ntp_fp2,The Highest estimation of Net profit - upcoming 2 quarters
+112,anl14_high_ntp_fp3,The Highest estimation of Net profit - upcoming 3 quarters
+113,anl14_high_ntp_fp4,The Highest estimation of Net profit - upcoming 4 quarters
+114,anl14_high_ntp_fp5,The Highest estimation of Net profit - upcoming 5 quarters
+115,anl14_high_ntp_fy1,The Highest estimation of Net profit - upcoming year
+116,anl14_high_ntp_fy2,The Highest estimation of Net profit - upcoming 2 years
+117,anl14_high_ntp_fy3,The Highest estimation of Net profit - upcoming 3 years
+118,anl14_high_ntp_fy4,The Highest estimation of Net profit - upcoming 4 years
+119,anl14_high_ntp_fy5,The Highest estimation of Net profit - upcoming 5 years
+120,anl14_high_ntprep_fp1,The Highest estimation of Reported Net Profit - upcoming quarter
+121,anl14_high_ntprep_fp2,The Highest estimation of Reported Net Profit - upcoming 2 quarters
+122,anl14_high_ntprep_fp3,The Highest estimation of Reported Net Profit - upcoming 3 quarters
+123,anl14_high_ntprep_fp4,The Highest estimation of Reported Net Profit - upcoming 4 quarters
+124,anl14_high_ntprep_fp5,The Highest estimation of Reported Net Profit - upcoming 5 quarters
+125,anl14_high_ntprep_fy1,The Highest estimation of Reported Net Profit - upcoming year
+126,anl14_high_ntprep_fy2,The Highest estimation of Reported Net Profit - upcoming 2 years
+127,anl14_high_ntprep_fy3,The Highest estimation of Reported Net Profit - upcoming 3 years
+128,anl14_high_ntprep_fy4,The Highest estimation of Reported Net Profit - upcoming 4 years
+129,anl14_high_ntprep_fy5,The Highest estimation of Reported Net Profit - upcoming 5 years
+130,anl14_high_opp_fp1,The Highest estimation of Operating Profit - upcoming quarter
+131,anl14_high_opp_fy1,The Highest estimation of Operating Profit - upcoming year
+132,anl14_high_opp_fy2,The Highest estimation of Operating Profit - upcoming 2 years
+133,anl14_high_opp_fy3,The Highest estimation of Operating Profit - upcoming 3 years
+134,anl14_high_ptp_fp1,The Highest estimation of Pretax Profit - upcoming quarter
+135,anl14_high_ptp_fp2,The Highest estimation of Pretax Profit - upcoming 2 quarters
+136,anl14_high_ptp_fp3,The Highest estimation of Pretax Profit - upcoming 3 quarters
+137,anl14_high_ptp_fy1,The Highest estimation of Pretax Profit - upcoming year
+138,anl14_high_ptp_fy2,The Highest estimation of Pretax Profit - upcoming 2 years
+139,anl14_high_ptp_fy3,The Highest estimation of Pretax Profit - upcoming 3 years
+140,anl14_high_ptp_fy4,The Highest estimation of Pretax Profit - upcoming 4 years
+141,anl14_high_ptp_fy5,The Highest estimation of Pretax Profit - upcoming 5 years
+142,anl14_high_ptprep_fy1,The Highest estimation of Reported Pretax Profit - upcoming year
+143,anl14_high_ptprep_fy2,The Highest estimation of Reported Pretax Profit - upcoming 2 years
+144,anl14_high_ptprep_fy3,The Highest estimation of Reported Pretax Profit - upcoming 3 years
+145,anl14_high_ptprep_fy4,The Highest estimation of Reported Pretax Profit - upcoming 4 years
+146,anl14_high_ptprep_fy5,The Highest estimation of Reported Pretax Profit - upcoming 5 years
+147,anl14_high_revenue_fp1,The Highest estimation of Revenue - upcoming quarter
+148,anl14_high_revenue_fp2,The Highest estimation of Revenue - upcoming 2 quarters
+149,anl14_high_revenue_fp3,The Highest estimation of Revenue - upcoming 3 quarters
+150,anl14_high_revenue_fp4,The Highest estimation of Revenue - upcoming 4 quarters
+151,anl14_high_revenue_fp5,The Highest estimation of Revenue - upcoming 5 quarters
+152,anl14_high_revenue_fy1,The Highest estimation of Revenue - upcoming year
+153,anl14_high_revenue_fy2,The Highest estimation of Revenue - upcoming 2 years
+154,anl14_high_revenue_fy3,The Highest estimation of Revenue - upcoming 3 years
+155,anl14_high_revenue_fy4,The Highest estimation of Revenue - upcoming 4 years
+156,anl14_high_revenue_fy5,The Highest estimation of Revenue - upcoming 5 years
+157,anl14_high_roa_fy1,The Highest estimation of Returns on Assets - upcoming year
+158,anl14_high_roa_fy2,The Highest estimation of Returns on Assets - upcoming 2 years
+159,anl14_high_roa_fy3,The Highest estimation of Returns on Assets - upcoming 3 years
+160,anl14_high_roa_fy4,The Highest estimation of Returns on Assets - upcoming 4 years
+161,anl14_high_roe_fp1,The Highest estimation of Returns on Equity - upcoming quarter
+162,anl14_high_roe_fp2,The Highest estimation of Returns on Equity - upcoming 2 quarters
+163,anl14_high_roe_fp3,The Highest estimation of Returns on Equity - upcoming 3 quarters
+164,anl14_high_roe_fp4,The Highest estimation of Returns on Equity - upcoming 4 quarters
+165,anl14_high_roe_fy1,The Highest estimation of Returns on Equity - upcoming year
+166,anl14_high_roe_fy2,The Highest estimation of Returns on Equity - upcoming 2 years
+167,anl14_high_roe_fy3,The Highest estimation of Returns on Equity - upcoming 3 years
+168,anl14_high_roe_fy4,The Highest estimation of Returns on Equity - upcoming 4 years
+169,anl14_high_roe_fy5,The Highest estimation of Returns on Equity - upcoming 5 years
+170,anl14_low_bvps_fp1,The Lowest estimation of Book Value Per Share - upcoming quarter
+171,anl14_low_bvps_fp2,The Lowest estimation of Book Value Per Share - upcoming 2 quarters
+172,anl14_low_bvps_fp3,The Lowest estimation of Book Value Per Share - upcoming 3 quarters
+173,anl14_low_bvps_fp4,The Lowest estimation of Book Value Per Share - upcoming 4 quarters
+174,anl14_low_bvps_fp5,The Lowest estimation of Book Value Per Share - upcoming 5 quarters
+175,anl14_low_bvps_fy1,The Lowest estimation of Book Value Per Share - upcoming year
+176,anl14_low_bvps_fy2,The Lowest estimation of Book Value Per Share - upcoming 2 years
+177,anl14_low_bvps_fy3,The Lowest estimation of Book Value Per Share - upcoming 3 years
+178,anl14_low_bvps_fy4,The Lowest estimation of Book Value Per Share - upcoming 4 years
+179,anl14_low_bvps_fy5,The Lowest estimation of Book Value Per Share - upcoming 5 years
+180,anl14_low_capex_fp1,The Lowest estimation of Capital Expenditures - upcoming quarter
+181,anl14_low_capex_fp2,The Lowest estimation of Capital Expenditures - upcoming 2 quarters
+182,anl14_low_capex_fp3,The Lowest estimation of Capital Expenditures - upcoming 3 quarters
+183,anl14_low_capex_fp4,The Lowest estimation of Capital Expenditures - upcoming 4 quarters
+184,anl14_low_capex_fp5,The Lowest estimation of Capital Expenditures - upcoming 5 quarters
+185,anl14_low_capex_fy1,The Lowest estimation of Capital Expenditures - upcoming year
+186,anl14_low_capex_fy2,The Lowest estimation of Capital Expenditures - upcoming 2 years
+187,anl14_low_capex_fy3,The Lowest estimation of Capital Expenditures - upcoming 3 years
+188,anl14_low_capex_fy4,The Lowest estimation of Capital Expenditures - upcoming 4 years
+189,anl14_low_capex_fy5,The Lowest estimation of Capital Expenditures - upcoming 5 years
+190,anl14_low_cfps_fp1,The Lowest estimation of Cash Flow Per Share - upcoming quarter
+191,anl14_low_cfps_fp2,The Lowest estimation of Cash Flow Per Share - upcoming 2 quarters
+192,anl14_low_cfps_fp3,The Lowest estimation of Cash Flow Per Share - upcoming 3 quarters
+193,anl14_low_cfps_fp4,The Lowest estimation of Cash Flow Per Share - upcoming 4 quarters
+194,anl14_low_cfps_fy1,The Lowest estimation of Cash Flow Per Share - upcoming year
+195,anl14_low_cfps_fy2,The Lowest estimation of Cash Flow Per Share - upcoming 2 years
+196,anl14_low_cfps_fy3,The Lowest estimation of Cash Flow Per Share - upcoming 3 years
+197,anl14_low_cfps_fy4,The Lowest estimation of Cash Flow Per Share - upcoming 4 years
+198,anl14_low_div_fp1,The Lowest estimation of Dividend - upcoming quarter
+199,anl14_low_div_fp2,The Lowest estimation of Dividend - upcoming 2 quarters
+200,anl14_low_div_fp3,The Lowest estimation of Dividend - upcoming 3 quarters
+201,anl14_low_div_fp4,The Lowest estimation of Dividend - upcoming 4 quarters
+202,anl14_low_div_fp5,The Lowest estimation of Dividend - upcoming 5 quarters
+203,anl14_low_div_fy1,The Lowest estimation of Dividend - upcoming year
+204,anl14_low_div_fy2,The Lowest estimation of Dividend - upcoming 2 years
+205,anl14_low_div_fy3,The Lowest estimation of Dividend - upcoming 3 years
+206,anl14_low_div_fy4,The Lowest estimation of Dividend - upcoming 4 years
+207,anl14_low_div_fy5,The Lowest estimation of Dividend - upcoming 5 years
+208,anl14_low_ebit_fp1,The Lowest estimation of Earnings Before Interest & Taxes - upcoming quarter
+209,anl14_low_ebit_fp2,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 2 quarters
+210,anl14_low_ebit_fp3,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 3 quarters
+211,anl14_low_ebit_fp4,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 4 quarters
+212,anl14_low_ebit_fp5,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 5 quarters
+213,anl14_low_ebit_fy1,The Lowest estimation of Earnings Before Interest & Taxes - upcoming year
+214,anl14_low_ebit_fy2,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 2 years
+215,anl14_low_ebit_fy3,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 3 years
+216,anl14_low_ebit_fy4,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 4 years
+217,anl14_low_ebit_fy5,The Lowest estimation of Earnings Before Interest & Taxes - upcoming 5 years
+218,anl14_low_ebitda_fp1,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming quarter"
+219,anl14_low_ebitda_fp2,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 quarters"
+220,anl14_low_ebitda_fp3,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 quarters"
+221,anl14_low_ebitda_fp4,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 quarters"
+222,anl14_low_ebitda_fp5,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 quarters"
+223,anl14_low_ebitda_fy1,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming year"
+224,anl14_low_ebitda_fy2,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 years"
+225,anl14_low_ebitda_fy3,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 years"
+226,anl14_low_ebitda_fy4,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 years"
+227,anl14_low_ebitda_fy5,"The Lowest estimation of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 years"
+228,anl14_low_eps_fp1,The Lowest estimation of Earnings Per Share - upcoming quarter
+229,anl14_low_eps_fp2,The Lowest estimation of Earnings Per Share - upcoming 2 quarters
+230,anl14_low_eps_fp3,The Lowest estimation of Earnings Per Share - upcoming 3 quarters
+231,anl14_low_eps_fp4,The Lowest estimation of Earnings Per Share - upcoming 4 quarters
+232,anl14_low_eps_fp5,The Lowest estimation of Earnings Per Share - upcoming 5 quarters
+233,anl14_low_eps_fy1,The Lowest estimation of Earnings Per Share - upcoming year
+234,anl14_low_eps_fy2,The Lowest estimation of Earnings Per Share - upcoming 2 years
+235,anl14_low_eps_fy3,The Lowest estimation of Earnings Per Share - upcoming 3 years
+236,anl14_low_eps_fy4,The Lowest estimation of Earnings Per Share - upcoming 4 years
+237,anl14_low_eps_fy5,The Lowest estimation of Earnings Per Share - upcoming 5 years
+238,anl14_low_epsrep_fp1,The Lowest estimation of Reported Earnings Per Share - upcoming quarter
+239,anl14_low_epsrep_fp2,The Lowest estimation of Reported Earnings Per Share - upcoming 2 quarters
+240,anl14_low_epsrep_fp3,The Lowest estimation of Reported Earnings Per Share - upcoming 3 quarters
+241,anl14_low_epsrep_fp4,The Lowest estimation of Reported Earnings Per Share - upcoming 4 quarters
+242,anl14_low_epsrep_fp5,The Lowest estimation of Reported Earnings Per Share - upcoming 5 quarters
+243,anl14_low_epsrep_fy1,The Lowest estimation of Reported Earnings Per Share - upcoming year
+244,anl14_low_epsrep_fy2,The Lowest estimation of Reported Earnings Per Share - upcoming 2 years
+245,anl14_low_epsrep_fy3,The Lowest estimation of Reported Earnings Per Share - upcoming 3 years
+246,anl14_low_epsrep_fy4,The Lowest estimation of Reported Earnings Per Share - upcoming 4 years
+247,anl14_low_epsrep_fy5,The Lowest estimation of Reported Earnings Per Share - upcoming 5 years
+248,anl14_low_nav_fy1,The Lowest estimation of Net asset value - upcoming year
+249,anl14_low_nav_fy2,The Lowest estimation of Net asset value - upcoming 2 years
+250,anl14_low_nav_fy3,The Lowest estimation of Net asset value - upcoming 3 years
+251,anl14_low_ndebt_fp1,The Lowest estimation of Net debt - upcoming quarter
+252,anl14_low_ndebt_fp2,The Lowest estimation of Net debt - upcoming 2 quarters
+253,anl14_low_ndebt_fp3,The Lowest estimation of Net debt - upcoming 3 quarters
+254,anl14_low_ndebt_fp4,The Lowest estimation of Net debt - upcoming 4 quarters
+255,anl14_low_ndebt_fy1,The Lowest estimation of Net debt - upcoming year
+256,anl14_low_ndebt_fy2,The Lowest estimation of Net debt - upcoming 2 years
+257,anl14_low_ndebt_fy3,The Lowest estimation of Net debt - upcoming 3 years
+258,anl14_low_ndebt_fy4,The Lowest estimation of Net debt - upcoming 4 years
+259,anl14_low_ndebt_fy5,The Lowest estimation of Net debt - upcoming 5 years
+260,anl14_low_ntp_fp1,The Lowest estimation of Net profit - upcoming quarter
+261,anl14_low_ntp_fp2,The Lowest estimation of Net profit - upcoming 2 quarters
+262,anl14_low_ntp_fp3,The Lowest estimation of Net profit - upcoming 3 quarters
+263,anl14_low_ntp_fp4,The Lowest estimation of Net profit - upcoming 4 quarters
+264,anl14_low_ntp_fp5,The Lowest estimation of Net profit - upcoming 5 quarters
+265,anl14_low_ntp_fy1,The Lowest estimation of Net profit - upcoming year
+266,anl14_low_ntp_fy2,The Lowest estimation of Net profit - upcoming 2 years
+267,anl14_low_ntp_fy3,The Lowest estimation of Net profit - upcoming 3 years
+268,anl14_low_ntp_fy4,The Lowest estimation of Net profit - upcoming 4 years
+269,anl14_low_ntp_fy5,The Lowest estimation of Net profit - upcoming 5 years
+270,anl14_low_ntprep_fp1,The Lowest estimation of Reported Net Profit - upcoming quarter
+271,anl14_low_ntprep_fp2,The Lowest estimation of Reported Net Profit - upcoming 2 quarters
+272,anl14_low_ntprep_fp3,The Lowest estimation of Reported Net Profit - upcoming 3 quarters
+273,anl14_low_ntprep_fp4,The Lowest estimation of Reported Net Profit - upcoming 4 quarters
+274,anl14_low_ntprep_fp5,The Lowest estimation of Reported Net Profit - upcoming 5 quarters
+275,anl14_low_ntprep_fy1,The Lowest estimation of Reported Net Profit - upcoming year
+276,anl14_low_ntprep_fy2,The Lowest estimation of Reported Net Profit - upcoming 2 years
+277,anl14_low_ntprep_fy3,The Lowest estimation of Reported Net Profit - upcoming 3 years
+278,anl14_low_ntprep_fy4,The Lowest estimation of Reported Net Profit - upcoming 4 years
+279,anl14_low_ntprep_fy5,The Lowest estimation of Reported Net Profit - upcoming 5 years
+280,anl14_low_opp_fp1,The Lowest estimation of Operating Profit - upcoming quarter
+281,anl14_low_opp_fy1,The Lowest estimation of Operating Profit - upcoming year
+282,anl14_low_opp_fy2,The Lowest estimation of Operating Profit - upcoming 2 years
+283,anl14_low_opp_fy3,The Lowest estimation of Operating Profit - upcoming 3 years
+284,anl14_low_ptp_fp1,The Lowest estimation of Pretax Profit - upcoming quarter
+285,anl14_low_ptp_fp2,The Lowest estimation of Pretax Profit - upcoming 2 quarters
+286,anl14_low_ptp_fp3,The Lowest estimation of Pretax Profit - upcoming 3 quarters
+287,anl14_low_ptp_fy1,The Lowest estimation of Pretax Profit - upcoming year
+288,anl14_low_ptp_fy2,The Lowest estimation of Pretax Profit - upcoming 2 years
+289,anl14_low_ptp_fy3,The Lowest estimation of Pretax Profit - upcoming 3 years
+290,anl14_low_ptp_fy4,The Lowest estimation of Pretax Profit - upcoming 4 years
+291,anl14_low_ptp_fy5,The Lowest estimation of Pretax Profit - upcoming 5 years
+292,anl14_low_ptprep_fy1,The Lowest estimation of Reported Pretax Profit - upcoming year
+293,anl14_low_ptprep_fy2,The Lowest estimation of Reported Pretax Profit - upcoming 2 years
+294,anl14_low_ptprep_fy3,The Lowest estimation of Reported Pretax Profit - upcoming 3 years
+295,anl14_low_ptprep_fy4,The Lowest estimation of Reported Pretax Profit - upcoming 4 years
+296,anl14_low_ptprep_fy5,The Lowest estimation of Reported Pretax Profit - upcoming 5 years
+297,anl14_low_revenue_fp1,The Lowest estimation of Revenue - upcoming quarter
+298,anl14_low_revenue_fp2,The Lowest estimation of Revenue - upcoming 2 quarters
+299,anl14_low_revenue_fp3,The Lowest estimation of Revenue - upcoming 3 quarters
+300,anl14_low_revenue_fp4,The Lowest estimation of Revenue - upcoming 4 quarters
+301,anl14_low_revenue_fp5,The Lowest estimation of Revenue - upcoming 5 quarters
+302,anl14_low_revenue_fy1,The Lowest estimation of Revenue - upcoming year
+303,anl14_low_revenue_fy2,The Lowest estimation of Revenue - upcoming 2 years
+304,anl14_low_revenue_fy3,The Lowest estimation of Revenue - upcoming 3 years
+305,anl14_low_revenue_fy4,The Lowest estimation of Revenue - upcoming 4 years
+306,anl14_low_revenue_fy5,The Lowest estimation of Revenue - upcoming 5 years
+307,anl14_low_roa_fy1,The Lowest estimation of Returns on Assets - upcoming year
+308,anl14_low_roa_fy2,The Lowest estimation of Returns on Assets - upcoming 2 years
+309,anl14_low_roa_fy3,The Lowest estimation of Returns on Assets - upcoming 3 years
+310,anl14_low_roa_fy4,The Lowest estimation of Returns on Assets - upcoming 4 years
+311,anl14_low_roe_fp1,The Lowest estimation of Returns on Equity - upcoming quarter
+312,anl14_low_roe_fp2,The Lowest estimation of Returns on Equity - upcoming 2 quarters
+313,anl14_low_roe_fp3,The Lowest estimation of Returns on Equity - upcoming 3 quarters
+314,anl14_low_roe_fp4,The Lowest estimation of Returns on Equity - upcoming 4 quarters
+315,anl14_low_roe_fy1,The Lowest estimation of Returns on Equity - upcoming year
+316,anl14_low_roe_fy2,The Lowest estimation of Returns on Equity - upcoming 2 years
+317,anl14_low_roe_fy3,The Lowest estimation of Returns on Equity - upcoming 3 years
+318,anl14_low_roe_fy4,The Lowest estimation of Returns on Equity - upcoming 4 years
+319,anl14_low_roe_fy5,The Lowest estimation of Returns on Equity - upcoming 5 years
+320,anl14_mean_bvps_fp1,Mean of Estimations of Book Value Per Share - upcoming quarter
+321,anl14_mean_bvps_fp2,Mean of Estimations of Book Value Per Share - upcoming 2 quarters
+322,anl14_mean_bvps_fp3,Mean of Estimations of Book Value Per Share - upcoming 3 quarters
+323,anl14_mean_bvps_fp4,Mean of Estimations of Book Value Per Share - upcoming 4 quarters
+324,anl14_mean_bvps_fp5,Mean of Estimations of Book Value Per Share - upcoming 5 quarters
+325,anl14_mean_bvps_fy1,Mean of Estimations of Book Value Per Share - upcoming year
+326,anl14_mean_bvps_fy2,Mean of Estimations of Book Value Per Share - upcoming 2 years
+327,anl14_mean_bvps_fy3,Mean of Estimations of Book Value Per Share - upcoming 3 years
+328,anl14_mean_bvps_fy4,Mean of Estimations of Book Value Per Share - upcoming 4 years
+329,anl14_mean_bvps_fy5,Mean of Estimations of Book Value Per Share - upcoming 5 years
+330,anl14_mean_capex_fp1,Mean of Estimations of Capital Expenditures - upcoming quarter
+331,anl14_mean_capex_fp2,Mean of Estimations of Capital Expenditures - upcoming 2 quarters
+332,anl14_mean_capex_fp3,Mean of Estimations of Capital Expenditures - upcoming 3 quarters
+333,anl14_mean_capex_fp4,Mean of Estimations of Capital Expenditures - upcoming 4 quarters
+334,anl14_mean_capex_fp5,Mean of Estimations of Capital Expenditures - upcoming 5 quarters
+335,anl14_mean_capex_fy1,Mean of Estimations of Capital Expenditures - upcoming year
+336,anl14_mean_capex_fy2,Mean of Estimations of Capital Expenditures - upcoming 2 years
+337,anl14_mean_capex_fy3,Mean of Estimations of Capital Expenditures - upcoming 3 years
+338,anl14_mean_capex_fy4,Mean of Estimations of Capital Expenditures - upcoming 4 years
+339,anl14_mean_capex_fy5,Mean of Estimations of Capital Expenditures - upcoming 5 years
+340,anl14_mean_cfps_fp1,Mean of Estimations of Cash Flow Per Share - upcoming quarter
+341,anl14_mean_cfps_fp2,Mean of Estimations of Cash Flow Per Share - upcoming 2 quarters
+342,anl14_mean_cfps_fp3,Mean of Estimations of Cash Flow Per Share - upcoming 3 quarters
+343,anl14_mean_cfps_fp4,Mean of Estimations of Cash Flow Per Share - upcoming 4 quarters
+344,anl14_mean_cfps_fy1,Mean of Estimations of Cash Flow Per Share - upcoming year
+345,anl14_mean_cfps_fy2,Mean of Estimations of Cash Flow Per Share - upcoming 2 years
+346,anl14_mean_cfps_fy3,Mean of Estimations of Cash Flow Per Share - upcoming 3 years
+347,anl14_mean_cfps_fy4,Mean of Estimations of Cash Flow Per Share - upcoming 4 years
+348,anl14_mean_div_fp1,Mean of Estimations of Dividend - upcoming quarter
+349,anl14_mean_div_fp2,Mean of Estimations of Dividend - upcoming 2 quarters
+350,anl14_mean_div_fp3,Mean of Estimations of Dividend - upcoming 3 quarters
+351,anl14_mean_div_fp4,Mean of Estimations of Dividend - upcoming 4 quarters
+352,anl14_mean_div_fp5,Mean of Estimations of Dividend - upcoming 5 quarters
+353,anl14_mean_div_fy1,Mean of Estimations of Dividend - upcoming year
+354,anl14_mean_div_fy2,Mean of Estimations of Dividend - upcoming 2 years
+355,anl14_mean_div_fy3,Mean of Estimations of Dividend - upcoming 3 years
+356,anl14_mean_div_fy4,Mean of Estimations of Dividend - upcoming 4 years
+357,anl14_mean_div_fy5,Mean of Estimations of Dividend - upcoming 5 years
+358,anl14_mean_ebit_fp1,Mean of Estimations of Earnings Before Interest & Taxes - upcoming quarter
+359,anl14_mean_ebit_fp2,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 2 quarters
+360,anl14_mean_ebit_fp3,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 3 quarters
+361,anl14_mean_ebit_fp4,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 4 quarters
+362,anl14_mean_ebit_fp5,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 5 quarters
+363,anl14_mean_ebit_fy1,Mean of Estimations of Earnings Before Interest & Taxes - upcoming year
+364,anl14_mean_ebit_fy2,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 2 years
+365,anl14_mean_ebit_fy3,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 3 years
+366,anl14_mean_ebit_fy4,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 4 years
+367,anl14_mean_ebit_fy5,Mean of Estimations of Earnings Before Interest & Taxes - upcoming 5 years
+368,anl14_mean_ebitda_fp1,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming quarter"
+369,anl14_mean_ebitda_fp2,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 quarters"
+370,anl14_mean_ebitda_fp3,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 quarters"
+371,anl14_mean_ebitda_fp4,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 quarters"
+372,anl14_mean_ebitda_fp5,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 quarters"
+373,anl14_mean_ebitda_fy1,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming year"
+374,anl14_mean_ebitda_fy2,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 years"
+375,anl14_mean_ebitda_fy3,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 years"
+376,anl14_mean_ebitda_fy4,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 years"
+377,anl14_mean_ebitda_fy5,"Mean of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 years"
+378,anl14_mean_eps_fp1,Mean of Estimations of Earnings Per Share - upcoming quarter
+379,anl14_mean_eps_fp2,Mean of Estimations of Earnings Per Share - upcoming 2 quarters
+380,anl14_mean_eps_fp3,Mean of Estimations of Earnings Per Share - upcoming 3 quarters
+381,anl14_mean_eps_fp4,Mean of Estimations of Earnings Per Share - upcoming 4 quarters
+382,anl14_mean_eps_fp5,Mean of Estimations of Earnings Per Share - upcoming 5 quarters
+383,anl14_mean_eps_fy1,Mean of Estimations of Earnings Per Share - upcoming year
+384,anl14_mean_eps_fy2,Mean of Estimations of Earnings Per Share - upcoming 2 years
+385,anl14_mean_eps_fy3,Mean of Estimations of Earnings Per Share - upcoming 3 years
+386,anl14_mean_eps_fy4,Mean of Estimations of Earnings Per Share - upcoming 4 years
+387,anl14_mean_eps_fy5,Mean of Estimations of Earnings Per Share - upcoming 5 years
+388,anl14_mean_epsrep_fp1,Mean of Estimations of Reported Earnings Per Share - upcoming quarter
+389,anl14_mean_epsrep_fp2,Mean of Estimations of Reported Earnings Per Share - upcoming 2 quarters
+390,anl14_mean_epsrep_fp3,Mean of Estimations of Reported Earnings Per Share - upcoming 3 quarters
+391,anl14_mean_epsrep_fp4,Mean of Estimations of Reported Earnings Per Share - upcoming 4 quarters
+392,anl14_mean_epsrep_fp5,Mean of Estimations of Reported Earnings Per Share - upcoming 5 quarters
+393,anl14_mean_epsrep_fy1,Mean of Estimations of Reported Earnings Per Share - upcoming year
+394,anl14_mean_epsrep_fy2,Mean of Estimations of Reported Earnings Per Share - upcoming 2 years
+395,anl14_mean_epsrep_fy3,Mean of Estimations of Reported Earnings Per Share - upcoming 3 years
+396,anl14_mean_epsrep_fy4,Mean of Estimations of Reported Earnings Per Share - upcoming 4 years
+397,anl14_mean_epsrep_fy5,Mean of Estimations of Reported Earnings Per Share - upcoming 5 years
+398,anl14_mean_nav_fy1,Mean of Estimations of Net asset value - upcoming year
+399,anl14_mean_nav_fy2,Mean of Estimations of Net asset value - upcoming 2 years
+400,anl14_mean_nav_fy3,Mean of Estimations of Net asset value - upcoming 3 years
+401,anl14_mean_ndebt_fp1,Mean of Estimations of Net debt - upcoming quarter
+402,anl14_mean_ndebt_fp2,Mean of Estimations of Net debt - upcoming 2 quarters
+403,anl14_mean_ndebt_fp3,Mean of Estimations of Net debt - upcoming 3 quarters
+404,anl14_mean_ndebt_fp4,Mean of Estimations of Net debt - upcoming 4 quarters
+405,anl14_mean_ndebt_fy1,Mean of Estimations of Net debt - upcoming year
+406,anl14_mean_ndebt_fy2,Mean of Estimations of Net debt - upcoming 2 years
+407,anl14_mean_ndebt_fy3,Mean of Estimations of Net debt - upcoming 3 years
+408,anl14_mean_ndebt_fy4,Mean of Estimations of Net debt - upcoming 4 years
+409,anl14_mean_ndebt_fy5,Mean of Estimations of Net debt - upcoming 5 years
+410,anl14_mean_ntp_fp1,Mean of Estimations of Net profit - upcoming quarter
+411,anl14_mean_ntp_fp2,Mean of Estimations of Net profit - upcoming 2 quarters
+412,anl14_mean_ntp_fp3,Mean of Estimations of Net profit - upcoming 3 quarters
+413,anl14_mean_ntp_fp4,Mean of Estimations of Net profit - upcoming 4 quarters
+414,anl14_mean_ntp_fp5,Mean of Estimations of Net profit - upcoming 5 quarters
+415,anl14_mean_ntp_fy1,Mean of Estimations of Net profit - upcoming year
+416,anl14_mean_ntp_fy2,Mean of Estimations of Net profit - upcoming 2 years
+417,anl14_mean_ntp_fy3,Mean of Estimations of Net profit - upcoming 3 years
+418,anl14_mean_ntp_fy4,Mean of Estimations of Net profit - upcoming 4 years
+419,anl14_mean_ntp_fy5,Mean of Estimations of Net profit - upcoming 5 years
+420,anl14_mean_ntprep_fp1,Mean of Estimations of Reported Net Profit - upcoming quarter
+421,anl14_mean_ntprep_fp2,Mean of Estimations of Reported Net Profit - upcoming 2 quarters
+422,anl14_mean_ntprep_fp3,Mean of Estimations of Reported Net Profit - upcoming 3 quarters
+423,anl14_mean_ntprep_fp4,Mean of Estimations of Reported Net Profit - upcoming 4 quarters
+424,anl14_mean_ntprep_fp5,Mean of Estimations of Reported Net Profit - upcoming 5 quarters
+425,anl14_mean_ntprep_fy1,Mean of Estimations of Reported Net Profit - upcoming year
+426,anl14_mean_ntprep_fy2,Mean of Estimations of Reported Net Profit - upcoming 2 years
+427,anl14_mean_ntprep_fy3,Mean of Estimations of Reported Net Profit - upcoming 3 years
+428,anl14_mean_ntprep_fy4,Mean of Estimations of Reported Net Profit - upcoming 4 years
+429,anl14_mean_ntprep_fy5,Mean of Estimations of Reported Net Profit - upcoming 5 years
+430,anl14_mean_opp_fp1,Mean of Estimations of Operating Profit - upcoming quarter
+431,anl14_mean_opp_fy1,Mean of Estimations of Operating Profit - upcoming year
+432,anl14_mean_opp_fy2,Mean of Estimations of Operating Profit - upcoming 2 years
+433,anl14_mean_opp_fy3,Mean of Estimations of Operating Profit - upcoming 3 years
+434,anl14_mean_ptp_fp1,Mean of Estimations of Pretax Profit - upcoming quarter
+435,anl14_mean_ptp_fp2,Mean of Estimations of Pretax Profit - upcoming 2 quarters
+436,anl14_mean_ptp_fp3,Mean of Estimations of Pretax Profit - upcoming 3 quarters
+437,anl14_mean_ptp_fy1,Mean of Estimations of Pretax Profit - upcoming year
+438,anl14_mean_ptp_fy2,Mean of Estimations of Pretax Profit - upcoming 2 years
+439,anl14_mean_ptp_fy3,Mean of Estimations of Pretax Profit - upcoming 3 years
+440,anl14_mean_ptp_fy4,Mean of Estimations of Pretax Profit - upcoming 4 years
+441,anl14_mean_ptp_fy5,Mean of Estimations of Pretax Profit - upcoming 5 years
+442,anl14_mean_ptprep_fy1,Mean of Estimations of Reported Pretax Profit - upcoming year
+443,anl14_mean_ptprep_fy2,Mean of Estimations of Reported Pretax Profit - upcoming 2 years
+444,anl14_mean_ptprep_fy3,Mean of Estimations of Reported Pretax Profit - upcoming 3 years
+445,anl14_mean_ptprep_fy4,Mean of Estimations of Reported Pretax Profit - upcoming 4 years
+446,anl14_mean_ptprep_fy5,Mean of Estimations of Reported Pretax Profit - upcoming 5 years
+447,anl14_mean_revenue_fp1,Mean of Estimations of Revenue - upcoming quarter
+448,anl14_mean_revenue_fp2,Mean of Estimations of Revenue - upcoming 2 quarters
+449,anl14_mean_revenue_fp3,Mean of Estimations of Revenue - upcoming 3 quarters
+450,anl14_mean_revenue_fp4,Mean of Estimations of Revenue - upcoming 4 quarters
+451,anl14_mean_revenue_fp5,Mean of Estimations of Revenue - upcoming 5 quarters
+452,anl14_mean_revenue_fy1,Mean of Estimations of Revenue - upcoming year
+453,anl14_mean_revenue_fy2,Mean of Estimations of Revenue - upcoming 2 years
+454,anl14_mean_revenue_fy3,Mean of Estimations of Revenue - upcoming 3 years
+455,anl14_mean_revenue_fy4,Mean of Estimations of Revenue - upcoming 4 years
+456,anl14_mean_revenue_fy5,Mean of Estimations of Revenue - upcoming 5 years
+457,anl14_mean_roa_fy1,Mean of Estimations of Returns on Assets - upcoming year
+458,anl14_mean_roa_fy2,Mean of Estimations of Returns on Assets - upcoming 2 years
+459,anl14_mean_roa_fy3,Mean of Estimations of Returns on Assets - upcoming 3 years
+460,anl14_mean_roa_fy4,Mean of Estimations of Returns on Assets - upcoming 4 years
+461,anl14_mean_roe_fp1,Mean of Estimations of Returns on Equity - upcoming quarter
+462,anl14_mean_roe_fp2,Mean of Estimations of Returns on Equity - upcoming 2 quarters
+463,anl14_mean_roe_fp3,Mean of Estimations of Returns on Equity - upcoming 3 quarters
+464,anl14_mean_roe_fp4,Mean of Estimations of Returns on Equity - upcoming 4 quarters
+465,anl14_mean_roe_fy1,Mean of Estimations of Returns on Equity - upcoming year
+466,anl14_mean_roe_fy2,Mean of Estimations of Returns on Equity - upcoming 2 years
+467,anl14_mean_roe_fy3,Mean of Estimations of Returns on Equity - upcoming 3 years
+468,anl14_mean_roe_fy4,Mean of Estimations of Returns on Equity - upcoming 4 years
+469,anl14_mean_roe_fy5,Mean of Estimations of Returns on Equity - upcoming 5 years
+470,anl14_median_bvps_fp1,Median of Estimations of Book Value Per Share - upcoming quarter
+471,anl14_median_bvps_fp2,Median of Estimations of Book Value Per Share - upcoming 2 quarters
+472,anl14_median_bvps_fp3,Median of Estimations of Book Value Per Share - upcoming 3 quarters
+473,anl14_median_bvps_fp4,Median of Estimations of Book Value Per Share - upcoming 4 quarters
+474,anl14_median_bvps_fp5,Median of Estimations of Book Value Per Share - upcoming 5 quarters
+475,anl14_median_bvps_fy1,Median of Estimations of Book Value Per Share - upcoming year
+476,anl14_median_bvps_fy2,Median of Estimations of Book Value Per Share - upcoming 2 years
+477,anl14_median_bvps_fy3,Median of Estimations of Book Value Per Share - upcoming 3 years
+478,anl14_median_bvps_fy4,Median of Estimations of Book Value Per Share - upcoming 4 years
+479,anl14_median_bvps_fy5,Median of Estimations of Book Value Per Share - upcoming 5 years
+480,anl14_median_capex_fp1,Median of Estimations of Capital Expenditures - upcoming quarter
+481,anl14_median_capex_fp2,Median of Estimations of Capital Expenditures - upcoming 2 quarters
+482,anl14_median_capex_fp3,Median of Estimations of Capital Expenditures - upcoming 3 quarters
+483,anl14_median_capex_fp4,Median of Estimations of Capital Expenditures - upcoming 4 quarters
+484,anl14_median_capex_fp5,Median of Estimations of Capital Expenditures - upcoming 5 quarters
+485,anl14_median_capex_fy1,Median of Estimations of Capital Expenditures - upcoming year
+486,anl14_median_capex_fy2,Median of Estimations of Capital Expenditures - upcoming 2 years
+487,anl14_median_capex_fy3,Median of Estimations of Capital Expenditures - upcoming 3 years
+488,anl14_median_capex_fy4,Median of Estimations of Capital Expenditures - upcoming 4 years
+489,anl14_median_capex_fy5,Median of Estimations of Capital Expenditures - upcoming 5 years
+490,anl14_median_cfps_fp1,Median of Estimations of Cash Flow Per Share - upcoming quarter
+491,anl14_median_cfps_fp2,Median of Estimations of Cash Flow Per Share - upcoming 2 quarters
+492,anl14_median_cfps_fp3,Median of Estimations of Cash Flow Per Share - upcoming 3 quarters
+493,anl14_median_cfps_fp4,Median of Estimations of Cash Flow Per Share - upcoming 4 quarters
+494,anl14_median_cfps_fy1,Median of Estimations of Cash Flow Per Share - upcoming year
+495,anl14_median_cfps_fy2,Median of Estimations of Cash Flow Per Share - upcoming 2 years
+496,anl14_median_cfps_fy3,Median of Estimations of Cash Flow Per Share - upcoming 3 years
+497,anl14_median_cfps_fy4,Median of Estimations of Cash Flow Per Share - upcoming 4 years
+498,anl14_median_div_fp1,Median of Estimations of Dividend - upcoming quarter
+499,anl14_median_div_fp2,Median of Estimations of Dividend - upcoming 2 quarters
+500,anl14_median_div_fp3,Median of Estimations of Dividend - upcoming 3 quarters
+501,anl14_median_div_fp4,Median of Estimations of Dividend - upcoming 4 quarters
+502,anl14_median_div_fp5,Median of Estimations of Dividend - upcoming 5 quarters
+503,anl14_median_div_fy1,Median of Estimations of Dividend - upcoming year
+504,anl14_median_div_fy2,Median of Estimations of Dividend - upcoming 2 years
+505,anl14_median_div_fy3,Median of Estimations of Dividend - upcoming 3 years
+506,anl14_median_div_fy4,Median of Estimations of Dividend - upcoming 4 years
+507,anl14_median_div_fy5,Median of Estimations of Dividend - upcoming 5 years
+508,anl14_median_ebit_fp1,Median of Estimations of Earnings Before Interest & Taxes - upcoming quarter
+509,anl14_median_ebit_fp2,Median of Estimations of Earnings Before Interest & Taxes - upcoming 2 quarters
+510,anl14_median_ebit_fp3,Median of Estimations of Earnings Before Interest & Taxes - upcoming 3 quarters
+511,anl14_median_ebit_fp4,Median of Estimations of Earnings Before Interest & Taxes - upcoming 4 quarters
+512,anl14_median_ebit_fp5,Median of Estimations of Earnings Before Interest & Taxes - upcoming 5 quarters
+513,anl14_median_ebit_fy1,Median of Estimations of Earnings Before Interest & Taxes - upcoming year
+514,anl14_median_ebit_fy2,Median of Estimations of Earnings Before Interest & Taxes - upcoming 2 years
+515,anl14_median_ebit_fy3,Median of Estimations of Earnings Before Interest & Taxes - upcoming 3 years
+516,anl14_median_ebit_fy4,Median of Estimations of Earnings Before Interest & Taxes - upcoming 4 years
+517,anl14_median_ebit_fy5,Median of Estimations of Earnings Before Interest & Taxes - upcoming 5 years
+518,anl14_median_ebitda_fp1,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming quarter"
+519,anl14_median_ebitda_fp2,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 quarters"
+520,anl14_median_ebitda_fp3,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 quarters"
+521,anl14_median_ebitda_fp4,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 quarters"
+522,anl14_median_ebitda_fp5,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 quarters"
+523,anl14_median_ebitda_fy1,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming year"
+524,anl14_median_ebitda_fy2,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 years"
+525,anl14_median_ebitda_fy3,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 years"
+526,anl14_median_ebitda_fy4,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 years"
+527,anl14_median_ebitda_fy5,"Median of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 years"
+528,anl14_median_eps_fp1,Median of Estimations of Earnings Per Share - upcoming quarter
+529,anl14_median_eps_fp2,Median of Estimations of Earnings Per Share - upcoming 2 quarters
+530,anl14_median_eps_fp3,Median of Estimations of Earnings Per Share - upcoming 3 quarters
+531,anl14_median_eps_fp4,Median of Estimations of Earnings Per Share - upcoming 4 quarters
+532,anl14_median_eps_fp5,Median of Estimations of Earnings Per Share - upcoming 5 quarters
+533,anl14_median_eps_fy1,Median of Estimations of Earnings Per Share - upcoming year
+534,anl14_median_eps_fy2,Median of Estimations of Earnings Per Share - upcoming 2 years
+535,anl14_median_eps_fy3,Median of Estimations of Earnings Per Share - upcoming 3 years
+536,anl14_median_eps_fy4,Median of Estimations of Earnings Per Share - upcoming 4 years
+537,anl14_median_eps_fy5,Median of Estimations of Earnings Per Share - upcoming 5 years
+538,anl14_median_epsrep_fp1,Median of Estimations of Reported Earnings Per Share - upcoming quarter
+539,anl14_median_epsrep_fp2,Median of Estimations of Reported Earnings Per Share - upcoming 2 quarters
+540,anl14_median_epsrep_fp3,Median of Estimations of Reported Earnings Per Share - upcoming 3 quarters
+541,anl14_median_epsrep_fp4,Median of Estimations of Reported Earnings Per Share - upcoming 4 quarters
+542,anl14_median_epsrep_fp5,Median of Estimations of Reported Earnings Per Share - upcoming 5 quarters
+543,anl14_median_epsrep_fy1,Median of Estimations of Reported Earnings Per Share - upcoming year
+544,anl14_median_epsrep_fy2,Median of Estimations of Reported Earnings Per Share - upcoming 2 years
+545,anl14_median_epsrep_fy3,Median of Estimations of Reported Earnings Per Share - upcoming 3 years
+546,anl14_median_epsrep_fy4,Median of Estimations of Reported Earnings Per Share - upcoming 4 years
+547,anl14_median_epsrep_fy5,Median of Estimations of Reported Earnings Per Share - upcoming 5 years
+548,anl14_median_nav_fy1,Median of Estimations of Net asset value - upcoming year
+549,anl14_median_nav_fy2,Median of Estimations of Net asset value - upcoming 2 years
+550,anl14_median_nav_fy3,Median of Estimations of Net asset value - upcoming 3 years
+551,anl14_median_ndebt_fp1,Median of Estimations of Net debt - upcoming quarter
+552,anl14_median_ndebt_fp2,Median of Estimations of Net debt - upcoming 2 quarters
+553,anl14_median_ndebt_fp3,Median of Estimations of Net debt - upcoming 3 quarters
+554,anl14_median_ndebt_fp4,Median of Estimations of Net debt - upcoming 4 quarters
+555,anl14_median_ndebt_fy1,Median of Estimations of Net debt - upcoming year
+556,anl14_median_ndebt_fy2,Median of Estimations of Net debt - upcoming 2 years
+557,anl14_median_ndebt_fy3,Median of Estimations of Net debt - upcoming 3 years
+558,anl14_median_ndebt_fy4,Median of Estimations of Net debt - upcoming 4 years
+559,anl14_median_ndebt_fy5,Median of Estimations of Net debt - upcoming 5 years
+560,anl14_median_ntp_fp1,Median of Estimations of Net profit - upcoming quarter
+561,anl14_median_ntp_fp2,Median of Estimations of Net profit - upcoming 2 quarters
+562,anl14_median_ntp_fp3,Median of Estimations of Net profit - upcoming 3 quarters
+563,anl14_median_ntp_fp4,Median of Estimations of Net profit - upcoming 4 quarters
+564,anl14_median_ntp_fp5,Median of Estimations of Net profit - upcoming 5 quarters
+565,anl14_median_ntp_fy1,Median of Estimations of Net profit - upcoming year
+566,anl14_median_ntp_fy2,Median of Estimations of Net profit - upcoming 2 years
+567,anl14_median_ntp_fy3,Median of Estimations of Net profit - upcoming 3 years
+568,anl14_median_ntp_fy4,Median of Estimations of Net profit - upcoming 4 years
+569,anl14_median_ntp_fy5,Median of Estimations of Net profit - upcoming 5 years
+570,anl14_median_ntprep_fp1,Median of Estimations of Reported Net Profit - upcoming quarter
+571,anl14_median_ntprep_fp2,Median of Estimations of Reported Net Profit - upcoming 2 quarters
+572,anl14_median_ntprep_fp3,Median of Estimations of Reported Net Profit - upcoming 3 quarters
+573,anl14_median_ntprep_fp4,Median of Estimations of Reported Net Profit - upcoming 4 quarters
+574,anl14_median_ntprep_fp5,Median of Estimations of Reported Net Profit - upcoming 5 quarters
+575,anl14_median_ntprep_fy1,Median of Estimations of Reported Net Profit - upcoming year
+576,anl14_median_ntprep_fy2,Median of Estimations of Reported Net Profit - upcoming 2 years
+577,anl14_median_ntprep_fy3,Median of Estimations of Reported Net Profit - upcoming 3 years
+578,anl14_median_ntprep_fy4,Median of Estimations of Reported Net Profit - upcoming 4 years
+579,anl14_median_ntprep_fy5,Median of Estimations of Reported Net Profit - upcoming 5 years
+580,anl14_median_opp_fp1,Median of Estimations of Operating Profit - upcoming quarter
+581,anl14_median_opp_fy1,Median of Estimations of Operating Profit - upcoming year
+582,anl14_median_opp_fy2,Median of Estimations of Operating Profit - upcoming 2 years
+583,anl14_median_opp_fy3,Median of Estimations of Operating Profit - upcoming 3 years
+584,anl14_median_ptp_fp1,Median of Estimations of Pretax Profit - upcoming quarter
+585,anl14_median_ptp_fp2,Median of Estimations of Pretax Profit - upcoming 2 quarters
+586,anl14_median_ptp_fp3,Median of Estimations of Pretax Profit - upcoming 3 quarters
+587,anl14_median_ptp_fy1,Median of Estimations of Pretax Profit - upcoming year
+588,anl14_median_ptp_fy2,Median of Estimations of Pretax Profit - upcoming 2 years
+589,anl14_median_ptp_fy3,Median of Estimations of Pretax Profit - upcoming 3 years
+590,anl14_median_ptp_fy4,Median of Estimations of Pretax Profit - upcoming 4 years
+591,anl14_median_ptp_fy5,Median of Estimations of Pretax Profit - upcoming 5 years
+592,anl14_median_ptprep_fy1,Median of Estimations of Reported Pretax Profit - upcoming year
+593,anl14_median_ptprep_fy2,Median of Estimations of Reported Pretax Profit - upcoming 2 years
+594,anl14_median_ptprep_fy3,Median of Estimations of Reported Pretax Profit - upcoming 3 years
+595,anl14_median_ptprep_fy4,Median of Estimations of Reported Pretax Profit - upcoming 4 years
+596,anl14_median_ptprep_fy5,Median of Estimations of Reported Pretax Profit - upcoming 5 years
+597,anl14_median_revenue_fp1,Median of Estimations of Revenue - upcoming quarter
+598,anl14_median_revenue_fp2,Median of Estimations of Revenue - upcoming 2 quarters
+599,anl14_median_revenue_fp3,Median of Estimations of Revenue - upcoming 3 quarters
+600,anl14_median_revenue_fp4,Median of Estimations of Revenue - upcoming 4 quarters
+601,anl14_median_revenue_fp5,Median of Estimations of Revenue - upcoming 5 quarters
+602,anl14_median_revenue_fy1,Median of Estimations of Revenue - upcoming year
+603,anl14_median_revenue_fy2,Median of Estimations of Revenue - upcoming 2 years
+604,anl14_median_revenue_fy3,Median of Estimations of Revenue - upcoming 3 years
+605,anl14_median_revenue_fy4,Median of Estimations of Revenue - upcoming 4 years
+606,anl14_median_revenue_fy5,Median of Estimations of Revenue - upcoming 5 years
+607,anl14_median_roa_fy1,Median of Estimations of Returns on Assets - upcoming year
+608,anl14_median_roa_fy2,Median of Estimations of Returns on Assets - upcoming 2 years
+609,anl14_median_roa_fy3,Median of Estimations of Returns on Assets - upcoming 3 years
+610,anl14_median_roa_fy4,Median of Estimations of Returns on Assets - upcoming 4 years
+611,anl14_median_roe_fp1,Median of Estimations of Returns on Equity - upcoming quarter
+612,anl14_median_roe_fp2,Median of Estimations of Returns on Equity - upcoming 2 quarters
+613,anl14_median_roe_fp3,Median of Estimations of Returns on Equity - upcoming 3 quarters
+614,anl14_median_roe_fp4,Median of Estimations of Returns on Equity - upcoming 4 quarters
+615,anl14_median_roe_fy1,Median of Estimations of Returns on Equity - upcoming year
+616,anl14_median_roe_fy2,Median of Estimations of Returns on Equity - upcoming 2 years
+617,anl14_median_roe_fy3,Median of Estimations of Returns on Equity - upcoming 3 years
+618,anl14_median_roe_fy4,Median of Estimations of Returns on Equity - upcoming 4 years
+619,anl14_median_roe_fy5,Median of Estimations of Returns on Equity - upcoming 5 years
+620,anl14_numofests_bvps_fp1,Num of Estimations of Book Value Per Share - upcoming quarter
+621,anl14_numofests_bvps_fp2,Num of Estimations of Book Value Per Share - upcoming 2 quarters
+622,anl14_numofests_bvps_fp3,Num of Estimations of Book Value Per Share - upcoming 3 quarters
+623,anl14_numofests_bvps_fp4,Num of Estimations of Book Value Per Share - upcoming 4 quarters
+624,anl14_numofests_bvps_fp5,Num of Estimations of Book Value Per Share - upcoming 5 quarters
+625,anl14_numofests_bvps_fy1,Num of Estimations of Book Value Per Share - upcoming year
+626,anl14_numofests_bvps_fy2,Num of Estimations of Book Value Per Share - upcoming 2 years
+627,anl14_numofests_bvps_fy3,Num of Estimations of Book Value Per Share - upcoming 3 years
+628,anl14_numofests_bvps_fy4,Num of Estimations of Book Value Per Share - upcoming 4 years
+629,anl14_numofests_bvps_fy5,Num of Estimations of Book Value Per Share - upcoming 5 years
+630,anl14_numofests_capex_fp1,Num of Estimations of Capital Expenditures - upcoming quarter
+631,anl14_numofests_capex_fp2,Num of Estimations of Capital Expenditures - upcoming 2 quarters
+632,anl14_numofests_capex_fp3,Num of Estimations of Capital Expenditures - upcoming 3 quarters
+633,anl14_numofests_capex_fp4,Num of Estimations of Capital Expenditures - upcoming 4 quarters
+634,anl14_numofests_capex_fp5,Num of Estimations of Capital Expenditures - upcoming 5 quarters
+635,anl14_numofests_capex_fy1,Num of Estimations of Capital Expenditures - upcoming year
+636,anl14_numofests_capex_fy2,Num of Estimations of Capital Expenditures - upcoming 2 years
+637,anl14_numofests_capex_fy3,Num of Estimations of Capital Expenditures - upcoming 3 years
+638,anl14_numofests_capex_fy4,Num of Estimations of Capital Expenditures - upcoming 4 years
+639,anl14_numofests_capex_fy5,Num of Estimations of Capital Expenditures - upcoming 5 years
+640,anl14_numofests_cfps_fp1,Num of Estimations of Cash Flow Per Share - upcoming quarter
+641,anl14_numofests_cfps_fp2,Num of Estimations of Cash Flow Per Share - upcoming 2 quarters
+642,anl14_numofests_cfps_fp3,Num of Estimations of Cash Flow Per Share - upcoming 3 quarters
+643,anl14_numofests_cfps_fp4,Num of Estimations of Cash Flow Per Share - upcoming 4 quarters
+644,anl14_numofests_cfps_fy1,Num of Estimations of Cash Flow Per Share - upcoming year
+645,anl14_numofests_cfps_fy2,Num of Estimations of Cash Flow Per Share - upcoming 2 years
+646,anl14_numofests_cfps_fy3,Num of Estimations of Cash Flow Per Share - upcoming 3 years
+647,anl14_numofests_cfps_fy4,Num of Estimations of Cash Flow Per Share - upcoming 4 years
+648,anl14_numofests_div_fp1,Num of Estimations of Dividend - upcoming quarter
+649,anl14_numofests_div_fp2,Num of Estimations of Dividend - upcoming 2 quarters
+650,anl14_numofests_div_fp3,Num of Estimations of Dividend - upcoming 3 quarters
+651,anl14_numofests_div_fp4,Num of Estimations of Dividend - upcoming 4 quarters
+652,anl14_numofests_div_fp5,Num of Estimations of Dividend - upcoming 5 quarters
+653,anl14_numofests_div_fy1,Num of Estimations of Dividend - upcoming year
+654,anl14_numofests_div_fy2,Num of Estimations of Dividend - upcoming 2 years
+655,anl14_numofests_div_fy3,Num of Estimations of Dividend - upcoming 3 years
+656,anl14_numofests_div_fy4,Num of Estimations of Dividend - upcoming 4 years
+657,anl14_numofests_div_fy5,Num of Estimations of Dividend - upcoming 5 years
+658,anl14_numofests_ebit_fp1,Num of Estimations of Earnings Before Interest & Taxes - upcoming quarter
+659,anl14_numofests_ebit_fp2,Num of Estimations of Earnings Before Interest & Taxes - upcoming 2 quarters
+660,anl14_numofests_ebit_fp3,Num of Estimations of Earnings Before Interest & Taxes - upcoming 3 quarters
+661,anl14_numofests_ebit_fp4,Num of Estimations of Earnings Before Interest & Taxes - upcoming 4 quarters
+662,anl14_numofests_ebit_fp5,Num of Estimations of Earnings Before Interest & Taxes - upcoming 5 quarters
+663,anl14_numofests_ebit_fy1,Num of Estimations of Earnings Before Interest & Taxes - upcoming year
+664,anl14_numofests_ebit_fy2,Num of Estimations of Earnings Before Interest & Taxes - upcoming 2 years
+665,anl14_numofests_ebit_fy3,Num of Estimations of Earnings Before Interest & Taxes - upcoming 3 years
+666,anl14_numofests_ebit_fy4,Num of Estimations of Earnings Before Interest & Taxes - upcoming 4 years
+667,anl14_numofests_ebit_fy5,Num of Estimations of Earnings Before Interest & Taxes - upcoming 5 years
+668,anl14_numofests_ebitda_fp1,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming quarter"
+669,anl14_numofests_ebitda_fp2,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 quarters"
+670,anl14_numofests_ebitda_fp3,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 quarters"
+671,anl14_numofests_ebitda_fp4,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 quarters"
+672,anl14_numofests_ebitda_fp5,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 quarters"
+673,anl14_numofests_ebitda_fy1,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming year"
+674,anl14_numofests_ebitda_fy2,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 years"
+675,anl14_numofests_ebitda_fy3,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 years"
+676,anl14_numofests_ebitda_fy4,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 years"
+677,anl14_numofests_ebitda_fy5,"Num of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 years"
+678,anl14_numofests_eps_fp1,Num of Estimations of Earnings Per Share - upcoming quarter
+679,anl14_numofests_eps_fp2,Num of Estimations of Earnings Per Share - upcoming 2 quarters
+680,anl14_numofests_eps_fp3,Num of Estimations of Earnings Per Share - upcoming 3 quarters
+681,anl14_numofests_eps_fp4,Num of Estimations of Earnings Per Share - upcoming 4 quarters
+682,anl14_numofests_eps_fp5,Num of Estimations of Earnings Per Share - upcoming 5 quarters
+683,anl14_numofests_eps_fy1,Num of Estimations of Earnings Per Share - upcoming year
+684,anl14_numofests_eps_fy2,Num of Estimations of Earnings Per Share - upcoming 2 years
+685,anl14_numofests_eps_fy3,Num of Estimations of Earnings Per Share - upcoming 3 years
+686,anl14_numofests_eps_fy4,Num of Estimations of Earnings Per Share - upcoming 4 years
+687,anl14_numofests_eps_fy5,Num of Estimations of Earnings Per Share - upcoming 5 years
+688,anl14_numofests_epsrep_fp1,Num of Estimations of Reported Earnings Per Share - upcoming quarter
+689,anl14_numofests_epsrep_fp2,Num of Estimations of Reported Earnings Per Share - upcoming 2 quarters
+690,anl14_numofests_epsrep_fp3,Num of Estimations of Reported Earnings Per Share - upcoming 3 quarters
+691,anl14_numofests_epsrep_fp4,Num of Estimations of Reported Earnings Per Share - upcoming 4 quarters
+692,anl14_numofests_epsrep_fp5,Num of Estimations of Reported Earnings Per Share - upcoming 5 quarters
+693,anl14_numofests_epsrep_fy1,Num of Estimations of Reported Earnings Per Share - upcoming year
+694,anl14_numofests_epsrep_fy2,Num of Estimations of Reported Earnings Per Share - upcoming 2 years
+695,anl14_numofests_epsrep_fy3,Num of Estimations of Reported Earnings Per Share - upcoming 3 years
+696,anl14_numofests_epsrep_fy4,Num of Estimations of Reported Earnings Per Share - upcoming 4 years
+697,anl14_numofests_epsrep_fy5,Num of Estimations of Reported Earnings Per Share - upcoming 5 years
+698,anl14_numofests_nav_fy1,Num of Estimations of Net asset value - upcoming year
+699,anl14_numofests_nav_fy2,Num of Estimations of Net asset value - upcoming 2 years
+700,anl14_numofests_nav_fy3,Num of Estimations of Net asset value - upcoming 3 years
+701,anl14_numofests_ndebt_fp1,Num of Estimations of Net debt - upcoming quarter
+702,anl14_numofests_ndebt_fp2,Num of Estimations of Net debt - upcoming 2 quarters
+703,anl14_numofests_ndebt_fp3,Num of Estimations of Net debt - upcoming 3 quarters
+704,anl14_numofests_ndebt_fp4,Num of Estimations of Net debt - upcoming 4 quarters
+705,anl14_numofests_ndebt_fy1,Num of Estimations of Net debt - upcoming year
+706,anl14_numofests_ndebt_fy2,Num of Estimations of Net debt - upcoming 2 years
+707,anl14_numofests_ndebt_fy3,Num of Estimations of Net debt - upcoming 3 years
+708,anl14_numofests_ndebt_fy4,Num of Estimations of Net debt - upcoming 4 years
+709,anl14_numofests_ndebt_fy5,Num of Estimations of Net debt - upcoming 5 years
+710,anl14_numofests_ntp_fp1,Num of Estimations of Net profit - upcoming quarter
+711,anl14_numofests_ntp_fp2,Num of Estimations of Net profit - upcoming 2 quarters
+712,anl14_numofests_ntp_fp3,Num of Estimations of Net profit - upcoming 3 quarters
+713,anl14_numofests_ntp_fp4,Num of Estimations of Net profit - upcoming 4 quarters
+714,anl14_numofests_ntp_fp5,Num of Estimations of Net profit - upcoming 5 quarters
+715,anl14_numofests_ntp_fy1,Num of Estimations of Net profit - upcoming year
+716,anl14_numofests_ntp_fy2,Num of Estimations of Net profit - upcoming 2 years
+717,anl14_numofests_ntp_fy3,Num of Estimations of Net profit - upcoming 3 years
+718,anl14_numofests_ntp_fy4,Num of Estimations of Net profit - upcoming 4 years
+719,anl14_numofests_ntp_fy5,Num of Estimations of Net profit - upcoming 5 years
+720,anl14_numofests_ntprep_fp1,Num of Estimations of Reported Net Profit - upcoming quarter
+721,anl14_numofests_ntprep_fp2,Num of Estimations of Reported Net Profit - upcoming 2 quarters
+722,anl14_numofests_ntprep_fp3,Num of Estimations of Reported Net Profit - upcoming 3 quarters
+723,anl14_numofests_ntprep_fp4,Num of Estimations of Reported Net Profit - upcoming 4 quarters
+724,anl14_numofests_ntprep_fp5,Num of Estimations of Reported Net Profit - upcoming 5 quarters
+725,anl14_numofests_ntprep_fy1,Num of Estimations of Reported Net Profit - upcoming year
+726,anl14_numofests_ntprep_fy2,Num of Estimations of Reported Net Profit - upcoming 2 years
+727,anl14_numofests_ntprep_fy3,Num of Estimations of Reported Net Profit - upcoming 3 years
+728,anl14_numofests_ntprep_fy4,Num of Estimations of Reported Net Profit - upcoming 4 years
+729,anl14_numofests_ntprep_fy5,Num of Estimations of Reported Net Profit - upcoming 5 years
+730,anl14_numofests_opp_fp1,Num of Estimations of Operating Profit - upcoming quarter
+731,anl14_numofests_opp_fy1,Num of Estimations of Operating Profit - upcoming year
+732,anl14_numofests_opp_fy2,Num of Estimations of Operating Profit - upcoming 2 years
+733,anl14_numofests_opp_fy3,Num of Estimations of Operating Profit - upcoming 3 years
+734,anl14_numofests_ptp_fp1,Num of Estimations of Pretax Profit - upcoming quarter
+735,anl14_numofests_ptp_fp2,Num of Estimations of Pretax Profit - upcoming 2 quarters
+736,anl14_numofests_ptp_fp3,Num of Estimations of Pretax Profit - upcoming 3 quarters
+737,anl14_numofests_ptp_fy1,Num of Estimations of Pretax Profit - upcoming year
+738,anl14_numofests_ptp_fy2,Num of Estimations of Pretax Profit - upcoming 2 years
+739,anl14_numofests_ptp_fy3,Num of Estimations of Pretax Profit - upcoming 3 years
+740,anl14_numofests_ptp_fy4,Num of Estimations of Pretax Profit - upcoming 4 years
+741,anl14_numofests_ptp_fy5,Num of Estimations of Pretax Profit - upcoming 5 years
+742,anl14_numofests_ptprep_fy1,Num of Estimations of Reported Pretax Profit - upcoming year
+743,anl14_numofests_ptprep_fy2,Num of Estimations of Reported Pretax Profit - upcoming 2 years
+744,anl14_numofests_ptprep_fy3,Num of Estimations of Reported Pretax Profit - upcoming 3 years
+745,anl14_numofests_ptprep_fy4,Num of Estimations of Reported Pretax Profit - upcoming 4 years
+746,anl14_numofests_ptprep_fy5,Num of Estimations of Reported Pretax Profit - upcoming 5 years
+747,anl14_numofests_revenue_fp1,Num of Estimations of Revenue - upcoming quarter
+748,anl14_numofests_revenue_fp2,Num of Estimations of Revenue - upcoming 2 quarters
+749,anl14_numofests_revenue_fp3,Num of Estimations of Revenue - upcoming 3 quarters
+750,anl14_numofests_revenue_fp4,Num of Estimations of Revenue - upcoming 4 quarters
+751,anl14_numofests_revenue_fp5,Num of Estimations of Revenue - upcoming 5 quarters
+752,anl14_numofests_revenue_fy1,Num of Estimations of Revenue - upcoming year
+753,anl14_numofests_revenue_fy2,Num of Estimations of Revenue - upcoming 2 years
+754,anl14_numofests_revenue_fy3,Num of Estimations of Revenue - upcoming 3 years
+755,anl14_numofests_revenue_fy4,Num of Estimations of Revenue - upcoming 4 years
+756,anl14_numofests_revenue_fy5,Num of Estimations of Revenue - upcoming 5 years
+757,anl14_numofests_roa_fy1,Num of Estimations of Returns on Assets - upcoming year
+758,anl14_numofests_roa_fy2,Num of Estimations of Returns on Assets - upcoming 2 years
+759,anl14_numofests_roa_fy3,Num of Estimations of Returns on Assets - upcoming 3 years
+760,anl14_numofests_roa_fy4,Num of Estimations of Returns on Assets - upcoming 4 years
+761,anl14_numofests_roe_fp1,Num of Estimations of Returns on Equity - upcoming quarter
+762,anl14_numofests_roe_fp2,Num of Estimations of Returns on Equity - upcoming 2 quarters
+763,anl14_numofests_roe_fp3,Num of Estimations of Returns on Equity - upcoming 3 quarters
+764,anl14_numofests_roe_fp4,Num of Estimations of Returns on Equity - upcoming 4 quarters
+765,anl14_numofests_roe_fy1,Num of Estimations of Returns on Equity - upcoming year
+766,anl14_numofests_roe_fy2,Num of Estimations of Returns on Equity - upcoming 2 years
+767,anl14_numofests_roe_fy3,Num of Estimations of Returns on Equity - upcoming 3 years
+768,anl14_numofests_roe_fy4,Num of Estimations of Returns on Equity - upcoming 4 years
+769,anl14_numofests_roe_fy5,Num of Estimations of Returns on Equity - upcoming 5 years
+770,anl14_stddev_bvps_fp1,Standard Deviation of Estimations of Book Value Per Share - upcoming quarter
+771,anl14_stddev_bvps_fp2,Standard Deviation of Estimations of Book Value Per Share - upcoming 2 quarters
+772,anl14_stddev_bvps_fp3,Standard Deviation of Estimations of Book Value Per Share - upcoming 3 quarters
+773,anl14_stddev_bvps_fp4,Standard Deviation of Estimations of Book Value Per Share - upcoming 4 quarters
+774,anl14_stddev_bvps_fp5,Standard Deviation of Estimations of Book Value Per Share - upcoming 5 quarters
+775,anl14_stddev_bvps_fy1,Standard Deviation of Estimations of Book Value Per Share - upcoming year
+776,anl14_stddev_bvps_fy2,Standard Deviation of Estimations of Book Value Per Share - upcoming 2 years
+777,anl14_stddev_bvps_fy3,Standard Deviation of Estimations of Book Value Per Share - upcoming 3 years
+778,anl14_stddev_bvps_fy4,Standard Deviation of Estimations of Book Value Per Share - upcoming 4 years
+779,anl14_stddev_bvps_fy5,Standard Deviation of Estimations of Book Value Per Share - upcoming 5 years
+780,anl14_stddev_capex_fp1,Standard Deviation of Estimations of Capital Expenditures - upcoming quarter
+781,anl14_stddev_capex_fp2,Standard Deviation of Estimations of Capital Expenditures - upcoming 2 quarters
+782,anl14_stddev_capex_fp3,Standard Deviation of Estimations of Capital Expenditures - upcoming 3 quarters
+783,anl14_stddev_capex_fp4,Standard Deviation of Estimations of Capital Expenditures - upcoming 4 quarters
+784,anl14_stddev_capex_fp5,Standard Deviation of Estimations of Capital Expenditures - upcoming 5 quarters
+785,anl14_stddev_capex_fy1,Standard Deviation of Estimations of Capital Expenditures - upcoming year
+786,anl14_stddev_capex_fy2,Standard Deviation of Estimations of Capital Expenditures - upcoming 2 years
+787,anl14_stddev_capex_fy3,Standard Deviation of Estimations of Capital Expenditures - upcoming 3 years
+788,anl14_stddev_capex_fy4,Standard Deviation of Estimations of Capital Expenditures - upcoming 4 years
+789,anl14_stddev_capex_fy5,Standard Deviation of Estimations of Capital Expenditures - upcoming 5 years
+790,anl14_stddev_cfps_fp1,Standard Deviation of Estimations of Cash Flow Per Share - upcoming quarter
+791,anl14_stddev_cfps_fp2,Standard Deviation of Estimations of Cash Flow Per Share - upcoming 2 quarters
+792,anl14_stddev_cfps_fp3,Standard Deviation of Estimations of Cash Flow Per Share - upcoming 3 quarters
+793,anl14_stddev_cfps_fp4,Standard Deviation of Estimations of Cash Flow Per Share - upcoming 4 quarters
+794,anl14_stddev_cfps_fy1,Standard Deviation of Estimations of Cash Flow Per Share - upcoming year
+795,anl14_stddev_cfps_fy2,Standard Deviation of Estimations of Cash Flow Per Share - upcoming 2 years
+796,anl14_stddev_cfps_fy3,Standard Deviation of Estimations of Cash Flow Per Share - upcoming 3 years
+797,anl14_stddev_cfps_fy4,Standard Deviation of Estimations of Cash Flow Per Share - upcoming 4 years
+798,anl14_stddev_div_fp1,Standard Deviation of Estimations of Dividend - upcoming quarter
+799,anl14_stddev_div_fp2,Standard Deviation of Estimations of Dividend - upcoming 2 quarters
+800,anl14_stddev_div_fp3,Standard Deviation of Estimations of Dividend - upcoming 3 quarters
+801,anl14_stddev_div_fp4,Standard Deviation of Estimations of Dividend - upcoming 4 quarters
+802,anl14_stddev_div_fp5,Standard Deviation of Estimations of Dividend - upcoming 5 quarters
+803,anl14_stddev_div_fy1,Standard Deviation of Estimations of Dividend - upcoming year
+804,anl14_stddev_div_fy2,Standard Deviation of Estimations of Dividend - upcoming 2 years
+805,anl14_stddev_div_fy3,Standard Deviation of Estimations of Dividend - upcoming 3 years
+806,anl14_stddev_div_fy4,Standard Deviation of Estimations of Dividend - upcoming 4 years
+807,anl14_stddev_div_fy5,Standard Deviation of Estimations of Dividend - upcoming 5 years
+808,anl14_stddev_ebit_fp1,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming quarter
+809,anl14_stddev_ebit_fp2,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 2 quarters
+810,anl14_stddev_ebit_fp3,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 3 quarters
+811,anl14_stddev_ebit_fp4,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 4 quarters
+812,anl14_stddev_ebit_fp5,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 5 quarters
+813,anl14_stddev_ebit_fy1,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming year
+814,anl14_stddev_ebit_fy2,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 2 years
+815,anl14_stddev_ebit_fy3,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 3 years
+816,anl14_stddev_ebit_fy4,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 4 years
+817,anl14_stddev_ebit_fy5,Standard Deviation of Estimations of Earnings Before Interest & Taxes - upcoming 5 years
+818,anl14_stddev_ebitda_fp1,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming quarter"
+819,anl14_stddev_ebitda_fp2,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 quarters"
+820,anl14_stddev_ebitda_fp3,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 quarters"
+821,anl14_stddev_ebitda_fp4,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 quarters"
+822,anl14_stddev_ebitda_fp5,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 quarters"
+823,anl14_stddev_ebitda_fy1,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming year"
+824,anl14_stddev_ebitda_fy2,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 2 years"
+825,anl14_stddev_ebitda_fy3,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 3 years"
+826,anl14_stddev_ebitda_fy4,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 4 years"
+827,anl14_stddev_ebitda_fy5,"Standard Deviation of Estimations of Earnings Before Interest, Taxes, Depreciation & Amortization - upcoming 5 years"
+828,anl14_stddev_eps_fp1,Standard Deviation of Estimations of Earnings Per Share - upcoming quarter
+829,anl14_stddev_eps_fp2,Standard Deviation of Estimations of Earnings Per Share - upcoming 2 quarters
+830,anl14_stddev_eps_fp3,Standard Deviation of Estimations of Earnings Per Share - upcoming 3 quarters
+831,anl14_stddev_eps_fp4,Standard Deviation of Estimations of Earnings Per Share - upcoming 4 quarters
+832,anl14_stddev_eps_fp5,Standard Deviation of Estimations of Earnings Per Share - upcoming 5 quarters
+833,anl14_stddev_eps_fy1,Standard Deviation of Estimations of Earnings Per Share - upcoming year
+834,anl14_stddev_eps_fy2,Standard Deviation of Estimations of Earnings Per Share - upcoming 2 years
+835,anl14_stddev_eps_fy3,Standard Deviation of Estimations of Earnings Per Share - upcoming 3 years
+836,anl14_stddev_eps_fy4,Standard Deviation of Estimations of Earnings Per Share - upcoming 4 years
+837,anl14_stddev_eps_fy5,Standard Deviation of Estimations of Earnings Per Share - upcoming 5 years
+838,anl14_stddev_epsrep_fp1,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming quarter
+839,anl14_stddev_epsrep_fp2,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 2 quarters
+840,anl14_stddev_epsrep_fp3,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 3 quarters
+841,anl14_stddev_epsrep_fp4,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 4 quarters
+842,anl14_stddev_epsrep_fp5,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 5 quarters
+843,anl14_stddev_epsrep_fy1,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming year
+844,anl14_stddev_epsrep_fy2,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 2 years
+845,anl14_stddev_epsrep_fy3,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 3 years
+846,anl14_stddev_epsrep_fy4,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 4 years
+847,anl14_stddev_epsrep_fy5,Standard Deviation of Estimations of Reported Earnings Per Share - upcoming 5 years
+848,anl14_stddev_nav_fy1,Standard Deviation of Estimations of Net asset value - upcoming year
+849,anl14_stddev_nav_fy2,Standard Deviation of Estimations of Net asset value - upcoming 2 years
+850,anl14_stddev_nav_fy3,Standard Deviation of Estimations of Net asset value - upcoming 3 years
+851,anl14_stddev_ndebt_fp1,Standard Deviation of Estimations of Net debt - upcoming quarter
+852,anl14_stddev_ndebt_fp2,Standard Deviation of Estimations of Net debt - upcoming 2 quarters
+853,anl14_stddev_ndebt_fp3,Standard Deviation of Estimations of Net debt - upcoming 3 quarters
+854,anl14_stddev_ndebt_fp4,Standard Deviation of Estimations of Net debt - upcoming 4 quarters
+855,anl14_stddev_ndebt_fy1,Standard Deviation of Estimations of Net debt - upcoming year
+856,anl14_stddev_ndebt_fy2,Standard Deviation of Estimations of Net debt - upcoming 2 years
+857,anl14_stddev_ndebt_fy3,Standard Deviation of Estimations of Net debt - upcoming 3 years
+858,anl14_stddev_ndebt_fy4,Standard Deviation of Estimations of Net debt - upcoming 4 years
+859,anl14_stddev_ndebt_fy5,Standard Deviation of Estimations of Net debt - upcoming 5 years
+860,anl14_stddev_ntp_fp1,Standard Deviation of Estimations of Net profit - upcoming quarter
+861,anl14_stddev_ntp_fp2,Standard Deviation of Estimations of Net profit - upcoming 2 quarters
+862,anl14_stddev_ntp_fp3,Standard Deviation of Estimations of Net profit - upcoming 3 quarters
+863,anl14_stddev_ntp_fp4,Standard Deviation of Estimations of Net profit - upcoming 4 quarters
+864,anl14_stddev_ntp_fp5,Standard Deviation of Estimations of Net profit - upcoming 5 quarters
+865,anl14_stddev_ntp_fy1,Standard Deviation of Estimations of Net profit - upcoming year
+866,anl14_stddev_ntp_fy2,Standard Deviation of Estimations of Net profit - upcoming 2 years
+867,anl14_stddev_ntp_fy3,Standard Deviation of Estimations of Net profit - upcoming 3 years
+868,anl14_stddev_ntp_fy4,Standard Deviation of Estimations of Net profit - upcoming 4 years
+869,anl14_stddev_ntp_fy5,Standard Deviation of Estimations of Net profit - upcoming 5 years
+870,anl14_stddev_ntprep_fp1,Standard Deviation of Estimations of Reported Net Profit - upcoming quarter
+871,anl14_stddev_ntprep_fp2,Standard Deviation of Estimations of Reported Net Profit - upcoming 2 quarters
+872,anl14_stddev_ntprep_fp3,Standard Deviation of Estimations of Reported Net Profit - upcoming 3 quarters
+873,anl14_stddev_ntprep_fp4,Standard Deviation of Estimations of Reported Net Profit - upcoming 4 quarters
+874,anl14_stddev_ntprep_fp5,Standard Deviation of Estimations of Reported Net Profit - upcoming 5 quarters
+875,anl14_stddev_ntprep_fy1,Standard Deviation of Estimations of Reported Net Profit - upcoming year
+876,anl14_stddev_ntprep_fy2,Standard Deviation of Estimations of Reported Net Profit - upcoming 2 years
+877,anl14_stddev_ntprep_fy3,Standard Deviation of Estimations of Reported Net Profit - upcoming 3 years
+878,anl14_stddev_ntprep_fy4,Standard Deviation of Estimations of Reported Net Profit - upcoming 4 years
+879,anl14_stddev_ntprep_fy5,Standard Deviation of Estimations of Reported Net Profit - upcoming 5 years
+880,anl14_stddev_opp_fp1,Standard Deviation of Estimations of Operating Profit - upcoming quarter
+881,anl14_stddev_opp_fy1,Standard Deviation of Estimations of Operating Profit - upcoming year
+882,anl14_stddev_opp_fy2,Standard Deviation of Estimations of Operating Profit - upcoming 2 years
+883,anl14_stddev_opp_fy3,Standard Deviation of Estimations of Operating Profit - upcoming 3 years
+884,anl14_stddev_ptp_fp1,Standard Deviation of Estimations of Pretax Profit - upcoming quarter
+885,anl14_stddev_ptp_fp2,Standard Deviation of Estimations of Pretax Profit - upcoming 2 quarters
+886,anl14_stddev_ptp_fp3,Standard Deviation of Estimations of Pretax Profit - upcoming 3 quarters
+887,anl14_stddev_ptp_fy1,Standard Deviation of Estimations of Pretax Profit - upcoming year
+888,anl14_stddev_ptp_fy2,Standard Deviation of Estimations of Pretax Profit - upcoming 2 years
+889,anl14_stddev_ptp_fy3,Standard Deviation of Estimations of Pretax Profit - upcoming 3 years
+890,anl14_stddev_ptp_fy4,Standard Deviation of Estimations of Pretax Profit - upcoming 4 years
+891,anl14_stddev_ptp_fy5,Standard Deviation of Estimations of Pretax Profit - upcoming 5 years
+892,anl14_stddev_ptprep_fy1,Standard Deviation of Estimations of Reported Pretax Profit - upcoming year
+893,anl14_stddev_ptprep_fy2,Standard Deviation of Estimations of Reported Pretax Profit - upcoming 2 years
+894,anl14_stddev_ptprep_fy3,Standard Deviation of Estimations of Reported Pretax Profit - upcoming 3 years
+895,anl14_stddev_ptprep_fy4,Standard Deviation of Estimations of Reported Pretax Profit - upcoming 4 years
+896,anl14_stddev_ptprep_fy5,Standard Deviation of Estimations of Reported Pretax Profit - upcoming 5 years
+897,anl14_stddev_revenue_fp1,Standard Deviation of Estimations of Revenue - upcoming quarter
+898,anl14_stddev_revenue_fp2,Standard Deviation of Estimations of Revenue - upcoming 2 quarters
+899,anl14_stddev_revenue_fp3,Standard Deviation of Estimations of Revenue - upcoming 3 quarters
+900,anl14_stddev_revenue_fp4,Standard Deviation of Estimations of Revenue - upcoming 4 quarters
+901,anl14_stddev_revenue_fp5,Standard Deviation of Estimations of Revenue - upcoming 5 quarters
+902,anl14_stddev_revenue_fy1,Standard Deviation of Estimations of Revenue - upcoming year
+903,anl14_stddev_revenue_fy2,Standard Deviation of Estimations of Revenue - upcoming 2 years
+904,anl14_stddev_revenue_fy3,Standard Deviation of Estimations of Revenue - upcoming 3 years
+905,anl14_stddev_revenue_fy4,Standard Deviation of Estimations of Revenue - upcoming 4 years
+906,anl14_stddev_revenue_fy5,Standard Deviation of Estimations of Revenue - upcoming 5 years
+907,anl14_stddev_roa_fy1,Standard Deviation of Estimations of Returns on Assets - upcoming year
+908,anl14_stddev_roa_fy2,Standard Deviation of Estimations of Returns on Assets - upcoming 2 years
+909,anl14_stddev_roa_fy3,Standard Deviation of Estimations of Returns on Assets - upcoming 3 years
+910,anl14_stddev_roa_fy4,Standard Deviation of Estimations of Returns on Assets - upcoming 4 years
+911,anl14_stddev_roe_fp1,Standard Deviation of Estimations of Returns on Equity - upcoming quarter
+912,anl14_stddev_roe_fp2,Standard Deviation of Estimations of Returns on Equity - upcoming 2 quarters
+913,anl14_stddev_roe_fp3,Standard Deviation of Estimations of Returns on Equity - upcoming 3 quarters
+914,anl14_stddev_roe_fp4,Standard Deviation of Estimations of Returns on Equity - upcoming 4 quarters
+915,anl14_stddev_roe_fy1,Standard Deviation of Estimations of Returns on Equity - upcoming year
+916,anl14_stddev_roe_fy2,Standard Deviation of Estimations of Returns on Equity - upcoming 2 years
+917,anl14_stddev_roe_fy3,Standard Deviation of Estimations of Returns on Equity - upcoming 3 years
+918,anl14_stddev_roe_fy4,Standard Deviation of Estimations of Returns on Equity - upcoming 4 years
+919,anl14_stddev_roe_fy5,Standard Deviation of Estimations of Returns on Equity - upcoming 5 years
+920,rtk_ptg_high,The Highest of Price Target -
+921,rtk_ptg_low,The Lowest of Price Target -
+922,rtk_ptg_mean,Mean of Price Target -
+923,rtk_ptg_median,Median of Price Target -
+924,rtk_ptg_number,Num of Price Target -
+925,rtk_ptg_stddev,Standard Deviation of Price Target -

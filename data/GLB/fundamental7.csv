@@ -1,0 +1,106 @@
+,id,description
+0,fnd7_ointfund_21fpeo,Quarterly fundamental item : Earnings Per Share -> Diluted -> from Operations -> 12 Months Moving
+1,fnd7_ointfund_21fspe,Quarterly fundamental item : Earnings Per Share (Diluted) -> Excluding Extraordinary Items -> 12 Months Moving
+2,fnd7_ointfund_21speo,Quarterly fundamental item : Earnings Per Share from Operations - 12 Months Moving
+3,fnd7_ointfund_21xspe,Quarterly fundamental item : Earnings Per Share (Basic) - Excluding Extraordinary Items - 12-Months Moving - Consolidated
+4,fnd7_ointfund_q21hsc,Quarterly fundamental item : Common Shares Used to Calculate Earnings Per Share -> 12 Months Moving
+5,fnd7_ointfund_qagsx,"Quarterly fundamental item : Selling, General, and Administrative Expense"
+6,fnd7_ointfund_qbi,Quarterly fundamental item : Income Before Extraordinary Items
+7,fnd7_ointfund_qbim,Quarterly fundamental item : Redeemable Noncontrolling Interest (Balance Sheet)
+8,fnd7_ointfund_qcbi,Quarterly fundamental item : Income Before Extraordinary Items (Statement of Cash Flows)
+9,fnd7_ointfund_qcbuse,Quarterly fundamental item : Equity in Net Loss (Earnings) (Statement of Cash Flows)
+10,fnd7_ointfund_qcdxt,Quarterly fundamental item : Deferred Taxes (Statement of Cash Flows)
+11,fnd7_ointfund_qcktsrp,Quarterly fundamental item : Purchase of Common and Preferred Stock (Statement of Cash Flows)
+12,fnd7_ointfund_qcld,Quarterly fundamental item : Debt in current liabilities
+13,fnd7_ointfund_qcodix,Quarterly fundamental item : Extraordinary Items and Discontinued Operations (Statement of Cash Flows)
+14,fnd7_ointfund_qcpd,Quarterly fundamental item : Depreciation and Amortization (Statement of Cash Flows)
+15,fnd7_ointfund_qcqa,Quarterly fundamental item : Acquisitions (Statement of Cash Flows)
+16,fnd7_ointfund_qctidxt,Quarterly fundamental item : Deferred Taxes and Investment Tax Credit (Balance Sheet)
+17,fnd7_ointfund_qdalid,Quarterly fundamental item : Dilution adjustment
+18,fnd7_ointfund_qdfhsc,Quarterly fundamental item : Common Shares for Diluted EPS
+19,fnd7_ointfund_qdpxt,Quarterly fundamental item : Income Taxes Paid (Statement of Cash Flows)
+20,fnd7_ointfund_qehc,Quarterly fundamental item : Cash and Short-Term Investments
+21,fnd7_ointfund_qektsc,Quarterly fundamental item : Common Stock Equivalents - Dollar Savings
+22,fnd7_ointfund_qelas,Quarterly fundamental item : Net sales
+23,fnd7_ointfund_qepps,"Quarterly fundamental item : Sale of Property, Plant, and Equipment (Statement of Cash Flows)"
+24,fnd7_ointfund_qer,Quarterly fundamental item : Retained Earnings
+25,fnd7_ointfund_qerxe,Quarterly fundamental item : Exchange Rate Effect (Statement of Cash Flows)
+26,fnd7_ointfund_qfcnao,Quarterly fundamental item : Operating Activities -> Net Cash Flow (Statement of Cash Flows)
+27,fnd7_ointfund_qfcnif,Quarterly fundamental item : Financing Activities -> Net Cash Flow (Statement of Cash Flows)
+28,fnd7_ointfund_qfcnvi,Quarterly fundamental item : Investing Activities -> Net Cash Flow (Statement of Cash Flows)
+29,fnd7_ointfund_qhccer,Quarterly fundamental item : Accounts Receivable -> Decrease (Increase) (Statement of Cash Flows)
+30,fnd7_ointfund_qhcehc,Quarterly fundamental item : Cash and Cash Equivalents -> Increase (Decrease) (Statement of Cash Flows)
+31,fnd7_ointfund_qhcoloa,Quarterly fundamental item : Assets and Liabilities -> Other (Net Change) (Statement of Cash Flows)
+32,fnd7_ointfund_qhctsvi,Quarterly fundamental item : Short-Term Investments -> Change (Statement of Cash Flows)
+33,fnd7_ointfund_qhcvi,Quarterly fundamental item : Increase in Investments (Statement of Cash Flows)
+34,fnd7_ointfund_qhcvni,Quarterly fundamental item : Inventory -> Decrease (Increase) (Statement of Cash Flows)
+35,fnd7_ointfund_qidxt,Quarterly fundamental item : Deferred Taxes (Income Account)
+36,fnd7_ointfund_qifspe,Quarterly fundamental item : Earnings per Share (Diluted) -> Including Extraordinary Items
+37,fnd7_ointfund_qiim,Quarterly fundamental item : Noncontrolling Interest (Income Account)
+38,fnd7_ointfund_qiimbi,Quarterly fundamental item : Income Before Extraordinary Items and Noncontrolling Interests
+39,fnd7_ointfund_qin,Quarterly fundamental item : Net Income (Loss)
+40,fnd7_ointfund_qip,Quarterly fundamental item : Pretax income
+41,fnd7_ointfund_qipon,Quarterly fundamental item : Non-operating income (expense)
+42,fnd7_ointfund_qips,Quarterly fundamental item : Abandonments and Disallowances Adjustment plus Special Items
+43,fnd7_ointfund_qipspe,Quarterly fundamental item : Earnings per Share (Basic) - Including Extraordinary Items
+44,fnd7_ointfund_qivd,Quarterly fundamental item : Current Indic Annual Dividend
+45,fnd7_ointfund_qix,Quarterly fundamental item : Extraordinary items
+46,fnd7_ointfund_qjdabi,Quarterly fundamental item : Income Before Extraordinary Items -> Adjusted for Common Stock Equivalents
+47,fnd7_ointfund_qktsc,Quarterly fundamental item : Common stock
+48,fnd7_ointfund_qktsp,Quarterly fundamental item : Preferred Stock at Carrying Value
+49,fnd7_ointfund_qktss,Quarterly fundamental item : Sale of Common and Preferred Stock (Statement of Cash Flows)
+50,fnd7_ointfund_qktst,Quarterly fundamental item : Treasury Stock - Total Dollar Amount
+51,fnd7_ointfund_qmocbi,Quarterly fundamental item : Income Before Extraordinary Items -> Available for Common
+52,fnd7_ointfund_qnbim,Quarterly fundamental item : Nonredeamable Noncontrolling Interest (Balance Sheet)
+53,fnd7_ointfund_qnptni,Quarterly fundamental item : Interest Paid - Net (Statement of Cash Flows)
+54,fnd7_ointfund_qoa,Quarterly fundamental item : Other Assets
+55,fnd7_ointfund_qoaif,Quarterly fundamental item : Financing Activities -> Other (Statement of Cash Flows)
+56,fnd7_ointfund_qoca,Quarterly fundamental item : Current Assets -> Other -> Total
+57,fnd7_ointfund_qocavi,Quarterly fundamental item : Investing Activities -> Other (Statement of Cash Flows)
+58,fnd7_ointfund_qocl,Quarterly fundamental item : Other Current Liabilities
+59,fnd7_ointfund_qod,Quarterly fundamental item : Discontinued Operations
+60,fnd7_ointfund_qodix,Quarterly fundamental item : Extraordinary Items and Discontinued Operations
+61,fnd7_ointfund_qohsc,Quarterly fundamental item : Common shares outstanding
+62,fnd7_ointfund_qol,Quarterly fundamental item : Other liabilities
+63,fnd7_ointfund_qopof,Quarterly fundamental item : Funds From Operations -> Other (Statement of Cash Flows)
+64,fnd7_ointfund_qpa,Quarterly fundamental item : Accounts payable
+65,fnd7_ointfund_qpd,Quarterly fundamental item : Total depreciation and amortization
+66,fnd7_ointfund_qpdbio,Quarterly fundamental item : Operating Income Before Depreciation
+67,fnd7_ointfund_qpja,Quarterly fundamental item : Cumulative Adjustment Factor at Pay Date
+68,fnd7_ointfund_qpspvd,Quarterly fundamental item : Dividends per Share by Payable Date
+69,fnd7_ointfund_qpvd,Quarterly fundamental item : Preferred Dividends
+70,fnd7_ointfund_qpxt,Quarterly fundamental item : Income taxes payable
+71,fnd7_ointfund_qqec,Quarterly fundamental item : Total Common equity
+72,fnd7_ointfund_qqes,Quarterly fundamental item : Total Parent Stockholders' Equity
+73,fnd7_ointfund_qqet,Quarterly fundamental item : Total stockholder's equity
+74,fnd7_ointfund_qrktsp,Quarterly fundamental item : Preferred Stock -> Redeemable
+75,fnd7_ointfund_qrphsc,Quarterly fundamental item : Common Shares Used to Calculate Earnings per Share (Basic)
+76,fnd7_ointfund_qrtld,Quarterly fundamental item : Long-Term Debt -> Reduction (Statement of Cash Flows)
+77,fnd7_ointfund_qsgoc,Quarterly fundamental item : Cost of Goods sold
+78,fnd7_ointfund_qsitld,Quarterly fundamental item : Long-Term Debt -> Issuance (Statement of Cash Flows)
+79,fnd7_ointfund_qspac,Quarterly fundamental item : Capital Surplus
+80,fnd7_ointfund_qspepo,Quarterly fundamental item : Earnings Per Share from Operations
+81,fnd7_ointfund_qta,Quarterly fundamental item : Assets -> Total/Liabilities and Stockholders' Equity -> Total
+82,fnd7_ointfund_qtbim,Quarterly fundamental item : Noncontrolling Interests -> Total
+83,fnd7_ointfund_qtca,Quarterly fundamental item : Total Current assets
+84,fnd7_ointfund_qtcapd,"Quarterly fundamental item : Depreciation, Depletion, and Amortization (Accumulated) (Balance Sheet)"
+85,fnd7_ointfund_qtcer,Quarterly fundamental item : Total Receivables
+86,fnd7_ointfund_qtcl,Quarterly fundamental item : Total Current Liabilities
+87,fnd7_ointfund_qtgepp,"Quarterly fundamental item : Property, Plant, and Equipment -> Total (Gross)"
+88,fnd7_ointfund_qtl,Quarterly fundamental item : Total liabilities
+89,fnd7_ointfund_qtnepp,"Quarterly fundamental item : Property, Plant, and Equipment - Total (Net)"
+90,fnd7_ointfund_qtnix,Quarterly fundamental item : Interest expense
+91,fnd7_ointfund_qtpaci,Quarterly fundamental item : Total invested capital
+92,fnd7_ointfund_qttld,Quarterly fundamental item : Total Long term debt
+93,fnd7_ointfund_qtvni,Quarterly fundamental item : Total inventory
+94,fnd7_ointfund_qtxt,Quarterly fundamental item : Total Income Taxes
+95,fnd7_ointfund_qvalid,Quarterly fundamental item : Dilution Available -> Excluding Extraordinary Items
+96,fnd7_ointfund_qvd,Quarterly fundamental item : Cash Dividends (Statement of Cash Flows)
+97,fnd7_ointfund_qvipps,"Quarterly fundamental item : Sale of Property, Plant, and Equipment and Sale of Investments - Loss (Gain) (Statement of Cash Flows)"
+98,fnd7_ointfund_qvis,Quarterly fundamental item : Sale of Investments (Statement of Cash Flows)
+99,fnd7_ointfund_qxeja,Quarterly fundamental item : Adjustment Factor (Company) -> Cumulative by Ex-Date
+100,fnd7_ointfund_qxfspe,Quarterly fundamental item : Earnings per Share (Diluted) - Excluding Extraordinary Items
+101,fnd7_ointfund_qxpac,Quarterly fundamental item : Capital Expenditures (Statement of Cash Flows)
+102,fnd7_ointfund_qxpspe,Quarterly fundamental item : Earnings per Share (Basic) - Excluding Extraordinary Items
+103,fnd7_ointfund_qxspeo,Quarterly fundamental item : Earnings Per Share - Diluted - from Operations
+104,fnd7_ointfund_qxspvd,Quarterly fundamental item : Dividends per Share by ExDate (Gross)

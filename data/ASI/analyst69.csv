@@ -1,0 +1,234 @@
+,id,description
+0,anl69_aeps_best_crncy_iso,Currency (ISO)
+1,anl69_aeps_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+2,anl69_aeps_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+3,anl69_aeps_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+4,anl69_aeps_best_eeps_cur_yr,Est Earnings per share Curr Year
+5,anl69_aeps_best_eeps_nxt_yr,Est Earnings per share Next Year
+8,anl69_aeps_expected_report_dt,Expected Earnings Report Date
+10,anl69_aeps_expected_report_time,Expected Earnings Report Time
+14,anl69_analyst_best_crncy_iso,Currency (ISO)
+15,anl69_analyst_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+16,anl69_analyst_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+17,anl69_analyst_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+18,anl69_analyst_best_eeps_cur_yr,Est Earnings per share Curr Year
+19,anl69_analyst_best_eeps_nxt_yr,Est Earnings per share Next Year
+22,anl69_analyst_expected_report_dt,Expected Earnings Report Date
+24,anl69_analyst_expected_report_time,Expected Earnings Report Time
+31,anl69_best_crncy_iso,Currency (ISO)
+33,anl69_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+34,anl69_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+35,anl69_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+66,anl69_best_eeps_cur_yr,Est Earnings per share Curr Year
+67,anl69_best_eeps_nxt_yr,Est Earnings per share Next Year
+202,anl69_bps_best_crncy_iso,Currency (ISO)
+203,anl69_bps_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+204,anl69_bps_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+205,anl69_bps_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+206,anl69_bps_best_eeps_cur_yr,Est Earnings per share Curr Year
+207,anl69_bps_best_eeps_nxt_yr,Est Earnings per share Next Year
+210,anl69_bps_expected_report_dt,Expected Earnings Report Date
+212,anl69_bps_expected_report_time,Expected Earnings Report Time
+226,anl69_bpss_best_crncy_iso,Currency (ISO)
+227,anl69_bpss_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+228,anl69_bpss_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+229,anl69_bpss_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+230,anl69_bpss_best_eeps_cur_yr,Est Earnings per share Curr Year
+231,anl69_bpss_best_eeps_nxt_yr,Est Earnings per share Next Year
+234,anl69_bpss_expected_report_dt,Expected Earnings Report Date
+235,anl69_bpss_expected_report_time,Expected Earnings Report Time
+238,anl69_cest_best_crncy_iso,Currency (ISO)
+239,anl69_cest_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+240,anl69_cest_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+241,anl69_cest_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+242,anl69_cest_best_eeps_cur_yr,Est Earnings per share Curr Year
+243,anl69_cest_best_eeps_nxt_yr,Est Earnings per share Next Year
+248,anl69_cest_expected_report_dt,Expected Earnings Report Date
+250,anl69_cest_expected_report_time,Expected Earnings Report Time
+265,anl69_cps_best_crncy_iso,Currency (ISO)
+266,anl69_cps_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+267,anl69_cps_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+268,anl69_cps_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+269,anl69_cps_best_eeps_cur_yr,Est Earnings per share Curr Year
+270,anl69_cps_best_eeps_nxt_yr,Est Earnings per share Next Year
+273,anl69_cps_expected_report_dt,Expected Earnings Report Date
+275,anl69_cps_expected_report_time,Expected Earnings Report Time
+289,anl69_cpss_best_crncy_iso,Currency (ISO)
+290,anl69_cpss_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+291,anl69_cpss_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+292,anl69_cpss_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+293,anl69_cpss_best_eeps_cur_yr,Est Earnings per share Curr Year
+294,anl69_cpss_best_eeps_nxt_yr,Est Earnings per share Next Year
+299,anl69_dps_best_crncy_iso,Currency (ISO)
+300,anl69_dps_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+301,anl69_dps_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+302,anl69_dps_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+303,anl69_dps_best_eeps_cur_yr,Est Earnings per share Curr Year
+304,anl69_dps_best_eeps_nxt_yr,Est Earnings per share Next Year
+307,anl69_dps_expected_report_dt,Expected Earnings Report Date
+308,anl69_dps_expected_report_time,Expected Earnings Report Time
+311,anl69_dvd_declared_dt,Dividend Declared Date
+312,anl69_dvd_pay_dt,Dividend Pay Date
+313,anl69_dvd_record_dt,Dividend Record Date
+314,anl69_dvd_sh_last,Dividend Per Share Last Net
+315,anl69_dvd_typ_last,Dividend Type
+316,anl69_ebit_best_crncy_iso,Currency (ISO)
+317,anl69_ebit_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+318,anl69_ebit_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+319,anl69_ebit_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+320,anl69_ebit_best_eeps_cur_yr,Est Earnings per share Curr Year
+321,anl69_ebit_best_eeps_nxt_yr,Est Earnings per share Next Year
+324,anl69_ebit_expected_report_dt,Expected Earnings Report Date
+326,anl69_ebit_expected_report_time,Expected Earnings Report Time
+330,anl69_ebitda_best_crncy_iso,Currency (ISO)
+331,anl69_ebitda_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+332,anl69_ebitda_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+333,anl69_ebitda_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+334,anl69_ebitda_best_eeps_cur_yr,Est Earnings per share Curr Year
+335,anl69_ebitda_best_eeps_nxt_yr,Est Earnings per share Next Year
+338,anl69_ebitda_expected_report_dt,Expected Earnings Report Date
+340,anl69_ebitda_expected_report_time,Expected Earnings Report Time
+344,anl69_eps_best_crncy_iso,Currency (ISO)
+345,anl69_eps_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+346,anl69_eps_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+347,anl69_eps_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+348,anl69_eps_best_eeps_cur_yr,Est Earnings per share Curr Year
+349,anl69_eps_best_eeps_nxt_yr,Est Earnings per share Next Year
+353,anl69_eps_expected_report_dt,Expected Earnings Report Date
+354,anl69_eps_expected_report_time,Expected Earnings Report Time
+357,anl69_eqy_best_crncy_iso,Currency (ISO)
+358,anl69_eqy_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+359,anl69_eqy_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+360,anl69_eqy_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+361,anl69_eqy_best_eeps_cur_yr,Est Earnings per share Curr Year
+362,anl69_eqy_best_eeps_nxt_yr,Est Earnings per share Next Year
+365,anl69_eqy_dvd_ex_flag,Ex-Dividend Flag
+366,anl69_eqy_dvd_sh_12m_net,Dividend Per Share 12 Month (Net)
+367,anl69_eqy_dvd_sh_last,Dividend Per Share 12 Month (Net)
+368,anl69_eqy_dvd_typ_last,Dividend Type
+369,anl69_eqy_expected_report_dt,Expected Earnings Report Date
+371,anl69_eqy_expected_report_time,Expected Earnings Report Time
+373,anl69_eqy_last_dps_gross,Dividend Per Share Last (Gross)
+379,anl69_eqy_split_dt,Split Date
+380,anl69_eqy_split_ratio,Split Ratio
+381,anl69_expected_report_dt,Expected Earnings Report Date
+382,anl69_expected_report_time,Expected Earnings Report Time
+383,anl69_ffops_best_crncy_iso,Currency (ISO)
+384,anl69_ffops_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+385,anl69_ffops_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+386,anl69_ffops_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+387,anl69_ffops_best_eeps_cur_yr,Est Earnings per share Curr Year
+388,anl69_ffops_best_eeps_nxt_yr,Est Earnings per share Next Year
+391,anl69_ffops_expected_report_dt,Expected Earnings Report Date
+393,anl69_ffops_expected_report_time,Expected Earnings Report Time
+397,anl69_last_dps_gross,Dividend Per Share Last (Gross)
+398,anl69_ltg_dif_best_crncy_iso,Currency (ISO)
+399,anl69_ltg_dif_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+400,anl69_ltg_dif_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+401,anl69_ltg_dif_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+402,anl69_ltg_dif_best_eeps_cur_yr,Est Earnings per share Curr Year
+403,anl69_ltg_dif_best_eeps_nxt_yr,Est Earnings per share Next Year
+406,anl69_ltg_dif_expected_report_dt,Expected Earnings Report Date
+408,anl69_ltg_dif_expected_report_time,Expected Earnings Report Time
+412,anl69_m21_hs_dvd,Dividend Per Share 12 Month (Gross)
+413,anl69_m21_hs_dvd_yqe,Dividend Per Share 12 Month (Gross)
+414,anl69_nav_best_crncy_iso,Currency (ISO)
+415,anl69_nav_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+416,anl69_nav_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+417,anl69_nav_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+418,anl69_nav_best_eeps_cur_yr,Est Earnings per share Curr Year
+419,anl69_nav_best_eeps_nxt_yr,Est Earnings per share Next Year
+422,anl69_nav_expected_report_dt,Expected Earnings Report Date
+424,anl69_nav_expected_report_time,Expected Earnings Report Time
+428,anl69_ndebt_best_crncy_iso,Currency (ISO)
+429,anl69_ndebt_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+430,anl69_ndebt_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+431,anl69_ndebt_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+432,anl69_ndebt_best_eeps_cur_yr,Est Earnings per share Curr Year
+433,anl69_ndebt_best_eeps_nxt_yr,Est Earnings per share Next Year
+436,anl69_ndebt_expected_report_dt,Expected Earnings Report Date
+438,anl69_ndebt_expected_report_time,Expected Earnings Report Time
+442,anl69_net_best_crncy_iso,Currency (ISO)
+443,anl69_net_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+444,anl69_net_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+445,anl69_net_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+446,anl69_net_best_eeps_cur_yr,Est Earnings per share Curr Year
+447,anl69_net_best_eeps_nxt_yr,Est Earnings per share Next Year
+450,anl69_net_expected_report_dt,Expected Earnings Report Date
+452,anl69_net_expected_report_time,Expected Earnings Report Time
+456,anl69_opp_best_crncy_iso,Currency (ISO)
+457,anl69_opp_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+458,anl69_opp_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+459,anl69_opp_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+460,anl69_opp_best_eeps_cur_yr,Est Earnings per share Curr Year
+461,anl69_opp_best_eeps_nxt_yr,Est Earnings per share Next Year
+464,anl69_opp_expected_report_dt,Expected Earnings Report Date
+466,anl69_opp_expected_report_time,Expected Earnings Report Time
+470,anl69_pe_all_delay_1_best_crncy_iso,Currency (ISO)
+471,anl69_pe_all_delay_1_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+472,anl69_pe_all_delay_1_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+473,anl69_pe_all_delay_1_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+474,anl69_pe_all_delay_1_best_eeps_cur_yr,Est Earnings per share Curr Year
+475,anl69_pe_all_delay_1_best_eeps_nxt_yr,Est Earnings per share Next Year
+476,anl69_pe_all_delay_1_expected_report_dt,Expected Earnings Report Date
+477,anl69_pe_all_delay_1_expected_report_time,Expected Earnings Report Time
+478,anl69_pe_best_crncy_iso,Currency (ISO)
+479,anl69_pe_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+480,anl69_pe_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+481,anl69_pe_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+482,anl69_pe_best_eeps_cur_yr,Est Earnings per share Curr Year
+483,anl69_pe_best_eeps_nxt_yr,Est Earnings per share Next Year
+485,anl69_pe_expected_report_dt,Expected Earnings Report Date
+486,anl69_pe_expected_report_time,Expected Earnings Report Time
+487,anl69_ptp_best_crncy_iso,Currency (ISO)
+488,anl69_ptp_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+489,anl69_ptp_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+490,anl69_ptp_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+491,anl69_ptp_best_eeps_cur_yr,Est Earnings per share Curr Year
+492,anl69_ptp_best_eeps_nxt_yr,Est Earnings per share Next Year
+495,anl69_ptp_expected_report_dt,Expected Earnings Report Date
+497,anl69_ptp_expected_report_time,Expected Earnings Report Time
+501,anl69_qerf_dvd,Dividend Frequency
+502,anl69_qerf_dvd_yqe,Dividend Frequency
+503,anl69_rec_best_crncy_iso,Currency (ISO)
+504,anl69_rec_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+505,anl69_rec_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+506,anl69_rec_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+507,anl69_rec_best_eeps_cur_yr,Est Earnings per share Curr Year
+508,anl69_rec_best_eeps_nxt_yr,Est Earnings per share Next Year
+511,anl69_rec_expected_report_dt,Expected Earnings Report Date
+512,anl69_rec_expected_report_time,Expected Earnings Report Time
+516,anl69_roa_best_crncy_iso,Currency (ISO)
+517,anl69_roa_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+518,anl69_roa_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+519,anl69_roa_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+520,anl69_roa_best_eeps_cur_yr,Est Earnings per share Curr Year
+521,anl69_roa_best_eeps_nxt_yr,Est Earnings per share Next Year
+524,anl69_roa_expected_report_dt,Expected Earnings Report Date
+525,anl69_roa_expected_report_time,Expected Earnings Report Time
+528,anl69_roe_best_crncy_iso,Currency (ISO)
+529,anl69_roe_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+530,anl69_roe_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+531,anl69_roe_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+532,anl69_roe_best_eeps_cur_yr,Est Earnings per share Curr Year
+533,anl69_roe_best_eeps_nxt_yr,Est Earnings per share Next Year
+536,anl69_roe_expected_report_dt,Expected Earnings Report Date
+537,anl69_roe_expected_report_time,Expected Earnings Report Time
+540,anl69_sales_best_crncy_iso,Currency (ISO)
+541,anl69_sales_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+542,anl69_sales_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+543,anl69_sales_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+544,anl69_sales_best_eeps_cur_yr,Est Earnings per share Curr Year
+545,anl69_sales_best_eeps_nxt_yr,Est Earnings per share Next Year
+548,anl69_sales_expected_report_dt,Expected Earnings Report Date
+549,anl69_sales_expected_report_time,Expected Earnings Report Time
+552,anl69_target_best_crncy_iso,Currency (ISO)
+553,anl69_target_best_cur_fiscal_qtr_period,Current Fiscal Quarter Period D
+554,anl69_target_best_cur_fiscal_semi_year_period,Current Fiscal Semi-Year Period
+555,anl69_target_best_cur_fiscal_year_period,Current Fiscal Year Period Date
+556,anl69_target_best_eeps_cur_yr,Est Earnings per share Curr Year
+557,anl69_target_best_eeps_nxt_yr,Est Earnings per share Next Year
+560,anl69_target_expected_report_dt,Expected Earnings Report Date
+562,anl69_target_expected_report_time,Expected Earnings Report Time
+566,anl69_td_xe_dvd,Dividend Ex Date
+570,anl69_ycnrc_dvd,Dividend Currency

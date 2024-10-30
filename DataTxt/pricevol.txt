@@ -1,0 +1,1 @@
+adv20,adv20,cap,cap,close,close,dividend,dividend,high,high,low,low,open,open,returns,returns,sharesout,sharesout,split,split,volume,volume,vwap,vwap

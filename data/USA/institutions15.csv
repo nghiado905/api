@@ -1,0 +1,157 @@
+,id,description
+0,inst15_10yeargrowthpersistence,10 Year Growth Persistence
+1,inst15_10yeartotalreturn,Last 120 month's total return (assuming reinvestment of all distributions)
+2,inst15_10yrloadadjret,Last 120 month's total return (assuming reinvestment of all distributions) + maximum sales charges
+3,inst15_10yrpercentrankvsobj,"Rank of fund within peer group - 10 year's total return ranking (1 is best, 99 is worst)"
+4,inst15_15yeartotalreturn,Last 180 month's total return (assuming reinvestment of all distributions)
+5,inst15_15yrpercentrankvsobj,"Rank of fund within peer group - 15 year's total return ranking (1 is best, 99 is worst)"
+6,inst15_1monthtotalreturn,Most recent month's total return (assuming reinvestment of all distributions)
+7,inst15_1mopercentrankvsobj,"Rank of fund within peer group - 1 month's total return ranking (1 is best, 99 is worst)"
+8,inst15_1weektotalreturn,1 week total return (assuming reinvestment of all distributions.)
+9,inst15_1yeargrowthpersistence,Returns the 1 year growth in performance persistence
+10,inst15_1yearret,Institution recent 12 months return percent released every quarter
+11,inst15_1yeartotalreturn,Last 12 month's total return (assuming reinvestment of all distributions)
+12,inst15_1yrloadadjret,Last 12 month's total return (assuming reinvestment of all distributions) + maximum sales charges
+13,inst15_1yrpercentrankvsobj,"Rank of fund within peer group - 1 year's total return ranking (1 is best, 99 is worst)"
+14,inst15_20yeartotalreturn,Last 240 month's total return (assuming reinvestment of all distributions)
+15,inst15_20yrpercentrankvsobj,"Rank of fund within peer group - 20 year's total return ranking (1 is best, 99 is worst)"
+16,inst15_3monthret,Institution recent 3 months return percent released every quarter
+17,inst15_3monthtotalreturn,Most recent three month's total return (assuming reinvestment of all dist.)
+18,inst15_3mopercentrankvsobj,"3 month's return ranking (1 is best, 99 is worst)"
+19,inst15_3yeartotalreturn,Last 180 month's total return (assuming reinvestment of all distributions)
+20,inst15_3yrpercentrankvsobj,"Rank of fund within peer group - 3 year's total return ranking (1 is best, 99 is worst)"
+21,inst15_4weektotalreturn,Last 120 month's total return (assuming reinvestment of all distributions)
+22,inst15_5yeargrowthpersistence,5 year growth persistence
+23,inst15_5yeartotalreturn,Last 60 month's total return (assuming reinvestment of all distributions)
+24,inst15_5yrloadadjret,Last 60 month's total return (assuming reinvestment of all distributions) + maximum sales charges
+25,inst15_5yrpercentrankvsobj,"Rank of fund within peer group - 5 year's total return ranking (1 is best, 99 is worst)"
+26,inst15_6monthret,Institution recent 6 months return percent released every quarter
+27,inst15_6monthtotalreturn,Last 6 month's total return (assuming reinvestment of all distributions)
+28,inst15_6mopercentrankvsobj,"Rank of fund within peer group - 6 month's total return ranking (1 is best, 99 is worst)"
+29,inst15_alpha,Monthly Alpha
+30,inst15_alpha10yr,Measures the difference between actual and expected return. Positive alpha means return was higher than expected. Trailing 120 months.
+31,inst15_alpha3yr,Measures the difference between actual and expected return. Positive alpha means return was higher than expected. Trailing 36 months.
+32,inst15_alpha5yr,Measures the difference between actual and expected return. Positive alpha means return was higher than expected. Trailing 60 months.
+36,inst15_annual_data_expenseratio,Returns the expense ratio of the fund
+37,inst15_annual_data_turnover,Portfolio turnover rate for the latest fiscal year.
+38,inst15_annual_data_year,Year
+40,inst15_aster_van,Net asset value
+41,inst15_automaticinvestment,Returns a yes/no value if the fund's investments are automated or not
+42,inst15_averageepsgrowth,The weighted average earnings per share growth rate of the fund's underlying stocks.
+43,inst15_averageprice_book,The weighted average price-book multiple of the fund's underlying stocks.
+44,inst15_averageprice_earnings,The weighted average price-earnings multiple of the fund's underlying stocks.
+45,inst15_avgmarketvalue_mildollar,"The weighted average market capitalization of the fund's underlying stocks, expressed in millions."
+46,inst15_beta,Monthly Beta
+47,inst15_beta10yr,"Measure of sensitivity to market fluctuations, higher the number greater the risk. Trailing 120 months."
+48,inst15_beta3yr,"Measure of sensitivity to market fluctuations, higher the number greater the risk. Trailing 36 months."
+49,inst15_beta5yr,"Measure of sensitivity to market fluctuations, higher the number greater the risk. Trailing 60 months."
+50,inst15_betavseafe,"Fund's Beta calculated using MSCI EAFE(Europe,Australia,Far East) Stock Index"
+51,inst15_betavslehman,Fund's Beta calculated using Lehman Aggregate Bond Index
+52,inst15_betavssp500,Fund's Beta calculated using S&P 500 Stock Index
+53,inst15_bond,"Indicates whether the fund is included in the broad universe of bond-oriented funds, returns 1, 0 or Null"
+58,inst15_checkwriting,Indicates whether the fund offers check writing privileges on fund accounts.
+59,inst15_currentmarketcycle,Current Market Cycle
+60,inst15_dividend,Returns the annual dividend payout by the fund
+61,inst15_dividendfrequency,The frequency of dividend payments made to shareholders of fund.
+62,inst15_divyield,The total of the fund's income received from investments and paid to its shareholders over the trailing 12 months expressed as a percentage of the year-end price of the security.
+63,inst15_emergingmarket,Attribution analysis of a fund in emerging markets asset class
+64,inst15_equity,"Indicates whether the fund is included in the broad universe of equity-oriented funds, returns 1, 0 or null"
+198,inst15_exchangebytelephone,Indicates whether a fund company allows the investor to move investments from one fund to another co-managed fund via the telephone.
+199,inst15_exprelpeer,Expense Ratio Relative to the Peer Group
+200,inst15_foreignstock,Percentage of the portfolio assets invested in foreign equities.
+202,inst15_gradedfee,Indicates whether the management fee is graded which decreases as fund assets increase.
+203,inst15_highyieldbond,Attribution analysis of a fund in high yield bonds asset class
+212,inst15_intermediatebond,Attribution analysis of a fund in intermediate bonds asset class
+213,inst15_investbytelephone,Indicates whether a fund company allows the investor to place orders for purchases of fund via the telephone.
+214,inst15_iraavailable,Indicates whether the fund offers an IRA account.
+215,inst15_largegrowth,Attribution analysis of a fund In large growth companies asset class
+216,inst15_largevalue,Attribution analysis of a fund in large value companies asset class
+217,inst15_load,Load indicator (fund sold with a front or backend sales charge)
+218,inst15_managerrating,Rating of the fund manager
+221,inst15_master_expenseratio,Ratio of operating expenses to average net assets.
+223,inst15_master_total_return_year,Year
+224,inst15_master_turnover,Turnover
+226,inst15_minimuminitialinvestment_dollar,The minimum initial investment needed to be eligible to purchase shares of fund.
+227,inst15_minimuminitialira_dollar,Minimum initial investment required for an IRA account.
+228,inst15_minimumsubsequentinvestment_dollar,Minimum investment for additional fund purchases by an existing shareholder.
+229,inst15_minimumwithdrawal_dollar,The minimum allowable withdrawal amount under a systematic withdrawal program.
+230,inst15_month,Month
+232,inst15_monthly_data_year,Year
+233,inst15_netassets,Most recently available total net assets of fund stored in millions.
+234,inst15_netassets_millionsdollar,Net assets of the fund in million dollars
+235,inst15_noload,No Load indicator
+237,inst15_onthly_data_van,Monthly Net Asset Value
+239,inst15_percent12b1fee,"An optional fee which cannot exceed 1% of fund's TNA annually, for promotional and distribution costs. It is included in Fund's expense ratio"
+240,inst15_percentbonds,Percentage of the portfolio assets invested in bonds and debt securities.
+241,inst15_percentcash,Percentage of the portfolio assets invested in cash and other short term equivalents.
+242,inst15_percentconsumerdurables,Percentage of portfolio assets invested in stocks of consumer durable manufacturers.
+243,inst15_percentenergy,Percentage of portfolio assets invested in stocks of energy and energy services companies.
+244,inst15_percentfinance,"Percentage of portfolio assets invested in stocks of banking, finance and insurance companies."
+245,inst15_percentforeignstocks,Percentage of the portfolio assets invested in foreign equities
+246,inst15_percenthealth,Percentage of portfolio assets invested in stocks of health care and related companies.
+247,inst15_percentindustrialcyclical,Percentage of portfolio assets invested in stocks of industrial cyclical companies.
+248,inst15_percentmaximummanagementfee,The maximum annual percentage of fund's TNA that is paid to the investment manager for managing the fund. Generally 1% or less.
+249,inst15_percentnondurables,Percentage of portfolio assets invested in stocks of consumer non-durables companies.
+250,inst15_percentother,"Percentage of the portfolio assets invested in other securities, including other funds, options and short positions."
+251,inst15_percentretailtrade,Percentage of portfolio assets invested in stocks of retail and related companies.
+252,inst15_percentsecyield,"Yield calculated according to SEC rules, includes sales charges"
+253,inst15_percentservices,"Percentage of portfolio assets invested in stocks of technology and related companies, including computer h/w and s/w, electronics and communications."
+254,inst15_percentstocks,Percent of the portfolio assets invested in common stock
+255,inst15_percenttechnology,"Percentage of portfolio assets invested in stocks of technology and related companies, including computer h/w and s/w, electronics and communications."
+256,inst15_percentunrealizedgain,Percentage of net assets on which there are unrealized capital gains or losses. An indicator of future potential tax liability.
+257,inst15_percentutilities,"Percentage of portfolio assets invested in stocks of electric, gas, water and telecommunications utilities."
+258,inst15_percentyield,Latest 12 month dividends divided by offer price plus capital gains
+259,inst15_preciousmetals,Attribution analysis of a fund in precious metals asset class
+260,inst15_previousmarketcycle1,Previous market cycle
+261,inst15_previousmarketcycle2,Previous market cycle
+262,inst15_quarter,Quarter
+264,inst15_quarterly_data_year,Year
+265,inst15_redeembytelephone,Indicates whether a fund company allows the investor to place redemption orders of fund via the telephone.
+266,inst15_redeembywire,Indicates whether a fund company allows the investor to place redemption orders of fund via the wire.
+267,inst15_returnyearminus1,Returns of the fund in the (current-1) year
+268,inst15_returnyearminus10,Returns of the fund in the (current-10) year
+269,inst15_returnyearminus11,Returns of the fund in the (current-11) year
+270,inst15_returnyearminus12,Returns of the fund in the (current-12) year
+271,inst15_returnyearminus13,Returns of the fund in the (current-13) year
+272,inst15_returnyearminus14,Returns of the fund in the (current-14) year
+273,inst15_returnyearminus15,Returns of the fund in the (current-15) year
+274,inst15_returnyearminus16,Returns of the fund in the (current-16) year
+275,inst15_returnyearminus17,Returns of the fund in the (current-17) year
+276,inst15_returnyearminus18,Returns of the fund in the (current-18) year
+277,inst15_returnyearminus19,Returns of the fund in the (current-19) year
+278,inst15_returnyearminus2,Returns of the fund in the (current-2) year
+279,inst15_returnyearminus20,Returns of the fund in the (current-20) year
+280,inst15_returnyearminus3,Returns of the fund in the (current-3) year
+281,inst15_returnyearminus4,Returns of the fund in the (current-4) year
+282,inst15_returnyearminus5,Returns of the fund in the (current-5) year
+283,inst15_returnyearminus6,Returns of the fund in the (current-6) year
+284,inst15_returnyearminus7,Returns of the fund in the (current-7) year
+285,inst15_returnyearminus8,Returns of the fund in the (current-8) year
+286,inst15_returnyearminus9,Returns of the fund in the (current-9) year
+287,inst15_rsquare10yr,R-Square value of Fund's performance in 10 Yrs
+288,inst15_rsquare3yr,R-Square value of Fund's performance in 3 Yrs
+289,inst15_rsquare5yr,R-Square value of Fund's performance in 5 Yrs
+291,inst15_sharpe3yr,Sharpe of 3 Yrs performance
+292,inst15_sharpe5yr,Sharpe of 5 Yrs performance
+294,inst15_sinceinceptloadadjret,"Since Inception, Fund's Load Adjusted Return"
+295,inst15_smallgrowth,Small Growth
+296,inst15_smallvalue,Small Value
+297,inst15_standarddev,Monthly Standard Deviation
+298,inst15_standarddeviation10yr,Standard Deviation 10Yr
+299,inst15_standarddeviation3yr,Standard Deviation 3Yr
+300,inst15_standarddeviation5yr,Standard Deviation 5Yr
+302,inst15_systematicwithdrawal,Systematic Withdrawal
+304,inst15_total_return_percent,Total Return Percent
+305,inst15_totalissues,Total Stock Issues
+306,inst15_totalreturn,last 12 month's total return (assuming reinvestment of all distributions)
+307,inst15_totalreturns,Total Returns
+308,inst15_totreturn,1 month Total Return
+309,inst15_trquint,Total Return of the quintile
+310,inst15_trrelindex,Total Return Relative to the Index
+311,inst15_trrelpeer,Total Return Relative to the Peer Group
+312,inst15_unit_value,Unit Value
+313,inst15_unitvalue,Monthly Unit Value
+314,inst15_weeklyytdtotalreturn,WeeklyYTDTotalReturn
+315,inst15_wirefee,Fee to wire transfer capital
+316,inst15_wiretransfers,Wire Transfer Availability indicator
+318,inst15_ytdpercentrankvsobj,Rank of fund within peers based on YTD's total return

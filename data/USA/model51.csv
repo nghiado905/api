@@ -1,0 +1,17 @@
+,id,description
+0,beta_last_30_days_spy,Beta to SPY in 30 Day
+1,beta_last_360_days_spy,Beta to SPY in 360 Day
+2,beta_last_60_days_spy,Beta to SPY in 60 Day
+3,beta_last_90_days_spy,Beta to SPY in 90 Day
+4,correlation_last_30_days_spy,Correlation to SPY in 30
+5,correlation_last_360_days_spy,Correlation to SPY in 360
+6,correlation_last_60_days_spy,Correlation to SPY in 60
+7,correlation_last_90_days_spy,Correlation to SPY in 90
+8,systematic_risk_last_30_days,Systematic Risk Last 30 Days
+9,systematic_risk_last_360_days,Systematic Risk Last 360 Days
+10,systematic_risk_last_60_days,Systematic Risk Last 60 Days
+11,systematic_risk_last_90_days,Systematic Risk Last 90 Days
+12,unsystematic_risk_last_30_days,Unsystematic Risk Last 30 Days - Relative to SPY
+13,unsystematic_risk_last_360_days,Unsystematic Risk Last 360 Days - Relative to SPY
+14,unsystematic_risk_last_60_days,Unsystematic Risk Last 60 Days - Relative to SPY
+15,unsystematic_risk_last_90_days,Unsystematic Risk Last 90 Days - Relative to SPY

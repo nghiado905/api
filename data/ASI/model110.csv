@@ -1,0 +1,9 @@
+,id,description
+0,mdl110_alternative,The field contains aggregated scores for the altenative factors
+1,mdl110_analyst_sentiment,The field contains aggregated scores for the sentiment related factors
+2,mdl110_growth,The field indicates how strong the growth factor effects on the stock
+3,mdl110_price_momentum_reversal,The field shows whether price momentum or price reversion factor is influencing the stock price
+4,mdl110_quality,The financially strong companies get quality scores
+5,mdl110_score,"Score is the sum of the sentiment, quality, value, growth, price momentum and reversion, alternative and tree factors"
+6,mdl110_tree,Tree aggregates the trained machine learning model non-linear components into a score
+7,mdl110_value,Value contains the aggregated score whether the company is relatively over or underpriced

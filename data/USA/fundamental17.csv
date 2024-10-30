@@ -1,0 +1,373 @@
+,id,description
+0,fnd17_1_2anrhsfcfq,Free Cash Flow per share - most recent quarter - 1 (not annualized)
+1,fnd17_1_2rhsfcfq,"Free Cash Flow per share - most recent quarter, 1 year ago"
+2,fnd17_1_anrhsfcfq,Free Cash Flow per share - most recent quarter (not annualized)
+3,fnd17_1_reptoprcexrate,Reporting Currency to base currency exchange rate
+4,fnd17_1_rhsfcfq,Free Cash Flow per share - most recent quarter (annualized)
+5,fnd17_1_usdtorepexrate,Reporting Currency to USD exchange rate
+6,fnd17_2_ev2ebitda_cur,"Enterprise value divided by ebitda, current"
+7,fnd17_2_reptoprcexrate,Reporting Currency to base currency exchange rate
+8,fnd17_2_ttmgrosmgn,Gross Margin - trailing 12 month
+9,fnd17_2_usdtorepexrate,Reporting Currency to USD exchange rate
+10,fnd17_2anrhsfcq,Cash Flow per share - most recent quarter - 1 (not annualized)
+11,fnd17_2qe2dtlq,"LT debt/equity - most recent quarter, 1 year ago"
+12,fnd17_2rhsfca,Cash Flow per share - most recent fiscal year - 1
+13,fnd17_2rhsfcq,"Cash Flow per share - most recent quarter, 1 year ago"
+14,fnd17_2tcpngmpoa,Operating Margin - 2nd historical fiscal year
+15,fnd17_3_ev2ebitda_cur,"Enterprise value divided by ebitda, current"
+16,fnd17_3_reptoprcexrate,Reporting Currency to base currency exchange rate
+17,fnd17_3_usdtorepexrate,Reporting Currency to USD exchange rate
+18,fnd17_4_reptoprcexrate,Reporting Currency to base currency exchange rate
+19,fnd17_4_usdtorepexrate,Reporting Currency to USD exchange rate
+20,fnd17_5_reptoprcexrate,Reporting Currency to base currency exchange rate
+21,fnd17_5_usdtorepexrate,Reporting Currency to USD exchange rate
+22,fnd17_6_2anrhsfcfq,Free Cash Flow per share - most recent quarter - 1 (not annualized)
+23,fnd17_6_2rhsfcfq,"Free Cash Flow per share - most recent quarter, 1 year ago"
+24,fnd17_6_anrhsfcfq,Free Cash Flow per share - most recent quarter (not annualized)
+25,fnd17_6_reptoprcexrate,Reporting Currency to base currency exchange rate
+26,fnd17_6_rhsfcfq,Free Cash Flow per share - most recent quarter (annualized)
+27,fnd17_6_usdtorepexrate,Reporting Currency to USD exchange rate
+28,fnd17_7_reptoprcexrate,Reporting Currency to base currency exchange rate
+29,fnd17_7_usdtorepexrate,Reporting Currency to USD exchange rate
+30,fnd17_8_reptoprcexrate,Reporting Currency to base currency exchange rate
+31,fnd17_8_ttmgrosmgn,Gross Margin - trailing 12 month
+32,fnd17_8_usdtorepexrate,Reporting Currency to USD exchange rate
+33,fnd17_9_reptoprcexrate,Reporting Currency to base currency exchange rate
+34,fnd17_9_usdtorepexrate,Reporting Currency to USD exchange rate
+35,fnd17_a2netmrgn,Net Profit Margin % - 2nd historical fiscal year
+36,fnd17_aastturn,Asset turnover - most recent fiscal year
+37,fnd17_abepsxclxo,EPS Basic excluding extraordinary items - most recent fiscal year
+38,fnd17_acapspps,"Capital Spending per Share, most recent fiscal year"
+39,fnd17_acogs,Cost of good sold - most recent fiscal year
+40,fnd17_acurast,"Assets, current - most recent fiscal year"
+41,fnd17_acurliab,"Liabilities, current - most recent fiscal year"
+42,fnd17_acurratio,Current ratio - most recent fiscal year
+43,fnd17_adebteps,Debt Service to EPS - most recent fiscal year
+44,fnd17_adepexp,Depreciation expense - (SCF) most recent fiscal year
+45,fnd17_adeprescfz,"Depreciation, accumulated - most recent fiscal year"
+46,fnd17_adiv5yavg,Dividend Per Share - 5 year average
+47,fnd17_adivchg,Dividend change % - year over year
+48,fnd17_adivshr,Dividend per share - most recent fiscal year
+49,fnd17_aebit,EBIT - most recent fiscal year
+50,fnd17_aebitd,EBITD - most recent fiscal year
+51,fnd17_aebitd2,EBITD - most recent fiscal year -1
+52,fnd17_aebitd5yr,EBITD Margin - 5 year average
+53,fnd17_aebitdmg,EBITD Margin - most recent fiscal year
+54,fnd17_aebtnorm,Earnings before taxes Normalized - most recent fiscal year
+55,fnd17_aepsinclxo,EPS including extraordinary items - most recent fiscal year
+56,fnd17_aepsnorm,EPS Normalized - most recent fiscal year
+57,fnd17_agrosmgn,Gross Margin - 1st historical fiscal year
+58,fnd17_agrosmgn2,Gross Margin - 2nd historical fiscal year
+59,fnd17_aintcov,Interest coverage - most recent fiscal year
+60,fnd17_aintexpz,Interest expense - most recent fiscal year
+61,fnd17_ainventory,Inventory - most recent fiscal year
+62,fnd17_ainvturn,Inventory turnover - most recent fiscal year
+63,fnd17_altd2ast,LT debt/assets - most recent fiscal year
+64,fnd17_altd2cap,LT debt/total capital - most recent fiscal year
+65,fnd17_altd2eq,LT debt/equity - most recent fiscal year
+66,fnd17_altdps,LT debt/share - most recent fiscal year
+67,fnd17_ani,Earnings after taxes - most recent fiscal year
+68,fnd17_aniac,Net Income available to common - most recent fiscal year
+69,fnd17_aniacinclx,Total Income Net - most recent fiscal year
+70,fnd17_aniacnorm,"Net Income Available to Common, Normalized - most recent fiscal year"
+71,fnd17_anichg,Net Income Change % - year over year
+72,fnd17_aniexclxor,Net Income excluding extraordinary items - most recent fiscal year
+73,fnd17_aniinclxor,Net Income including extraordinary items - most recent fiscal year
+74,fnd17_aninorm,"Earnings After Taxes, Normalized - most recent fiscal year"
+75,fnd17_aniperemp,Net Income/employee - most recent fiscal year
+76,fnd17_annperiods,Number of historical periods - Annual
+77,fnd17_anrhsfcq,Cash Flow per share - most recent quarter (not annualized)
+78,fnd17_apayratio,Payout ratio - most recent fiscal year
+79,fnd17_apayratio2,Payout ratio - most recent fiscal year -1
+80,fnd17_apeexclxor,"P/E excluding extraordinary items, most recent fiscal year"
+81,fnd17_apenorm,"P/E Normalized, most recent fiscal year"
+82,fnd17_apr2rev,Price to sales - most recent fiscal year
+83,fnd17_apr2tanbk,Price to Tangible Book - most fiscal year
+84,fnd17_aprice2bk,Price to Book - most recent fiscal year
+85,fnd17_aptmgnpct,Pretax margin - 1st historical fiscal year
+86,fnd17_aptmgnpct2,Pretax Margin - 2nd historical fiscal year
+87,fnd17_aquickrati,Quick ratio - most recent fiscal year
+88,fnd17_arecturn,Receivables turnover - most recent fiscal year
+89,fnd17_arecvbl,Receivables - most recent fiscal year
+90,fnd17_arev,Revenue - most recent fiscal year
+91,fnd17_arevchg,"Revenue Change %, year over year"
+92,fnd17_arevperemp,Revenue/employee - most recent fiscal year
+93,fnd17_arevps,Revenue/share - most recent fiscal year
+94,fnd17_arevstrt,Reinvestment Rate - most recent fiscal year
+95,fnd17_aroa5yavg,Return on average assets - 5 year average
+96,fnd17_aroapct,Return on average assets - most recent fiscal year
+97,fnd17_aroe5yavg,Return on average equity - 5 year average
+98,fnd17_aroepct,Return on average equity - most recent fiscal year
+99,fnd17_aroi5yravg,Return on investment - 5 year average
+100,fnd17_aroipct,Return on investment - most recent fiscal year
+101,fnd17_asga2rev,SG&A expenses / net sales - most recent fiscal year
+102,fnd17_ata,"Assets, total - most recent fiscal year"
+103,fnd17_atachg,"Assets, total % Change - year over year"
+104,fnd17_atanbvdolr,Book value (tangible) in dollars - most recent fiscal year
+105,fnd17_atanbvps,Book value (tangible) per share - most recent fiscal year
+106,fnd17_ataxpd,Taxes paid - most recent fiscal year
+107,fnd17_ataxrat5yr,Tax rate - 5 year average
+108,fnd17_ataxrate,Tax rate - most recent fiscal year
+109,fnd17_ataxrate2,Tax rate - most recent fiscal year -1
+110,fnd17_atmtt,"Assets, total - trailing 12 month"
+111,fnd17_atotce,Book value (Common Equity) - most recent fiscal year
+112,fnd17_atotd,Total debt - most recent fiscal year
+113,fnd17_atotd2ast,Total debt/total assets - most recent fiscal year
+114,fnd17_atotd2cap,Total debt/total capital - most recent fiscal year
+115,fnd17_atotd2eq,Total debt/total equity - most recent fiscal year
+116,fnd17_atotltd,LT debt (total) - most recent fiscal year
+117,fnd17_atotse,Shareholder Equity - most recent fiscal year
+118,fnd17_atq,"Assets, total - most recent quarter"
+119,fnd17_awcappspr,Working Capital per share/Price - most recent fiscal year
+120,fnd17_beta,Beta
+121,fnd17_beta_down,"Beta, Down"
+122,fnd17_beta_up,"Beta, Up"
+123,fnd17_bvtrendgr,"Book value per share growth rate, 5 year"
+124,fnd17_cainmtt,Net Income available to common - trailing 12 months
+125,fnd17_cainq,Net Income available to common - most recent quarter
+126,fnd17_cftrendgr,"Cash Flow growth rate, 5 year"
+127,fnd17_chpctpricemtd,Month to Date price change in percentage
+128,fnd17_chpctpriceqtd,Quarter to Date price change in percentage
+129,fnd17_chpctpricewtd,Week to Date price change in percentage
+130,fnd17_csptrendgr,"Capital Spending growth rate, 5 year"
+131,fnd17_dai,"Dividend rate, indicated annual"
+132,fnd17_debtcap_a,"Debt divided by capitalization, LFY"
+133,fnd17_debtcap_i,"Debt divided by capitalization, Interim"
+134,fnd17_div,Dividends paid from SCF - most recent fiscal year
+135,fnd17_divgrpct,"Growth rate% - dividend, 3 year"
+136,fnd17_divnq,Dividend - next quarterly declared
+137,fnd17_divnqpdt,Dividend - next quarterly pay-date
+138,fnd17_divnqxdt,Dividend - next quarterly ex-date
+139,fnd17_divtrend10,"Dividend growth rate, 10 year"
+140,fnd17_divtrendgr,"Dividend growth rate, 5 year"
+141,fnd17_dvolshsout,Volume (daily) as a % of Shares Outstanding
+142,fnd17_ebitda2ev,Current EBITDA/EV
+143,fnd17_ebitda2ev_a,"Current EBITDA to EV, LFY"
+144,fnd17_ebitda2ev_ttm,"Current EBITDA to EV, LTM"
+145,fnd17_epschngin,EPS Change % - prior quarter
+146,fnd17_epschngyri,EPS Change % - year to date
+147,fnd17_epstrend10,"EPS growth rate, 10 year"
+148,fnd17_epstrendgr,"EPS growth rate, 5 year"
+149,fnd17_ev2rev_cur,"Enterprise value divided by revenue, current"
+150,fnd17_ev_cur,"Enterprise value, current"
+151,fnd17_fcf1a,Free Cash Flow - most recent FY
+152,fnd17_fcfmtt,Free Cash Flow - trailing 12 month
+153,fnd17_fcfq,Free Cash Flow - most recent quarter
+154,fnd17_float,Float
+155,fnd17_ghcspea,EPS Change % - year over year
+156,fnd17_ghcspemtt,"EPS Change %, TTM over TTM"
+157,fnd17_gihn,Price - 12 month high
+158,fnd17_gmntrendgr,"Gross Margin growth rate, 5 year"
+159,fnd17_grosmgn5yr,Gross Margin - 5 year average
+160,fnd17_gvary5ep,"P/E excluding extordinary items, 5 Year Average"
+161,fnd17_gvay5dly,Dividend Yield - 5 Year Average
+162,fnd17_histrelpe,Historical Relative P/E
+163,fnd17_hsca,Cash and Equivalents
+164,fnd17_inmtt,Earnings after taxes - trailing 12 months
+165,fnd17_inq,Earnings after taxes - most recent quarter
+166,fnd17_lbvcerq,Receivables - most recent quarter
+167,fnd17_lcxspebmtp,EPS Basic excluding extraordinary items - prior trailing 12 month
+168,fnd17_lcxspebmtt,EPS Basic excluding extraordinary items - trailing 12 month
+169,fnd17_lta,"Liabilities, total - most recent fiscal year"
+170,fnd17_ltq,"Liabilities, total - most recent quarter"
+171,fnd17_margin5yr,Net Profit Margin - 5 year average
+172,fnd17_mktcap,Market capitalization
+173,fnd17_mtpbshs,Shares outstanding Basic - average prior trailing 12 month
+174,fnd17_mtpshs,Shares oustanding - average prior trailing 12 month
+175,fnd17_mttbshs,Shares outstanding Basic - average trailing 12 month
+176,fnd17_mttshs,Shares outstanding - average trailing 12 month
+177,fnd17_mvolshsout,Volume (monthly) as a % of Shares Outstanding
+178,fnd17_netdebt_a,"Net Debt, LFY"
+179,fnd17_netdebt_i,"Net Debt, Interim"
+180,fnd17_ngmpnmtp,Net Profit Margin % - prior trailing 12 month
+181,fnd17_ngmpnmtt,Net Profit Margin % - trailing 12 month
+182,fnd17_ngmtpmtt,Pretax margin - trailing 12 month
+183,fnd17_nichngin,Net Income Change % - prior quarter
+184,fnd17_nichngyr,Net Income Change % - most recent quarter 1 year ago
+185,fnd17_nichngyri,Net Income Change % - year to date
+186,fnd17_nigrpct,Growth rate% - net income
+187,fnd17_nitrendgr,"Net Income growth rate, 5 year"
+188,fnd17_nlow,Price - 12 month low
+189,fnd17_npmtrendgr,"Net Profit Margin growth rate, 5 year"
+190,fnd17_nprice,Price - closing or last bid
+191,fnd17_oxlcxebepp,P/E Basic excluding extraordinary items - prior trailing 12 month
+192,fnd17_oxlcxspebq,EPS Basic excluding extraordinary items - most recent quarter
+193,fnd17_payout5yr,Payout ratio - 5 year average
+194,fnd17_peexclxor,P/E excluding extraordinary items - TTM
+195,fnd17_pehigh,"P/E excluding extraordinary items, High"
+196,fnd17_pelow,"P/E excluding extraordinary items, Low"
+197,fnd17_ppeexclxor,P/E excluding extraordinary items - prior trailing 12 month
+198,fnd17_pr1dayprc,Price - 1 Day % Change
+199,fnd17_pr2tanbk,Price to Tangible Book - most recent quarter
+200,fnd17_pr5dayprc,Price - 5 Day % Change
+201,fnd17_price2bk,Price to Book - most recent quarter
+202,fnd17_price2bk2,"Price to Book - most recent quarter, 1 year ago"
+203,fnd17_priceavg150day,Average price of the last 150 days
+204,fnd17_priceavg200day,Average price of the last 200 days
+205,fnd17_priceavg50day,Average price of the last 50 days
+206,fnd17_prytdpct,Price - YTD price percent change
+207,fnd17_prytdpctr,Relative (S&P500) price percent change - Year to Date
+208,fnd17_ptmepsincx,EPS including extraordinary items - prior trailing 12 month
+209,fnd17_ptmintcov,Interest coverage - prior trailing 12 month
+210,fnd17_ptmpr2rev,Price to sales - prior trailing 12 month
+211,fnd17_ptmrev,Revenue - prior trailing 12 month
+212,fnd17_ptmroepct,Return on average equity - prior trailing 12 month
+213,fnd17_pxedra,Research and Development Expense - most recent fiscal year
+214,fnd17_pxedrmtp,Research and Development Expense - prior trailing 12 month
+215,fnd17_pxedrmtt,Research and Development Expense - trailing 12 month
+216,fnd17_pxedrq,Research and Development Expense - most recent quarter
+217,fnd17_pxepedmtt,Depreciation expense - (SCF) trailing 12 month
+218,fnd17_pxepedq,Depreciation expense - (SCF) most recent quarter
+219,fnd17_qastturn,Asset turnover - most recent quarter (annualized)
+220,fnd17_qcapspps,Capital Spending per Share. most recent quarter
+221,fnd17_qcash,"Cash and Equiv., most recent quarter"
+222,fnd17_qcogs,Cost of good sold - most recent quarter
+223,fnd17_qcurast,"Assets, current - most recent quarter"
+224,fnd17_qcurliab,"Liabilities, current - most recent quarter"
+225,fnd17_qcurratio,Current ratio - most recent quarter
+226,fnd17_qcurratio2,"Current ratio - most recent quarter, 1 year ago"
+227,fnd17_qdebteps,Debt Service to EPS - most recent quarter
+228,fnd17_qe2dtlq,LT debt/equity - most recent quarter
+229,fnd17_qebit,EBIT - most recent quarter
+230,fnd17_qebitd,EBITD - most recent quarter
+231,fnd17_qepsinclxo,EPS including extraordinary items - most recent quarter
+232,fnd17_qgrosmgn,Gross Margin - most recent quarter
+233,fnd17_qinventory,Inventory - most recent quarter
+234,fnd17_qinvturn,Inventory turnover - most recent quarter (annualized)
+235,fnd17_qltd2ast,LT debt/assets - most recent quarter
+236,fnd17_qltd2cap,LT debt/total capital - most recent quarter
+237,fnd17_qniperemp,Net Income/employee - most recent quarter (annualized)
+238,fnd17_qpayratio,Payout ratio - most recent quarter
+239,fnd17_qpehigh,"P/E excluding extraordinary items high, most recent quarter"
+240,fnd17_qpelow,"P/E excluding extraordinary items low, most recent quarter"
+241,fnd17_qpr2rev,Price to sales - most recent quarter
+242,fnd17_qquickrat2,"Quick ratio - most recent quarter, 1 year ago"
+243,fnd17_qquickrati,Quick ratio - most recent quarter
+244,fnd17_qrecturn,Receivables turnover - most recent quarter (annualized)
+245,fnd17_qrev,Revenue - most recent quarter
+246,fnd17_qrevperemp,Revenue/employee - most recent quarter (annualized)
+247,fnd17_qrevps,Revenue/share - most recent quarter (annualized)
+248,fnd17_qrevpsna,Revenue/share - most recent quarter (not annualized)
+249,fnd17_qrevstrt,Reinvestment Rate - most recent quarter
+250,fnd17_qroepct,Return on average equity - most recent quarter (annualized)
+251,fnd17_qroipct,Return on investment - most recent quarter (annualized)
+252,fnd17_qsga2rev,SG&A expenses / net sales - most recent quarter
+253,fnd17_qtachg,"Assets, total % Change - 1 year ago"
+254,fnd17_qtanbvdolr,Book value (tangible) in dollars - most recent quarter
+255,fnd17_qtanbvps,Book value (tangible) per share - most recent quarter
+256,fnd17_qtaxpd,Taxes paid - most recent quarter
+257,fnd17_qtaxrate,Tax rate - most recent quarter
+258,fnd17_qtotce,Book value (Common Equity) - most recent quarter
+259,fnd17_qtotce2,Book value (Common Equity) - most recent quarter 1 year ago
+260,fnd17_qtotd,Total debt - most recent quarter
+261,fnd17_qtotd2ast,Total debt/total assets - most recent quarter
+262,fnd17_qtotd2cap,Total debt/total capital - most recent quarter
+263,fnd17_qtotd2eq,Total debt/total equity - most recent quarter
+264,fnd17_qtotd2eq2,"Total debt/total equity - most recent quarter, 1 year ago"
+265,fnd17_qtotltd,LT debt (total) - most recent quarter
+266,fnd17_qtotse,Shareholder Equity - most recent quarter
+267,fnd17_qtrperiods,Number of historical periods - Quarterly
+268,fnd17_qwcappspr,Working Capital per share/Price - most recent quarter
+269,fnd17_revchngin,Revenue Change % - prior quarter
+270,fnd17_revchngyr,Revenue Change % - most recent quarter 1 year ago
+271,fnd17_revchngyri,Revenue Change % - year to date
+272,fnd17_revgrpct,"Growth rate% - Revenue, 3 year"
+273,fnd17_revps5ygr,Revenue/share (5 yr growth)
+274,fnd17_revtrend10,"Revenue growth rate, 10 year"
+275,fnd17_revtrendgr,"Revenue growth rate, 5 year"
+276,fnd17_rhsfca,Cash Flow per share - most recent fiscal year
+277,fnd17_rhsfcf1a,Free Cash Flow per share - most recent FY
+278,fnd17_rhsfcf2a,Free Cash Flow per share - most recent FY - 1
+279,fnd17_rhsfcfmtt,Free Cash Flow per share - trailing 12 month
+280,fnd17_rhsfcmtp,Cash Flow per share  - prior trailing 12 month
+281,fnd17_rhsfcmtt,Cash Flow per share  - trailing 12 month
+282,fnd17_rhsfcq,Cash Flow per share - most recent quarter (annualized)
+283,fnd17_roxlcniep,P/E including extraordinary items - TTM
+284,fnd17_roxlcxebep,P/E Basic excluding extraordinary items - TTM
+285,fnd17_roxlcxspea,EPS excluding extraordinary items - most recent fiscal year
+286,fnd17_roxlcxspeq,EPS excluding extraordinary items - most recent quarter
+287,fnd17_rtcpkw25rp,Relative (S&P500) price percent change - 52 week
+288,fnd17_rtcpkw31rp,Relative (S&P500) price percent change - 13 week
+289,fnd17_rtcpkw40rp,Relative (S&P500) price percent change - 04 week
+290,fnd17_rtcpkw62rp,Relative (S&P500) price percent change - 26 week
+291,fnd17_ry5ngmpo,Operating Margin - 5 year average
+292,fnd17_ry5ngmtp,Pretax Margin - 5 year average
+293,fnd17_rygnhcspe,EPS Change % - most recent quarter 1 year ago
+294,fnd17_shboutavgq,"Shares outstanding Basic - average, most recent quarter"
+295,fnd17_shsboutavg,"Shares outstanding Basic - average, most recent fiscal year"
+296,fnd17_shsout,Shares outstanding - current
+297,fnd17_shsoutabs,"Shares outstanding - BS, most recent fiscal year"
+298,fnd17_shsoutavg,"Shares outstanding - average, most recent fiscal year"
+299,fnd17_shsoutavgq,"Shares outstanding - average, most recent quarter"
+300,fnd17_shsoutbs,"Shares outstanding - BS, most recent quarter"
+301,fnd17_shsoutbs2,"Shares outstanding - BS, most recent quarter 1 year ago"
+302,fnd17_spdq,Dividend - most recent quarter
+303,fnd17_spdtlq,LT debt/share - most recent quarter
+304,fnd17_spfcfrpa,Price to Free Cash Flow per Share - most recent fiscal year
+305,fnd17_spfcfrpmtt,Price to Free Cash Flow per Share - trailing 12 months
+306,fnd17_spfcrpa,Price to Cash Flow per share - most recent fiscal year
+307,fnd17_spfcrpmtp,Price to Cash Flow per share - prior trailing 12 month
+308,fnd17_spfcrpmtt,Price to Cash Flow per share - trailing 12 month
+309,fnd17_spfcrpq,Price to Cash Flow per share - most recent quarter
+310,fnd17_sphsca,Cash per share - most recent fiscal year
+311,fnd17_sphscq,Cash per share - most recent quarter
+312,fnd17_spvba,Book value (Common Equity) per share - most recent fiscal year
+313,fnd17_spvbq,Book value (Common Equity) per share - most recent quarter
+314,fnd17_tbea,Earnings before taxes - most recent fiscal year
+315,fnd17_tbemtt,Earnings before taxes - trailing 12 month
+316,fnd17_tbeq,Earnings before taxes - most recent quarter
+317,fnd17_tcpaormtp,Return on average assets - prior trailing 12 month
+318,fnd17_tcpaormtt,Return on average assets - trailing 12 month
+319,fnd17_tcpaorq,Return on average assets - most recent quarter (annualized)
+320,fnd17_tcpkw25rp,Price - 52 week price percent change
+321,fnd17_tcpkw31rp,Price - 13 week price percent change
+322,fnd17_tcpkw40rp,Price - 04 week price percent change
+323,fnd17_tcpkw62rp,Price - 26 week price percent change
+324,fnd17_tcpngmpna,Net Profit Margin % - 1st historical fiscal year
+325,fnd17_tcpngmpnq,Net Profit Margin % - most recent quarter
+326,fnd17_tcpngmpoa,Operating margin - 1st historical fiscal year
+327,fnd17_tcpngmpoq,Operating margin - most recent quarter
+328,fnd17_tcpngmtpq,Pretax margin - most recent quarter
+329,fnd17_tcprgspe,"Growth rate% - EPS, 3 year"
+330,fnd17_ttmastturn,Asset turnover - trailing 12 month
+331,fnd17_ttmcapspps,"Capital Spending per share, trailing 12 month"
+332,fnd17_ttmcogs,Cost of good sold - trailing 12 month
+333,fnd17_ttmdebteps,Debt Service to EPS - trailing 12 month
+334,fnd17_ttmdivshr,Dividends per share - trailing 12 month
+335,fnd17_ttmebit,EBIT - trailing 12 month
+336,fnd17_ttmebitd,EBITD - trailing 12 month
+337,fnd17_ttmebitdmg,EBITD Margin - trailing 12 month
+338,fnd17_ttmebitdps,EBITD per share - trailing 12 month
+339,fnd17_ttmepsincx,EPS including extraordinary items - trailing 12 month
+340,fnd17_ttmintcov,Interest coverage - trailing 12 month
+341,fnd17_ttmintexp,Interest expense - trailing 12 month
+342,fnd17_ttminvturn,Inventory turnover - trailing 12 month
+343,fnd17_ttmnichg,Net Income Change % - trailing 12 months
+344,fnd17_ttmniperem,Net Income/employee - trailing 12 month
+345,fnd17_ttmopmgn,Operating margin - trailing 12 month
+346,fnd17_ttmpayrat,Payout ratio - trailing 12 month
+347,fnd17_ttmpehigh,"P/E excluding extraordinary items high, trailing 12 months"
+348,fnd17_ttmpelow,"P/E excluding extraordinary items low, trailing 12 months"
+349,fnd17_ttmpr2rev,Price to sales - trailing 12 month
+350,fnd17_ttmrecturn,Receivables turnover - trailing 12 month
+351,fnd17_ttmrev,Revenue - trailing 12 month
+352,fnd17_ttmrevchg,"Revenue Change %, TTM over TTM"
+353,fnd17_ttmrevpere,Revenue/employee - trailing 12 month
+354,fnd17_ttmrevps,Revenue/share - trailing 12 month
+355,fnd17_ttmrevstrt,Reinvestment Rate - trailing 12 month
+356,fnd17_ttmroepct,Return on average equity - trailing 12 month
+357,fnd17_ttmroipct,Return on investment - trailing 12 month
+358,fnd17_ttmsga2rev,SG&A expenses / net sales - trailing 12 month
+359,fnd17_ttmtaxpd,Taxes paid - trailing 12 month
+360,fnd17_ttmtaxrate,Tax rate - trailing 12 month
+361,fnd17_voctniq,Interest coverage - most recent quarter
+362,fnd17_vol10davg,Volume - avg. trading volume for the last ten days
+363,fnd17_vol1davg,Volume - 1 Day Average
+364,fnd17_vol1dprc,Volume - 1 Day % Change
+365,fnd17_vol3mavg,Volume - avg. trading volume for the last 3 months
+366,fnd17_xlcxspemtp,EPS excluding extraordinary items - prior trailing 12 month
+367,fnd17_xlcxspemtt,EPS excluding extraordinary items - trailing 12 month
+368,fnd17_yield,Dividend Yield - indicated annual dividend divided by closing price
+369,fnd17_yragoprc1,Price - year ago
+370,fnd17_zfcserpedq,"Depreciation, accumulated - most recent quarter"
+371,fnd17_zpxetniq,Interest expense - most recent quarter

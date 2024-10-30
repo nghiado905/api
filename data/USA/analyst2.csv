@@ -1,0 +1,8 @@
+,id,description
+20,etz_eps,The estimated earnings per share
+21,etz_eps_delta,Estimated absolute change of earnings per share
+22,etz_eps_ret,Estimated relative change of earnings per share
+23,etz_eps_tsrank,Time series rank of estimated earnings per share
+24,etz_revenue,The estimated revenue
+25,etz_revenue_delta,Estimated absolute change of revenue
+26,etz_revenue_ret,Estimated relative change of revenue

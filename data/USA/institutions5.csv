@@ -1,0 +1,13 @@
+,id,description
+0,im_average_daily_volume,"The average daily trading volume for the security to which a score relates, measured for the prior calendar month. Note that this value is not split adjusted"
+1,im_change_indicator,"A status flag indicating whether the current score has been Revised (R), Not Changed (N), or Decayed (D) from the previous score based upon the insider transaction activity within the current week. The decay period is approx. a month for each score level."
+2,im_holdings_ratio,"Indicates the significance of the ratio of shares transacted to the insider's holdings. The ratio of shares transacted to shares held is classified into four categories (levels 0 to 3) based on purchases or sales, where higher numbers represent a more significant change."
+3,im_insider_activity_trend,"Indicates the trend in insider activity at the company prior to the transaction(s) that generated the current score. Evaluates the insider trend over the prior 30 days by comparing the level of purchasing and selling, both in terms of shares traded and number of individuals involved, according to the categories (levels 0 to 4), Higher value means higher activity/confidence"
+4,im_insider_role,Represents the insider's reported position within the company. The role codes are separated into two groups (levels 1 and 2) and may be treated differently for purchases and sales. Higherlevel is a higher value.
+5,im_market_cap,Market capitalization of the company
+6,im_option_activity,"Indicates whether the option exercise price was near the market price at the time of the transaction.If exercise price is at least some significant % of the market price then the option activity flag will be '2', otherwise the flag will be a '1'."
+7,im_overall_score,"Current company score from the model. Higher means bullish, outliers are recognized by extremely high values like +-88 or +-99, these are don't care terms"
+8,im_previous_score,The company score from the previous day/week
+9,im_proposed_sales,"Indicates the presence of a significant level of proposed sales. Measures the level of shares proposed to be sold for a given security over the past 90 days.For sales, proposed shares greater than a threshold will be indicated by a '2'. For purchases, proposed shares greater than the same threshold will be indicated by a '1'."
+10,im_sector_code,A unique code identifying the business sector in which the company primarily operates
+11,im_shares_transacted,Indicates the significance of the aggregate number of shares traded for the insider filing.The number of shares currently transacted is classified into five categories (levels 1 to 5) for purchases and sales. Higher numbers indicate more significant size.

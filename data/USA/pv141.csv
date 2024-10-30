@@ -1,0 +1,5 @@
+,id,description
+1,pv141_market,The last broadcasted VWAP from the live ticks
+3,pv141_volume_ratio_wq_w_close_market,The ratio of total volume used in the calucation
+4,pv141_wq_w_close,VWAP calculated using tick data including the close auction (same with the end-of-day Vwap above)
+5,pv141_wq_wo_close,VWAP calculated using tick data excluding the close auction

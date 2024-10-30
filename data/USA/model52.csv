@@ -1,0 +1,4 @@
+,id,description
+0,cr_class,"Creditwrothiness class indices in integers: 9(AAA), 5(AA), 4(A), 1(BBB), 2(BB), 3(B), 7(CCC), 8(CC), 6(C), 10(D)"
+1,cr_confidence_level_percent,Pecentaged Confidence Level of the Creditworthiness
+2,cr_probability_of_default_percent,Percentaged Default Probability

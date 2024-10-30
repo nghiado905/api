@@ -1,0 +1,203 @@
+,id,description
+0,anl4_adjusted_netincome_ft,Adjusted net income - forecast type (revision/new/...)
+70,anl4_bvps_flag,Book value per share - forecast type (revision/new/...)
+71,anl4_bvps_high,"Book value - the highest estimation, per share"
+72,anl4_bvps_low,"Book value - the lowest estimation, per share"
+73,anl4_bvps_mean,Book value per share - average of estimations
+74,anl4_bvps_median,Book value per share - Median value among forecasts
+75,anl4_bvps_number,Book value per share - number of estimations
+76,anl4_bvps_value,Book value per share - announced financial value
+77,anl4_capex_flag,Capital Expenditures - forecast type (revision/new/...)
+78,anl4_capex_high,Capital Expenditures - The highest estimation
+79,anl4_capex_low,Capital Expenditures - The lowest estimation
+80,anl4_capex_mean,Capital Expenditures - mean of estimations
+81,anl4_capex_number,Capital Expenditures - number of estimations
+82,anl4_capex_std,Capital Expenditures - std of estimations
+83,anl4_capex_value,Capital Expenditures - announced financial value
+84,anl4_cff_flag,Cash Flow From Financing Activities - forecast type (revision/new/...)
+85,anl4_cff_high,Cash Flow From Financing - The highest of forecasted values
+86,anl4_cff_low,Cash Flow From Financing - The lowest estimation
+87,anl4_cff_mean,Cash Flow From Financing - mean of estimations
+88,anl4_cff_median,Cash Flow From Financing Activities - Median value among forecasts
+89,anl4_cff_number,Cash Flow From Financing - number of estimations
+90,anl4_cff_value,Cash Flow From Financing - announced financial value
+91,anl4_cfi_flag,Cash Flow From Investing - forecast type (revision/new/...)
+92,anl4_cfi_high,Cash Flow From Investing - The highest estimation
+93,anl4_cfi_low,Cash Flow From Investing - The lowest estimation
+94,anl4_cfi_mean,Cash Flow From Investing - mean of estimations
+95,anl4_cfi_median,Cash Flow From Investing - median of estimations
+96,anl4_cfi_number,Cash Flow From Investing - number of estimations
+97,anl4_cfi_value,Cash Flow From Investing - announced financial value
+98,anl4_cfo_flag,Cash Flow From Operations - forecast type (revision/new/...)
+99,anl4_cfo_high,Cash Flow From Operations - The highest value among forecasts
+100,anl4_cfo_low,Cash Flow From Operations - The lowest estimation
+101,anl4_cfo_mean,Cash Flow From Operations - mean of estimations
+102,anl4_cfo_median,Cash Flow From Operations - median of estimations
+103,anl4_cfo_number,Cash Flow From Operations - number of estimations
+104,anl4_cfo_value,Cash Flow From Operations - announced financial value
+133,anl4_dts_ptp,Pretax income- std of estimations
+134,anl4_dts_rspe,Reported Earnings per share - standard deviation of estimations
+158,anl4_ebit_high,Earnings before interest and taxes - The highest estimation
+159,anl4_ebit_low,Earnings before interest and taxes - The lowest estimation
+160,anl4_ebit_mean,Earnings before interest and taxes - mean of estimations
+161,anl4_ebit_median,Earnings before interest and taxes - median of estimations
+162,anl4_ebit_number,Earnings before interest and taxes - number of estimations
+163,anl4_ebit_std,Earnings before interest and taxes - std of estimations
+164,anl4_ebit_value,Earnings before interest and taxes - announced financial value
+165,anl4_ebitda_flag,"Earnings before interest, taxes, depreciation and amortization - forecast type (revision/new/...)"
+166,anl4_ebitda_high,"Earnings before interest, taxes, depreciation and amortization - The highest estimation"
+167,anl4_ebitda_low,"Earnings before interest, taxes, depreciation and amortization - The lowest estimation"
+168,anl4_ebitda_mean,"Earnings before interest, taxes, depreciation and amortization - mean of estimations"
+169,anl4_ebitda_number,"Earnings before interest, taxes, depreciation and amortization - number of estimations"
+170,anl4_ebitda_std,"Earnings before interest, taxes, depreciation and amortization - std of estimations"
+171,anl4_ebitda_value,"Earnings before interest, taxes, depreciation and amortization - announced financial value"
+172,anl4_epsa_flag,Earnings per share adjusted by excluding extraordinary items and stock option expenses - forecast type (revision/new/...)
+173,anl4_epsr_flag,"GAAP Earnings- estimation type (revision/new/...), per share"
+174,anl4_epsr_high,GAAP Earnings per share - The highest estimation
+175,anl4_epsr_low,GAAP Earnings per share - The lowest estimation
+176,anl4_epsr_mean,GAAP Earnings per share - mean of estimations
+177,anl4_epsr_number,GAAP Earnings per share - number of estimations
+178,anl4_epsr_value,GAAP Earnings per share - announced financial value
+179,anl4_fcf_flag,Free cash flow- forecast type (revision/new/...)
+180,anl4_fcf_high,"Free cash flow- aggregation on estimations, max"
+181,anl4_fcf_low,Free cash flow- The lowest estimation
+182,anl4_fcf_mean,Free cash flow- mean of estimations
+183,anl4_fcf_median,"Free cash flow- aggregation on estimations, 50th-percentile"
+184,anl4_fcf_number,Free cash flow- number of estimations
+185,anl4_fcf_value,Free cash flow- announced financial value
+186,anl4_fcfps_flag,Free cash flow per share - forecast type (revision/new/...)
+187,anl4_fcfps_high,Free cash flow per share- The highest estimation
+188,anl4_fcfps_low,Free cash flow per share- The lowest estimation
+189,anl4_fcfps_mean,Free cash flow per share- mean of estimations
+190,anl4_fcfps_median,"Free cash flow- summary on estimations, 50th-percentile, per share"
+191,anl4_fcfps_number,Free cash flow per share- number of estimations
+192,anl4_ffo_flag,Funds from operation- forecast type (revision/new/...)
+193,anl4_flag_erbfintax,Earnings before interest and taxes - forecast type (revision/new/...)
+214,anl4_gric_flag,Gross income- forecast type (revision/new/...)
+215,anl4_gric_high,Gross income- The highest estimation
+216,anl4_gric_low,Gross income- The lowest estimation
+217,anl4_gric_mean,Gross income- mean of estimations
+218,anl4_gric_median,Gross income- median of estimations
+219,anl4_gric_number,Gross income- number of estimations
+220,anl4_gric_std,Gross income- std of estimations
+221,anl4_gric_value,Gross income- announced financial value
+227,anl4_median_capexp,Capital Expenditures - median of estimations
+228,anl4_median_epsreported,GAAP Earnings per share - median of estimations
+229,anl4_medianepsbfam,"Earnings before interest, taxes, depreciation and amortization - median of estimations"
+230,anl4_netdebt_flag,Net debt - forecast type (revision/new/...)
+231,anl4_netdebt_high,Net debt- The highest estimation
+232,anl4_netdebt_low,Net debt- The lowest estimation
+233,anl4_netdebt_mean,Net debt- mean of estimations
+234,anl4_netdebt_median,Net debt- median of estimations
+235,anl4_netdebt_number,Net debt- number of estimations
+236,anl4_netprofit_flag,Net profit - forecast type (revision/new/...)
+237,anl4_netprofit_high,Net profit- The highest estimation
+238,anl4_netprofit_low,Net profit- The lowest estimation
+239,anl4_netprofit_mean,Net profit- mean of estimations
+240,anl4_netprofit_median,Net profit- median of estimations
+241,anl4_netprofit_number,Net profit- number of estimations
+242,anl4_netprofit_std,Net profit- std of estimations
+243,anl4_netprofit_value,Net profit- announced financial value
+244,anl4_netprofita_high,Adjusted net income- The highest estimation
+245,anl4_netprofita_low,Adjusted net income- The lowest estimation
+246,anl4_netprofita_mean,Adjusted net income- mean of estimations
+247,anl4_netprofita_median,Adjusted net income- median of estimations
+248,anl4_netprofita_number,Adjusted net income- number of estimations
+249,anl4_netprofita_std,Adjusted net income- std of estimations
+250,anl4_netprofita_value,Adjusted net income- announced financial value
+252,anl4_ptp_flag,Pretax income - forecast type (revision/new/...)
+253,anl4_ptp_high,Pretax income- The highest estimation
+254,anl4_ptp_low,Pretax income- The lowest estimation
+255,anl4_ptp_mean,Pretax income- mean of estimations
+256,anl4_ptp_median,Pretax income- median of estimations
+257,anl4_ptp_number,Pretax income- number of estimations
+258,anl4_ptp_value,Pretax income- announced financial value
+259,anl4_ptpr_flag,Reported Pretax income - forecast type (revision/new/...)
+260,anl4_ptpr_high,Reported Pretax income- The highest estimation
+261,anl4_ptpr_low,Reported Pretax income- The lowest estimation
+262,anl4_ptpr_mean,Reported Pretax income- mean of estimations
+263,anl4_ptpr_median,Reported Pretax income- median of estimations
+264,anl4_ptpr_number,Reported Pretax income- number of estimations
+265,anl4_qf_az_cfps_mean,Cash Flow Per Share - average of estimations
+266,anl4_qf_az_cfps_median,Cash Flow Per Share - Median value among forecasts
+267,anl4_qf_az_cfps_number,Cash Flow Per Share - number of estimations
+268,anl4_qf_az_div_mean,Dividend per share - average of estimations
+269,anl4_qf_az_div_median,Dividend per share - median of estimations
+270,anl4_qf_az_div_number,Dividend per share - number of estimations
+271,anl4_qf_az_dts_spe,Earnings per share - std of estimations
+272,anl4_qf_az_eps,"EPS - aggregation on estimations, 50th-percentile"
+273,anl4_qf_az_eps_mean,Earnings per share - mean of estimations
+274,anl4_qf_az_eps_number,Earnings per share - number of estimations
+275,anl4_qf_az_hgih_spe,Earnings per share - The highest estimation
+276,anl4_qf_az_hgih_spfc,"Cash Flow - The highest estimation, per share"
+277,anl4_qf_az_hgih_vid,Dividend per share - The highest estimation
+278,anl4_qf_az_wol_spe,Earnings per share - The lowest estimation
+279,anl4_qf_az_wol_spfc,Cash Flow Per Share - The lowest estimation
+280,anl4_qf_az_wol_vid,Dividend per share - The lowest value among forecasts
+281,anl4_qfd1_az_cfps_median,Cash Flow Per Share - Median value among forecasts
+282,anl4_qfd1_az_cfps_number,Cash Flow Per Share - number of estimations
+283,anl4_qfd1_az_div_median,Dividend per share - median of estimations
+284,anl4_qfd1_az_div_number,Dividend per share - number of estimations
+285,anl4_qfd1_az_dts_spe,Earnings per share - std of estimations
+286,anl4_qfd1_az_eps_number,Earnings per share - number of estimations
+287,anl4_qfd1_az_hgih_spe,Earnings per share - The highest estimation
+288,anl4_qfd1_az_hgih_spfc,"Cash Flow - The highest estimation, per share"
+289,anl4_qfd1_az_hgih_vid,Dividend per share - The highest estimation
+290,anl4_qfd1_az_wol_spe,Earnings per share - The lowest estimation
+291,anl4_qfd1_az_wol_spfc,Cash Flow Per Share - The lowest estimation
+292,anl4_qfd1_az_wol_vid,Dividend per share - The lowest value among forecasts
+293,anl4_qfd1_azeps,"EPS - aggregation on estimations, 50th-percentile"
+294,anl4_rd_exp_flag,Research and Development Expense - forecast type (revision/new/...)
+295,anl4_rd_exp_high,Research and Development Expense- The highest estimation
+296,anl4_rd_exp_low,Research and Development Expense- The lowest estimation
+297,anl4_rd_exp_mean,Research and Development Expense- mean of estimations
+298,anl4_rd_exp_median,Research and Development Expense- median of estimations
+299,anl4_rd_exp_number,Research and Development Expense- number of estimations
+300,anl4_tbve_ft,Tangible Book Value per Share - forecast type (revision/new/...)
+301,anl4_tbvps_high,Tangible Book Value per Share - The highest estimation
+302,anl4_tbvps_low,Tangible Book Value per Share - The lowest estimation
+303,anl4_tbvps_mean,Tangible Book Value per Share - mean of estimations
+304,anl4_tbvps_median,Tangible Book Value per Share - median of estimations
+305,anl4_tbvps_number,Tangible Book Value per Share - number of estimations
+306,anl4_tot_gw_ft,Total Goodwill - forecast type (revision/new/...)
+308,anl4_totassets_flag,Total Assets - forecast type (revision/new/...)
+309,anl4_totassets_high,Total Assets - The highest estimation
+310,anl4_totassets_low,Total Assets - The lowest estimation
+311,anl4_totassets_mean,Total Assets - mean of estimations
+312,anl4_totassets_median,Total Assets - median of estimations
+313,anl4_totassets_number,Total Assets - number of estimations
+314,anl4_totassets_std,Total Assets - std of estimations
+315,anl4_totassets_value,Total Assets - actual value
+316,anl4_totgw_high,Total Goodwill - The highest estimation
+317,anl4_totgw_low,Total Goodwill - The lowest estimation
+318,anl4_totgw_mean,Total Goodwill - mean of estimations
+319,anl4_totgw_median,Total Goodwill - median of estimations
+320,anl4_totgw_number,Total Goodwill - number of estimations
+322,est_bookvalue_ps,Book value per share - average of estimations
+323,est_capex,Capital Expenditures - mean of estimations
+324,est_cashflow_fin,Cash Flow From Financing - mean of estimations
+325,est_cashflow_invst,Cash Flow From Investing - mean of estimations
+326,est_cashflow_op,Cash Flow From Operations - mean of estimations
+327,est_cashflow_ps,Cash Flow Per Share - average of estimations
+328,est_dividend_ps,Dividend per share - average of estimations
+329,est_ebit,Earnings before interest and taxes - mean of estimations
+330,est_ebitda,"Earnings before interest, taxes, depreciation and amortization - mean of estimations"
+331,est_eps,Earnings per share - mean of estimations
+332,est_epsa,Earnings per share adjusted by excluding extraordinary items and stock option expenses - average of estimations
+333,est_epsr,GAAP Earnings per share - mean of estimations
+334,est_fcf,Free cash flow- mean of estimations
+335,est_fcf_ps,Free cash flow per share- mean of estimations
+336,est_ffo,"Funds from operation- summary on estimations, mean"
+337,est_grossincome,Gross income- mean of estimations
+338,est_netdebt,Net debt- mean of estimations
+339,est_netprofit,Net profit- mean of estimations
+340,est_netprofit_adj,Adjusted net income- mean of estimations
+341,est_ptp,Pretax income- mean of estimations
+342,est_ptpr,Reported Pretax income- mean of estimations
+343,est_rd_expense,Research and Development Expense- mean of estimations
+344,est_sales,Sales - mean of estimations
+345,est_sga,SGA - mean of estimations
+346,est_shequity,Mean of SH Equity segment - mean of estimations
+347,est_tbv_ps,Tangible Book Value per Share - mean of estimations
+348,est_tot_assets,Total Assets - mean of estimations
+349,est_tot_goodwill,Total Goodwill - mean of estimations

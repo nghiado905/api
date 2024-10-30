@@ -1,0 +1,575 @@
+,id,description
+0,assets,Assets - Total
+1,assets_curr,Current Assets - Total
+2,bookvalue_ps,Book Value Per Share
+3,capex,Capital Expenditures
+4,cash,Cash
+5,cash_st,Cash and Short-Term Investments
+6,cashflow,Cashflow (Annual)
+7,cashflow_dividends,Cash Dividends (Cash Flow)
+8,cashflow_fin,Financing Activities - Net Cash Flow
+9,cashflow_invst,Investing Activities - Net Cash Flow
+10,cashflow_op,Operating Activities - Net Cash Flow
+11,cogs,Cost of Goods Sold
+12,current_ratio,Current Ratio
+13,debt,Debt
+14,debt_lt,Long-Term Debt - Total
+15,debt_st,Debt in Current Liabilities
+16,depre_amort,Depreciation and Amortization - Total
+17,ebit,Earnings Before Interest and Taxes
+18,ebitda,Earnings Before Interest
+19,employee,Employees
+20,enterprise_value,Enterprise Value
+21,eps,Earnings Per Share (Basic) - Including Extraordinary Items
+22,equity,Common/Ordinary Equity - Total
+23,fnd6_acdo,Current Assets of Discontinued Operations
+24,fnd6_acodo,Other Current Assets Excl Discontinued Operations
+25,fnd6_acox,Current Assets - Other - Sundry
+26,fnd6_acqgdwl,Acquired Assets - Goodwill
+27,fnd6_acqintan,Acquired Assets - Intangibles
+28,fnd6_adesinda_curcd,ISO Currency Code - Company Annual Market
+29,fnd6_aldo,Long-term Assets of Discontinued Operations
+30,fnd6_am,Amortization of Intangibles
+31,fnd6_aodo,Other Assets excluding Discontinued Operations
+32,fnd6_aox,Assets - Other - Sundry
+33,fnd6_aqc,Acquisitions
+34,fnd6_aqi,Acquisitions - Income Contribution
+35,fnd6_aqs,Acquisitions - Sales Contribution
+36,fnd6_beta,beta
+38,fnd6_capxv,"Capital Expend Property, Plant and Equipment Schd V"
+40,fnd6_ceql,Common Equity - Liquidation Value
+41,fnd6_ch,Cash
+42,fnd6_ci,Comprehensive Income - Total
+43,fnd6_cibegni,Comp Inc - Beginning Net Income
+44,fnd6_cicurr,Comp Inc - Currency Trans Adj
+45,fnd6_cidergl,Comp Inc - Derivative Gains/Losses
+46,fnd6_cik,nonimportant technical code
+47,fnd6_cimii,Comprehensive Income - Noncontrolling Interest
+48,fnd6_ciother,Comp Inc - Other Adj
+49,fnd6_cipen,Comp Inc - Minimum Pension Adj
+50,fnd6_cisecgl,Comp Inc - Securities Gains/Losses
+51,fnd6_citotal,Comprehensive Income - Parent
+52,fnd6_city,the city where a company's corporate headquarters or home office is located
+53,fnd6_cld2,Capitalized Leases - Due in 2nd Year
+54,fnd6_cld3,Capitalized Leases - Due in 3rd Year
+55,fnd6_cld4,Capitalized Leases - Due in 4th Year
+56,fnd6_cld5,Capitalized Leases - Due in 5th Year
+58,fnd6_cptmfmq_actq,Current Assets - Total
+59,fnd6_cptmfmq_atq,Assets - Total
+60,fnd6_cptmfmq_ceqq,Common/Ordinary Equity - Total
+61,fnd6_cptmfmq_dlttq,Long-Term Debt - Total
+62,fnd6_cptmfmq_dpq,Depreciation and Amortization - Total
+63,fnd6_cptmfmq_lctq,Current Liabilities - Total
+64,fnd6_cptmfmq_oibdpq,Operating Income Before Depreciation - Quarterly
+65,fnd6_cptmfmq_opepsq,Earnings Per Share from Operations
+66,fnd6_cptmfmq_saleq,Sales/Turnover (Net)
+86,fnd6_cptnewqv1300_actq,Current Assets - Total
+87,fnd6_cptnewqv1300_apq,Account Payable/Creditors - Trade
+88,fnd6_cptnewqv1300_atq,Assets - Total
+89,fnd6_cptnewqv1300_ceqq,Common/Ordinary Equity - Total
+90,fnd6_cptnewqv1300_dlttq,Long-Term Debt - Total
+91,fnd6_cptnewqv1300_dpq,Depreciation and Amortization - Total
+92,fnd6_cptnewqv1300_epsf12,Earnings Per Share (Diluted) - Excluding Extraordinary Items - 12 Months Moving
+93,fnd6_cptnewqv1300_epsfxq,Earnings Per Share (Diluted) - Excluding Extraordinary items
+94,fnd6_cptnewqv1300_epsx12,Earnings Per Share (Basic) - Excluding Extraordinary Items - 12 Months Moving
+95,fnd6_cptnewqv1300_lctq,Current Liabilities - Total
+96,fnd6_cptnewqv1300_ltq,Liabilities - Total
+97,fnd6_cptnewqv1300_nopiq,Non-Operating Income (Expense) - Total
+98,fnd6_cptnewqv1300_oeps12,Earnings Per Share from Operations - 12 Months Moving
+99,fnd6_cptnewqv1300_oiadpq,Operating Income After Depreciation - Quarterly
+100,fnd6_cptnewqv1300_oibdpq,Operating Income Before Depreciation - Quarterly
+101,fnd6_cptnewqv1300_opepsq,Earnings Per Share from Operations
+102,fnd6_cptnewqv1300_rectq,Receivables - Total
+103,fnd6_cptnewqv1300_req,Retained Earnings
+104,fnd6_cptnewqv1300_saleq,Sales/Turnover (Net)
+105,fnd6_cptrank_gvkeymap,"technical code for a company, no need to use it for research"
+106,fnd6_cshpri,Common Shares Used to Calculate Earnings Per Share - Basic
+107,fnd6_cshr,Common/Ordinary Shareholders
+108,fnd6_cshtr,Common Shares Traded - Annual
+109,fnd6_cshtrq,Common Shares Traded - Quarter
+110,fnd6_cstkcv,Common Stock-Carrying Value
+111,fnd6_cstkcvq,Common Stock-Carrying Value
+113,fnd6_currencya_curcd,ISO Currency Code - Company Annual Market
+114,fnd6_currencyqv1300_curcd,ISO Currency Code - Company Annual Market
+115,fnd6_dc,Deferred Charges
+116,fnd6_dclo,Debt- Capitalized Lease Obligations
+117,fnd6_dcpstk,Convertible Debt and Preferred Stock
+118,fnd6_dcvsr,Debt - Senior Convertible
+119,fnd6_dcvsub,Debt - Subordinated Convertible
+120,fnd6_dcvt,Debt- Convertible
+121,fnd6_dd,Debt- Debentures
+122,fnd6_dd1,Long-Term Debt Due in One Year
+123,fnd6_dd1q,Long Term Debt Due in One Year
+124,fnd6_dd2,Debt Due in Second Year
+125,fnd6_dd3,Debt Due in Third Year
+126,fnd6_dd4,Debt Due in Fourth Year
+127,fnd6_dd5,Debt Due in Fifth Year
+128,fnd6_dilavx,Dilution Available - Excluding Extraordinary Items
+130,fnd6_dlcch,Current Debt - Changes
+131,fnd6_dltis,Long-Term Debt - Issuance
+132,fnd6_dlto,Debt- Long-Term- Other
+133,fnd6_dltp,Long-Term Debt - Tied to Prime
+134,fnd6_dltr,Long-Term Debt - Reduction
+135,fnd6_dm,Debt - Mortgages & Other Secured
+136,fnd6_dn,Debt- Notes
+137,fnd6_donr,Nonrecurring Disc Operations
+139,fnd6_dpvieb,Depreciation (Accumulated) - Ending Balance (Schedule VI)
+140,fnd6_drc,Deferred Revenue - Current
+141,fnd6_drlt,Deferred Revenue - Long-term
+142,fnd6_ds,Debt- Subordinated
+143,fnd6_dudd,Debt - Unamortized Debt Discount and Other
+144,fnd6_dvpa,Preferred Dividends in Arrears
+146,fnd6_dxd2,Debt (excl Capitalized Leases) - Due in 2nd Year
+147,fnd6_dxd3,Debt (excl Capitalized Leases) - Due in 3rd Year
+148,fnd6_dxd4,Debt (excl Capitalized Leases) - Due in 4th Year
+149,fnd6_dxd5,Debt (excl Capitalized Leases) - Due in 5th Year
+150,fnd6_ein,Employer Identification Number code for the company
+152,fnd6_esopct,Common ESOP Obligation - Total
+153,fnd6_esopnr,Preferred ESOP Obligation - Non-Redeemable
+154,fnd6_esopr,Preferred ESOP Obligation - Redeemable
+155,fnd6_esubc,Equity in Net Loss - Earnings
+192,fnd6_exre,Exchange Rate Effect
+193,fnd6_fatb,"Plant, Property and Equipment at Cost- Buildings"
+194,fnd6_fatc,"Plant, Property and Equipment at Cost- Construction in Progress"
+195,fnd6_fate,"Plant, Property and Equipment at Cost- Machinery & Equipment"
+196,fnd6_fatl,"Property, Plant, and Equipment - Leases at Cost"
+197,fnd6_fatn,"Property, Plant, and Equipment - Natural Resources at Cost"
+198,fnd6_fato,"Plant, Property and Equipment at Cost- Other"
+199,fnd6_fatp,"Plant, Property and Equipment at Cost- Land & Improvements"
+200,fnd6_fiao,Financing Activities - Other
+201,fnd6_fic,identifies the country in which the company is incorporated or legally registered
+202,fnd6_fopo,Funds from Operations - Other
+203,fnd6_fopox,Funds from Operations - Other excluding Option Tax Benefit
+204,fnd6_fyrc,"unimportant technical code, plese ignore for research purposes"
+207,fnd6_ibmii,Income before Extraordinary Items and Noncontrolling Interests
+209,fnd6_idesindq_curcd,ISO Currency Code - Company Annual Market
+210,fnd6_idit,Interest and Related Income - Total
+212,fnd6_incorp,Incorporated
+213,fnd6_intan,Intangible Assets - Total
+214,fnd6_intc,Interest Capitalized
+215,fnd6_intpn,Interest Paid - Net
+217,fnd6_invfg,Inventories - Finished Goods
+218,fnd6_invo,Inventories - Other
+219,fnd6_invrm,Inventories - Raw Materials
+220,fnd6_invwip,Inventories - Work In Process
+221,fnd6_itcb,Investment Tax Credit (Balance Sheet)
+222,fnd6_itci,Investment Tax Credit (Income Account)
+223,fnd6_ivaco,Investing Activities - Other
+224,fnd6_ivaeq,Investment and Advances - Equity
+226,fnd6_ivao,Investment and Advances - Other
+227,fnd6_ivch,Increase in Investments
+228,fnd6_ivst,Short-Term Investments - Total
+229,fnd6_ivstch,Short-Term Investments - Change
+230,fnd6_lcox,Current Liabilities - Other - Sundry
+231,fnd6_lcoxdr,Current Liabilities - Other - Excluding Deferred Revenue
+232,fnd6_lifr,LIFO Reserve
+233,fnd6_lno,Liabilities Netting & Other Adjustments
+234,fnd6_loc,string for locating the Headquarters of the company
+235,fnd6_lol2,Liabilities Level2 (Observable)
+236,fnd6_loxdr,Liabilities - Other - Excluding Deferred Revenue
+237,fnd6_lqpl1,Liabilities Level1 (Quoted Prices)
+238,fnd6_lul3,Liabilities Level3 (Unobservable)
+239,fnd6_mfma1_aoloch,Assets and Liabilities - Other - Net Change
+240,fnd6_mfma1_apalch,Accounts Payable and Accrued Liabilities - Increase/(Decrease)
+241,fnd6_mfma1_at,Assets - Total
+242,fnd6_mfma1_capx,Capital Expenditures
+243,fnd6_mfma1_csho,Common Shares Outstanding
+244,fnd6_mfma1_dp,Depreciation and Amortization
+245,fnd6_mfma1_dpc,Depreciation and Amortization (Cash Flow)
+246,fnd6_mfma1_invch,Mortgages - Decrease(Increase)
+247,fnd6_mfma2_oancf,Operating Activities - Net Cash Flow
+248,fnd6_mfma2_opeps,Earnings Per Share from Operations
+249,fnd6_mfma2_recch,Accounts Receivable - Decrease (Increase)
+250,fnd6_mfma2_revt,Revenue - Total
+251,fnd6_mfma2_txach,Income Taxes - Accrued - Increase/(Decrease)
+252,fnd6_mfmq_cheq,Cash and Short-Term Investments
+253,fnd6_mfmq_cogsq,Cost of Goods Sold
+254,fnd6_mfmq_cshprq,Common Shares Used to Calculate Earnings Per Share - Basic
+255,fnd6_mfmq_dlcq,Debt in Current Liabilities
+256,fnd6_mfmq_ibcomq,Income Before Extraordinary Items - Available for Common
+257,fnd6_mfmq_mibtq,Noncontrolling Interests - Total - Balance Sheet - Quarterly
+258,fnd6_mfmq_piq,Pretax Income
+259,fnd6_mibn,Noncontrolling Interests - Nonredeemable - Balance Sheet
+260,fnd6_mibt,Noncontrolling Interests - Total - Balance Sheet
+261,fnd6_mkvalt,Market Value - Total
+262,fnd6_mkvaltq,Market Value - Total
+263,fnd6_mrc1,Rental Commitments - Minimum - 1st Year
+264,fnd6_mrc2,Rental Commitments - Minimum - 2nd Year
+265,fnd6_mrc3,Rental Commitments - Minimum - 3rd Year
+266,fnd6_mrc4,Rental Commitments - Minimum - 4th Year
+267,fnd6_mrc5,Rental Commitments - Minimum - 5th Year
+268,fnd6_mrct,Rental Commitments - Minimum - 5 Year Total
+269,fnd6_mrcta,Thereafter Portion of Leases
+270,fnd6_msa,Marketable Securities Adjustment
+272,fnd6_newa1v1300_aco,Current Assets - Other - Total
+273,fnd6_newa1v1300_acominc,Accumulated Other Comprehensive Income (Loss)
+274,fnd6_newa1v1300_act,Current Assets - Total
+275,fnd6_newa1v1300_ano,Assets Netting & Other Adjustments
+276,fnd6_newa1v1300_ao,Assets - Other
+277,fnd6_newa1v1300_aocidergl,Accum Other Comp Inc - Derivatives Unrealized Gain/Loss
+278,fnd6_newa1v1300_aociother,Accum Other Comp Inc - Other Adjustments
+279,fnd6_newa1v1300_aocipen,Accum Other Comp Inc - Min Pension Liab Adj
+280,fnd6_newa1v1300_aol2,Assets Level2 (Observable)
+281,fnd6_newa1v1300_aoloch,Assets and Liabilities - Other - Net Change
+282,fnd6_newa1v1300_ap,Accounts Payable - Trade
+283,fnd6_newa1v1300_apalch,Accounts Payable and Accrued Liabilities - Increase/(Decrease)
+284,fnd6_newa1v1300_aqpl1,Assets Level1 (Quoted Prices)
+285,fnd6_newa1v1300_at,Assets - Total
+286,fnd6_newa1v1300_aul3,Assets Level3 (Unobservable)
+287,fnd6_newa1v1300_bkvlps,Book Value Per Share
+288,fnd6_newa1v1300_caps,Capital Surplus/Share Premium Reserve
+289,fnd6_newa1v1300_capx,Capital Expenditures
+290,fnd6_newa1v1300_ceq,Common/Ordinary Equity - Total
+291,fnd6_newa1v1300_ceqt,Common Equity - Tangible
+292,fnd6_newa1v1300_che,Cash and Short-Term Investments
+293,fnd6_newa1v1300_chech,Cash and Cash Equivalents - Increase/(Decrease)
+294,fnd6_newa1v1300_cogs,Cost of Goods Sold
+295,fnd6_newa1v1300_cshfd,Common Shares Used to Calc Earnings Per Share - Fully Diluted
+296,fnd6_newa1v1300_cshi,Common Shares Issued
+297,fnd6_newa1v1300_csho,Common Shares Outstanding
+298,fnd6_newa1v1300_cstk,Common/Ordinary Stock (Capital)
+299,fnd6_newa1v1300_dcom,Deferred Compensation
+300,fnd6_newa1v1300_dlc,Debt in Current Liabilities - Total
+301,fnd6_newa1v1300_dltt,Long-Term Debt - Total
+302,fnd6_newa1v1300_dp,Depreciation and Amortization
+303,fnd6_newa1v1300_dpact,"Depreciation, Depletion and Amortization (Accumulated)"
+304,fnd6_newa1v1300_dpc,Depreciation and Amortization (Cash Flow)
+305,fnd6_newa1v1300_dv,Cash Dividends (Cash Flow)
+306,fnd6_newa1v1300_dvc,Dividends Common/Ordinary
+307,fnd6_newa1v1300_dvt,Dividends - Total
+308,fnd6_newa1v1300_ebit,Earnings Before Interest and Taxes
+309,fnd6_newa1v1300_ebitda,Earnings Before Interest
+310,fnd6_newa1v1300_emp,Employees
+311,fnd6_newa1v1300_epsfi,Earnings Per Share (Diluted) - Including Extraordinary Items
+312,fnd6_newa1v1300_epsfx,Earnings Per Share (Diluted) - Excluding Extraordinary Items
+313,fnd6_newa1v1300_epspi,Earnings Per Share (Basic) - Including Extraordinary Items
+314,fnd6_newa1v1300_epspx,Earnings Per Share (Basic) - Excluding Extraordinary Items
+315,fnd6_newa1v1300_fca,Foreign Exchange Income (Loss)
+316,fnd6_newa1v1300_fincf,Financing Activities - Net Cash Flow
+317,fnd6_newa1v1300_gdwl,Goodwill
+318,fnd6_newa1v1300_gp,Gross Profit (Loss)
+319,fnd6_newa1v1300_ib,Income Before Extraordinary Items
+320,fnd6_newa1v1300_ibadj,Income Before Extraordinary Items - Adjusted for Common Stock Equivalents
+321,fnd6_newa1v1300_ibc,Income Before Extraordinary Items (Cash Flow)
+322,fnd6_newa1v1300_ibcom,Income Before Extraordinary Items - Available for Common
+323,fnd6_newa1v1300_icapt,Invested Capital - Total
+324,fnd6_newa1v1300_intano,Other Intangibles
+325,fnd6_newa1v1300_invch,Mortgages - Decrease(Increase)
+326,fnd6_newa1v1300_invt,Inventories - Total
+327,fnd6_newa1v1300_ivncf,Investing Activities - Net Cash Flow
+328,fnd6_newa1v1300_lco,Current Liabilities - Other - Total
+329,fnd6_newa1v1300_lct,Current Liabilities - Total
+330,fnd6_newa1v1300_lo,Liabilities - Other - Total
+331,fnd6_newa1v1300_lse,Liabilities and Stockholders Equity - Total
+332,fnd6_newa1v1300_lt,Liabilities - Total
+333,fnd6_newa2v1300_mib,Minority Interest (Balance Sheet)
+334,fnd6_newa2v1300_mii,Noncontrolling Interest (Income Account)
+335,fnd6_newa2v1300_ni,Net Income (Loss)
+336,fnd6_newa2v1300_nopi,Nonoperating Income (Expense)
+337,fnd6_newa2v1300_oancf,Operating Activities - Net Cash Flow
+338,fnd6_newa2v1300_oiadp,Operating Income After Depreciation
+339,fnd6_newa2v1300_oibdp,Operating Income Before Depreciation
+340,fnd6_newa2v1300_opeps,Earnings Per Share from Operations
+341,fnd6_newa2v1300_optexd,Options - Exercised (-)
+342,fnd6_newa2v1300_pi,Pretax Income
+343,fnd6_newa2v1300_ppegt,"Property, Plant and Equipment - Total (Gross)"
+344,fnd6_newa2v1300_ppent,"Property, Plant and Equipment - Total (Net)"
+345,fnd6_newa2v1300_prsho,Redeem Pfd Shares Outs (000)
+346,fnd6_newa2v1300_rdip,In Process R&D Expense
+347,fnd6_newa2v1300_rdipa,In Process R&D Expense After-tax
+348,fnd6_newa2v1300_rdipd,In Process R&D Expense Diluted EPS Effect
+349,fnd6_newa2v1300_rdipeps,In Process R&D Expense Basic EPS Effect
+350,fnd6_newa2v1300_re,Retained Earnings
+351,fnd6_newa2v1300_recch,Accounts Receivable - Decrease (Increase)
+352,fnd6_newa2v1300_rect,Receivables - Total
+353,fnd6_newa2v1300_reuna,Retained Earnings - Unadjusted
+354,fnd6_newa2v1300_revt,Revenue - Total
+355,fnd6_newa2v1300_sale,Sales/Turnover (Net)
+356,fnd6_newa2v1300_seq,Stockholders Equity - Parent
+357,fnd6_newa2v1300_seqo,Other Stockholders- Equity Adjustments
+358,fnd6_newa2v1300_spced,S&P Core Earnings EPS Diluted
+359,fnd6_newa2v1300_spceeps,S&P Core Earnings EPS Basic
+360,fnd6_newa2v1300_spi,Special Items
+361,fnd6_newa2v1300_stkco,Stock Compensation Expense
+362,fnd6_newa2v1300_tstk,Treasury Stock - Total (All Capital)
+363,fnd6_newa2v1300_tstkn,Treasury Stock - Number of Common Shares
+364,fnd6_newa2v1300_txach,Income Taxes - Accrued - Increase/(Decrease)
+365,fnd6_newa2v1300_txdb,Deferred Taxes - Balance Sheet
+366,fnd6_newa2v1300_txditc,Deferred Taxes and Investment Tax Credit
+367,fnd6_newa2v1300_txp,Income Taxes Payable
+368,fnd6_newa2v1300_txt,Income Taxes - Total
+369,fnd6_newa2v1300_wcap,Working Capital (Balance Sheet)
+370,fnd6_newa2v1300_xidoc,Extraordinary Items and Discontinued Operations (Cash Flow)
+371,fnd6_newa2v1300_xint,Interest and Related Expense - Total
+372,fnd6_newa2v1300_xoptd,Implied Option EPS Diluted
+373,fnd6_newa2v1300_xopteps,Implied Option EPS Basic
+374,fnd6_newa2v1300_xrd,Research and Development Expense
+375,fnd6_newa2v1300_xsga,"Selling, General and Administrative Expense"
+376,fnd6_newq_xoptdqp,Implied Option EPS Diluted Preliminary
+377,fnd6_newq_xoptepsqp,Implied Option EPS Basic Preliminary
+378,fnd6_newq_xoptqp,Implied Option Expense Preliminary
+596,fnd6_newqv1300_acomincq,Accumulated Other Comprehensive Income (Loss)
+597,fnd6_newqv1300_acoq,Current Assets - Other - Total
+598,fnd6_newqv1300_altoq,Other Long-term Assets
+599,fnd6_newqv1300_ancq,Non-Current Assets - Total
+600,fnd6_newqv1300_anoq,Assets Netting & Other Adjustments
+601,fnd6_newqv1300_aociderglq,Accum Other Comp Inc - Derivatives Unrealized Gain/Loss
+602,fnd6_newqv1300_aociotherq,Accum Other Comp Inc - Other Adjustments
+603,fnd6_newqv1300_aocipenq,Accum Other Comp Inc - Min Pension Liab Adj
+604,fnd6_newqv1300_aocisecglq,Accum Other Comp Inc - Unreal G/L Ret Int in Sec Assets
+605,fnd6_newqv1300_aol2q,Assets Level2 (Observable)
+606,fnd6_newqv1300_aoq,Assets - Other - Total
+607,fnd6_newqv1300_aqpl1q,Assets Level1 (Quoted Prices)
+608,fnd6_newqv1300_aul3q,Assets Level3 (Unobservable)
+609,fnd6_newqv1300_capsq,Capital Surplus/Share Premium Reserve
+610,fnd6_newqv1300_chq,Cash
+611,fnd6_newqv1300_cibegniq,Comp Inc - Beginning Net Income
+612,fnd6_newqv1300_cicurrq,Comp Inc - Currency Trans Adj
+613,fnd6_newqv1300_ciderglq,Comp Inc - Derivative Gains/Losses
+614,fnd6_newqv1300_cimiiq,Comprehensive Income - Noncontrolling Interest
+615,fnd6_newqv1300_ciotherq,Comp Inc - Other Adj
+616,fnd6_newqv1300_cipenq,Comp Inc - Minimum Pension Adj
+617,fnd6_newqv1300_ciq,Comprehensive Income - Total
+618,fnd6_newqv1300_cisecglq,Comp Inc - Securities Gains/Losses
+619,fnd6_newqv1300_citotalq,Comprehensive Income - Parent
+620,fnd6_newqv1300_cogsq,Cost of Goods Sold
+621,fnd6_newqv1300_csh12q,Common Shares Used to Calculate Earnings Per Share - 12 Months Moving
+622,fnd6_newqv1300_cshfdq,Com Shares for Diluted EPS
+623,fnd6_newqv1300_cshiq,Common Shares Issued
+624,fnd6_newqv1300_cshopq,Total Shares Repurchased - Quarter
+625,fnd6_newqv1300_cshoq,Common Shares Outstanding
+626,fnd6_newqv1300_cshprq,Common Shares Used to Calculate Earnings Per Share - Basic
+627,fnd6_newqv1300_cstkq,Common/Ordinary Stock (Capital)
+628,fnd6_newqv1300_dcomq,Deferred Compensation
+629,fnd6_newqv1300_dilavq,Dilution Available - Excluding Extraordinary Items
+630,fnd6_newqv1300_dlcq,Debt in Current Liabilities
+631,fnd6_newqv1300_dpactq,"Depreciation, Depletion and Amortization (Accumulated)"
+632,fnd6_newqv1300_drcq,Deferred Revenue - Current
+633,fnd6_newqv1300_drltq,Deferred Revenue - Long-term
+634,fnd6_newqv1300_epsfiq,Earnings Per Share (Diluted) - Including Extraordinary Items
+635,fnd6_newqv1300_epspiq,Earnings Per Share (Basic) - Including Extraordinary Items
+636,fnd6_newqv1300_epspxq,Earnings Per Share (Basic) - Excluding Extraordinary Items
+637,fnd6_newqv1300_esopnrq,Preferred ESOP Obligation - Non-Redeemable
+638,fnd6_newqv1300_esoprq,Preferred ESOP Obligation - Redeemable
+639,fnd6_newqv1300_fcaq,Foreign Exchange Income (Loss)
+640,fnd6_newqv1300_gdwlq,Goodwill (net)
+641,fnd6_newqv1300_glcea12,Gain/Loss on Sale (Core Earnings Adjusted) After-tax 12MM
+642,fnd6_newqv1300_glced12,Gain/Loss on Sale (Core Earnings Adjusted) Diluted EPS Effect 12MM
+643,fnd6_newqv1300_glceeps12,Gain/Loss on Sale (Core Earnings Adjusted) Basic EPS Effect 12MM
+644,fnd6_newqv1300_ibadj12,Income Before Extra Items - Adj for Common Stock Equivalents - 12MM
+645,fnd6_newqv1300_ibadjq,Income Before Extraordinary Items - Adjusted for Common Stock Equivalents
+646,fnd6_newqv1300_ibcomq,Income Before Extraordinary Items - Available for Common
+647,fnd6_newqv1300_ibmiiq,Income before Extraordinary Items and Noncontrolling Interests
+648,fnd6_newqv1300_ibq,Income Before Extraordinary Items
+649,fnd6_newqv1300_icaptq,Invested Capital - Total - Quarterly
+650,fnd6_newqv1300_intanoq,Other Intangibles
+651,fnd6_newqv1300_intanq,Intangible Assets - Total
+652,fnd6_newqv1300_invfgq,Inventory - Finished Goods
+653,fnd6_newqv1300_invoq,Inventory - Other
+654,fnd6_newqv1300_invrmq,Inventory - Raw Materials
+655,fnd6_newqv1300_invtq,Inventories - Total
+656,fnd6_newqv1300_invwipq,Inventory - Work in Process
+657,fnd6_newqv1300_ivltq,Total Long-term Investments
+658,fnd6_newqv1300_ivstq,Short-Term Investments- Total
+659,fnd6_newqv1300_lcoq,Current Liabilities - Other - Total
+660,fnd6_newqv1300_lltq,Long-Term Liabilities (Total)
+661,fnd6_newqv1300_lnoq,Liabilities Netting & Other Adjustments
+662,fnd6_newqv1300_lol2q,Liabilities Level2 (Observable)
+663,fnd6_newqv1300_loq,Liabilities - Other
+664,fnd6_newqv1300_loxdrq,Liabilities - Other - Excluding Deferred Revenue
+665,fnd6_newqv1300_lqpl1q,Liabilities Level1 (Quoted Prices)
+666,fnd6_newqv1300_lseq,Liabilities and Stockholders Equity - Total
+667,fnd6_newqv1300_ltmibq,Liabilities - Total and Noncontrolling Interest
+668,fnd6_newqv1300_lul3q,Liabilities Level3 (Unobservable)
+669,fnd6_newqv1300_mibnq,NonRedeemable Noncontrolling Interest (Balance Sheet) - Quarterly
+670,fnd6_newqv1300_mibtq,Noncontrolling Interests - Total - Balance Sheet - Quarterly
+671,fnd6_newqv1300_miiq,Noncontrolling Interest - Income Account
+672,fnd6_newqv1300_msaq,Accum Other Comp Inc - Marketable Security Adjustments
+673,fnd6_newqv1300_oepf12,Earnings Per Share - Diluted - from Operations - 12MM
+674,fnd6_newqv1300_oepsxq,Earnings Per Share - Diluted - from Operations
+675,fnd6_newqv1300_optfvgrq,Options - Fair Value of Options Granted
+676,fnd6_newqv1300_optrfrq,Risk Free Rate - Assumption (%)
+677,fnd6_newqv1300_piq,Pretax Income
+678,fnd6_newqv1300_pncq,Core Pension Adjustment
+679,fnd6_newqv1300_ppegtq,"Property, Plant and Equipment - Total (Gross) - Quarterly"
+680,fnd6_newqv1300_ppentq,Property Plant and Equipment - Total (Net)
+681,fnd6_newqv1300_prcaq,Core Post Retirement Adjustment
+682,fnd6_newqv1300_prcdq,Core Post Retirement Adjustment Diluted EPS Effect
+683,fnd6_newqv1300_prcepsq,Core Post Retirement Adjustment Basic EPS Effect
+684,fnd6_newqv1300_prcraq,Repurchase Price - Average per share
+685,fnd6_newqv1300_rcpq,Restructuring Cost Pretax
+686,fnd6_newqv1300_rdipaq,In Process R&D Expense After-tax
+687,fnd6_newqv1300_rdipdq,In Process R&D Expense Diluted EPS Effect
+688,fnd6_newqv1300_rdipepsq,In Process R&D Expense Basic EPS Effect
+689,fnd6_newqv1300_rdipq,In Process R&D
+690,fnd6_newqv1300_recdq,Receivables - Estimated Doubtful
+691,fnd6_newqv1300_rectaq,Accum Other Comp Inc - Cumulative Translation Adjustments
+692,fnd6_newqv1300_rectoq,Receivables - Current Other incl Tax Refunds
+693,fnd6_newqv1300_rectrq,Receivables - Trade
+694,fnd6_newqv1300_reunaq,Unadjusted Retained Earnings
+695,fnd6_newqv1300_revtq,Revenue - Total
+696,fnd6_newqv1300_seqoq,Other Stockholders- Equity Adjustments
+697,fnd6_newqv1300_seqq,Stockholders' Equity - Total - Quarterly
+698,fnd6_newqv1300_spcedpq,S&P Core Earnings EPS Diluted - Preliminary
+699,fnd6_newqv1300_spcedq,S&P Core Earnings EPS Diluted
+700,fnd6_newqv1300_spceepsp12,S&P Core 12MM EPS - Basic - Preliminary
+701,fnd6_newqv1300_spceepspq,S&P Core Earnings EPS Basic - Preliminary
+702,fnd6_newqv1300_spceepsq,S&P Core Earnings EPS Basic
+703,fnd6_newqv1300_spcep12,S&P Core Earnings 12MM - Preliminary
+704,fnd6_newqv1300_spcepd12,S&P Core Earnings 12MM EPS Diluted - Preliminary
+705,fnd6_newqv1300_spcepq,S&P Core Earnings - Preliminary
+706,fnd6_newqv1300_spceq,S&P Core Earnings
+707,fnd6_newqv1300_spiq,Special Items
+708,fnd6_newqv1300_stkcoq,Stock Compensation Expense
+709,fnd6_newqv1300_stkcpaq,After-tax stock compensation
+710,fnd6_newqv1300_teqq,Stockholders Equity - Total - Quarterly
+711,fnd6_newqv1300_tfvaq,Total Fair Value Assets
+712,fnd6_newqv1300_tfvceq,Total Fair Value Changes including Earnings
+713,fnd6_newqv1300_tfvlq,Total Fair Value Liabilities
+714,fnd6_newqv1300_tstknq,Treasury Stock - Number of Common Shares
+715,fnd6_newqv1300_tstkq,Treasury Stock - Total (All Capital)
+716,fnd6_newqv1300_txdbaq,Deferred Tax Asset - Long Term
+717,fnd6_newqv1300_txdbq,Deferred Taxes - Balance Sheet
+718,fnd6_newqv1300_txdiq,Income Taxes - Deferred
+719,fnd6_newqv1300_txditcq,Deferred Taxes and Investment Tax Credit
+720,fnd6_newqv1300_txpq,Income Taxes Payable
+721,fnd6_newqv1300_txtq,Income Taxes - Total
+722,fnd6_newqv1300_txwq,Excise Taxes
+723,fnd6_newqv1300_wcapq,Working Capital (Balance Sheet)
+724,fnd6_newqv1300_xintq,Interest and Related Expense- Total
+725,fnd6_newqv1300_xoprq,Operating Expense- Total
+726,fnd6_newqv1300_xoptdq,Implied Option EPS Diluted
+727,fnd6_newqv1300_xoptepsq,Implied Option EPS Basic
+728,fnd6_newqv1300_xoptq,Implied Option Expense
+729,fnd6_newqv1300_xrdq,Research and Development Expense
+730,fnd6_newqv1300_xsgaq,"Selling, General and Administrative Expenses"
+731,fnd6_niadj,Net Income Adjusted for Common/Ordinary Stock (Capital) Equivalents
+733,fnd6_nopio,Nonoperating Income (Expense) - Other
+735,fnd6_np,Notes Payable - Short-Term Borrowings
+736,fnd6_npq,Notes Payable
+743,fnd6_oprepsx,Earnings Per Share - Diluted - from Operations
+745,fnd6_optca,Options - Cancelled (-)
+746,fnd6_optdr,Dividend Rate - Assumption (%)
+747,fnd6_optdrq,Dividend Rate - Assumption (%)
+748,fnd6_optex,Options Exercisable (000)
+749,fnd6_optfvgr,Options - Fair Value of Options Granted
+750,fnd6_optgr,Options - Granted
+751,fnd6_optlife,Life of Options - Assumption (# yrs)
+752,fnd6_optlifeq,Life of Options - Assumption (# yrs)
+753,fnd6_optosby,Options Outstanding - Beg of Year
+754,fnd6_optosey,Options Outstanding - End of Year
+755,fnd6_optprcby,Options Outstanding Beg of Year - Price
+756,fnd6_optprcca,Options Cancelled - Price
+757,fnd6_optprcex,Options Exercised - Price
+758,fnd6_optprcey,Options Outstanding End of Year - Price
+759,fnd6_optprcgr,Options Granted - Price
+760,fnd6_optprcwa,Options Exercisable - Weighted Avg Price
+761,fnd6_optrfr,Risk Free Rate - Assumption (%)
+762,fnd6_optvol,Volatility - Assumption (%)
+763,fnd6_optvolq,Volatility - Assumption (%)
+764,fnd6_pidom,Pretax Income - Domestic
+765,fnd6_pifo,Pretax Income - Foreign
+766,fnd6_pncdq,Core Pension Adjustment Diluted EPS Effect
+767,fnd6_pncepsq,Core Pension Adjustment Basic EPS Effect
+768,fnd6_pnrsho,Nonred Pfd Shares Outs (000)
+770,fnd6_ppeveb,"Property, Plant, and Equipment - Ending Balance (Schedule V)"
+771,fnd6_prcc,Price Close - Annual
+772,fnd6_prccq,Price Close - Quarter
+773,fnd6_prch,Price High - Annual
+774,fnd6_prchq,Price High - Quarter
+775,fnd6_prcl,Price Low - Annual
+776,fnd6_prclq,Price Low - Quarter
+777,fnd6_prstkc,Purchase of Common and Preferred Stock
+778,fnd6_pstkc,Preferred Stock - Convertible
+779,fnd6_pstkl,Preferred Stock - Liquidating Value
+780,fnd6_pstkrv,Preferred Stock - Redemption Value
+782,fnd6_rank,SP rank with the following meaning: // 0----invalid rank //1----A+//2----A//3----A-//4----B+//5----B//6----B-//7----C+//8----C//9----C-
+785,fnd6_rea,Retained Earnings - Restatement
+786,fnd6_reajo,Retained Earnings - Other Adjustments
+787,fnd6_recco,Receivables - Current - Other
+788,fnd6_recd,Receivables- Estimated Doubtful
+789,fnd6_recta,Retained Earnings - Cumulative Translation Adjustment
+790,fnd6_rectr,Receivables - Trade
+795,fnd6_siv,Sale of Investments
+797,fnd6_spce,S&P Core Earnings
+799,fnd6_sppe,Sale of Property
+800,fnd6_sppiv,"Sale of Property, Plant and Equipment and Investments - Gain (Loss)"
+801,fnd6_sstk,Sale of Common and Preferred Stock
+802,fnd6_state,integer for identifying the state of the company
+803,fnd6_stkcpa,After-tax stock compensation
+805,fnd6_teq,Stockholders Equity - Total
+806,fnd6_tfva,Total Fair Value Assets
+807,fnd6_tfvce,Total Fair Value Changes including Earnings
+808,fnd6_tfvl,Total Fair Value Liabilities
+809,fnd6_tlcf,Tax Loss Carry Forward
+810,fnd6_tstkc,Treasury Stock - Common
+811,fnd6_txbco,Excess Tax Benefit Stock Options - Cash Flow Operating
+812,fnd6_txbcof,Excess Tax Benefit of Stock Options - Cash Flow Financing
+813,fnd6_txc,Income Taxes - Current
+814,fnd6_txdba,Deferred Tax Asset - Long Term
+815,fnd6_txdbca,Deferred Tax Asset - Current
+816,fnd6_txdbcl,Deferred Tax Liability - Current
+817,fnd6_txdbclq,Current Deferred Tax Liability
+818,fnd6_txdc,Deferred Taxes (Cash Flow)
+819,fnd6_txdfed,Deferred Taxes-Federal
+820,fnd6_txdfo,Deferred Taxes-Foreign
+821,fnd6_txdi,Income Taxes - Deferred
+822,fnd6_txds,Deferred Taxes-State
+823,fnd6_txfed,Income Taxes - Federal
+824,fnd6_txfo,Income Taxes - Foreign
+825,fnd6_txndb,Net Deferred Tax Asset (Liab) - Total
+826,fnd6_txndba,Net Deferred Tax Asset
+827,fnd6_txndbl,Net Deferred Tax Liability
+828,fnd6_txndbr,Deferred Tax Residual
+829,fnd6_txo,Income Taxes - Other
+830,fnd6_txpd,Income Taxes Paid
+831,fnd6_txr,Income Tax Refund
+832,fnd6_txs,Income Taxes - State
+834,fnd6_txtubadjust,Other Unrecog Tax Benefit Adj.
+835,fnd6_txtubbegin,Unrecog. Tax Benefits - Beg of Year
+836,fnd6_txtubend,Unrecog. Tax Benefits - End of Year
+837,fnd6_txtubposdec,Decrease- Current Tax Positions
+838,fnd6_txtubposinc,Increase- Current Tax Positions
+839,fnd6_txtubpospdec,Decrease- Prior Tax Positions
+840,fnd6_txtubpospinc,Increase- Prior Tax Positions
+841,fnd6_txtubsettle,Settlements with Tax Authorities
+842,fnd6_txtubsoflimit,Lapse of Statute of Limitations
+843,fnd6_txtubtxtr,Impact on Effective Tax Rate
+844,fnd6_txtubxintbs,Interest & Penalties Accrued - B/S
+845,fnd6_txtubxintis,Interest & Penalties Reconized - I/S
+846,fnd6_txw,Excise Taxes
+848,fnd6_weburl,WEB URL code for the company
+849,fnd6_xacc,Accrued Expenses
+850,fnd6_xaccq,Accrued Expenses
+851,fnd6_xad,Advertising Expense
+853,fnd6_xintopt,Implied Option Expense
+855,fnd6_xopr,Operating Expenses - Total
+856,fnd6_xpp,Prepaid Expenses
+857,fnd6_xpr,Pension and Retirement Expense
+858,fnd6_xrent,Rental Expense
+860,fnd6_zipcode,ZIP code related to the company
+861,goodwill,Goodwill (net)
+862,income,Net Income
+863,income_beforeextra,Income Before Extraordinary Items
+864,income_tax,Income Taxes - Total
+865,interest_expense,Interest and Related Expense- Total
+866,inventory,Inventories - Total
+867,inventory_turnover,Inventory Turnover
+868,invested_capital,Invested Capital - Total - Quarterly
+869,liabilities,Liabilities - Total
+870,liabilities_curr,Current Liabilities - Total
+871,operating_expense,Operating Expense- Total
+872,operating_income,Operating Income After Depreciation - Quarterly
+873,ppent,Property Plant and Equipment - Total (Net)
+874,pretax_income,Pretax Income
+875,rd_expense,Research And Development (Quarterly)
+876,receivable,Receivables - Total
+877,retained_earnings,Retained Earnings
+878,return_assets,Return on Assets
+879,return_equity,Return on Equity
+880,revenue,Revenue - Total
+881,sales,Sales/Turnover (Net)
+882,sales_growth,Growth in Sales (Quarterly)
+883,sales_ps,Sales per Share (Quarterly)
+884,sga_expense,"Selling, General and Administrative Expenses"
+885,working_capital,Working Capital (Balance Sheet)

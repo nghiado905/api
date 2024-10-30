@@ -1,0 +1,11 @@
+,id,description
+0,mdl56_companyname,Company name index
+1,mdl56_country,Country
+2,mdl56_exchange,Stock exchange
+3,srp_average_score,average score
+4,srp_earnings_score,earnings score
+5,srp_fundamental_score,fundamental score
+6,srp_insider_trading_score,Insider trading score
+7,srp_price_momentum_score,price momentum score
+8,srp_relative_valuation_score,relative valuation score
+9,srp_risk_score,risk score

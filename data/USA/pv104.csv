@@ -1,0 +1,46 @@
+,id,description
+0,pv104_63000_intv_sum,Sum Of Interval Volume I.E. Sum(Shares))
+1,pv104_abde_mean,Interval Sum Absolute Deviation From Median
+2,pv104_hask_mean,Interval High Ask
+3,pv104_hasz_mean,Interval High Ask Size
+4,pv104_hbid_mean,Interval High Bid
+5,pv104_hbsz_mean,Interval High Bid Size
+6,pv104_hlts_mean,Interval High Last Size
+7,pv104_inam_mean,Interval Num Trades Over Mid-Quote (Bid+Ask)/2
+8,pv104_insm_mean,Interval Smflow Which Is Defined As Ratio Of Sum (Bid Size Increase While Bid Price Unchanged) To Sum (Ask Size Increase While Ask Price Unchanged)
+9,pv104_intf_mean,Interval First Trade Price
+10,pv104_inth_mean,Interval High
+11,pv104_intl_mean,Interval Low
+12,pv104_intv_mean,Interval Volume I.E. Sum(Shares))
+13,pv104_intv_sum,Sum Of Interval Volume I.E. Sum(Shares))
+14,pv104_ivam_mean,Interval Volume Over Mid Quote (Bid+Ask)/2
+15,pv104_lask_mean,Interval Low Ask
+16,pv104_lasz_mean,Interval Low Ask Size
+17,pv104_lbid_mean,Interval Low Bid
+18,pv104_lbsz_mean,Interval Low Bid Size
+19,pv104_lilp_last_all,Lit Iso Last Trade Price
+20,pv104_lolp_mean,Last Trade Price
+21,pv104_lsas_mean,Last Ask Size
+22,pv104_lsbs_mean,Last Bid Size
+23,pv104_lsta_mean,Last Ask
+24,pv104_lstb_mean,Last Bid
+25,pv104_lstp_mean,Last Price
+26,pv104_lsts_mean,Last Size
+27,pv104_mask_mean,Interval Average Ask Per Ask Message
+28,pv104_masz_mean,Interval Average Ask Size Per Ask Message
+29,pv104_mbid_mean,Interval Average Bid Per Bid Message
+30,pv104_mbsz_mean,Interval Average Bid Size Per Bid Message
+31,pv104_medn_mean,"Interval Median Trade Price, Computed From All Trades Within The Interval Without Filtering"
+32,pv104_mlrt_mean,Interval Average Log(Bidsize/Asksize)
+33,pv104_nask_mean,"Interval Number Of Ask Changes (+1 = Uptick, -1 = Downtick)"
+34,pv104_nbid_mean,"Interval Number Of Bid Changes (+1 = Uptick, -1 = Downtick)"
+35,pv104_ntrd_mean,Interval Number Trades
+36,pv104_sprc_mean,Interval Sum Trade Prices
+37,pv104_sprv_mean,Interval Volume*Price I.E. Sum(Shares*Price)
+38,pv104_spsq_mean,Interval Sum Squared Trade PricesTsquared
+39,pv104_task_mean,Interval Time-Weighted Ask
+40,pv104_tasz_mean,Interval Time-Weighted Asksize
+41,pv104_tbid_mean,Interval Time-Weighted Bid
+42,pv104_tbsz_mean,Interval Time-Weighted Bidsize
+43,pv104_tlrt_mean,Interval Time Weighted Log(Bidsize/Asksize)
+44,pv104_tlsp_mean,Interval Time-Weighted Last Price

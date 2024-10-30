@@ -1,0 +1,7 @@
+,id,description
+0,star_pm_global_rank,Percentile of price momentum over all the other global stocks
+1,star_pm_industry,Industry specific momentum percentile
+2,star_pm_longterm,Long term momentum percentile
+3,star_pm_midterm,Mid term momentum percentile
+4,star_pm_region_rank,Percentile of price momentum over all the other regional stocks
+5,star_pm_shortterm,Short term momentum percentile

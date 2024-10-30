@@ -1,0 +1,12 @@
+,id,description
+0,star_hold_country_rank,The country 1-100 rank of the smart holdings model
+1,star_hold_global_change_rank,The change component 1-100 global rank
+2,star_hold_global_owner_rank,"The peers adjustment factor 1-100 global rank. This factor is reversed - 100 indicates high peer ownership for the security, 1 indicates low peer ownership."
+3,star_hold_global_rank,The global 1-100 rank of the Smart Holdings model
+4,star_hold_global_screening_rank,The peers adjusted screening component 1-100 global rank
+5,star_hold_industry_rank,The industry 1-100 rank of the Smart Holdings model
+6,star_hold_region_change_rank,The change component 1-100 regional rank
+7,star_hold_region_owner_rank,"The peers adjustment factor 1-100 regional rank. This factor is reversed - 100 indicates high peer ownership for the security, 1 indicates low peer ownership."
+8,star_hold_region_rank,The regional 1-100 rank of the Smart Holdings model
+9,star_hold_region_screening_rank,The peers adjusted screening component 1-100 regional rank
+10,star_hold_sector_rank,The sector 1-100 rank of the smart holdings model

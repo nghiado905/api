@@ -1,0 +1,115 @@
+,id,description
+236,anl44_bps_best_crncy_iso,bps best crncy iso
+237,anl44_bps_best_cur_fiscal_qtr_period,bps best cur fiscal qtr period
+238,anl44_bps_best_cur_fiscal_semi_year_period,bps best cur fiscal semi year period
+239,anl44_bps_best_cur_fiscal_year_period,bps best cur fiscal year period
+240,anl44_bps_best_eeps_cur_yr,bps best eeps cur yr
+241,anl44_bps_best_eeps_nxt_yr,bps best eeps nxt yr
+252,anl44_cfps_best_crncy_iso,cfps best crncy iso
+253,anl44_cfps_best_cur_fiscal_qtr_period,cfps best cur fiscal qtr period
+254,anl44_cfps_best_cur_fiscal_semi_year_period,cfps best cur fiscal semi year period
+255,anl44_cfps_best_cur_fiscal_year_period,cfps best cur fiscal year period
+256,anl44_cfps_best_eeps_cur_yr,cfps best eeps cur yr
+257,anl44_cfps_best_eeps_nxt_yr,cfps best eeps nxt yr
+265,anl44_dps_best_crncy_iso,dps best crncy iso
+266,anl44_dps_best_cur_fiscal_qtr_period,dps best cur fiscal qtr period
+267,anl44_dps_best_cur_fiscal_semi_year_period,dps best cur fiscal semi year period
+268,anl44_dps_best_cur_fiscal_year_period,dps best cur fiscal year period
+269,anl44_dps_best_eeps_cur_yr,dps best eeps cur yr
+270,anl44_dps_best_eeps_nxt_yr,dps best eeps nxt yr
+278,anl44_ebit_best_crncy_iso,ebit best crncy iso
+279,anl44_ebit_best_cur_fiscal_qtr_period,ebit best cur fiscal qtr period
+280,anl44_ebit_best_cur_fiscal_semi_year_period,ebit best cur fiscal semi year period
+281,anl44_ebit_best_cur_fiscal_year_period,ebit best cur fiscal year period
+282,anl44_ebit_best_eeps_cur_yr,ebit best eeps cur yr
+283,anl44_ebit_best_eeps_nxt_yr,ebit best eeps nxt yr
+291,anl44_ebitda_best_crncy_iso,ebitda best crncy iso
+292,anl44_ebitda_best_cur_fiscal_qtr_period,ebitda best cur fiscal qtr period
+293,anl44_ebitda_best_cur_fiscal_semi_year_period,ebitda best cur fiscal semi year period
+294,anl44_ebitda_best_cur_fiscal_year_period,ebitda best cur fiscal year period
+295,anl44_ebitda_best_eeps_cur_yr,ebitda best eeps cur yr
+296,anl44_ebitda_best_eeps_nxt_yr,ebitda best eeps nxt yr
+307,anl44_eps_best_crncy_iso,eps best crncy iso
+308,anl44_eps_best_cur_fiscal_qtr_period,eps best cur fiscal qtr period
+309,anl44_eps_best_cur_fiscal_semi_year_period,eps best cur fiscal semi year period
+310,anl44_eps_best_cur_fiscal_year_period,eps best cur fiscal year period
+311,anl44_eps_best_eeps_cur_yr,eps best eeps cur yr
+312,anl44_eps_best_eeps_nxt_yr,eps best eeps nxt yr
+316,anl44_eps_gaap_best_crncy_iso,eps gaap best crncy iso
+317,anl44_eps_gaap_best_cur_fiscal_qtr_period,eps gaap best cur fiscal qtr period
+318,anl44_eps_gaap_best_cur_fiscal_semi_year_period,eps gaap best cur fiscal semi year period
+319,anl44_eps_gaap_best_cur_fiscal_year_period,eps gaap best cur fiscal year period
+320,anl44_eps_gaap_best_eeps_cur_yr,eps gaap best eeps cur yr
+321,anl44_eps_gaap_best_eeps_nxt_yr,eps gaap best eeps nxt yr
+329,anl44_eps_ratio_best_crncy_iso,eps ratio best crncy iso
+330,anl44_eps_ratio_best_cur_fiscal_qtr_period,eps ratio best cur fiscal qtr period
+331,anl44_eps_ratio_best_cur_fiscal_semi_year_period,eps ratio best cur fiscal semi year period
+332,anl44_eps_ratio_best_cur_fiscal_year_period,eps ratio best cur fiscal year period
+333,anl44_eps_ratio_best_eeps_cur_yr,eps ratio best eeps cur yr
+334,anl44_eps_ratio_best_eeps_nxt_yr,eps ratio best eeps nxt yr
+337,anl44_epsr_best_crncy_iso,epsr best crncy iso
+338,anl44_epsr_best_cur_fiscal_qtr_period,epsr best cur fiscal qtr period
+339,anl44_epsr_best_cur_fiscal_semi_year_period,epsr best cur fiscal semi year period
+340,anl44_epsr_best_cur_fiscal_year_period,epsr best cur fiscal year period
+341,anl44_epsr_best_eeps_cur_yr,epsr best eeps cur yr
+342,anl44_epsr_best_eeps_nxt_yr,epsr best eeps nxt yr
+353,anl44_ffops_best_crncy_iso,ffops best crncy iso
+354,anl44_ffops_best_cur_fiscal_qtr_period,ffops best cur fiscal qtr period
+355,anl44_ffops_best_cur_fiscal_semi_year_period,ffops best cur fiscal semi year period
+356,anl44_ffops_best_cur_fiscal_year_period,ffops best cur fiscal year period
+357,anl44_ffops_best_eeps_cur_yr,ffops best eeps cur yr
+358,anl44_ffops_best_eeps_nxt_yr,ffops best eeps nxt yr
+390,anl44_nav_best_crncy_iso,nav best crncy iso
+391,anl44_nav_best_cur_fiscal_qtr_period,nav best cur fiscal qtr period
+392,anl44_nav_best_cur_fiscal_semi_year_period,nav best cur fiscal semi year period
+393,anl44_nav_best_cur_fiscal_year_period,nav best cur fiscal year period
+394,anl44_nav_best_eeps_cur_yr,nav best eeps cur yr
+395,anl44_nav_best_eeps_nxt_yr,nav best eeps nxt yr
+403,anl44_netdebt_best_crncy_iso,netdebt best crncy iso
+404,anl44_netdebt_best_cur_fiscal_qtr_period,netdebt best cur fiscal qtr period
+405,anl44_netdebt_best_cur_fiscal_semi_year_period,netdebt best cur fiscal semi year period
+406,anl44_netdebt_best_cur_fiscal_year_period,netdebt best cur fiscal year period
+407,anl44_netdebt_best_eeps_cur_yr,netdebt best eeps cur yr
+408,anl44_netdebt_best_eeps_nxt_yr,netdebt best eeps nxt yr
+417,anl44_netprofit_gaap_best_crncy_iso,netprofit gaap best crncy iso
+418,anl44_netprofit_gaap_best_cur_fiscal_qtr_period,netprofit gaap best cur fiscal qtr period
+419,anl44_netprofit_gaap_best_cur_fiscal_semi_year_period,netprofit gaap best cur fiscal semi year period
+420,anl44_netprofit_gaap_best_cur_fiscal_year_period,netprofit gaap best cur fiscal year period
+421,anl44_netprofit_gaap_best_eeps_cur_yr,netprofit gaap best eeps cur yr
+422,anl44_netprofit_gaap_best_eeps_nxt_yr,netprofit gaap best eeps nxt yr
+428,anl44_netprofit_rep_best_crncy_iso,netprofit rep best crncy iso
+429,anl44_netprofit_rep_best_cur_fiscal_qtr_period,netprofit rep best cur fiscal qtr period
+430,anl44_netprofit_rep_best_cur_fiscal_semi_year_period,netprofit rep best cur fiscal semi year period
+431,anl44_netprofit_rep_best_cur_fiscal_year_period,netprofit rep best cur fiscal year period
+432,anl44_netprofit_rep_best_eeps_cur_yr,netprofit rep best eeps cur yr
+433,anl44_netprofit_rep_best_eeps_nxt_yr,netprofit rep best eeps nxt yr
+442,anl44_operatingprofit_best_crncy_iso,operatingprofit best crncy iso
+443,anl44_operatingprofit_best_cur_fiscal_qtr_period,operatingprofit best cur fiscal qtr period
+444,anl44_operatingprofit_best_cur_fiscal_semi_year_period,operatingprofit best cur fiscal semi year period
+445,anl44_operatingprofit_best_cur_fiscal_year_period,operatingprofit best cur fiscal year period
+446,anl44_operatingprofit_best_eeps_cur_yr,operatingprofit best eeps cur yr
+447,anl44_operatingprofit_best_eeps_nxt_yr,operatingprofit best eeps nxt yr
+515,anl44_pretaxprofit_best_crncy_iso,pretaxprofit best crncy iso
+516,anl44_pretaxprofit_best_cur_fiscal_qtr_period,pretaxprofit best cur fiscal qtr period
+517,anl44_pretaxprofit_best_cur_fiscal_semi_year_period,pretaxprofit best cur fiscal semi year period
+518,anl44_pretaxprofit_best_cur_fiscal_year_period,pretaxprofit best cur fiscal year period
+519,anl44_pretaxprofit_best_eeps_cur_yr,pretaxprofit best eeps cur yr
+520,anl44_pretaxprofit_best_eeps_nxt_yr,pretaxprofit best eeps nxt yr
+549,anl44_roa_best_crncy_iso,roa best crncy iso
+550,anl44_roa_best_cur_fiscal_qtr_period,roa best cur fiscal qtr period
+551,anl44_roa_best_cur_fiscal_semi_year_period,roa best cur fiscal semi year period
+552,anl44_roa_best_cur_fiscal_year_period,roa best cur fiscal year period
+553,anl44_roa_best_eeps_cur_yr,roa best eeps cur yr
+554,anl44_roa_best_eeps_nxt_yr,roa best eeps nxt yr
+562,anl44_roe_best_crncy_iso,roe best crncy iso
+563,anl44_roe_best_cur_fiscal_qtr_period,roe best cur fiscal qtr period
+564,anl44_roe_best_cur_fiscal_semi_year_period,roe best cur fiscal semi year period
+565,anl44_roe_best_cur_fiscal_year_period,roe best cur fiscal year period
+566,anl44_roe_best_eeps_cur_yr,roe best eeps cur yr
+567,anl44_roe_best_eeps_nxt_yr,roe best eeps nxt yr
+575,anl44_sales_best_crncy_iso,sales best crncy iso
+576,anl44_sales_best_cur_fiscal_qtr_period,sales best cur fiscal qtr period
+577,anl44_sales_best_cur_fiscal_semi_year_period,sales best cur fiscal semi year period
+578,anl44_sales_best_cur_fiscal_year_period,sales best cur fiscal year period
+579,anl44_sales_best_eeps_cur_yr,sales best eeps cur yr
+580,anl44_sales_best_eeps_nxt_yr,sales best eeps nxt yr

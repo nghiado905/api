@@ -1,0 +1,81 @@
+,id,description
+0,mdl31_ab1_acc_chg_1_day,The 1 day change of region-relative 1 to 100 percentile Accruals Component score. 100 is the best and 1 is the worst.
+1,mdl31_ab1_acc_chg_1_fy,The 1 year change of region-relative 1 to 100 percentile Accruals Component score. 100 is the best and 1 is the worst.
+2,mdl31_ab1_acc_chg_1_qtr,The 1 quarter change of region-relative 1 to 100 percentile Accruals Component score. 100 is the best and 1 is the worst.
+3,mdl31_ab1_acc_prior_qtr,Prior quarter region-relative 1 to 100 percentile Accruals Component score. 100 is the best and 1 is the worst.
+4,mdl31_ab1_acc_prior_y,Prior year region-relative 1 to 100 percentile Accruals Component score. 100 is the best and 1 is the worst.
+5,mdl31_ab1_ass_tvr_last_qtr,Last quarter asset turnover
+6,mdl31_ab1_ass_tvr_last_y,Last year asset turnover
+7,mdl31_ab1_ass_tvr_prior_qtr,Prior quarter asset turnover
+8,mdl31_ab1_ass_tvr_prior_y,Prior year turnover
+9,mdl31_ab1_ass_tvr_t4q,Trailing 4 Quarters asset turnover
+10,mdl31_ab1_bv_share_last_qtr,Last quarter book value per share
+11,mdl31_ab1_bv_share_last_y,Last year book value per share
+12,mdl31_ab1_bv_share_prior_qtr,Prior quarter book value per share
+13,mdl31_ab1_bv_share_prior_y,Prior year book value per share
+14,mdl31_ab1_cf_chg_1_day,1 day change of a percentile rank that reflects only the Cash Flow factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks. Requires Fundamental Module permissions.
+15,mdl31_ab1_cf_chg_1_fy,1 year change of a percentile rank that reflects only the Cash Flow factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks. Requires Fundamental Module permissions.
+16,mdl31_ab1_cf_chg_1_qtr,1 quarter change of a percentile rank that reflects only the Cash Flow factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks. Requires Fundamental Module permissions.
+17,mdl31_ab1_cf_prior_qtr,Prior quarter value of a percentile rank that reflects only the Cash Flow factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks. Requires Fundamental Module permissions.
+18,mdl31_ab1_cf_prior_y,Prior year value of a percentile rank that reflects only the Cash Flow factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks. Requires Fundamental Module permissions.
+19,mdl31_ab1_cf_wc_mm_last_y,Last year working capital
+20,mdl31_ab1_dps_last_qtr,Last quarter dividends per share
+21,mdl31_ab1_dps_last_y,Last year dividends per share
+22,mdl31_ab1_dps_t4q,Trailing 4 quarter dividends per share
+23,mdl31_ab1_dse_last_qtr,Last quarter Debt/Equity
+24,mdl31_ab1_dse_last_y,Last year Debt/Equity
+25,mdl31_ab1_dse_prior_qtr,Prior quarter Debt/Equity
+26,mdl31_ab1_dse_prior_y,Prior year Debt/Equity
+27,mdl31_ab1_dty_mm_fcf,Year to date Free Cash from Operations
+28,mdl31_ab1_dy_pct_current,currunt dividends per share percentage
+29,mdl31_ab1_erq_raw_prior_qtr,Prior Earnings Quality Region Rank before beta neutralization. Scores of 100 indicate the highest rated stocks in the country; scores of 1 indicate the lowest rated stocks in the country.
+30,mdl31_ab1_erq_re_rk_chg_1_day,1 day change of Earnings Quality Region Rank. Scores of 100 indicate the highest rated stocks in the region; scores of 1 indicate the lowest rated stocks in the region.
+31,mdl31_ab1_erq_re_rk_chg_1_fy,1 year change of Earnings Quality Region Rank. Scores of 100 indicate the highest rated stocks in the region; scores of 1 indicate the lowest rated stocks in the region.
+32,mdl31_ab1_erq_re_rk_chg_1_qtr,1 quarter change of Earnings Quality Region Rank. Scores of 100 indicate the highest rated stocks in the region; scores of 1 indicate the lowest rated stocks in the region.
+33,mdl31_ab1_erq_re_rk_prior_qtr,Prior quarter Earnings Quality Region Rank. Scores of 100 indicate the highest rated stocks in the region; scores of 1 indicate the lowest rated stocks in the region.
+34,mdl31_ab1_erq_re_rk_prior_y,Prior year Earnings Quality Region Rank. Scores of 100 indicate the highest rated stocks in the region; scores of 1 indicate the lowest rated stocks in the region.
+35,mdl31_ab1_exclusions_chg_1_day,1 day change of A percentile rank that reflects only the Exclusions factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks.
+36,mdl31_ab1_exclusions_chg_1_fy,1 year change of A percentile rank that reflects only the Exclusions factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks.
+37,mdl31_ab1_exclusions_chg_1_qtr,1 quarter change of A percentile rank that reflects only the Exclusions factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks.
+38,mdl31_ab1_exclusions_prior_qtr,Prior quarter value of A percentile rank that reflects only the Exclusions factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks.
+39,mdl31_ab1_exclusions_prior_y,Prior year value of A percentile rank that reflects only the Exclusions factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks.
+40,mdl31_ab1_fcf_mm_last_qtr,Last quarter Free Cash from Operations
+41,mdl31_ab1_fcf_mm_last_y,Last year  Free Cash from Operations
+42,mdl31_ab1_gm_pct_last_qtr,Last quarter gross margin
+43,mdl31_ab1_gm_pct_last_y,Last year  gross margin
+44,mdl31_ab1_gm_pct_prior_qtr,Prior quarter  gross margin
+45,mdl31_ab1_gm_pct_prior_y,Prior year  gross margin
+46,mdl31_ab1_gm_pct_t4q,Trailing 4 quarter  gross margin
+47,mdl31_ab1_gva,average value
+48,mdl31_ab1_oe_chg_1_day,1 day change of A percentile rank that reflects only the Operating Efficiency factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks
+49,mdl31_ab1_oe_chg_1_fy,1 year change of A percentile rank that reflects only the Operating Efficiency factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks
+50,mdl31_ab1_oe_chg_1_qtr,1 quarter change of A percentile rank that reflects only the Operating Efficiency factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks
+51,mdl31_ab1_oe_prior_qtr,Prior quarter value of A percentile rank that reflects only the Operating Efficiency factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks
+52,mdl31_ab1_oe_prior_y,Prior year value of A percentile rank that reflects only the Operating Efficiency factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks
+53,mdl31_ab1_om_pct_last_qtr,Last quarter operation efficiency percantage
+54,mdl31_ab1_om_pct_last_y,Last year operation efficiency percantage
+55,mdl31_ab1_om_pct_prior_qtr,Prior quarter operation efficiency percantage
+56,mdl31_ab1_om_pct_prior_y,Prior year operation efficiency percantage
+57,mdl31_ab1_om_pct_t4q,Trailing 4 quarter operation efficiency percantage
+58,mdl31_ab1_pb_current,Current price to book ratio
+59,mdl31_ab1_pb_last_qtr,Last quarter price to book ratio
+60,mdl31_ab1_pb_last_y,Last year price to book ratio
+61,mdl31_ab1_pb_prior_qtr,Prior quarter price to book ratio
+62,mdl31_ab1_pb_prior_y,Prior year  price to book ratio
+63,mdl31_ab1_pricesales_current,Current price to sales ratio
+64,mdl31_ab1_pricesales_last_qtr,Last quarter price to sales ratio
+65,mdl31_ab1_pricesales_last_y,Last year price to sales ratio
+66,mdl31_ab1_pricesales_prior_qtr,Prior quarter price to sales ratio
+67,mdl31_ab1_pricesales_prior_y,Prior year price to sales ratio
+68,mdl31_ab1_q4t_mm_fcf,Trailing 4 quarter Free Cash from Operations
+69,mdl31_ab1_roe_pct_last_qtr,Last quarter returrn on equity
+70,mdl31_ab1_roe_pct_last_y,Last year quarter returrn on equity
+71,mdl31_ab1_roe_pct_prior_qtr,Prior quarter quarter returrn on equity
+72,mdl31_ab1_roe_pct_prior_y,Prior year quarter returrn on equity
+73,mdl31_ab1_roe_pct_t4q,Trailing 4 quarter quarter returrn on equity
+74,star_eq_accruals_rank,Current region-relative 1 to 100 percentile Accruals Component score. 100 is the best and 1 is the worst.
+75,star_eq_cashflow_rank,Current value of a percentile rank that reflects only the Cash Flow factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks. Requires Fundamental Module permissions.
+76,star_eq_exclusions_rank,Current value of A percentile rank that reflects only the Exclusions factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks.
+77,star_eq_ope_rank,Current value of A percentile rank that reflects only the Operating Efficiency factors of the Earnings Quality Model. Scores of 100 indicate the highest rated stocks; scores of 1 indicate the lowest rated stocks
+78,star_eq_rank,Current Earnings Quality Region Rank before beta neutralization. Scores of 100 indicate the highest rated stocks in the country; scores of 1 indicate the lowest rated stocks in the country.
+79,star_eq_region_rank,Current Earnings Quality Region Rank. Scores of 100 indicate the highest rated stocks in the region; scores of 1 indicate the lowest rated stocks in the region.

@@ -1,0 +1,85 @@
+   ,id                                        ,description
+ 0 ,oth143_5dayrolling_gbda_broker_count      ,Count of Unique IDs of GBDA Participants. GDBA stands for Global Broker Dealer Aggregation. An aggregate view of a fixed list of nine Global Broker Dealer peer firms.
+ 1 ,oth143_5dayrolling_gbda_concentration     ,Summation of Global Broker Dealers' market share squared.
+ 2 ,oth143_5dayrolling_gbda_rank1             ,Anonymous market share of most active Clearing ID in this category.
+ 3 ,oth143_5dayrolling_gbda_rank2             ,Anonymous market share of the second most active Clearing ID in this category.
+ 4 ,oth143_5dayrolling_gbda_rank3             ,Anonymous market share of the third most active Clearing ID in this category.
+ 5 ,oth143_5dayrolling_gbda_volume            ,Total GBDA sum of shares.
+ 6 ,oth143_5dayrolling_gbda_vwap              ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the GBDA.
+ 7 ,oth143_5dayrolling_industry_broker_count  ,"Count of Unique IDs of Industry Participants. Industry stands for An aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question."
+ 8 ,oth143_5dayrolling_industry_broker_rank1  ,Anonymous market share percentage of most active Clearing ID in this category.
+ 9 ,oth143_5dayrolling_industry_broker_rank2  ,Anonymous market share percentage of the second most active Clearing ID in this category.
+10 ,oth143_5dayrolling_industry_broker_rank3  ,Anonymous market share percentage of the third most active Clearing ID in this category.
+11 ,oth143_5dayrolling_industry_concentration ,Summation of Industry brokers' market shares squared.
+12 ,oth143_5dayrolling_industry_volume        ,Total Industry sum of shares.
+13 ,oth143_5dayrolling_industry_vwap          ,Volume Weighted Average Price. Calculated as an average of execution price weight by number of shares traded for the industry aggregate.
+14 ,oth143_5dayrolling_tier1_broker_rank1     ,Anonymous Market Share of most active Clearing ID in this category.
+15 ,oth143_5dayrolling_tier1_broker_rank2     ,Anonymous Market Share second most active Clearing ID in this category.
+16 ,oth143_5dayrolling_tier1_broker_rank3     ,Anonymous Market Share of third most active Clearing ID in this category.
+17 ,oth143_5dayrolling_tier1_concentration    ,Summation of Tier 1 brokers' market share squared.
+18 ,oth143_5dayrolling_tier1_unique_brokers   ,"Count of Unique IDs of Tier 1 Participants. Tier1 stands for an aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question for the ten most active NSCC clearing IDs, based on the total volume of all shares."
+19 ,oth143_5dayrolling_tier1_volume           ,Total Tier 1 sum of shares.
+20 ,oth143_5dayrolling_tier1_vwap             ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the Tier1 aggregate.
+21 ,oth143_buy_gbda_broker_count              ,Count of Unique IDs of GBDA Participants. GDBA stands for Global Broker Dealer Aggregation. An aggregate view of a fixed list of nine Global Broker Dealer peer firms.
+22 ,oth143_buy_gbda_concentration             ,Summation of Global Broker Dealers' market share squared.
+23 ,oth143_buy_gbda_rank1                     ,Anonymous market share of most active Clearing ID in this category.
+24 ,oth143_buy_gbda_rank2                     ,Anonymous market share of the second most active Clearing ID in this category.
+25 ,oth143_buy_gbda_rank3                     ,Anonymous market share of the third most active Clearing ID in this category.
+26 ,oth143_buy_gbda_volume                    ,Total GBDA sum of shares.
+27 ,oth143_buy_gbda_vwap                      ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the GBDA.
+28 ,oth143_buy_industry_broker_count          ,"Count of Unique IDs of Industry Participants. Industry stands for An aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question."
+29 ,oth143_buy_industry_broker_rank1          ,Anonymous market share percentage of most active Clearing ID in this category.
+30 ,oth143_buy_industry_broker_rank2          ,Anonymous market share percentage of the second most active Clearing ID in this category.
+31 ,oth143_buy_industry_broker_rank3          ,Anonymous market share percentage of the third most active Clearing ID in this category.
+32 ,oth143_buy_industry_concentration         ,Summation of Industry brokers' market shares squared.
+33 ,oth143_buy_industry_volume                ,Total Industry sum of shares.
+34 ,oth143_buy_industry_vwap                  ,Volume Weighted Average Price. Calculated as an average of execution price weight by number of shares traded for the industry aggregate.
+35 ,oth143_buy_tier1_broker_rank1             ,Anonymous Market Share of most active Clearing ID in this category.
+36 ,oth143_buy_tier1_broker_rank2             ,Anonymous Market Share second most active Clearing ID in this category.
+37 ,oth143_buy_tier1_broker_rank3             ,Anonymous Market Share of third most active Clearing ID in this category.
+38 ,oth143_buy_tier1_concentration            ,Summation of Tier 1 brokers' market share squared.
+39 ,oth143_buy_tier1_unique_brokers           ,"Count of Unique IDs of Tier 1 Participants. Tier1 stands for an aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question for the ten most active NSCC clearing IDs, based on the total volume of all shares."
+40 ,oth143_buy_tier1_volume                   ,Total Tier 1 sum of shares.
+41 ,oth143_buy_tier1_vwap                     ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the Tier1 aggregate.
+42 ,oth143_sell_gbda_broker_count             ,Count of Unique IDs of GBDA Participants. GDBA stands for Global Broker Dealer Aggregation. An aggregate view of a fixed list of nine Global Broker Dealer peer firms.
+43 ,oth143_sell_gbda_concentration            ,Summation of Global Broker Dealers' market share squared.
+44 ,oth143_sell_gbda_rank1                    ,Anonymous market share of most active Clearing ID in this category.
+45 ,oth143_sell_gbda_rank2                    ,Anonymous market share of the second most active Clearing ID in this category.
+46 ,oth143_sell_gbda_rank3                    ,Anonymous market share of the third most active Clearing ID in this category.
+47 ,oth143_sell_gbda_volume                   ,Total GBDA sum of shares.
+48 ,oth143_sell_gbda_vwap                     ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the GBDA.
+49 ,oth143_sell_industry_broker_count         ,"Count of Unique IDs of Industry Participants. Industry stands for An aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question."
+50 ,oth143_sell_industry_broker_rank1         ,Anonymous market share percentage of most active Clearing ID in this category.
+51 ,oth143_sell_industry_broker_rank2         ,Anonymous market share percentage of the second most active Clearing ID in this category.
+52 ,oth143_sell_industry_broker_rank3         ,Anonymous market share percentage of the third most active Clearing ID in this category.
+53 ,oth143_sell_industry_concentration        ,Summation of Industry brokers' market shares squared.
+54 ,oth143_sell_industry_volume               ,Total Industry sum of shares.
+55 ,oth143_sell_industry_vwap                 ,Volume Weighted Average Price. Calculated as an average of execution price weight by number of shares traded for the industry aggregate.
+56 ,oth143_sell_tier1_broker_rank1            ,Anonymous Market Share of most active Clearing ID in this category.
+57 ,oth143_sell_tier1_broker_rank2            ,Anonymous Market Share second most active Clearing ID in this category.
+58 ,oth143_sell_tier1_broker_rank3            ,Anonymous Market Share of third most active Clearing ID in this category.
+59 ,oth143_sell_tier1_concentration           ,Summation of Tier 1 brokers' market share squared.
+60 ,oth143_sell_tier1_unique_brokers          ,"Count of Unique IDs of Tier 1 Participants. Tier1 stands for an aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question for the ten most active NSCC clearing IDs, based on the total volume of all shares."
+61 ,oth143_sell_tier1_volume                  ,Total Tier 1 sum of shares.
+62 ,oth143_sell_tier1_vwap                    ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the Tier1 aggregate.
+63 ,oth143_short_sell_gbda_broker_count       ,Count of Unique IDs of GBDA Participants. GDBA stands for Global Broker Dealer Aggregation. An aggregate view of a fixed list of nine Global Broker Dealer peer firms.
+64 ,oth143_short_sell_gbda_concentration      ,Summation of Global Broker Dealers' market share squared.
+65 ,oth143_short_sell_gbda_rank1              ,Anonymous market share of most active Clearing ID in this category.
+66 ,oth143_short_sell_gbda_rank2              ,Anonymous market share of the second most active Clearing ID in this category.
+67 ,oth143_short_sell_gbda_rank3              ,Anonymous market share of the third most active Clearing ID in this category.
+68 ,oth143_short_sell_gbda_volume             ,Total GBDA sum of shares.
+69 ,oth143_short_sell_gbda_vwap               ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the GBDA.
+70 ,oth143_short_sell_industry_broker_count   ,"Count of Unique IDs of Industry Participants. Industry stands for An aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question."
+71 ,oth143_short_sell_industry_broker_rank1   ,Anonymous market share percentage of most active Clearing ID in this category.
+72 ,oth143_short_sell_industry_broker_rank2   ,Anonymous market share percentage of the second most active Clearing ID in this category.
+73 ,oth143_short_sell_industry_broker_rank3   ,Anonymous market share percentage of the third most active Clearing ID in this category.
+74 ,oth143_short_sell_industry_concentration  ,Summation of Industry brokers' market shares squared.
+75 ,oth143_short_sell_industry_volume         ,Total Industry sum of shares.
+76 ,oth143_short_sell_industry_vwap           ,Volume Weighted Average Price. Calculated as an average of execution price weight by number of shares traded for the industry aggregate.
+77 ,oth143_short_sell_tier1_broker_rank1      ,Anonymous Market Share of most active Clearing ID in this category.
+78 ,oth143_short_sell_tier1_broker_rank2      ,Anonymous Market Share second most active Clearing ID in this category.
+79 ,oth143_short_sell_tier1_broker_rank3      ,Anonymous Market Share of third most active Clearing ID in this category.
+80 ,oth143_short_sell_tier1_concentration     ,Summation of Tier 1 brokers' market share squared.
+81 ,oth143_short_sell_tier1_unique_brokers    ,"Count of Unique IDs of Tier 1 Participants. Tier1 stands for an aggregate view of all NSCC equity clearance activity for the date, symbol, and transaction type in question for the ten most active NSCC clearing IDs, based on the total volume of all shares."
+82 ,oth143_short_sell_tier1_volume            ,Total Tier 1 sum of shares.
+83 ,oth143_short_sell_tier1_vwap              ,Volume Weighted Average Price. Calculated as an average of execution price weighted by number of shares traded for the Tier1 aggregate.

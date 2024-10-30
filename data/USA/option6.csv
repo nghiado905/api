@@ -1,0 +1,133 @@
+,id,description
+0,opt6_1000dorhv,The 1000-day historical intraday volatility.
+1,opt6_10dorhv,The 10-day historical intraday volatility.
+2,opt6_120dorhv,The 120-day historical intraday volatility.
+3,opt6_1dorhv,The 1-day historical intraday volatility.
+4,opt6_20div,The 20 interpolated implied at-the-money volatility (calendar day).
+5,opt6_20dorhv,The 20 day historical intraday volatility (20 observations).
+6,opt6_252dorhv,The 252-day historical intraday volatility.
+7,opt6_2rtscf,goodness of fit of the 20-day forecast to the 20-day future statistical volatility.
+8,opt6_30div,The 20 day interpolated implied volatility.
+9,opt6_500dorhv,The 500-day historical intraday volatility.
+10,opt6_5dorhv,The 5-day historical intraday volatility
+11,opt6_60div,The 60 day interpolated implied volatility.
+12,opt6_60dorhv,The 60-day historical intraday volatility
+13,opt6_90div,The 90 day interpolated implied volatility.
+14,opt6_90dorhv,The 90-day historical intraday volatility.
+15,opt6_absavgernmv,Average Earnings Move percentage: an average of the absolute values of the stock price moves corresponding to the time of the next earnings announcement.
+16,opt6_am002vi,The 200 day moving average of the vendor 20day ex-earn implied volatility.
+17,opt6_asset_type,"Characterizes stock as easy-to-borrow (ETB), hard-to-borrow (HTB), dividend paying, stock ETF or Index with these codes: 0 - ETB_NO_DIV 1 - HTB 2 - HTB_DIV_PAYING 3 - ETB_DIV_PAYING 4 - INDEX 5 - ETF 6 - VIX_STYLE_EX 7 - ETF_QDIV_ON_EX 8 - ETF_MDIV_ON_EX 9 - INDEX_AMER_EX"
+18,opt6_bestetf,The closest SPDR Sector ETF (default to SPY or RUT if none).
+19,opt6_beta1m,Short term price beta with SPY for 30 calendar days
+20,opt6_beta1y,"Long term price beta, 365 calendar days."
+21,opt6_correletf1m,vendor 30 day implied volatility ex-earnings  correlation with the Best ETF 30 day IV over the last month.
+22,opt6_correletf1y,vendor 30 day implied volatility ex-earnings correlation with the SPDR Sector ETF 30 day IV over the last year.
+23,opt6_correlspy1m,vendor 30 day implied volatility ex-earnings correlation with SPY one month.
+24,opt6_correlspy1y,vendor 30 day implied volatility ex-earnings correlation with SPY one year.
+25,opt6_cvolu,Today's call option volume for all strikes for the current trading day.
+26,opt6_derivinf,Derivative infinite implied.
+27,opt6_derivinffcst,Forecast infinite derivative.
+28,opt6_divamt,Dividend amount.
+29,opt6_divfreq,Number of dividends per year.
+30,opt6_divyield,Annualized dividends divided by stock price.
+31,opt6_etfincl,The ETFs where the symbol is a component pipe delimited if multiple.
+32,opt6_etfivhvxernratio,30 day implied volatility ex-earning / HV20xErn Ratio divided by ETF 30day implied / HV20d ratio
+33,opt6_etfivhvxernratio1m,30 day implied volatility ex-earning / HV20xErn Ratio divided by ETF 30day implied / HV20d ratio month average
+34,opt6_etfivhvxernratio1y,30 day implied volatility ex-earning / HV20xErn Ratio divided by ETF 30day implied / HV20d ratio year average
+35,opt6_etfivhvxernratiostd1y,30 day implied volatility ex-earning / HV20xErn Ratio divided by ETF 30day implied / HV20d ratio year standard deviation.
+36,opt6_etfsloperatio,Slope divided by ETF slope current
+37,opt6_etfsloperatioavg1m,Slope divided by ETF slope month average
+38,opt6_etfsloperatioavg1y,Slope divided by ETF slope year average.
+39,opt6_etfsloperatioavgstd1y,Slope divided by ETF slope year standard deviation.
+40,opt6_fcstr2imp,The goodness of fit of the implied forecast vs actual implied in 20 days.
+41,opt6_impliediee,Market implied earnings effect is found by solving for a term structure equation where the earnings effects adjust the months affected by earnings.
+42,opt6_ioc,Total call open interest
+43,opt6_irate5wk,Short term risk-free interest rate from treasuries.
+44,opt6_iratelt,Long term risk-free interest rate from treasuries.
+45,opt6_ivetfratio,30 day implied volatility ex-earning divided by ETF 30 day vendor implied volatility
+46,opt6_ivetfratioavg1m,30 day implied volatility ex-earning divided by ETF 30 day vendor implied volatility 30 day average.
+47,opt6_ivetfratioavg1y,30 day implied volatility ex-earning divided by ETF 30 day vendor implied volatility one year average.
+48,opt6_ivetfratiostd1y,30 day implied volatility ex-earnings divided by ETF 30 day vendor implied volatility one year standard deviation.
+49,opt6_ivhvxernratio,30 day implied volatility ex-earnings / HV20xErn Ratio
+50,opt6_ivhvxernratio1m,30 day implied volatility ex-earnings/ HV20xErn Ratio vs month average.
+51,opt6_ivhvxernratio1y,30 day implied volatility ex-earnings/ HV20xErn Ratio vs yearly average.
+52,opt6_ivhvxernratiostd1y,30 day implied volatility ex-earnings/ HV20xErn Ratio vs yearly range standard deviation.
+53,opt6_ivpctile1m,Percentile of the current 30 day implied volatility ex-earnings  vs. month range
+54,opt6_ivpctile1y,Percentile of the current 30 day implied volatility ex-earnings  vs. year range
+55,opt6_ivpctileetf,Percentile of the current ETF 30 day implied volatility ex-earnings vs. year range.
+56,opt6_ivpctilespy,Percentile of the current 30 day implied volatility ex-earnings  / SPY vs. year range.
+57,opt6_ivspyratio,30 day implied volatility ex-earnings  divided by SPY 30 day vendor implied volatility.
+58,opt6_ivspyratioavg1m,30 day implied volatility ex-earning divided by SPY 30 day vendor implied volatility 30 day average.
+59,opt6_ivspyratioavg1y,30 day implied volatility ex-earnings  divided by SPY 30 day vendor implied volatility one year average.
+60,opt6_ivspyratiostd1y,30 day implied volatility ex-earnings  divided by SPY 30 day  vendor implied volatility one year standard deviation.
+61,opt6_ivstdev1y,The standard deviation of the 30 day implied volatility ex-earnings for the year.
+62,opt6_ivstdevsmean,Number of stdevs the 30 day implied volatility ex-earnings  is away from mean for the year
+63,opt6_kw1gnhcxpkts,Stock price change over 1 week
+64,opt6_lastern,Last earnings date
+65,opt6_lasterntod,Deprecated item.
+66,opt6_m1atmfitiv,Forecast of volatility for month 1 using the ex-earnings forecast plus the earnings effect at this days to expiration.
+67,opt6_m1gnhcxpkts,Stock price change over 1 month
+68,opt6_m2atmfitiv,The at-the-money monthly fit volatility for month 2.
+69,opt6_m3atmfitiv,The at-the-money monthly fit volatility for month 3.
+70,opt6_m4atmfitiv,The at-the-money monthly fit volatility for month 4
+71,opt6_m6gnhcxpkts,Stock price change over 6 months
+72,opt6_mktcap,Cap
+73,opt6_mktwidthvol,Market width in implied vol points at the interpolated 30 days to expiration.
+74,opt6_mktwidthvolinf,Market width in implied vol points at the interpolated 2 years to expiration.
+75,opt6_nexterntod,Deprecated item.
+76,opt6_nrexvifniro,Infinite implied option volatility.
+77,opt6_optvolu20davg,The average for the last 20 days of total options volume for the symbol.
+78,opt6_or20divfcst,The  forecast of implied volatility in 20 days with earnings taken out
+79,opt6_or20divxern,The 20 day interpolated implied option volatility with earnings effect taken out.
+80,opt6_poi,Total put open interest.
+81,opt6_pvolu,Today's put option volume for all strikes.
+82,opt6_px1kgam,The estimated cost of 1000 gamma per day for 30-day options.
+83,opt6_rip,The dollar amount of options to start ignoring in delta calculation.
+84,opt6_sector_des,Sector Description
+85,opt6_sector_num,The sector as derived by cusip number
+86,opt6_sectorname,SPDR short name of the sector.
+87,opt6_slcxp,Closing price on the prior trading day
+88,opt6_slope,The put call slope at the interpolated 30 calendar days of the tangent at 50 delta.
+89,opt6_slopeavg1m,Slope average for trailing month
+90,opt6_slopeavg1y,Slope average for trailing year
+91,opt6_slopefcst,Forecast of the slope of implied volatility skew. Could be compared to the actual slope.
+92,opt6_slopeinf,Implied infinite slope.
+93,opt6_slopeinffcst,Slope forecast infinite.
+94,opt6_slopepctile,The one-year percentile for the slope.
+95,opt6_slopestd1y,Standard deviation of the Slope.
+96,opt6_stkvolu,Total stock volume for the underlying
+97,opt6_tkover,0 - Not a takeover. 1 - A takeover or rumored takeover stock.
+98,opt6_tscfd02ro,The  forecast of stock volatility for the next 20 days based on data with earnings taken out
+99,opt6_tscffniro,"Forecast of the infinite implied volatility. Could be compared to actual implied volatility or actual infinite. The forecasts of the two year implied volatility are developed using long term ex-earnings historical volatility, ex-earnings implied volatility and the IV HV relationships, related ETF HV IV relationships."
+100,opt6_tscfvired,Forecast derivative at 30 day interpolated.
+101,opt6_vhslcd0001,The 1000-day historical close to close volatility.
+102,opt6_vhslcd005,The 500-day historical close to close volatility.
+103,opt6_vhslcd01,The 10-day historical close to close volatility.
+104,opt6_vhslcd02,The 20-day historical close to close volatility.
+105,opt6_vhslcd021,The 120-day historical close to close volatility.
+106,opt6_vhslcd06,The 60-day historical close to close volatility.
+107,opt6_vhslcd09,The 90-day historical close to close volatility.
+108,opt6_vhslcd252,The 252-day historical close to close volatility.
+109,opt6_vhslcd5,The 5-day historical close to close volatility.
+110,opt6_vim6,The 6 month interpolated implied volatility.
+111,opt6_vimta1m,Implied volatility for the first standard expiration.
+112,opt6_vimta2m,Implied volatility for month 2.
+113,opt6_vimta3m,Implied volatility for month 3.
+114,opt6_vimta4m,The at-the-money implied volatility for month 4
+115,opt6_vimtaxp,Stock price taken at time of IV calculation
+116,opt6_vired,Derivative or curvature of the monthly strikes at 30 day interpolated. The derivative is the change in the slope for every 10 delta increase in the call delta.
+117,opt6_vitscfmta1m,Forecast of volatility for month 1
+118,opt6_vitscfmta2m,Forecast of volatility for month 2.
+119,opt6_vitscfmta3m,Forecast of volatility for month 3.
+120,opt6_vitscfmta4m,Forecast of volatility for month 4.
+121,opt6_volofivol,Annualized standard deviation of  ex-earnings 30 day implied.
+122,opt6_volofvol,Annualized standard deviation of daily (1day) statistical volatility for one year.
+123,opt6_xetd1m,Days to expiration in month 1 standard expiration
+124,opt6_xetd2m,Days to expiration in month 2.
+125,opt6_xetd3m,Days to expiration in month 3.
+126,opt6_xetd4m,Days to expiration for month 4.
+127,opt6_xpslcm1,Stock price at the prior month (21 trading days ago).
+128,opt6_xpslcm6,Stock price at the prior 6 months (252/2) trading days ago.
+129,opt6_xpslcy1,Stock price at the prior year (252 trading days ago).
+130,opt6_xxpslckw1,Stock price at the prior week (5 trading days ago).
+131,opt6_y1gnhcxpkts,Stock price change over 1 year

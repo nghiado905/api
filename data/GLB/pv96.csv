@@ -1,0 +1,21 @@
+,id,description
+1,pv96_dvd_declared_dt,The date which a company announces a dividend distribution
+2,pv96_dvd_pay_dt,The date the company begins distribution of the earlier reported dividend
+3,pv96_dvd_record_dt,"The date, on the close of which the company considers holders of the security as being entitled to the dividend payment"
+4,pv96_dvd_sh_last,Net dividend amount per share of the most recently announced dividend
+5,pv96_dvd_typ_last,Most recent dividend type based upon the ex-date
+6,pv96_eqy_dvd_ex_flag,Indicates if today is the security's ex-dividend date
+7,pv96_eqy_dvd_sh_12m_net,Calculated by adding the net dividend amounts for all dividend types that have gone 'ex' over the past 12 months based on the dividend frequency
+8,pv96_eqy_dvd_sh_last,Dividend Per Share Last Net
+9,pv96_eqy_dvd_typ_last,Dividend Type
+10,pv96_eqy_last_dps_gross,Dividend Per Share Last (Gross)
+11,pv96_eqy_split_dt,The effective date on which a company's shares begin trading on a split adjusted basis
+12,pv96_eqy_split_ratio,This number describes the rate at which the company will be dividing their current shares outstanding
+13,pv96_last_dps_gross,The most recently announced gross dividend: the net dividend plus any tax credit where applicable
+14,pv96_m21_hs_dvd,Calculated by adding the gross dividend amounts for all dividend types that have gone 'ex' over the past 12 months based on the dividend frequency
+15,pv96_m21_hs_dvd_yqe,Dividend Per Share 12 Month (Gross)
+16,pv96_qerf_dvd,Number of times a year that the company pays a regular cash dividend
+17,pv96_qerf_dvd_yqe,Dividend Frequency
+18,pv96_td_xe_dvd,First date the security trades without entitlement to the current dividend
+19,pv96_ticketmap,Ticker Map
+20,pv96_ycnrc_dvd,Currency code in which the latest dividend is declared

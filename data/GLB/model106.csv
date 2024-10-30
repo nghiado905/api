@@ -1,0 +1,15 @@
+,id,description
+0,mdl106_country,country
+1,mdl106_dividend,dividend
+2,mdl106_fmb,bad market factor
+3,mdl106_fnb,bad news factor
+4,mdl106_global_evaluation,aggregate global rating
+5,mdl106_mkt_cap,market cap
+6,mdl106_pr,relative performance to country or region
+7,mdl106_price,price
+8,mdl106_risk,risk levels by historic price
+9,mdl106_rv,valuation rating
+10,mdl106_stars,aggregate stock performance
+11,mdl106_tre,earnings revenue trend
+12,mdl106_tt,technical reverse indicator
+13,mdl106_ycc,currency

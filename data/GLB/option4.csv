@@ -1,0 +1,10 @@
+,id,description
+0,opt4_adjfactor,The cumulative product of all the adjustment factors for this security as of this date.
+1,opt4_ask,"If this field is positive, then it is the high price for the security on this date. If it is negative, there was no trading on this date, and the field represents the closing ask price for the security."
+2,opt4_bid,"If this field is positive, then it is the low price for the security on this date. If it is negative, there was no trading on this date, and the field represents the closing bid price for the security"
+3,opt4_close,"If this field is positive, then it is the closing price for the security on this date. If it is negative, then it is the average of the closing bid and ask prices for the security on this date."
+4,opt4_open,"The opening price for this security, if available (equal to 0 if there is no opening price)."
+5,opt4_retfactor,"The cumulative product of all the adjustment factors for this security as of this date, including the effect of dividends."
+6,opt4_return,"The holding period return for this security, from the last good pricing date to this date. The holding period return is calculated as the total price appreciation for the security over the holding period (adjusted for splits and other price factor changes) plus the cast value of any distributions which go ex-dividend during the holding period, divided by the security's last available closing price (or bid-ask midpoint)."
+7,opt4_secpr_volume,The total volume for the option
+8,opt4_shareoutstanding,The total number of a company's publicly traded shares

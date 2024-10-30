@@ -1,0 +1,8 @@
+,id,description
+22,pv13_ompetitor_graphrank_auth_rank,the HITS authority score of competitors
+23,pv13_ompetitor_graphrank_hub_rank,the HITS hub score of competitors
+24,pv13_ompetitor_graphrank_page_rank,the PageRank score of competitors
+25,pv13_reveremap,Mapping data
+26,pv13_ustomer_graphrank_auth_rank,the HITS authority score of customers
+27,pv13_ustomer_graphrank_hub_rank,the HITS hub score of customers
+28,pv13_ustomer_graphrank_page_rank,the PageRank score of customers

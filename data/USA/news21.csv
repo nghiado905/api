@@ -1,0 +1,8 @@
+,id,description
+66,nws21_qerf,number of events.
+67,se_event_count,number of events.
+68,se_neg_score,number of negative words/number of all words.
+69,se_neg_words,numnber of negative words.
+70,se_pos_score,number of positive words/number of all words.
+71,se_pos_words,number of positive words.
+72,se_score,(number of positive words - number of negative words)/(number of positive words + number of negative words)

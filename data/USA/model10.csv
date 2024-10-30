@@ -1,0 +1,92 @@
+,id,description
+0,mdl10_avg_daily_volume,Average daily volume
+1,mdl10_call_put_eratio,10 day median of puts to calls premium ratio which measures the volume weighted average price of a stock's options
+2,mdl10_call_put_eratio_10_days,The premium ratio measures the volume weighted average price of a stock's options
+3,mdl10_call_put_ratio,Call Volume to Put Volume
+4,mdl10_call_put_ratio_10_day,10 day median of Call Volume to Put Volume
+5,mdl10_call_volume,Daily Call Volume - per contract
+6,mdl10_call_volume_10_day,10 day median of daily Call Volume - per contract
+7,mdl10_chop,"A creative indicator that uses fractal geometry as a way to measure price movement in a security. The values are between 0 and 100, the higher the index the choppier the price action is and the lower the index the more trending the price action."
+8,mdl10_close,Close price for the trading day
+9,mdl10_cusip,nine-digit identifier - seven numbers and two letter - identifying all US securities issued in book-entry or certificate form after 1970 (int)
+10,mdl10_dte,"An indicator used to measure the coincident trend underway. There are four ""states"" to this indicator: uptrend, pullback within an uptrend, downtrend and rally within a downtrend. (int)"
+11,mdl10_exchange,"Exchange equity is listed on - NYSE, AMEX or NASDAQ (int)"
+12,mdl10_exchange_code,"Exchange equity is listed on - displayed by a single letter code: A - AMEX, N - New York, O - NASDAQ (int)"
+13,mdl10_f_isr,"RSI (Relative Strength Index) is an attempt at improving the Momentum indicator's sensitivity to ""drop off"" days. Our value is a 14 day RSI. (float)"
+14,mdl10_float,Number of shares of a corporation that are outstanding and available for trading by the public.
+15,mdl10_future_juice_10_days,"These ""juice"" numbers are simply the seasonal cycle for a particular stock 10 trading days from now minus the current seasonal cycle value.Our seasonal cycle ranges from 0 to 100."
+16,mdl10_future_juice_20_days,"These ""juice"" numbers are simply the seasonal cycle for a particular stock 20 trading days from now minus the current seasonal cycle value.Our seasonal cycle ranges from 0 to 100."
+17,mdl10_future_juice_40_days,"These ""juice"" numbers are simply the seasonal cycle for a particular stock 40 trading days from now minus the current seasonal cycle value.Our seasonal cycle ranges from 0 to 100."
+18,mdl10_group_avg_power_rank,Power rank of the Group the stock belongs to
+19,mdl10_group_avg_short_rank,Short rank of the Group the stock belongs to
+20,mdl10_group_avg_tech_rank,Technical rank of the Group the stock belongs to
+21,mdl10_group_issue_count,Number of stocks classified in the corresponding group of the stock
+22,mdl10_group_issues_above_200,Number of issues in Group having a closing price is above 50 day moving average
+23,mdl10_group_issues_above_50,Number of issues in Group having a closing price is above 200 day moving average
+24,mdl10_group_long_sq_po,Group_type_2 and group_type_4 values added together.
+26,mdl10_group_rank,Relative Ranking system that compares all industry groups in the database. A ranking of 1 is the highest most positive ranking for an industry group. A ranking of 139 is the lowest most negative ranking for a group.
+27,mdl10_group_short_sq_po,Group_type_1 and group_type_3 values added together.
+28,mdl10_group_type_1,% of issues in Group that are currently Type1 (Short Squeeze)
+29,mdl10_group_type_2,% of issues in Group that are currently Type2 (Recognized Strenght)
+30,mdl10_group_type_3,% of issues in Group that are currently Type3 (Shorts are right)
+31,mdl10_group_type_4,% of issues in Group that are currently Type4 (Long Squeeze)
+32,mdl10_high,High price for the trading day
+33,mdl10_inst_ownership,Institutional ownership represented as a % of total outstanding shares.
+34,mdl10_isr,Mapping for mdl10_xiisr
+35,mdl10_issue,Name of Issue (int)
+36,mdl10_long_heat,Measures the percentage of the time seasonal strong zones overlap in prior years on the date in question.
+37,mdl10_long_zone_days,Measures the number of days remaining in the current long zone.
+38,mdl10_long_zone_juice,The seasonal cycle for a particular stock at the end of the current long zone minus the seasonal cycle for a particular stock at the date in question.
+39,mdl10_long_zone_rank,Long zone rank is the Seasonal long zone juice divided by the long zone days remaining.
+40,mdl10_low,Low price for the trading day
+41,mdl10_market_cap,Value of a corporation as determined by the market price of its issued and outstanding common stock.
+42,mdl10_open,Open price for the trading day
+43,mdl10_option_rank,"Option Rank is designed to identify overbought and oversold conditions with regard to individual stocks. The observations are stock-by-stock, and comprise daily trading elements."
+44,mdl10_power_rank,"Overall ranking utilizing both the technical rank and short rank, with more weighting going to the tech (55 to 45). Normalized on a 1 to 100 scale, 100 being positive and 1 being negative."
+45,mdl10_price_10_day_mva,10 day moving average value of the close price
+46,mdl10_price_15_day_mva,15 day moving average value of the close price
+47,mdl10_price_200_day_mva,200 day moving average value of the close price
+48,mdl10_price_20_day_mva,20 day moving average value of the close price
+49,mdl10_price_25_day_mva,25 day moving average value of the close price
+50,mdl10_price_30_day_mva,30 day moving average value of the close price
+51,mdl10_price_35_day_mva,35 day moving average value of the close price
+52,mdl10_price_40_day_mva,40 day moving average value of the close price
+53,mdl10_price_45_day_mva,45 day moving average value of the close price
+54,mdl10_price_50_day_mva,50 day moving average value of the close price
+55,mdl10_price_5_day_mva,5 day moving average value of the close price
+56,mdl10_price_65_day_mva,65 day moving average value of the close price
+57,mdl10_prior_short_rank,Previous reporting periods short rank value. Exchanges release short date roughly every two weeks
+58,mdl10_prior_short_ratio,Previous reporting periods short ratio. Exchanges release short date roughly every two weeks
+59,mdl10_put_call_eratio,Premium ratio measures the volume weighted average price of a stock's options
+60,mdl10_put_call_eratio_10_days,10 day median of puts to calls premium ratio which measures the volume weighted average price of a stock's options
+61,mdl10_put_call_ratio,Put Volume to Call Volume
+62,mdl10_put_call_ratio_10_day,10 day median of Put Volume to Call Volume
+63,mdl10_put_volume,Daily Put Volume - per contract
+64,mdl10_put_volume_10_day,10 day median of daily Put Volume - per contract
+65,mdl10_seasonality,The seasonal cycle is based on patterns associated with daily closing price action over the calendar year. The seasonal cycle is a composite of prior years of data  into one linear curve that is normalized to a scale of 0 to 100.
+66,mdl10_sector_avg_power_rank,Average power_rank of Sector
+67,mdl10_sector_avg_short_rank,Average short_rank of Sector
+68,mdl10_sector_avg_tech_rank,Average technical_rank of Sector
+69,mdl10_sector_issue_count,Number of stocks classified in the corresponding Sector of the stock
+70,mdl10_sector_issues_above_200,Number of issues in Sector having a closing price above 200 day moving average
+71,mdl10_sector_issues_above_50,Number of issues in Sector having a closing price above 50 day moving average
+72,mdl10_sector_long_sq_po,Sector Type 2% and Sector Type 4% values added together.
+73,mdl10_sector_name,Sector name (int)
+74,mdl10_sector_rank,Relative Ranking system that compare all 18 sectors in the database. A ranking of 1 is the highest most positive ranking for a sector. A ranking of 18 is the lowest most negative ranking for a sector.
+75,mdl10_sector_short_sq_po,Sector Type 1% and Sector Type 3% values added together.
+76,mdl10_sector_type_1,% of issues in Sector that are currently Type1 (Short Squeeze)
+77,mdl10_sector_type_2,% of issues in Sector that are currently Type2 (Recognized Strenght)
+78,mdl10_sector_type_3,% of issues in Sector that are currently Type3 (Shorts are right)
+79,mdl10_sector_type_4,% of issues in Sector that are currently Type4 (Long Squeeze)
+80,mdl10_shares_outstanding,Shares Outstanding
+81,mdl10_short_heat,Measures the percentage of the time seasonal weak zones overlap in prior years on the date in question.
+82,mdl10_short_rank,"A weighted percentage from 100 to 0 of the current short ratio relative to historical range. It looks back historically from the current months to 5 years to gage the current ""interest"" in shorting the individual stock."
+83,mdl10_short_ratio,Short ratio data is a normalized data by dividing current short interest by 12-month average daily volume
+84,mdl10_short_zone_days,Measures the number of days remaining in the current short zone.
+85,mdl10_short_zone_juice,The seasonal cycle for a particular stock at the end of the current short zone minus the seasonal cycle for a particular stock at the date in question.
+86,mdl10_short_zone_rank,Short zone rank is the short_zone_juice divided by the short_zone_days remaining.
+87,mdl10_tech_rank,Relative Strength ranking value utilizing proprietary pattern recognition software to classify stocks from 10 to 100. Variables used in the tech ranking are the weighted average price moves for the last 100 trading days.
+88,mdl10_technical_dma_high,6 Day Moving Average of the stocks daily high value
+89,mdl10_technical_dma_low,6 Day Moving Average of the stocks daily low value
+90,mdl10_type,Type of the stock: TYPE1-Buy (Short Squeeze); TYPE2-Hold (Recognized Strenght); TYPE3-Sell (Shorts Are Right); TYPE4-Short (Long Squeeze)
+91,mdl10_volume,Issues Daily Volume in 100's

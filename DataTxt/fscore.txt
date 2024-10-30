@@ -1,0 +1,1 @@
+fscore_growth,fscore_momentum,fscore_profitability,fscore_quality,fscore_surface,fscore_surface_accel,fscore_total,fscore_value

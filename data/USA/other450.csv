@@ -1,0 +1,15 @@
+,id,description
+0,oth450_mfm_use4_dsrt,Instrument Specific Returns in USA region
+1,oth450_mfm_use4_market,Instrument market membership factor loading in USA region
+2,oth450_mfm_use4_ri_beta,Beta style factor loading in USA region
+3,oth450_mfm_use4_ri_divyield,Dividend yield style factor loading in USA region
+4,oth450_mfm_use4_ri_earnyield,Earnings Yield style factor loading in USA region
+5,oth450_mfm_use4_ri_growth,Growth style factor loading in USA region
+6,oth450_mfm_use4_ri_leverage,Leverage style factor loading in USA region
+7,oth450_mfm_use4_ri_momentum,Momentum style factor loading in USA region
+8,oth450_mfm_use4_ri_nonlbeta,Non linear beta style factor loading in USA region
+9,oth450_mfm_use4_ri_nonlsize,Non linear size style factor loading in USA region
+10,oth450_mfm_use4_ri_size,Size style factor loading in USA region
+11,oth450_mfm_use4_ri_value,Value style factor loading in USA region
+12,oth450_mfm_use4_ri_volatility,Volatility style factor loading in USA region
+13,oth450_mfm_use4_srisk,Instrument specific risk in USA region

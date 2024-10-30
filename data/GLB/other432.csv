@@ -1,0 +1,346 @@
+,id,description
+0,oth432_acae_mae,Mean Average Error of the model of Cash & Equivalents
+1,oth432_acae_predict,Predict value of Cash & Equivalents
+2,oth432_aint_mae,"Mean Average Error of the model of Intangibles, Net"
+3,oth432_aint_predict,"Predict value of Intangibles, Net"
+4,oth432_appn_mae,"Mean Average Error of the model of Property/Plant/Equipment, Total - Net"
+5,oth432_appn_predict,"Predict value of Property/Plant/Equipment, Total - Net"
+6,oth432_apq_mae,Mean Average Error of the model of Account Payable/Creditors - Trade of Account Payable/Creditors - Trade
+7,oth432_apq_predict,Predict value of Account Payable/Creditors - Trade of Account Payable/Creditors - Trade
+8,oth432_assets_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+9,oth432_assets_otlo_predict,Predict value of Cash from Operating Activities
+10,oth432_atca_mae,Mean Average Error of the model of Total Current Assets
+11,oth432_atca_predict,Predict value of Total Current Assets
+12,oth432_atot_mae,Mean Average Error of the model of Total Assets
+13,oth432_atot_predict,Predict value of Total Assets
+14,oth432_atrc_mae,"Mean Average Error of the model of Total Receivables, Net"
+15,oth432_atrc_predict,"Predict value of Total Receivables, Net"
+16,oth432_capital_otlo_predict,Predict value of Cash from Operating Activities
+17,oth432_cash_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+18,oth432_cash_otlo_predict,Predict value of Cash from Operating Activities
+19,oth432_cash_rtlr_mae,Mean Average Error of the model of Total Revenue
+20,oth432_cash_rtlr_predict,Predict value of Total Revenue
+21,oth432_cashflows_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+22,oth432_cashflows_otlo_predict,Predict value of Cash from Operating Activities
+23,oth432_cashflows_rtlr_mae,Mean Average Error of the model of Total Revenue
+24,oth432_cashflows_rtlr_predict,Predict value of Total Revenue
+25,oth432_cheq_mae,Mean Average Error of the model of Cash and Short-Term Investments of Cash and Short-Term Investments
+26,oth432_cheq_predict,Predict value of Cash and Short-Term Investments of Cash and Short-Term Investments
+27,oth432_ciac_mae,Mean Average Error of the model of Income Available to Com Excl ExtraOrd
+28,oth432_ciac_predict,Predict value of Income Available to Com Excl ExtraOrd
+29,oth432_compustatpredictiveacoq_mad_act,Mean Absolute Deviation of scaled actual value of Other Current Assets
+30,oth432_compustatpredictiveacoq_mad_pred,Mean Absolute Deviation of predicted value of Other Current Assets
+31,oth432_compustatpredictiveacoq_mae,Mean Average Error of the model of Other Current Assets
+32,oth432_compustatpredictiveacoq_prediction,Predict value of Other Current Assets
+33,oth432_compustatpredictiveancq_mad_act,Mean Absolute Deviation of scaled actual value of Non-current Assets
+34,oth432_compustatpredictiveancq_mad_pred,Mean Absolute Deviation of predicted value of Non-current Assets
+35,oth432_compustatpredictiveancq_mae,Mean Average Error of the model of Non-current Assets
+36,oth432_compustatpredictiveancq_prediction,Predict value of Non-current Assets
+37,oth432_compustatpredictiveapq_mad_act,Mean Absolute Deviation of scaled actual value of Accounts Payable
+38,oth432_compustatpredictiveapq_mad_pred,Mean Absolute Deviation of predicted value of Accounts Payable
+39,oth432_compustatpredictiveapq_mae,Mean Average Error of the model of Accounts Payable
+40,oth432_compustatpredictiveapq_prediction,Predict value of Accounts Payable
+41,oth432_compustatpredictiveatq_mad_act,Mean Absolute Deviation of scaled actual value of Total Assets
+42,oth432_compustatpredictiveatq_mad_pred,Mean Absolute Deviation of predicted value of Total Assets
+43,oth432_compustatpredictiveatq_mae,Mean Average Error of the model of Total Assets
+44,oth432_compustatpredictiveatq_prediction,Predict value of Total Assets
+45,oth432_compustatpredictivecheq_mad_act,Mean Absolute Deviation of scaled actual value of Cash and Short-term Investments
+46,oth432_compustatpredictivecheq_mad_pred,Mean Absolute Deviation of predicted value of Cash and Short-term Investments
+47,oth432_compustatpredictivecheq_mae,Mean Average Error of the model of Cash and Short-term Investments
+48,oth432_compustatpredictivecheq_prediction,Predict value of Cash and Short-term Investments
+49,oth432_compustatpredictivecogsq_mad_act,Mean Absolute Deviation of scaled actual value of Quarterly Cost of Goods Sold
+50,oth432_compustatpredictivecogsq_mad_pred,Mean Absolute Deviation of predicted value of Quarterly Cost of Goods Sold
+51,oth432_compustatpredictivecogsq_mae,Mean Average Error of the model of Quarterly Cost of Goods Sold
+52,oth432_compustatpredictivecogsq_prediction,Predict value of Quarterly Cost of Goods Sold
+53,oth432_compustatpredictivedlttq_mad_act,Mean Absolute Deviation of scaled actual value of Long-term Debt
+54,oth432_compustatpredictivedlttq_mad_pred,Mean Absolute Deviation of predicted value of Long-term Debt
+55,oth432_compustatpredictivedlttq_mae,Mean Average Error of the model of Long-term Debt
+56,oth432_compustatpredictivedlttq_prediction,Predict value of Long-term Debt
+57,oth432_compustatpredictiveepsfiq_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Diluted), including extraordinary items"
+58,oth432_compustatpredictiveepsfiq_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Diluted), including extraordinary items"
+59,oth432_compustatpredictiveepsfiq_mae,"Mean Average Error of the model of Earnings per Share(Diluted), including extraordinary items"
+60,oth432_compustatpredictiveepsfiq_prediction,"Predict value of Earnings per Share(Diluted), including extraordinary items"
+61,oth432_compustatpredictiveepsfxq_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Diluted), excluding extraordinary items"
+62,oth432_compustatpredictiveepsfxq_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Diluted), excluding extraordinary items"
+63,oth432_compustatpredictiveepsfxq_mae,"Mean Average Error of the model of Earnings per Share(Diluted), excluding extraordinary items"
+64,oth432_compustatpredictiveepsfxq_prediction,"Predict value of Earnings per Share(Diluted), excluding extraordinary items"
+65,oth432_compustatpredictiveepspiq_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Basic), including extraordinary items"
+66,oth432_compustatpredictiveepspiq_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Basic), including extraordinary items"
+67,oth432_compustatpredictiveepspiq_mae,"Mean Average Error of the model of Earnings per Share(Basic), including extraordinary items"
+68,oth432_compustatpredictiveepspiq_prediction,"Predict value of Earnings per Share(Basic), including extraordinary items"
+69,oth432_compustatpredictiveepsx12_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+70,oth432_compustatpredictiveepsx12_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+71,oth432_compustatpredictiveepsx12_mae,"Mean Average Error of the model of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+72,oth432_compustatpredictiveepsx12_prediction,"Predict value of Earnings per Share(Basic), excluding extraordinary items, 12 months moving"
+73,oth432_compustatpredictivegdwlq_mad_act,Mean Absolute Deviation of scaled actual value of Goodwill
+74,oth432_compustatpredictivegdwlq_mad_pred,Mean Absolute Deviation of predicted value of Goodwill
+75,oth432_compustatpredictivegdwlq_mae,Mean Average Error of the model of Goodwill
+76,oth432_compustatpredictivegdwlq_prediction,Predict value of Goodwill
+77,oth432_compustatpredictiveintanoq_mad_act,Mean Absolute Deviation of scaled actual value of Other Intangibles
+78,oth432_compustatpredictiveintanoq_mad_pred,Mean Absolute Deviation of predicted value of Other Intangibles
+79,oth432_compustatpredictiveintanoq_mae,Mean Average Error of the model of Other Intangibles
+80,oth432_compustatpredictiveintanoq_prediction,Predict value of Other Intangibles
+81,oth432_compustatpredictiveinvtq_mad_act,Mean Absolute Deviation of scaled actual value of Total Inventories
+82,oth432_compustatpredictiveinvtq_mad_pred,Mean Absolute Deviation of predicted value of Total Inventories
+83,oth432_compustatpredictiveinvtq_mae,Mean Average Error of the model of Total Inventories
+84,oth432_compustatpredictiveinvtq_prediction,Predict value of Total Inventories
+85,oth432_compustatpredictivelctq_mad_act,Mean Absolute Deviation of scaled actual value of Total Current Liabilities
+86,oth432_compustatpredictivelctq_mad_pred,Mean Absolute Deviation of predicted value of Total Current Liabilities
+87,oth432_compustatpredictivelctq_mae,Mean Average Error of the model of Total Current Liabilities
+88,oth432_compustatpredictivelctq_prediction,Predict value of Total Current Liabilities
+89,oth432_compustatpredictiveltq_mad_act,Mean Absolute Deviation of scaled actual value of Total Liabilities
+90,oth432_compustatpredictiveltq_mad_pred,Mean Absolute Deviation of predicted value of Total Liabilities
+91,oth432_compustatpredictiveltq_mae,Mean Average Error of the model of Total Liabilities
+92,oth432_compustatpredictiveltq_prediction,Predict value of Total Liabilities
+93,oth432_compustatpredictiveniq_mad_act,Mean Absolute Deviation of scaled actual value of Net Income
+94,oth432_compustatpredictiveniq_mad_pred,Mean Absolute Deviation of predicted value of Net Income
+95,oth432_compustatpredictiveniq_mae,Mean Average Error of the model of Net Income
+96,oth432_compustatpredictiveniq_prediction,Predict value of Net Income
+97,oth432_compustatpredictiveoeps12_mad_act,"Mean Absolute Deviation of scaled actual value of Earnings per Share from Operations, 12 months moving"
+98,oth432_compustatpredictiveoeps12_mad_pred,"Mean Absolute Deviation of predicted value of Earnings per Share from Operations, 12 months moving"
+99,oth432_compustatpredictiveoeps12_mae,"Mean Average Error of the model of Earnings per Share from Operations, 12 months moving"
+100,oth432_compustatpredictiveoeps12_prediction,"Predict value of Earnings per Share from Operations, 12 months moving"
+101,oth432_compustatpredictiveoiadpq_mad_act,Mean Absolute Deviation of scaled actual value of Operating income after Depreciation
+102,oth432_compustatpredictiveoiadpq_mad_pred,Mean Absolute Deviation of predicted value of Operating income after Depreciation
+103,oth432_compustatpredictiveoiadpq_mae,Mean Average Error of the model of Operating income after Depreciation
+104,oth432_compustatpredictiveoiadpq_prediction,Predict value of Operating income after Depreciation
+105,oth432_compustatpredictivepiq_mad_act,Mean Absolute Deviation of scaled actual value of Pretax Income
+106,oth432_compustatpredictivepiq_mad_pred,Mean Absolute Deviation of predicted value of Pretax Income
+107,oth432_compustatpredictivepiq_mae,Mean Average Error of the model of Pretax Income
+108,oth432_compustatpredictivepiq_prediction,Predict value of Pretax Income
+109,oth432_compustatpredictiveppentq_mad_act,Mean Absolute Deviation of scaled actual value of Property Plant and Equipment - Total (Net)
+110,oth432_compustatpredictiveppentq_mad_pred,Mean Absolute Deviation of predicted value of Property Plant and Equipment - Total (Net)
+111,oth432_compustatpredictiveppentq_mae,Mean Average Error of the model of Property Plant and Equipment - Total (Net)
+112,oth432_compustatpredictiveppentq_prediction,Predict value of Property Plant and Equipment - Total (Net)
+113,oth432_compustatpredictiverectq_mad_act,Mean Absolute Deviation of scaled actual value of Receivables - Total
+114,oth432_compustatpredictiverectq_mad_pred,Mean Absolute Deviation of predicted value of Receivables - Total
+115,oth432_compustatpredictiverectq_mae,Mean Average Error of the model of Receivables - Total
+116,oth432_compustatpredictiverectq_prediction,Predict value of Receivables - Total
+117,oth432_compustatpredictiverevtq_mad_act,Mean Absolute Deviation of scaled actual value of Revenue - Total
+118,oth432_compustatpredictiverevtq_mad_pred,Mean Absolute Deviation of predicted value of Revenue - Total
+119,oth432_compustatpredictiverevtq_mae,Mean Average Error of the model of Revenue - Total
+120,oth432_compustatpredictiverevtq_prediction,Predict value of Revenue - Total
+121,oth432_compustatpredictivetxtq_mad_act,Mean Absolute Deviation of scaled actual value of Income Taxes - Total
+122,oth432_compustatpredictivetxtq_mad_pred,Mean Absolute Deviation of predicted value of Income Taxes - Total
+123,oth432_compustatpredictivetxtq_mae,Mean Average Error of the model of Income Taxes - Total
+124,oth432_compustatpredictivetxtq_prediction,Predict value of Income Taxes - Total
+125,oth432_compustatpredictivexintq_mad_act,Mean Absolute Deviation of scaled actual value of Interest and Related Expense- Total
+126,oth432_compustatpredictivexintq_mad_pred,Mean Absolute Deviation of predicted value of Interest and Related Expense- Total
+127,oth432_compustatpredictivexintq_mae,Mean Average Error of the model of Interest and Related Expense- Total
+128,oth432_compustatpredictivexintq_prediction,Predict value of Interest and Related Expense- Total
+129,oth432_currents_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+130,oth432_currents_otlo_predict,Predict value of Cash from Operating Activities
+131,oth432_ddps1_predict,Predict value of DPS - Common Stock Primary Issue
+132,oth432_debt_rtlr_mae,Mean Average Error of the model of Total Revenue
+133,oth432_debt_rtlr_predict,Predict value of Total Revenue
+134,oth432_deltapredictebit_a_mae,Mean Average Error of the model of Earnings before Interest and Tax
+135,oth432_deltapredictebit_a_predict,Predict value of Earnings before Interest and Tax
+136,oth432_deltapredictebit_q_mae,Mean Average Error of the model of Earnings before Interest and Tax
+137,oth432_deltapredictebit_q_predict,Predict value of Earnings before Interest and Tax
+138,oth432_deltapredictebit_ttm_mae,Mean Average Error of the model of Earnings before Interest and Tax
+139,oth432_deltapredictebit_ttm_predict,Predict value of Earnings before Interest and Tax
+140,oth432_deltapredictebitd_a_mae,"Mean Average Error of the model of Earnings before Interest,Tax and Depreciation"
+141,oth432_deltapredictebitd_a_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+142,oth432_deltapredictebitd_q_mae,"Mean Average Error of the model of Earnings before Interest,Tax and Depreciation"
+143,oth432_deltapredictebitd_q_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+144,oth432_deltapredictebitd_ttm_mae,"Mean Average Error of the model of Earnings before Interest,Tax and Depreciation"
+145,oth432_deltapredictebitd_ttm_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+146,oth432_deltapredictebt_a_mae,Mean Average Error of the model of Earnings before tax
+147,oth432_deltapredictebt_a_predict,Predict value of Earnings before tax
+148,oth432_deltapredictebt_q_mae,Mean Average Error of the model of Earnings before tax
+149,oth432_deltapredictebt_q_predict,Predict value of Earnings before tax
+150,oth432_deltapredictebt_ttm_mae,Mean Average Error of the model of Earnings before tax
+151,oth432_deltapredictebt_ttm_predict,Predict value of Earnings before tax
+152,oth432_deltapredictev_cur_mae,Mean Average Error of the model of Enterprise Value
+153,oth432_deltapredictev_cur_predict,Predict value of Enterprise Value
+154,oth432_deltapredictfcf_a_predict,Predict value of Free Cash Flow
+155,oth432_deltapredictfcf_q_predict,Predict value of Free Cash Flow
+156,oth432_deltapredictfcf_ttm_predict,Predict value of Free Cash Flow
+157,oth432_deltapredictni_a_mae,Mean Average Error of the model of Net Income
+158,oth432_deltapredictni_a_predict,Predict value of Net Income
+159,oth432_deltapredictni_q_mae,Mean Average Error of the model of Net Income
+160,oth432_deltapredictni_q_predict,Predict value of Net Income
+161,oth432_deltapredictni_ttm_mae,Mean Average Error of the model of Net Income
+162,oth432_deltapredictni_ttm_predict,Predict value of Net Income
+163,oth432_deltapredictrev_a_predict,Predict value of Revenue - Total
+164,oth432_deltapredictrev_q_predict,Predict value of Revenue - Total
+165,oth432_deltapredictrev_ttm_predict,Predict value of Revenue - Total
+166,oth432_deltapredicttotd_a_mae,Mean Average Error of the model of Total Debt
+167,oth432_deltapredicttotd_a_predict,Predict value of Total Debt
+168,oth432_deltapredicttotd_q_mae,Mean Average Error of the model of Total Debt
+169,oth432_deltapredicttotd_q_predict,Predict value of Total Debt
+170,oth432_dlttq_mae,Mean Average Error of the model of Long-Term Debt - Total of Long-Term Debt - Total
+171,oth432_dlttq_predict,Predict value of Long-Term Debt - Total of Long-Term Debt - Total
+172,oth432_fldn_mae,"Mean Average Error of the model of Long Term Debt, Net"
+173,oth432_fldn_predict,"Predict value of Long Term Debt, Net"
+174,oth432_flows_acae_mae,Mean Average Error of the model of Cash & Equivalents
+175,oth432_flows_acae_predict,Predict value of Cash & Equivalents
+176,oth432_fprd_mae,"Mean Average Error of the model of Issuance (Retirement) of Debt, Net"
+177,oth432_fprd_predict,"Predict value of Issuance (Retirement) of Debt, Net"
+178,oth432_ftlf_mae,Mean Average Error of the model of Cash from Financing Activities
+179,oth432_ftlf_predict,Predict value of Cash from Financing Activities
+180,oth432_income_otlo_mae,Mean Average Error of the model of Cash from Operating Activities
+181,oth432_income_otlo_predict,Predict value of Cash from Operating Activities
+182,oth432_itli_mae,Mean Average Error of the model of Cash from Investing Activities
+183,oth432_itli_predict,Predict value of Cash from Investing Activities
+184,oth432_lapb_mae,Mean Average Error of the model of Accounts Payable
+185,oth432_lapb_predict,Predict value of Accounts Payable
+186,oth432_lctq_mae,Mean Average Error of the model of Current Liabilities - Total of Current Liabilities - Total
+187,oth432_lctq_predict,Predict value of Current Liabilities - Total of Current Liabilities - Total
+188,oth432_ltcl_mae,Mean Average Error of the model of Total Current Liabilities
+189,oth432_ltcl_predict,Predict value of Total Current Liabilities
+190,oth432_ltq_mae,Mean Average Error of the model of Liabilities - Total of Liabilities - Total
+191,oth432_ltq_predict,Predict value of Liabilities - Total of Liabilities - Total
+192,oth432_ninc_mae,Mean Average Error of the model of Net Income (Loss) - Nonconsolidated
+193,oth432_ninc_predict,Predict value of Net Income (Loss) - Nonconsolidated
+194,oth432_ppentq_mae,Mean Average Error of the model of Property Plant and Equipment - Total (Net) of Property Plant and Equipment - Total (Net)
+195,oth432_ppentq_predict,Predict value of Property Plant and Equipment - Total (Net) of Property Plant and Equipment - Total (Net)
+196,oth432_predictiveebit_a_predict,Predict value of Earnings before Interest and Tax
+197,oth432_predictiveebit_q_predict,Predict value of Earnings before Interest and Tax
+198,oth432_predictiveebit_ttm_predict,Predict value of Earnings before Interest and Tax
+199,oth432_predictiveebitd_a_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+200,oth432_predictiveebitd_q_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+201,oth432_predictiveebitd_ttm_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+202,oth432_predictiveebt_a_predict,Predict value of Earnings before tax
+203,oth432_predictiveebt_q_predict,Predict value of Earnings before tax
+204,oth432_predictiveebt_ttm_predict,Predict value of Earnings before tax
+205,oth432_predictiveev_cur_mae,Mean Average Error of the model of Enterprise Value
+206,oth432_predictiveev_cur_predict,Predict value of Enterprise Value
+207,oth432_predictivefcf_a_predict,Predict value of Free Cash Flow
+208,oth432_predictivefcf_q_predict,Predict value of Free Cash Flow
+209,oth432_predictivefcf_ttm_predict,Predict value of Free Cash Flow
+210,oth432_predictiveni_a_predict,Predict value of Net Income
+211,oth432_predictiveni_q_predict,Predict value of Net Income
+212,oth432_predictiveni_ttm_predict,Predict value of Net Income
+213,oth432_predictiverev_a_predict,Predict value of Revenue - Total
+214,oth432_predictiverev_q_predict,Predict value of Revenue - Total
+215,oth432_predictiverev_ttm_predict,Predict value of Revenue - Total
+216,oth432_predictivetotd_a_predict,Predict value of Total Debt
+217,oth432_predictivetotd_q_predict,Predict value of Total Debt
+218,oth432_qtll_predict,Predict value of Total Equity & Minority Interest
+219,oth432_rectq_mae,Mean Average Error of the model of Receivables - Total of Receivables - Total
+220,oth432_rectq_predict,Predict value of Receivables - Total of Receivables - Total
+221,oth432_sbda_mae,Mean Average Error of the model of Normalized EBITDA
+222,oth432_sbda_predict,Predict value of Normalized EBITDA
+223,oth432_scex_predict,Predict value of Capital Expenditures
+224,oth432_scor_mae,"Mean Average Error of the model of Cost of Revenue, Total"
+225,oth432_scor_predict,"Predict value of Cost of Revenue, Total"
+226,oth432_scsi_mae,Mean Average Error of the model of Cash and Short Term Investments
+227,oth432_scsi_predict,Predict value of Cash and Short Term Investments
+228,oth432_scui_mae,Mean Average Error of the model of Total Current Assets less Inventory
+229,oth432_scui_predict,Predict value of Total Current Assets less Inventory
+230,oth432_sgrp_mae,Mean Average Error of the model of Gross Profit
+231,oth432_sgrp_predict,Predict value of Gross Profit
+232,oth432_sncc_mae,Mean Average Error of the model of Net Change in Cash
+233,oth432_sncc_predict,Predict value of Net Change in Cash
+234,oth432_snce_mae,Mean Average Error of the model of Net Cash - Ending Balance
+235,oth432_snce_predict,Predict value of Net Cash - Ending Balance
+236,oth432_sntd_mae,Mean Average Error of the model of Net Debt Incl. Pref.Stock & Min.Interest
+237,oth432_sntd_predict,Predict value of Net Debt Incl. Pref.Stock & Min.Interest
+238,oth432_socf_predict,Predict value of Changes in Working Capital
+239,oth432_srev_mae,Mean Average Error of the model of Revenue
+240,oth432_srev_predict,Predict value of Revenue
+241,oth432_stbp_mae,"Mean Average Error of the model of Tangible Book Value per Share, Common Eq"
+242,oth432_stbp_predict,"Predict value of Tangible Book Value per Share, Common Eq"
+243,oth432_stld_mae,Mean Average Error of the model of Total Debt
+244,oth432_stld_predict,Predict value of Total Debt
+245,oth432_trkdpitpredictiveaccpayable_mad_act,Mean Absolute Deviation of scaled actual value of Account Payable
+246,oth432_trkdpitpredictiveaccpayable_mad_pred,Mean Absolute Deviation of predicted value of Account Payable
+247,oth432_trkdpitpredictiveaccpayable_mae,Mean Average Error of the model of Account Payable
+248,oth432_trkdpitpredictiveaccpayable_prediction,Predict value of Account Payable
+249,oth432_trkdpitpredictivecapex_mad_act,Mean Absolute Deviation of scaled actual value of Capital Expenditure
+250,oth432_trkdpitpredictivecapex_mad_pred,Mean Absolute Deviation of predicted value of Capital Expenditure
+251,oth432_trkdpitpredictivecapex_mae,Mean Average Error of the model of Capital Expenditure
+252,oth432_trkdpitpredictivecapex_prediction,Predict value of Capital Expenditure
+253,oth432_trkdpitpredictivecfo_mad_act,Mean Absolute Deviation of scaled actual value of CFO
+254,oth432_trkdpitpredictivecfo_mad_pred,Mean Absolute Deviation of predicted value of CFO
+255,oth432_trkdpitpredictivecfo_mae,Mean Average Error of the model of CFO
+256,oth432_trkdpitpredictivecfo_prediction,Predict value of CFO
+257,oth432_trkdpitpredictivecogs_mad_act,Mean Absolute Deviation of scaled actual value of Cost of Goods sold
+258,oth432_trkdpitpredictivecogs_mad_pred,Mean Absolute Deviation of predicted value of Cost of Goods sold
+259,oth432_trkdpitpredictivecogs_mae,Mean Average Error of the model of Cost of Goods sold
+260,oth432_trkdpitpredictivecogs_prediction,Predict value of Cost of Goods sold
+261,oth432_trkdpitpredictivecurrassets_mad_act,Mean Absolute Deviation of scaled actual value of Current Assets
+262,oth432_trkdpitpredictivecurrassets_mad_pred,Mean Absolute Deviation of predicted value of Current Assets
+263,oth432_trkdpitpredictivecurrassets_mae,Mean Average Error of the model of Current Assets
+264,oth432_trkdpitpredictivecurrassets_prediction,Predict value of Current Assets
+265,oth432_trkdpitpredictivecurrliabilities_mad_act,Mean Absolute Deviation of scaled actual value of Current Liabilities
+266,oth432_trkdpitpredictivecurrliabilities_mad_pred,Mean Absolute Deviation of predicted value of Current Liabilities
+267,oth432_trkdpitpredictivecurrliabilities_mae,Mean Average Error of the model of Current Liabilities
+268,oth432_trkdpitpredictivecurrliabilities_prediction,Predict value of Current Liabilities
+269,oth432_trkdpitpredictivedebtissuance_mad_act,Mean Absolute Deviation of scaled actual value of Debt Issuance
+270,oth432_trkdpitpredictivedebtissuance_mad_pred,Mean Absolute Deviation of predicted value of Debt Issuance
+271,oth432_trkdpitpredictivedebtissuance_mae,Mean Average Error of the model of Debt Issuance
+272,oth432_trkdpitpredictivedebtissuance_prediction,Predict value of Debt Issuance
+273,oth432_trkdpitpredictivedps_mad_act,Mean Absolute Deviation of scaled actual value of Dividend per share
+274,oth432_trkdpitpredictivedps_mad_pred,Mean Absolute Deviation of predicted value of Dividend per share
+275,oth432_trkdpitpredictivedps_mae,Mean Average Error of the model of Dividend per share
+276,oth432_trkdpitpredictivedps_prediction,Predict value of Dividend per share
+277,oth432_trkdpitpredictiveebit_mad_act,Mean Absolute Deviation of scaled actual value of Earnings before Interest and Tax
+278,oth432_trkdpitpredictiveebit_mad_pred,Mean Absolute Deviation of predicted value of Earnings before Interest and Tax
+279,oth432_trkdpitpredictiveebit_mae,Mean Average Error of the model of Earnings before Interest and Tax
+280,oth432_trkdpitpredictiveebit_prediction,Predict value of Earnings before Interest and Tax
+281,oth432_trkdpitpredictiveebitda_mad_act,Mean Absolute Deviation of scaled actual value of Earnings Before Interest
+282,oth432_trkdpitpredictiveebitda_mad_pred,Mean Absolute Deviation of predicted value of Earnings Before Interest
+283,oth432_trkdpitpredictiveebitda_mae,Mean Average Error of the model of Earnings Before Interest
+284,oth432_trkdpitpredictiveebitda_prediction,Predict value of Earnings Before Interest
+285,oth432_trkdpitpredictiveev_mad_act,Mean Absolute Deviation of scaled actual value of Enterprise Value
+286,oth432_trkdpitpredictiveev_mad_pred,Mean Absolute Deviation of predicted value of Enterprise Value
+287,oth432_trkdpitpredictiveev_mae,Mean Average Error of the model of Enterprise Value
+288,oth432_trkdpitpredictiveev_prediction,Predict value of Enterprise Value
+289,oth432_trkdpitpredictivefcfe_mad_act,Mean Absolute Deviation of scaled actual value of Free Cash Flow Equity
+290,oth432_trkdpitpredictivefcfe_mad_pred,Mean Absolute Deviation of predicted value of Free Cash Flow Equity
+291,oth432_trkdpitpredictivefcfe_mae,Mean Average Error of the model of Free Cash Flow Equity
+292,oth432_trkdpitpredictivefcfe_prediction,Predict value of Free Cash Flow Equity
+293,oth432_trkdpitpredictivefcff_mad_act,Mean Absolute Deviation of scaled actual value of Free Cash Flow Firm
+294,oth432_trkdpitpredictivefcff_mad_pred,Mean Absolute Deviation of predicted value of Free Cash Flow Firm
+295,oth432_trkdpitpredictivefcff_mae,Mean Average Error of the model of Free Cash Flow Firm
+296,oth432_trkdpitpredictivefcff_prediction,Predict value of Free Cash Flow Firm
+297,oth432_trkdpitpredictiveltcashnequivalents_mad_act,Mean Absolute Deviation of scaled actual value of Long-term Cash&Equivalents
+298,oth432_trkdpitpredictiveltcashnequivalents_mad_pred,Mean Absolute Deviation of predicted value of Long-term Cash&Equivalents
+299,oth432_trkdpitpredictiveltcashnequivalents_mae,Mean Average Error of the model of Long-term Cash&Equivalents
+300,oth432_trkdpitpredictiveltcashnequivalents_prediction,Predict value of Long-term Cash&Equivalents
+301,oth432_trkdpitpredictiveltdebt_mad_act,Mean Absolute Deviation of scaled actual value of Long-term debt
+302,oth432_trkdpitpredictiveltdebt_mad_pred,Mean Absolute Deviation of predicted value of Long-term debt
+303,oth432_trkdpitpredictiveltdebt_mae,Mean Average Error of the model of Long-term debt
+304,oth432_trkdpitpredictiveltdebt_prediction,Predict value of Long-term debt
+305,oth432_trkdpitpredictivenetdebt_mad_act,Mean Absolute Deviation of scaled actual value of Net Debt
+306,oth432_trkdpitpredictivenetdebt_mad_pred,Mean Absolute Deviation of predicted value of Net Debt
+307,oth432_trkdpitpredictivenetdebt_mae,Mean Average Error of the model of Net Debt
+308,oth432_trkdpitpredictivenetdebt_prediction,Predict value of Net Debt
+309,oth432_trkdpitpredictivenetincome_mad_act,Mean Absolute Deviation of scaled actual value of Net Income
+310,oth432_trkdpitpredictivenetincome_mad_pred,Mean Absolute Deviation of predicted value of Net Income
+311,oth432_trkdpitpredictivenetincome_mae,Mean Average Error of the model of Net Income
+312,oth432_trkdpitpredictivenetincome_prediction,Predict value of Net Income
+313,oth432_trkdpitpredictivenetreceivables_mad_act,Mean Absolute Deviation of scaled actual value of Net Receivables
+314,oth432_trkdpitpredictivenetreceivables_mad_pred,Mean Absolute Deviation of predicted value of Net Receivables
+315,oth432_trkdpitpredictivenetreceivables_mae,Mean Average Error of the model of Net Receivables
+316,oth432_trkdpitpredictivenetreceivables_prediction,Predict value of Net Receivables
+317,oth432_trkdpitpredictiverndexpense_mad_act,Mean Absolute Deviation of scaled actual value of Research&Development Expense
+318,oth432_trkdpitpredictiverndexpense_mad_pred,Mean Absolute Deviation of predicted value of Research&Development Expense
+319,oth432_trkdpitpredictiverndexpense_mae,Mean Average Error of the model of Research&Development Expense
+320,oth432_trkdpitpredictiverndexpense_prediction,Predict value of Research&Development Expense
+321,oth432_trkdpitpredictiveroa_mad_act,Mean Absolute Deviation of scaled actual value of Return on Assets
+322,oth432_trkdpitpredictiveroa_mad_pred,Mean Absolute Deviation of predicted value of Return on Assets
+323,oth432_trkdpitpredictiveroa_mae,Mean Average Error of the model of Return on Assets
+324,oth432_trkdpitpredictiveroa_prediction,Predict value of Return on Assets
+325,oth432_trkdpitpredictiveroe_mad_act,Mean Absolute Deviation of scaled actual value of Return on Equity
+326,oth432_trkdpitpredictiveroe_mad_pred,Mean Absolute Deviation of predicted value of Return on Equity
+327,oth432_trkdpitpredictiveroe_mae,Mean Average Error of the model of Return on Equity
+328,oth432_trkdpitpredictiveroe_prediction,Predict value of Return on Equity
+329,oth432_trkdpitpredictivetangiblebvps_mad_act,Mean Absolute Deviation of scaled actual value of Tangible book value per share
+330,oth432_trkdpitpredictivetangiblebvps_mad_pred,Mean Absolute Deviation of predicted value of Tangible book value per share
+331,oth432_trkdpitpredictivetangiblebvps_mae,Mean Average Error of the model of Tangible book value per share
+332,oth432_trkdpitpredictivetangiblebvps_prediction,Predict value of Tangible book value per share
+333,oth432_trkdpitpredictivetotassets_mad_act,Mean Absolute Deviation of scaled actual value of Total Assets
+334,oth432_trkdpitpredictivetotassets_mad_pred,Mean Absolute Deviation of predicted value of Total Assets
+335,oth432_trkdpitpredictivetotassets_mae,Mean Average Error of the model of Total Assets
+336,oth432_trkdpitpredictivetotassets_prediction,Predict value of Total Assets
+337,oth432_trkdpitpredictivetotinventory_mad_act,Mean Absolute Deviation of scaled actual value of Total Inventories
+338,oth432_trkdpitpredictivetotinventory_mad_pred,Mean Absolute Deviation of predicted value of Total Inventories
+339,oth432_trkdpitpredictivetotinventory_mae,Mean Average Error of the model of Total Inventories
+340,oth432_trkdpitpredictivetotinventory_prediction,Predict value of Total Inventories
+341,oth432_trkdpitpredictivetotrevenue_mad_act,Mean Absolute Deviation of scaled actual value of Total Revenue
+342,oth432_trkdpitpredictivetotrevenue_mad_pred,Mean Absolute Deviation of predicted value of Total Revenue
+343,oth432_trkdpitpredictivetotrevenue_mae,Mean Average Error of the model of Total Revenue
+344,oth432_trkdpitpredictivetotrevenue_prediction,Predict value of Total Revenue

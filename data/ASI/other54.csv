@@ -1,0 +1,5 @@
+,id,description
+0,oth54_1mt,Alpha model composite.
+1,oth54_factor_momentum_component,Price mometum.
+2,oth54_reversal_component,Price reversion.
+3,oth54_seasonality_component,Price movement seasonality.

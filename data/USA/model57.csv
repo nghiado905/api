@@ -1,0 +1,23 @@
+,id,description
+0,mdl57_actual_earnings,Actual earnings
+1,mdl57_avg_volume,Average volume
+2,mdl57_earnings_estimate,Earnings estimate
+3,mdl57_earnings_growth,Earnings growth
+4,mdl57_ep_ratio,EP ratio
+5,mdl57_ep_ratio_rankign,EP ratio ranking
+6,mdl57_fair_value,Fair value
+7,mdl57_forecast_ranking,Forecast ranking
+8,mdl57_forward_pe_ranking,Forward PE ranking
+9,mdl57_forward_pe_ratio,Forward PE ratio
+10,mdl57_growth_ranking,Growth ranking
+11,mdl57_market_cap,Market cap
+12,mdl57_market_price,Market price
+13,mdl57_momentum,Momentum
+14,mdl57_momentum_ranking,Momentum ranking
+15,mdl57_one_month_forecat,One month forecast
+16,mdl57_peg,PEG
+17,mdl57_peg_ranking,PEG ranking
+18,mdl57_sizeranking,Size ranking
+19,mdl57_valuation,Valuation
+20,mdl57_valuation_ranking,Valuation ranking
+21,mdl57_ve_rating,VE rating

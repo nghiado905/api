@@ -1,0 +1,76 @@
+,id,description
+0,news_all_vwap,Volume weighted average price of all sessions
+1,news_atr14,Fourteen day Average True Range
+2,news_atr_ratio,Ratio of Today Range to 20 day average true range
+3,news_cap,Reported market capitalization for the calendar day of the session
+4,news_close_vol,Main close volume
+5,news_curr_vol,Current day's session volume
+6,news_dividend_yield,Annual yield
+7,news_eod_close,Close price of the session
+8,news_eod_high,Highest price reached between the time of news and the end of the session
+9,news_eod_low,Lowest price reached between the time of news and the end of the session.
+10,news_eod_vwap,volume weighted average price between the time of news and the end of the session.
+11,news_eps_actual,The actual Earnings Per Share value that was conveyed by the news release
+12,news_high_exc_stddev,"(EODHigh - TONLast)/StdDev, where StdDev is one standard deviation for the close price for 30 calendar days"
+13,news_indx_perf,((EODClose - TONLast) / TONLast) - ((SPYClose - SPYLast) / SPYLast)
+14,news_low_exc_stddev,"(TONLast - EODLow)/StdDev, where StdDev is one standard deviation for the close price for 30 calendar days"
+15,news_ls,Whether a long or short position would have been more advantageous:If (EODHigh - Last) > (Last - EODLow) Then LS = 1;If (EODHigh - Last) = (Last - EODLow) Then LS= 0;If (EODHigh - Last) < (Last - EODLow) Then LS = -1.
+16,news_main_vwap,Main session volume weighted average price
+17,news_max_dn_amt,The price at the time of the news minus the after the news low
+18,news_max_dn_ret,Percent change from the price at the time of the news to the after the news low
+19,news_max_up_amt,The after the news high minus the price at the time of the news
+20,news_max_up_ret,Percent change from the price at the time of the news to the after the news high
+21,news_mins_10_chg,The minimum of L or S above for 10 minute bucket
+22,news_mins_10_pct_dn,Number of minutes that elapsed before price went down 10 percentage points
+23,news_mins_10_pct_up,Number of minutes that elapsed before price went up 10 percentage points
+24,news_mins_1_chg,The minimum of L or S above for 1 minute bucket
+25,news_mins_1_pct_dn,Number of minutes that elapsed before price went down 1 percentage points
+26,news_mins_1_pct_up,Number of minutes that elapsed before price went up 1 percentage points
+27,news_mins_20_chg,The minimum of L or S above for 20 minute bucket
+28,news_mins_20_pct_dn,Number of minutes that elapsed before price went down 20 percentage points
+29,news_mins_20_pct_up,Number of minutes that elapsed before price went up 20 percentage points
+30,news_mins_2_chg,The minimum of L or S above for 2 minute bucket
+31,news_mins_2_pct_dn,Number of minutes that elapsed before price went down 2 percentage points
+32,news_mins_2_pct_up,Number of minutes that elapsed before price went up 2 percentage points
+33,news_mins_3_chg,The minimum of L or S above for 3 minute bucket
+34,news_mins_3_pct_dn,Number of minutes that elapsed before price went down 3 percentage points
+35,news_mins_3_pct_up,Number of minutes that elapsed before price went up 3 percentage points
+36,news_mins_4_chg,The minimum of L or S above for 4 minute bucket
+37,news_mins_4_pct_dn,Number of minutes that elapsed before price went down 4 percentage points
+38,news_mins_4_pct_up,Number of minutes that elapsed before price went up 4 percentage points
+39,news_mins_5_chg,The minimum of L or S above for 5 minute bucket
+40,news_mins_5_pct_dn,Number of minutes that elapsed before price went down 5 percentage points
+41,news_mins_5_pct_up,Number of minutes that elapsed before price went up 5 percentage points
+42,news_mins_7_5_chg,The minimum of L or S above for 7.5 minute bucket
+43,news_mins_7_5_pct_dn,Number of minutes that elapsed before price went down 7.5 percentage points
+44,news_mins_7_5_pct_up,Number of minutes that elapsed before price went up 7.5 percentage points
+45,news_mov_vol,30 day moving average session volume
+46,news_open,Price at the session open
+47,news_open_gap,(DayOpen - PrevClose) / PrevClose.
+48,news_open_vol,Main open volume
+49,news_pct_10min,The percent change in price in the first 10 minutes following the news release
+50,news_pct_120min,The percent change in price in the first 120 minutes following the news release
+51,news_pct_1min,The percent change in price in the first minute following the news release
+52,news_pct_30min,The percent change in price in the first 30 minutes following the news release
+53,news_pct_30sec,The percent change in price in the 30 seconds following the news release
+54,news_pct_5_min,The percent change in price in the first 5 minutes following the news release
+55,news_pct_60min,The percent change in price in the first 60 minutes following the news release
+56,news_pct_90min,The percent change in price in the first 90 minutes following the news release
+57,news_pe_ratio,Reported price to earnings ratio for the calendar day of the session
+58,news_post_vwap,Post session volume weighted average price
+59,news_pre_vwap,Pre session volume weighted average price
+60,news_prev_close,Previous trading day's close price
+61,news_prev_day_ret,Percent change between the previous day's open and close
+62,news_prev_vol,Previous day's session volume
+63,news_range_stddev,"(RangeAmt-AvgRange)/RangeStdDev, where AvgRange is the average of the daily range, and RangeStdDev is one standard deviation for the daily range, both for 30 calendar days"
+64,news_ratio_vol,Curr_Vol / Mov_Vol
+65,news_session_range,Session High Price - Session Low Price
+66,news_session_range_pct,Session High Price - Session Low Price) / Session Low Price.
+67,news_short_interest,Total number of shares sold short divided by total number of shares outstanding
+68,news_spy_close,Price of SPY at close of session
+69,news_spy_last,Last Price of the SPY at the time of the news
+70,news_ton_high,Highest price reached during the session before the time of news
+71,news_ton_last,Price at the time of news
+72,news_ton_low,Lowest price reached during the session before the time of the news
+73,news_tot_ticks,Total number of ticks for the trading day
+74,news_vol_stddev,"(CurrentVolume - AvgVol)/VolStDev, where AvgVol is the average of the daily volume, and VolStdDev is one standard deviation for the daily volume, both for 30 calendar days"

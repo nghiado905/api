@@ -1,0 +1,33 @@
+,id,description
+0,mdl53_implied_ratings,"implied ratings modeling using ratings of Standard & Poor's as reported by S&P affiliate others, supplemented by a file with daily changes in ratings by Standard & Poor's"
+1,mdl53_implied_spreads,implied credit spreads
+2,mdl53_jc5_10year,10 year default probability
+3,mdl53_jc5_1month,1month default probability
+4,mdl53_jc5_1year,1 year default probability
+5,mdl53_jc5_2year,2 year default probability
+6,mdl53_jc5_3month,3month default probability
+7,mdl53_jc5_3year,3 year default probability
+8,mdl53_jc5_4year,4 year default probability
+9,mdl53_jc5_5year,5 year default probability
+10,mdl53_jc5_6month,6month default probability
+11,mdl53_jc5_7year,7 year default probability
+12,mdl53_jc6_10year,10 year default probability
+13,mdl53_jc6_1month,1month default probability
+14,mdl53_jc6_1year,1 year default probability
+15,mdl53_jc6_2year,2 year default probability
+16,mdl53_jc6_3month,3month default probability
+17,mdl53_jc6_3year,3 year default probability
+18,mdl53_jc6_4year,4 year default probability
+19,mdl53_jc6_5year,5 year default probability
+20,mdl53_jc6_6month,6month default probability
+21,mdl53_jc6_7year,7 year default probability
+22,mdl53_ms5_10year,10 year default probability
+23,mdl53_ms5_1month,1month default probability
+24,mdl53_ms5_1year,1 year default probability
+25,mdl53_ms5_2year,2 year default probability
+26,mdl53_ms5_3month,3month default probability
+27,mdl53_ms5_3year,3 year default probability
+28,mdl53_ms5_4year,4 year default probability
+29,mdl53_ms5_5year,5 year default probability
+30,mdl53_ms5_6month,6month default probability
+31,mdl53_ms5_7year,7 year default probability

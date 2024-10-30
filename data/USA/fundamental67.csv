@@ -1,0 +1,13 @@
+,id,description
+0,fnd67_coverage_days,Number of days covered in the analysis.
+1,fnd67_coverage_level,Depth or intensity of coverage in the analysis.
+2,fnd67_ihh,Indicator of Herfindahl-Hirschman Index for concentration
+3,fnd67_increase_level,Level of increase in accruals or earnings quality.
+4,fnd67_predict_label,General prediction label for future earnings
+5,fnd67_predict_label_high_confidence,High-confidence prediction label for future earnings
+6,fnd67_transaction_revenue_level,"Level of revenue from transactions, possibly adjusted for accruals."
+7,fnd67_y_pred_prob_0,Probability of prediction belonging to class 0.
+8,fnd67_y_pred_prob_1,Probability of prediction belonging to class 1.
+9,fnd67_y_pred_prob_2,Probability of prediction belonging to class 2.
+10,fnd67_y_pred_prob_3,Probability of prediction belonging to class 3.
+11,fnd67_y_pred_prob_4,Probability of prediction belonging to class 4.

@@ -1,0 +1,6 @@
+,id,description
+0,anl47_indicator,Total Raw Signal deciled by region {1-10}
+1,anl47_rawalphadecay,Contribution of idea age
+2,anl47_rawexperts,Contribution of author historical performance
+3,anl47_rawsentiment,Contribution of long/short idea count and open/closed status
+4,anl47_totalrawsignal,Sum of the four raw components (sentiment + alpha decay + earnings + experts)

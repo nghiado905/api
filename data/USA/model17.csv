@@ -1,0 +1,31 @@
+,id,description
+0,mdl17_dynamicfocusrank,Rank based on fundamental and technical metrics - one to two week time horizon
+1,mdl17_est_z_buyrec_pct,% of analysts giving a buy recommendation
+2,mdl17_est_z_coverage,No. of analysts covering the stock
+3,mdl17_est_z_downtarget_pct,% of analysts revising their price target downwards
+4,mdl17_est_z_dtstsespe,Standard deviation of FY1 earnings estimate
+5,mdl17_est_z_earningsrevision,Change in mean earnings estimate divided by week-end price
+6,mdl17_est_z_earningssurprise,Current quarter earnings surprise
+7,mdl17_est_z_earningstorpedo,Difference between FY1 earnings estimate and last 4 quarters earning.
+8,mdl17_est_z_epsgrowthest,Median analyst expected growth in operating earnings over next full business cycle
+9,mdl17_est_z_netearningsrevision,The difference between the number of analysts raising and lowering FY1 earnings estimates as a percentage of analyst coverage
+10,mdl17_est_z_netrec_pct,Buy - Sell recommendations as % of total recommendations
+11,mdl17_est_z_nettarget_pct,Analyst price target increases minus decreases over the past four weeks as a percentage of the total number of price targets
+12,mdl17_est_z_sellrec_pct,Sell recommendations as a % of total recommendations
+13,mdl17_est_z_uptarget_pct,% of analysts revising their price target upwards
+14,mdl17_fnd_focusrank,Rank based on fundamental and technical metrics - time horizon 1-2 years
+15,mdl17_score,Sentiment score
+16,mdl17_score_buyrec_pct,% of analysts giving a buy recommendation
+17,mdl17_score_coverage,No. of analysts covering the stock
+18,mdl17_score_downtarget_pct,% of analysts revising their price target downwards
+19,mdl17_score_dtstsespe,Standard deviation of FY1 earnings estimate
+20,mdl17_score_earningsrevision,Change in mean earnings estimate divided by week-end price
+21,mdl17_score_earningssurprise,Current quarter earnings surprise
+22,mdl17_score_earningstorpedo,Difference between FY1 earnings estimate and last 4 quarters earning.
+23,mdl17_score_epsgrowthest,Median analyst expected growth in operating earnings over next full business cycle
+24,mdl17_score_equityfocusrank,Rank based on fundamental and technical metrics - time horizon 2-3 months
+25,mdl17_score_netearningsrevision,The difference between the number of analysts raising and lowering FY1 earnings estimates as a percentage of analyst coverage
+26,mdl17_score_netrec_pct,Buy - Sell recommendations as % of total recommendations
+27,mdl17_score_nettarget_pct,Analyst price target increases minus decreases over the past four weeks as a percentage of the total number of price targets
+28,mdl17_score_sellrec_pct,Sell recommendations as a % of total recommendations
+29,mdl17_score_uptarget_pct,% of analysts revising their price target upwards

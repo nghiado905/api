@@ -1,0 +1,29 @@
+,id,description
+6,pv13_com_page_rank,the PageRank of competitors
+7,pv13_com_rk_au,the HITS authority score of competitors
+8,pv13_custretsig_retsig,Sign of customer return
+109,pv13_ompetitorgraphrank_hub_rank,the HITS hub score of competitors
+127,pv13_revere_city,City code
+128,pv13_revere_company_total,Total number of companies in the sector
+129,pv13_revere_comproduct_company,Company product
+130,pv13_revere_country,Country code
+131,pv13_revere_index_cap,Company arket capitalization
+132,pv13_revere_index_value,Value of specified index for the date
+133,pv13_revere_key_sector_total,Number of key focus sectors for the company
+134,pv13_revere_level,Level of the sector within the hierarchy
+135,pv13_revere_parent,Code of parent sector
+136,pv13_revere_term,Indicates when a sector is the terminal sector(i.e. no sub-sectors)
+137,pv13_revere_term_sector_total,Number of terminal sectors for the company
+138,pv13_revere_zipcode,Zip code
+139,pv13_reveremap,Mapping data
+157,pv13_ustomergraphrank_auth_rank,the HITS authority score of customers
+158,pv13_ustomergraphrank_hub_rank,the HITS hub score of customers
+159,pv13_ustomergraphrank_page_rank,the PageRank of customers
+160,rel_num_all,number of the companies whose product overlapped with the instrument
+161,rel_num_comp,number of the instrument's competitors
+162,rel_num_cust,number of the instrument's customers
+163,rel_num_part,number of the instrument's partners
+164,rel_ret_all,averaged one-day-return of the companies whose product overlapped with the instrument
+165,rel_ret_comp,averaged one-day-return of the competing companies
+166,rel_ret_cust,averaged one-day-return of the instrument's customers
+167,rel_ret_part,averaged one-day-return of the instrument's partners

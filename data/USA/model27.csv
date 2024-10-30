@@ -1,0 +1,9 @@
+,id,description
+0,mdl27_index_rating,Credit risk rating
+1,star_ccr_combined_pd,Credit risk score
+2,star_ccr_country_rank,Credit risk rank in the country
+3,star_ccr_global_rank,Credit risk rank
+4,star_ccr_implied_rating,Agency-equivalent credit rating implied by the estimate forward 1-year default probability
+5,star_ccr_industry_rank,Credit risk rank in the indsutry
+6,star_ccr_region_rank,Credit risk rank in the region
+7,star_ccr_sector_rank,Credit risk rank in the sector

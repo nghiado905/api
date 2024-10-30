@@ -1,0 +1,15 @@
+,id,description
+0,star_ebitda_analyst_number_fq1,Number of analysts providing EBITDA estimates for most recent quarter
+1,star_ebitda_analyst_number_fq2,Number of analysts providing EBITDA estimates for next quarter
+2,star_ebitda_analyst_number_fy1,Number of analysts providing EBITDA estimates for current fiscal year
+3,star_ebitda_analyst_number_fy2,Number of analysts providing EBITDA estimates for next fiscal year
+4,star_ebitda_smart_estimate_12m,EBITDA estimate for 12m look ahead period
+5,star_ebitda_smart_estimate_fq1,EBITDA estimate for most recent quarter
+6,star_ebitda_smart_estimate_fq2,EBITDA estimate for next quarter
+7,star_ebitda_smart_estimate_fy1,EBITDA estimate for current fiscal year
+8,star_ebitda_smart_estimate_fy2,EBITDA estimate for next fiscal year
+9,star_ebitda_surprise_prediction_12m,Surprise between estimate & consensus for 12m look ahead period
+10,star_ebitda_surprise_prediction_fq1,Surprise between estimate & consensus for most recent quarter
+11,star_ebitda_surprise_prediction_fq2,Surprise between estimate & consensus for next quarter
+12,star_ebitda_surprise_prediction_fy1,Surprise between estimate & consensus for current fiscal year
+13,star_ebitda_surprise_prediction_fy2,Surprise between estimate & consensus for next fiscal year

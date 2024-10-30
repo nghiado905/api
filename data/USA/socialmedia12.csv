@@ -1,0 +1,7 @@
+,id,description
+3,scl12_buzz,relative sentiment volume
+7,scl12_sentiment,sentiment
+8,snt_buzz,"negative relative sentiment volume, fill nan with 0"
+9,snt_buzz_bfl,"negative relative sentiment volume, fill nan with 1"
+10,snt_buzz_ret,negative return of relative sentiment volume
+11,snt_value,"negative sentiment, fill nan with 0"

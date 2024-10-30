@@ -1,0 +1,123 @@
+,id,description
+0,oth432_aacr_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Accounts Receivable
+1,oth432_aacr_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Accounts Receivable
+2,oth432_aacr_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Accounts Receivable
+3,oth432_aacr_trkdpitdeltapredict_funda_predict,Predict value of Accounts Receivable
+4,oth432_acae_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Quarterly Cash&Equivalents
+5,oth432_acae_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Quarterly Cash&Equivalents
+6,oth432_acae_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Quarterly Cash&Equivalents
+7,oth432_acae_trkdpitdeltapredict_funda_predict,Predict value of Quarterly Cash&Equivalents
+8,oth432_aitl_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Inventories
+9,oth432_aitl_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Inventories
+10,oth432_aitl_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Inventories
+11,oth432_aitl_trkdpitdeltapredict_funda_predict,Predict value of Total Inventories
+12,oth432_appn_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Property/Plant/Equipment
+13,oth432_appn_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Property/Plant/Equipment
+14,oth432_appn_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Property/Plant/Equipment
+15,oth432_appn_trkdpitdeltapredict_funda_predict,Predict value of Property/Plant/Equipment
+16,oth432_atca_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Current Assets
+17,oth432_atca_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Current Assets
+18,oth432_atca_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Current Assets
+19,oth432_atca_trkdpitdeltapredict_funda_predict,Predict value of Total Current Assets
+20,oth432_atot_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Assets
+21,oth432_atot_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Assets
+22,oth432_atot_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Assets
+23,oth432_atot_trkdpitdeltapredict_funda_predict,Predict value of Total Assets
+24,oth432_cur_mae,Mean Average Error of the model of Enterprise Value
+25,oth432_cur_predict,Predict value of Enterprise Value
+26,oth432_ebit_a_predict,Predict value of Earnings before Interest and Tax
+27,oth432_ebit_q_predict,Predict value of Earnings before Interest and Tax
+28,oth432_ebit_ttm_predict,Predict value of Earnings before Interest and Tax
+29,oth432_ebitd_a_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+30,oth432_ebitd_q_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+31,oth432_ebitd_ttm_predict,"Predict value of Earnings before Interest,Tax and Depreciation"
+32,oth432_ebt_a_predict,Predict value of Earnings before tax
+33,oth432_ebt_q_predict,Predict value of Earnings before tax
+34,oth432_ebt_ttm_predict,Predict value of Earnings before tax
+35,oth432_eibt_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Net Income Before Taxes
+36,oth432_eibt_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Net Income Before Taxes
+37,oth432_eibt_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Net Income Before Taxes
+38,oth432_eibt_trkdpitdeltapredict_funda_predict,Predict value of Net Income Before Taxes
+39,oth432_fcf_a_predict,Predict value of Free Cash Flow
+40,oth432_fcf_q_predict,Predict value of Free Cash Flow
+41,oth432_fcf_ttm_predict,Predict value of Free Cash Flow
+42,oth432_ftlf_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash from Financing Activities
+43,oth432_ftlf_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash from Financing Activities
+44,oth432_ftlf_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash from Financing Activities
+45,oth432_ftlf_trkdpitdeltapredict_funda_predict,Predict value of Cash from Financing Activities
+46,oth432_itli_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash from Investing Activities
+47,oth432_itli_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash from Investing Activities
+48,oth432_itli_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash from Investing Activities
+49,oth432_itli_trkdpitdeltapredict_funda_predict,Predict value of Cash from Investing Activities
+50,oth432_ni_a_predict,Predict value of Net Income
+51,oth432_ni_q_predict,Predict value of Net Income
+52,oth432_ni_ttm_predict,Predict value of Net Income
+53,oth432_ninc_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Income Incl Extra Before Distributions
+54,oth432_ninc_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Income Incl Extra Before Distributions
+55,oth432_ninc_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Income Incl Extra Before Distributions
+56,oth432_ninc_trkdpitdeltapredict_funda_predict,Predict value of Income Incl Extra Before Distributions
+57,oth432_otlo_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash from Operating Activities
+58,oth432_otlo_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash from Operating Activities
+59,oth432_otlo_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash from Operating Activities
+60,oth432_otlo_trkdpitdeltapredict_funda_predict,Predict value of Cash from Operating Activities
+61,oth432_qtle_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Equity
+62,oth432_qtle_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Equity
+63,oth432_qtle_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Equity
+64,oth432_qtle_trkdpitdeltapredict_funda_predict,Predict value of Total Equity
+65,oth432_rev_a_predict,Predict value of Revenue - Total
+66,oth432_rev_q_predict,Predict value of Revenue - Total
+67,oth432_rev_ttm_predict,Predict value of Revenue - Total
+68,oth432_rnts_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Net Sales
+69,oth432_rnts_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Net Sales
+70,oth432_rnts_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Net Sales
+71,oth432_rnts_trkdpitdeltapredict_funda_predict,Predict value of Net Sales
+72,oth432_rtlr_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Revenue
+73,oth432_rtlr_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Revenue
+74,oth432_rtlr_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Revenue
+75,oth432_rtlr_trkdpitdeltapredict_funda_predict,Predict value of Total Revenue
+76,oth432_sbda_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Normalized EBITDA
+77,oth432_sbda_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Normalized EBITDA
+78,oth432_sbda_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Normalized EBITDA
+79,oth432_sbda_trkdpitdeltapredict_funda_predict,Predict value of Normalized EBITDA
+80,oth432_scsi_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Cash and Short Term Investments
+81,oth432_scsi_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Cash and Short Term Investments
+82,oth432_scsi_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Cash and Short Term Investments
+83,oth432_scsi_trkdpitdeltapredict_funda_predict,Predict value of Cash and Short Term Investments
+84,oth432_sgpp_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Gross Margin
+85,oth432_sgpp_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Gross Margin
+86,oth432_sgpp_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Gross Margin
+87,oth432_sgpp_trkdpitdeltapredict_funda_predict,Predict value of Gross Margin
+88,oth432_sgrp_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Gross Margin
+89,oth432_sgrp_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Gross Margin
+90,oth432_sgrp_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Gross Margin
+91,oth432_sgrp_trkdpitdeltapredict_funda_predict,Predict value of Gross Margin
+92,oth432_sncc_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Net Change in Cash
+93,oth432_sncc_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Net Change in Cash
+94,oth432_sncc_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Net Change in Cash
+95,oth432_sncc_trkdpitdeltapredict_funda_predict,Predict value of Net Change in Cash
+96,oth432_snce_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Net Cash - Ending Balance
+97,oth432_snce_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Net Cash - Ending Balance
+98,oth432_snce_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Net Cash - Ending Balance
+99,oth432_snce_trkdpitdeltapredict_funda_predict,Predict value of Net Cash - Ending Balance
+100,oth432_sntd_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Net Debt Incl. Pref.Stock & Min.Interest
+101,oth432_sntd_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Net Debt Incl. Pref.Stock & Min.Interest
+102,oth432_sntd_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Net Debt Incl. Pref.Stock & Min.Interest
+103,oth432_sntd_trkdpitdeltapredict_funda_predict,Predict value of Net Debt Incl. Pref.Stock & Min.Interest
+104,oth432_sopp_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Operating Margin
+105,oth432_sopp_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Operating Margin
+106,oth432_sopp_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Operating Margin
+107,oth432_sopp_trkdpitdeltapredict_funda_predict,Predict value of Operating Margin
+108,oth432_srev_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Revenue
+109,oth432_srev_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Revenue
+110,oth432_srev_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Revenue
+111,oth432_srev_trkdpitdeltapredict_funda_predict,Predict value of Revenue
+112,oth432_stbv_trkdpitdeltapredict_funda_mada,"Mean Absolute Deviation of scaled actual value of Tangible Book Value, Common Equity"
+113,oth432_stbv_trkdpitdeltapredict_funda_madp,"Mean Absolute Deviation of predicted value of Tangible Book Value, Common Equity"
+114,oth432_stbv_trkdpitdeltapredict_funda_mae,"Mean Average Error of the model of Tangible Book Value, Common Equity"
+115,oth432_stbv_trkdpitdeltapredict_funda_predict,"Predict value of Tangible Book Value, Common Equity"
+116,oth432_stld_trkdpitdeltapredict_funda_mada,Mean Absolute Deviation of scaled actual value of Total Debt
+117,oth432_stld_trkdpitdeltapredict_funda_madp,Mean Absolute Deviation of predicted value of Total Debt
+118,oth432_stld_trkdpitdeltapredict_funda_mae,Mean Average Error of the model of Total Debt
+119,oth432_stld_trkdpitdeltapredict_funda_predict,Predict value of Total Debt
+120,oth432_totd_a_predict,Predict value of Total Debt
+121,oth432_totd_q_predict,Predict value of Total Debt

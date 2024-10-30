@@ -1,0 +1,272 @@
+,id,description
+0,fnd3_A_DnC,Annual Depreciation & Amortization
+1,fnd3_A_RnD,Annual Research & Development Expense
+2,fnd3_A__earbeforetaxes,Annual Earnings Before Taxes
+3,fnd3_A__inc_tax,Annual Income Tax Provision
+4,fnd3_A_acc_abi_adj,Annual Increase or Decrease in Accrued Liabilities
+5,fnd3_A_acc_dep,Annual Accumulated Depreciation
+6,fnd3_A_accpayable,Annual Accounts payable
+7,fnd3_A_accreceivable,Annual Accounts receivable
+8,fnd3_A_acq_dive,Annual Acquisition & Divestitures
+9,fnd3_A_add_paid_cap,Annual Additional Paid In Capital
+10,fnd3_A_assets,Annual Total assets
+11,fnd3_A_avg_shabasic,"Annual Average Common Shares Outstanding, Basic"
+12,fnd3_A_avgdiluted_sha,"Annual Average Common Shares Outstanding, Diluted"
+13,fnd3_A_capex,"Annual Capital Expenditures, Net"
+14,fnd3_A_capexgross,Annual Capital Expenditure Payments (Gross)
+15,fnd3_A_capitalassetsales,Annual Proceeds from Sale of Productive Assets
+16,fnd3_A_cash,Annual Cash & Cash Equivalents
+17,fnd3_A_cashincrease,Annual Total Cash Increase/Decrease For Period
+18,fnd3_A_common,Annual Common Stock Value
+19,fnd3_A_comstk_divpershare,Annual Common Stock Dividends Per Share
+20,fnd3_A_costofrevenue,Annual cost of revenue
+21,fnd3_A_currentassets,Annual Current Asset
+22,fnd3_A_currentliabilities,Annual Current Liabilities
+23,fnd3_A_currentlongdebt,Annual Current Portion Of Long-Term Debt
+24,fnd3_A_currenttaxasset,"Annual Deferred Tax Assets, Current"
+25,fnd3_A_ebit,"Annual Earnings Before Interest, Taxes"
+26,fnd3_A_ebitda,"Annual Earnings Before Interest, Taxes, Depreciation and Amortization"
+27,fnd3_A_eff_excratecash,Annual Effect Of Exchange Rate On Cash And Cash Equivalents
+28,fnd3_A_epp,"Annual Property, Plant & Equipment"
+29,fnd3_A_epsbasic,"Annual Earnings Per Share, Basic"
+30,fnd3_A_epsdiluted,"Annual Earnings Per Share, Diluted"
+31,fnd3_A_financing_cf,Annual Financing Cash Flow
+32,fnd3_A_goodwill,Annual Goodwill
+33,fnd3_A_grossprofit,Annual Gross Profit
+34,fnd3_A_int_ass_ex_gwill,Annual Intangible Assets Excluding Goodwill
+35,fnd3_A_int_exp,Annual Interest Expense
+36,fnd3_A_int_inc,Annual Noncontrolling Interest Income/Loss
+37,fnd3_A_interestincome,Annual Interest & Investment Income
+38,fnd3_A_inv_cf,Annual Investing Cash Flow
+39,fnd3_A_inventory,Annual Inventory
+40,fnd3_A_inventoryincdec,Annual Increase or Decrease in Inventory
+41,fnd3_A_liabilities,"Annual Liabilities, Total"
+42,fnd3_A_longdebt,Annual Long Term Debt
+43,fnd3_A_nic,Annual Net Income
+44,fnd3_A_niccommonstockholders,Annual Net Income Attributable to Common Stockholders
+45,fnd3_A_niccontinuingoperations,"Annual Net Income, Continuing Operations"
+46,fnd3_A_noncontrollinginterest,Annual Noncontrolling Interest
+47,fnd3_A_noncurrenttaxasset,"Annual Deferred Tax Assets, Noncurrent"
+48,fnd3_A_noncurrenttaxliability,"Annual Deferred Tax Liabilities, noncurrent"
+49,fnd3_A_ope_cf,Annual Operating Cash Flow
+50,fnd3_A_opeexpenseexitems,Annual Operating Expense Extraordinary Items
+51,fnd3_A_opeexpenses,Annual Total Operating Expenses
+52,fnd3_A_opeincome,Annual Operating Income
+53,fnd3_A_payables,Annual Increase or Decrease in Accounts Payable
+54,fnd3_A_paymentsof_div,Annual Payments Of Dividends
+55,fnd3_A_preferred,Annual Preferred Stock Value
+56,fnd3_A_receivables,Annual Increase or Decrease in Receivables
+57,fnd3_A_retained_ear,Annual Retained Earnings
+58,fnd3_A_revenue,Annual Revenue
+59,fnd3_A_sgaexpense,"Annual Selling, General & Administrative Expense"
+60,fnd3_A_sha_endofperiod,Annual Shares Outstanding At End Of Period
+61,fnd3_A_sharesauthorized,Annual Shares Authorized
+62,fnd3_A_sharesissued,Annual Shares Issued
+63,fnd3_A_shcom,Annual Share Based Compensation
+64,fnd3_A_shodebt,Annual Short Term Debt
+65,fnd3_A_totaldebt,Annual Total Debt (Short & Long-Term)
+66,fnd3_A_treasury,Annual Treasury Stock Value
+67,fnd3_Aaccadj_effecexcrate,Annual Accountance Adjustment Effect Of Exchange Rate On Cash And Cash Equivalents
+68,fnd3_Aaccadj_niccomhold,Annual Accountance Adjustment Net Income Attributable to Common Stockholders
+69,fnd3_Aaccadj_nicdis_ope,"Annual Accountance Adjustment Net Income, Continuing Operations"
+70,fnd3_Aaccadj_noncurtaxlib,"Annual Accountance Adjustment Deferred Tax Liabilities, noncurrent"
+71,fnd3_Aacctadj_DnC,Annual Accountance Adjustment Depreciation & Amortization
+72,fnd3_Aacctadj__earbeforetaxes,Annual Accoutance Adjustment Earnings Before Taxes
+73,fnd3_Aacctadj__inc_tax,Annual Accountance Adjustment Income Tax Provision
+74,fnd3_Aacctadj_acc_abi_adj,Annual Accountance Adjustment Increase or Decrease in Accrued Liabilities
+75,fnd3_Aacctadj_acc_dep,Annual Accountance Adjustment  Accumulated Depreciation
+76,fnd3_Aacctadj_accpayable,Annual Accountance Adjustment Accounts payable
+77,fnd3_Aacctadj_accreceivable,Annual Accountance Adjustment Accounts receivable
+78,fnd3_Aacctadj_acq_dive,Annual Accountance Adjustment  Acquisition & Divestitures
+79,fnd3_Aacctadj_add_paid_cap,Annual Accountance Adjustment Additional  Paid In Capital
+80,fnd3_Aacctadj_assets,Annual Accountance Adjustment Total assets
+81,fnd3_Aacctadj_assets_old,Annual Before Accountance Adjustment Total assets
+82,fnd3_Aacctadj_avg_shabasic,"Annual Accountance Adjustment Average Common Shares Outstanding, Basic"
+83,fnd3_Aacctadj_avgdiluted_sha,"Annual Accountance Adjustment Average Common Shares Outstanding, Diluted"
+84,fnd3_Aacctadj_capex,"Annual Accountance Adjustment Capital Expenditures, Net"
+85,fnd3_Aacctadj_capexgross,Annual Accountance Adjustment Capital Expenditure Payments (Gross)
+86,fnd3_Aacctadj_capitalassetsales,Annual Accountance Adjustment Proceeds from Sale of Productive Assets
+87,fnd3_Aacctadj_cash,Annual Accountance Adjustment Cash & Cash Equivalents
+88,fnd3_Aacctadj_cashincrease,Annual Accountance Adjustment Total Cash Increase/Decrease For Period
+89,fnd3_Aacctadj_common,Annual Accountance Adjustment Common Stock Value
+90,fnd3_Aacctadj_comstk_divpershare,Annual Accountance Adjustment Common Stock Dividends Per Share
+91,fnd3_Aacctadj_costofrevenue,Annual Accountance Adjustment Cost of Revenue
+92,fnd3_Aacctadj_currentassets,Annual Accountance Adjustment Current Asset
+93,fnd3_Aacctadj_currentliabilities,Annual Accountance Adjustment Current Liabilities
+94,fnd3_Aacctadj_currentlongdebt,Annual Accountance Adjustment Current Portion Of Long-Term Debt
+95,fnd3_Aacctadj_currenttaxasset,"Annual Accountance Adjustment Deferred Tax Assets, Current"
+96,fnd3_Aacctadj_ebit,"Annual Accountance Adjustment Earnings Before Interest, Taxes"
+97,fnd3_Aacctadj_ebitda,"Annual Accountance Adjustment Earnings Before Interest, Taxes, Depreciation and Amortization"
+98,fnd3_Aacctadj_epp,"Annual Accountance Adjustment Property, Plant & Equipment"
+99,fnd3_Aacctadj_epsbasic,"Annual Accountance Adjustment Earnings Per Share, Basic"
+100,fnd3_Aacctadj_epsdiluted,"Annual Accountance Adjustment Earnings Per Share, Diluted"
+101,fnd3_Aacctadj_financing_cf,Annual Accountance Adjustment Financing Cash Flow
+102,fnd3_Aacctadj_goodwill,Annual Accountance Adjustment Goodwill
+103,fnd3_Aacctadj_grossprofit,Annual Accountance Adjustment Gross Profit
+104,fnd3_Aacctadj_int_ass_ex_gwill,Annual Accountance Adjustment Intangible Assets Excluding Goodwill
+105,fnd3_Aacctadj_int_exp,Annual Accountance Adjustment Interest Expense
+106,fnd3_Aacctadj_int_inc,Annual Accountance Adjustment Noncontrolling Interest Income/Loss
+107,fnd3_Aacctadj_interestincome,Annual Accountance Adjustment Interest & Investment Income
+108,fnd3_Aacctadj_inv_cf,Annual Accountance Adjustment Investing Cash Flow
+109,fnd3_Aacctadj_inventory,Annual Accountance Adjustment Increase or Decrease in Inventory
+110,fnd3_Aacctadj_inventoryincdec,Annual Accountance Adjustment Inventory
+111,fnd3_Aacctadj_liabilities,"Annual Accountance Adjustment Liabilities, Total"
+112,fnd3_Aacctadj_liabilities_old,"Annual Before Accountance Adjustment Liabilities, Total"
+113,fnd3_Aacctadj_longdebt,Annual Accountance Adjustment Long Term Debt
+114,fnd3_Aacctadj_nic,Annual Accountance Adjustment Net Income
+115,fnd3_Aacctadj_ope_cf,Annual Accountance Adjustment Operating Cash Flow
+116,fnd3_Aacctadj_opeexpenseexitems,Annual Accountance Adjustment Operating Expense Extraordinary Items
+117,fnd3_Aacctadj_opeexpenses,Annual Accountance Adjustment Total Operating Expenses
+118,fnd3_Aacctadj_opeincome,Annual Accountance Adjustment Operating Income
+119,fnd3_Aacctadj_payables,Annual Accountance Adjustment Increase or Decrease in Accounts Payable
+120,fnd3_Aacctadj_paymentsof_div,Annual Accountance Adjustment Payments Of Dividends
+121,fnd3_Aacctadj_ppe_old,"Annual Before Accountance Adjustment Property, Plant & Equipment"
+122,fnd3_Aacctadj_preferred,Annual Accountance Adjustment Preferred Stock Value
+123,fnd3_Aacctadj_receivables,Annual Accountance Adjustment Increase or Decrease in Receivables
+124,fnd3_Aacctadj_retained_ear,Annual Accountance Adjustment Retained Earnings
+125,fnd3_Aacctadj_revenue,Annual Accountance Adjustment Revenue
+126,fnd3_Aacctadj_sgaexpense,"Annual Accountance Adjustment Selling, General & Administrative Expense"
+127,fnd3_Aacctadj_sha_endofperiod,Annual Accountance Adjustment Shares Outstanding At End Of Period
+128,fnd3_Aacctadj_sharesauthorized,Annual Accountance Adjustment Shares Authorized
+129,fnd3_Aacctadj_sharesissued,Annual Accountance Adjustment Shares Issued
+130,fnd3_Aacctadj_shcom,Annual Accountance Adjustment Share Based Compensation
+131,fnd3_Aacctadj_totaldebt,Annual Accountance Adjustment Total Debt (Short & Long-Term)
+132,fnd3_Aacctadj_treasury,Annual Accountance Adjustment Treasury Stock Value
+133,fnd3_Aacctadjequity,Annual Accountance Adjustment Stockholders Equity
+134,fnd3_Aacctadjequitybeforenci,Annual Accountance AdjustmentStockholders Equity Before Non-Controlling Interest
+135,fnd3_Aequity,Annual Stockholders Equity
+136,fnd3_Aequitybeforenci,Annual Stockholders Equity Before Non-Controlling Interest
+137,fnd3_Q_DnC,Quarterly Depreciation & Amortization
+138,fnd3_Q__earbeforetaxes,Quarterly Earnings Before Taxes
+139,fnd3_Q__inc_tax,Quarterly Income Tax Provision
+140,fnd3_Q_acc_abi_adj,Quarterly Increase or Decrease in Accrued Liabilities
+141,fnd3_Q_acc_dep,Quarterly Accumulated Depreciation
+142,fnd3_Q_accpayable,Quarterly Accounts payable
+143,fnd3_Q_accreceivable,Quarterly Accounts receivable
+144,fnd3_Q_acq_dive,Quarterly Acquisition & Divestitures
+145,fnd3_Q_add_paid_cap,Quarterly Additional  Paid In Capital
+146,fnd3_Q_assets,Quarterly Total assets
+147,fnd3_Q_avg_shabasic,"Quarterly Average Common Shares Outstanding, Basic"
+148,fnd3_Q_avgdiluted_sha,"Quarterly Average Common Shares Outstanding, Diluted"
+149,fnd3_Q_capex,"Quarterly Capital Expenditures, Net"
+150,fnd3_Q_capexgross,Quarterly Capital Expenditure Payments (Gross)
+151,fnd3_Q_capitalassetsales,Quarterly Proceeds from Sale of Productive Assets
+152,fnd3_Q_cash,Quarterly Cash & Cash Equivalents
+153,fnd3_Q_cashincrease,Quarterly Total Cash Increase/Decrease For Period
+154,fnd3_Q_common,Quarterly Common Stock Value
+155,fnd3_Q_comstk_divpershare,Quarterly Common Stock Dividends Per Share
+156,fnd3_Q_costofrevenue,Quarterly Cost of Revenue
+157,fnd3_Q_currentassets,Quarterly Current Asset
+158,fnd3_Q_currentliabilities,Quarterly Current Liabilities
+159,fnd3_Q_currentlongdebt,Quarterly Current Portion Of Long-Term Debt
+160,fnd3_Q_currenttaxasset,"Quarterly Deferred Tax Assets, Current"
+161,fnd3_Q_ebit,"Quarterly Earnings Before Interest, Taxes"
+162,fnd3_Q_ebitda,"Quarterly Earnings Before Interest, Taxes, Depreciation and Amortization"
+163,fnd3_Q_eff_exc_cash,Quarterly Effect Of Exchange Rate On Cash And Cash Equivalents
+164,fnd3_Q_epp,"Quarterly Property, Plant & Equipment"
+165,fnd3_Q_epsbasic,"Quarterly Earnings Per Share, Basic"
+166,fnd3_Q_epsdiluted,"Quarterly Earnings Per Share, Diluted"
+167,fnd3_Q_financing_cf,Quarterly Financing Cash Flow
+168,fnd3_Q_goodwill,Quarterly Goodwill
+169,fnd3_Q_grossprofit,Quarterly Gross Profit
+170,fnd3_Q_int_ass_ex_gwill,Quarterly Intangible Assets Excluding Goodwill
+171,fnd3_Q_int_exp,Quarterly Interest Expense
+172,fnd3_Q_interestincome,Quarterly Interest & Investment Income
+173,fnd3_Q_inv_cf,Quarterly Investing Cash Flow
+174,fnd3_Q_inventory,Quarterly Inventory
+175,fnd3_Q_inventoryincdec,Quarterly Increase or Decrease in Inventory
+176,fnd3_Q_liabilities,"Quarterly Liabilities, Total"
+177,fnd3_Q_longdebt,Quarterly Long Term Debt
+178,fnd3_Q_nic,Quarterly Net Income
+179,fnd3_Q_niccommonstockholders,Quarterly Net Income Attributable to Common Stockholders
+180,fnd3_Q_niccontinuingoperations,"Quarterly Net Income, Continuing Operations"
+181,fnd3_Q_noncurrenttaxasset,"Quarterly Deferred Tax Assets, Noncurrent"
+182,fnd3_Q_noncurrenttaxliability,"Quarterly Deferred Tax Liabilities, noncurrent"
+183,fnd3_Q_ope_cf,Quarterly Operating Cash Flow
+184,fnd3_Q_opeexpenseexitems,Quarterly Operating Expense Extraordinary Items
+185,fnd3_Q_opeexpenses,Quarterly Total Operating Expenses
+186,fnd3_Q_opeincome,Quarterly Operating Income
+187,fnd3_Q_payables,Quarterly Increase or Decrease in Accounts Payable
+188,fnd3_Q_paymentsof_div,Quarterly Payments Of Dividends
+189,fnd3_Q_preferred,Quarterly Preferred Stock Value
+190,fnd3_Q_receivables,Quarterly Increase or Decrease in Receivables
+191,fnd3_Q_retained_ear,Quarterly Retained Earnings
+192,fnd3_Q_revenue,Quarterly Revenue
+193,fnd3_Q_sgaexpense,"Quarterly Selling, General & Administrative Expense"
+194,fnd3_Q_sha_endofperiod,Quarterly Shares Outstanding At End Of Period
+195,fnd3_Q_sharesauthorized,Quarterly Shares Authorized
+196,fnd3_Q_sharesissued,Quarterly Shares Issued
+197,fnd3_Q_shcom,Quarterly Share Based Compensation
+198,fnd3_Q_shodebt,Quarterly Short Term Debt
+199,fnd3_Q_totaldebt,Quarterly Total Debt (Short & Long-Term)
+200,fnd3_Q_treasury,Quarterly Treasury Stock Value
+201,fnd3_Qaccadj_eff_exc_ratecas,Quarterly Accountance Adjustment Effect Of Exchange Rate On Cash And Cash Equivalents
+202,fnd3_Qaccadj_niccom_hold,Quarterly Accountance Adjustment Net Income Attributable to Common Stockholders
+203,fnd3_Qaccadj_niccon_ope,"Quarterly Accountance Adjustment Net Income, Continuing Operations"
+204,fnd3_Qaccadj_non_cur_lia,"Quarterly Accountance Adjustment Deferred Tax Liabilities, noncurrent"
+205,fnd3_Qacctadj_DnC,Quarterly Accountance Adjustment Depreciation & Amortization
+206,fnd3_Qacctadj__earbeforetaxes,Quarterly Accoutance Adjustment Earnings Before Taxes
+207,fnd3_Qacctadj__inc_tax,Quarterly Accountance Adjustment Income Tax Provision
+208,fnd3_Qacctadj_acc_abi_adj,Quarterly Accountance Adjustment Increase or Decrease in Accrued Liabilities
+209,fnd3_Qacctadj_acc_dep,Quarterly Accountance Adjustment  Accumulated Depreciation
+210,fnd3_Qacctadj_accpayable,Quarterly Accountance Adjustment Accounts payable
+211,fnd3_Qacctadj_accreceivable,Quarterly Accountance Adjustment Accounts receivable
+212,fnd3_Qacctadj_acq_dive,Quarterly Accountance Adjustment  Acquisition & Divestitures
+213,fnd3_Qacctadj_add_paid_cap,Quarterly Accountance Adjustment Additional  Paid In Capital
+214,fnd3_Qacctadj_assets,Quarterly Accountance Adjustment Total assets
+215,fnd3_Qacctadj_assets_old,Quarterly Before Accountance Adjustment Total assets
+216,fnd3_Qacctadj_avg_shabasic,"Quarterly Accountance Adjustment Average Common Shares Outstanding, Basic"
+217,fnd3_Qacctadj_avgdiluted_sha,"Quarterly Accountance Adjustment Average Common Shares Outstanding, Diluted"
+218,fnd3_Qacctadj_capex,"Quarterly Accountance Adjustment Capital Expenditures, Net"
+219,fnd3_Qacctadj_capexgross,Quarterly Accountance Adjustment Capital Expenditure Payments (Gross)
+220,fnd3_Qacctadj_capitalassetsales,Quarterly Accountance Adjustment Proceeds from Sale of Productive Assets
+221,fnd3_Qacctadj_cash,Quarterly Accountance Adjustment Cash & Cash Equivalents
+222,fnd3_Qacctadj_cashincrease,Quarterly Accountance Adjustment Total Cash Increase/Decrease For Period
+223,fnd3_Qacctadj_common,Quarterly Accountance Adjustment Common Stock Value
+224,fnd3_Qacctadj_comstk_divpershare,Quarterly Accountance Adjustment Common Stock Dividends Per Share
+225,fnd3_Qacctadj_costofrevenue,Quarterly Accountance Adjustment Cost of Revenue
+226,fnd3_Qacctadj_currentassets,Quarterly Accountance Adjustment Current Asset
+227,fnd3_Qacctadj_currentliabilities,Quarterly Accountance Adjustment Current Liabilities
+228,fnd3_Qacctadj_currentlongdebt,Quarterly Accountance Adjustment Current Portion Of Long-Term Debt
+229,fnd3_Qacctadj_currenttaxasset,"Quarterly Accountance Adjustment Deferred Tax Assets, Current"
+230,fnd3_Qacctadj_ebit,"Quarterly Accountance Adjustment Earnings Before Interest, Taxes"
+231,fnd3_Qacctadj_ebitda,"Quarterly Accountance Adjustment Earnings Before Interest, Taxes, Depreciation and Amortization"
+232,fnd3_Qacctadj_epp,"Quarterly Accountance Adjustment Property, Plant & Equipment"
+233,fnd3_Qacctadj_epsbasic,"Quarterly Accountance Adjustment Earnings Per Share, Basic"
+234,fnd3_Qacctadj_epsdiluted,"Quarterly Accountance Adjustment Earnings Per Share, Diluted"
+235,fnd3_Qacctadj_financing_cf,Quarterly Accountance Adjustment Financing Cash Flow
+236,fnd3_Qacctadj_goodwill,Quarterly Accountance Adjustment Goodwill
+237,fnd3_Qacctadj_grossprofit,Quarterly Accountance Adjustment Gross Profit
+238,fnd3_Qacctadj_int_ass_ex_gwill,Quarterly Accountance Adjustment Intangible Assets Excluding Goodwill
+239,fnd3_Qacctadj_int_exp,Quarterly Accountance Adjustment Interest Expense
+240,fnd3_Qacctadj_interestincome,Quarterly Accountance Adjustment Interest & Investment Income
+241,fnd3_Qacctadj_inv_cf,Quarterly Accountance Adjustment Investing Cash Flow
+242,fnd3_Qacctadj_inventory,Quarterly Accountance Adjustment Inventory
+243,fnd3_Qacctadj_inventoryincdec,Quarterly Accountance Adjustment Increase or Decrease in Inventory
+244,fnd3_Qacctadj_liabilities,"Quarterly Accountance Adjustment Liabilities, Total"
+245,fnd3_Qacctadj_liabilities_old,"Quarterly Before Accountance Adjustment Liabilities, Total"
+246,fnd3_Qacctadj_longdebt,Quarterly Accountance Adjustment Long Term Debt
+247,fnd3_Qacctadj_nic,Quarterly Accountance Adjustment Net Income
+248,fnd3_Qacctadj_ope_cf,Quarterly Accountance Adjustment Operating Cash Flow
+249,fnd3_Qacctadj_opeexpenseexitems,Quarterly Accountance Adjustment Operating Expense Extraordinary Items
+250,fnd3_Qacctadj_opeexpenses,Quarterly Accountance Adjustment Total Operating Expenses
+251,fnd3_Qacctadj_opeincome,Quarterly Accountance Adjustment Operating Income
+252,fnd3_Qacctadj_payables,Quarterly Accountance Adjustment Increase or Decrease in Accounts Payable
+253,fnd3_Qacctadj_paymentsof_div,Quarterly Accountance Adjustment Payments Of Dividends
+254,fnd3_Qacctadj_ppe_old,"Quarterly Before Accountance Adjustment Property, Plant & Equipment"
+255,fnd3_Qacctadj_preferred,Quarterly Accountance Adjustment Preferred Stock Value
+256,fnd3_Qacctadj_receivables,Quarterly Accountance Adjustment Increase or Decrease in Receivables
+257,fnd3_Qacctadj_retained_ear,Quarterly Accountance Adjustment Retained Earnings
+258,fnd3_Qacctadj_revenue,Quarterly Accountance Adjustment Revenue
+259,fnd3_Qacctadj_sgaexpense,"Quarterly Accountance Adjustment Selling, General & Administrative Expense"
+260,fnd3_Qacctadj_sha_endofperiod,Quarterly Accountance Adjustment Shares Outstanding At End Of Period
+261,fnd3_Qacctadj_sharesauthorized,Quarterly Accountance Adjustment Shares Authorized
+262,fnd3_Qacctadj_sharesissued,Quarterly Accountance Adjustment Number of Shares Issued
+263,fnd3_Qacctadj_shcom,Quarterly Accountance Adjustment Share Based Compensation
+264,fnd3_Qacctadj_shodebt,Quarterly Accountance Adjustment Short Term Debt
+265,fnd3_Qacctadj_totaldebt,Quarterly Accountance Adjustment Total Debt (Short & Long-Term)
+266,fnd3_Qacctadj_treasury,Quarterly Accountance Adjustment Treasury Stock Value
+267,fnd3_Qacctadjequity,Quarterly Accountance Adjustment Stockholders Equity
+268,fnd3_Qacctadjequitybeforenci,Quarterly Accountance AdjustmentStockholders Equity Before Non-Controlling Interest
+269,fnd3_Qequity,Quarterly Stockholders Equity
+270,fnd3_Qequitybeforenci,Quarterly Equity Before Non-Controlling Interest

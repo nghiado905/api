@@ -1,0 +1,15 @@
+,id,description
+0,oth450_mfm_gem3_cnt_japan,Country membership factor loading in GLB region
+1,oth450_mfm_gem3_dsrt,Instrument Specific Returns in GLB region
+2,oth450_mfm_gem3_market,Instrument market membership factor loading in GLB region
+3,oth450_mfm_gem3_ri_beta,Beta style factor loading in GLB region
+4,oth450_mfm_gem3_ri_divyield,Dividend yield style factor loading in GLB region
+5,oth450_mfm_gem3_ri_earnyield,Earnings Yield style factor loading in GLB region
+6,oth450_mfm_gem3_ri_growth,Growth style factor loading in GLB region
+7,oth450_mfm_gem3_ri_leverage,Leverage style factor loading in GLB region
+8,oth450_mfm_gem3_ri_momentum,Momentum style factor loading in GLB region
+9,oth450_mfm_gem3_ri_nonlsize,Non linear size style factor loading in GLB region
+10,oth450_mfm_gem3_ri_size,Size style factor loading in GLB region
+11,oth450_mfm_gem3_ri_value,Value style factor loading in GLB region
+12,oth450_mfm_gem3_ri_volatility,Volatility style factor loading in GLB region
+13,oth450_mfm_gem3_srisk,Instrument specific risk in GLB region

@@ -1,0 +1,15 @@
+,id,description
+0,star_eps_analyst_number_fq1,Number of SmartEstimate Analysts FQ1 EPS
+1,star_eps_analyst_number_fq2,Number of SmartEstimate Analysts FQ2 EPS
+2,star_eps_analyst_number_fy1,Number of SmartEstimate Analysts FY1 EPS
+3,star_eps_analyst_number_fy2,Number of SmartEstimate Analysts FY2 EPS
+4,star_eps_smart_estimate_12m,SmartEstimate F12M EPS
+5,star_eps_smart_estimate_fq1,SmartEstimate FQ1 EPS
+6,star_eps_smart_estimate_fq2,SmartEstimate FQ2 EPS
+7,star_eps_smart_estimate_fy1,SmartEstimate FY1 EPS
+8,star_eps_smart_estimate_fy2,SmartEstimate FY2 EPS
+9,star_eps_surprise_prediction_12m,Predicted Surprise % F12M EPS
+10,star_eps_surprise_prediction_fq1,Predicted Surprise % FQ1 EPS
+11,star_eps_surprise_prediction_fq2,Predicted Surprise % FQ2 EPS
+12,star_eps_surprise_prediction_fy1,Predicted Surprise % FY1 EPS
+13,star_eps_surprise_prediction_fy2,Predicted Surprise % FY2 EPS

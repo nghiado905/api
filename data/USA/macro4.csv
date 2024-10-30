@@ -1,0 +1,12 @@
+,id,description
+0,mcr4_cmdty_day_value,Daily commodity data value.
+1,mcr4_cmdty_week_value,Weekly commodity data value.
+2,mcr4_ifs_month_value,Value of monthly international financial stats.
+3,mcr4_ifs_quarter_value,Value of quarterly international financial stats
+4,mcr4_ifs_year_value,Value of yearly international financial stats
+5,mcr4_oecdmei_quarter_value,Value of quarterly OECD MEI.
+6,mcr4_usecon_month_value,Monthly US economic data value
+7,mcr4_usecon_quarter_value,Quarterly US economic data value
+8,mcr4_usint_month_nsa_value,Monthly US interest NSA value
+9,mcr4_usint_month_value,Monthly US interest rates value
+10,mcr4_usint_year_value,Yearly US interest rates value.

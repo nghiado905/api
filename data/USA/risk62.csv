@@ -1,0 +1,592 @@
+,id,description
+0,rsk62_1_100_intercept,Intercept Value
+1,rsk62_1_100_ksrs,specific risks of stocks
+2,rsk62_1_return,Returns
+3,rsk62_5_100_intercept,Intercept value
+4,rsk62_5_100_ksrs,specific risks of stocks
+5,rsk62_5_return,Returns
+6,rsk62_beta_1_100_banks,Bank Industry Beta
+7,rsk62_beta_1_100_chemicals,Chemicals Industry Beta
+8,rsk62_beta_1_100_commercialservices,Commercial Services Industry Beta
+9,rsk62_beta_1_100_computers,Computers Industry Beta
+10,rsk62_beta_1_100_curratio,current ratio
+11,rsk62_beta_1_100_diversifiedfinanserv,Diversified financial services Industry Beta
+12,rsk62_beta_1_100_dividend,dividend
+13,rsk62_beta_1_100_electric,Electric Industry Beta
+14,rsk62_beta_1_100_electronics,Electronics Industry Beta
+15,rsk62_beta_1_100_food,Food Industry Beta
+16,rsk62_beta_1_100_growth,eps growth
+17,rsk62_beta_1_100_healthcare_products,Healthcare products Industry Beta
+18,rsk62_beta_1_100_healthcare_services,Healthcare services Industry Beta
+19,rsk62_beta_1_100_insurance,Insurance Industry Beta
+20,rsk62_beta_1_100_internet,Internet Industry Beta
+21,rsk62_beta_1_100_logadv20,log(adv20)
+22,rsk62_beta_1_100_logcap,log(cap)
+23,rsk62_beta_1_100_margin,gross margin
+24,rsk62_beta_1_100_mining,Mining Industry Beta
+25,rsk62_beta_1_100_miscellaneousmanufactur,Miscellaneous Manufacturing Industry Beta
+26,rsk62_beta_1_100_mtl,long term momentum
+27,rsk62_beta_1_100_mts,short term momentum
+28,rsk62_beta_1_100_nipe,net income per employee
+29,rsk62_beta_1_100_oil_gas,Oil and Gas Industry Beta
+30,rsk62_beta_1_100_pb,book value
+31,rsk62_beta_1_100_pharmaceuticals,Pharmaceuticals Industry Beta
+32,rsk62_beta_1_100_qe2d,debt to equity ratio
+33,rsk62_beta_1_100_reits,REITS Industry Beta
+34,rsk62_beta_1_100_retail,Retail Industry Beta
+35,rsk62_beta_1_100_semiconductors,Semiconductors Industry Beta
+36,rsk62_beta_1_100_software,Software Industry Beta
+37,rsk62_beta_1_100_spe,earnings per share
+38,rsk62_beta_1_100_telecommunications,Telecommunications Industry Beta
+39,rsk62_beta_1_100_transportation,Transportation Industry Beta
+40,rsk62_beta_1_100_volatility,volatility
+41,rsk62_beta_5_100_banks,Expected indutry returns for Banks
+42,rsk62_beta_5_100_chemicals,Expected indutry returns for Chemicals
+43,rsk62_beta_5_100_commercialservices,Expected indutry returns for Commercial Services
+44,rsk62_beta_5_100_computers,Expected indutry returns for Computer
+45,rsk62_beta_5_100_curratio,current ratio
+46,rsk62_beta_5_100_diversifiedfinanserv,Expected indutry returns for Diversified Financial Services
+47,rsk62_beta_5_100_dividend,dividend
+48,rsk62_beta_5_100_electric,Expected indutry returns for Electric
+49,rsk62_beta_5_100_electronics,Expected indutry returns for Electronics
+50,rsk62_beta_5_100_food,Expected indutry returns for Food
+51,rsk62_beta_5_100_growth,eps growth
+52,rsk62_beta_5_100_healthcare_products,Expected indutry returns for Healthcare products
+53,rsk62_beta_5_100_healthcare_services,Expected indutry returns for Healthcare services
+54,rsk62_beta_5_100_insurance,Expected indutry returns for Insurance
+55,rsk62_beta_5_100_internet,Expected indutry returns for Internet
+56,rsk62_beta_5_100_logadv20,log(adv20)
+57,rsk62_beta_5_100_logcap,log(cap)
+58,rsk62_beta_5_100_margin,gross margin
+59,rsk62_beta_5_100_mining,Expected indutry returns for Mining
+60,rsk62_beta_5_100_miscellaneousmanufactur,Expected indutry returns for Miscellaneous Manufacturing
+61,rsk62_beta_5_100_mtl,long term momentum
+62,rsk62_beta_5_100_mts,short term momentum
+63,rsk62_beta_5_100_nipe,net income per employee
+64,rsk62_beta_5_100_oil_gas,Expected indutry returns for Oil & Gas
+65,rsk62_beta_5_100_pb,book value
+66,rsk62_beta_5_100_pharmaceuticals,Expected indutry returns for Pharmaceuticals
+67,rsk62_beta_5_100_qe2d,debt to equity ratio
+68,rsk62_beta_5_100_reits,Expected indutry returns for REITS
+69,rsk62_beta_5_100_retail,Expected indutry returns for Retail
+70,rsk62_beta_5_100_semiconductors,Expected indutry returns for Semiconductors
+71,rsk62_beta_5_100_software,Expected indutry returns for Software
+72,rsk62_beta_5_100_spe,earnings per share
+73,rsk62_beta_5_100_telecommunications,Expected indutry returns for Telecommunications
+74,rsk62_beta_5_100_transportation,Expected indutry returns for Transportation
+75,rsk62_beta_5_100_volatility,volatility
+76,rsk62_beta_factor_1_100_curratio,current ratio
+77,rsk62_beta_factor_1_100_dividend,dividend
+78,rsk62_beta_factor_1_100_growth,eps growth
+79,rsk62_beta_factor_1_100_logadv20,log(adv20)
+80,rsk62_beta_factor_1_100_logcap,log(cap)
+81,rsk62_beta_factor_1_100_margin,gross margin
+82,rsk62_beta_factor_1_100_mtl,long term momentum
+83,rsk62_beta_factor_1_100_mts,short term momentum
+84,rsk62_beta_factor_1_100_nipe,net income per employee
+85,rsk62_beta_factor_1_100_pb,book value
+86,rsk62_beta_factor_1_100_qe2d,debt to equity ratio
+87,rsk62_beta_factor_1_100_spe,earnings per share
+88,rsk62_beta_factor_1_100_volatility,volatility
+89,rsk62_beta_factor_5_100_curratio,current ratio
+90,rsk62_beta_factor_5_100_dividend,dividend
+91,rsk62_beta_factor_5_100_growth,eps growth
+92,rsk62_beta_factor_5_100_logadv20,log(adv20)
+93,rsk62_beta_factor_5_100_logcap,log(cap)
+94,rsk62_beta_factor_5_100_margin,gross margin
+95,rsk62_beta_factor_5_100_mtl,long term momentum
+96,rsk62_beta_factor_5_100_mts,short term momentum
+97,rsk62_beta_factor_5_100_nipe,net income per employee
+98,rsk62_beta_factor_5_100_pb,book value
+99,rsk62_beta_factor_5_100_qe2d,debt to equity ratio
+100,rsk62_beta_factor_5_100_spe,earnings per share
+101,rsk62_beta_factor_5_100_volatility,volatility
+102,rsk62_beta_industry_constr_1_100_banks,Industry beta with regard to factor returns for Banks
+103,rsk62_beta_industry_constr_1_100_chemicals,Industry beta with regard to factor returns for Chemicals
+104,rsk62_beta_industry_constr_1_100_commercialservices,Industry beta with regard to factor returns for Commercial Services
+105,rsk62_beta_industry_constr_1_100_computers,Industry beta with regard to factor returns for Computer
+106,rsk62_beta_industry_constr_1_100_diversifiedfinanserv,Industry beta with regard to factor returns for Diversified Financial Services
+107,rsk62_beta_industry_constr_1_100_electric,Industry beta with regard to factor returns for Electric
+108,rsk62_beta_industry_constr_1_100_electronics,Industry beta with regard to factor returns for Electronics
+109,rsk62_beta_industry_constr_1_100_food,Industry beta with regard to factor returns for Food
+110,rsk62_beta_industry_constr_1_100_healthcare_products,Industry beta with regard to factor returns for Healthcare products
+111,rsk62_beta_industry_constr_1_100_healthcare_services,Industry beta with regard to factor returns for Healthcare services
+112,rsk62_beta_industry_constr_1_100_insurance,Industry beta with regard to factor returns for Insurance
+113,rsk62_beta_industry_constr_1_100_internet,Industry beta with regard to factor returns for Internet
+114,rsk62_beta_industry_constr_1_100_mining,Industry beta with regard to factor returns for Mining
+115,rsk62_beta_industry_constr_1_100_miscellaneousmanufactur,Industry beta with regard to factor returns for Miscellaneous Manufacturing
+116,rsk62_beta_industry_constr_1_100_oil_gas,Industry beta with regard to factor returns for Oil & Gas
+117,rsk62_beta_industry_constr_1_100_pharmaceuticals,Industry beta with regard to factor returns for Pharmaceuticals
+118,rsk62_beta_industry_constr_1_100_reits,Industry beta with regard to factor returns for REITS
+119,rsk62_beta_industry_constr_1_100_retail,Industry beta with regard to factor returns for Retail
+120,rsk62_beta_industry_constr_1_100_semiconductors,Industry beta with regard to factor returns for Semiconductors
+121,rsk62_beta_industry_constr_1_100_software,Industry beta with regard to factor returns for Software
+122,rsk62_beta_industry_constr_1_100_telecommunications,Industry beta with regard to factor returns for Telecommunications
+123,rsk62_beta_industry_constr_1_100_transportation,Industry beta with regard to factor returns for Transportation
+124,rsk62_beta_industry_constr_5_100_banks,Industry beta with regard to factor returns for Banks
+125,rsk62_beta_industry_constr_5_100_chemicals,Industry beta with regard to factor returns for Chemicals
+126,rsk62_beta_industry_constr_5_100_commercialservices,Industry beta with regard to factor returns for Commercial Services
+127,rsk62_beta_industry_constr_5_100_computers,Industry beta with regard to factor returns for Computer
+128,rsk62_beta_industry_constr_5_100_diversifiedfinanserv,Industry beta with regard to factor returns for Diversified Financial Services
+129,rsk62_beta_industry_constr_5_100_electric,Industry beta with regard to factor returns for Electric
+130,rsk62_beta_industry_constr_5_100_electronics,Industry beta with regard to factor returns for Electronics
+131,rsk62_beta_industry_constr_5_100_food,Industry beta with regard to factor returns for Food
+132,rsk62_beta_industry_constr_5_100_healthcare_products,Industry beta with regard to factor returns for Healthcare products
+133,rsk62_beta_industry_constr_5_100_healthcare_services,Industry beta with regard to factor returns for Healthcare services
+134,rsk62_beta_industry_constr_5_100_insurance,Industry beta with regard to factor returns for Insurance
+135,rsk62_beta_industry_constr_5_100_internet,Industry beta with regard to factor returns for Internet
+136,rsk62_beta_industry_constr_5_100_mining,Industry beta with regard to factor returns for Mining
+137,rsk62_beta_industry_constr_5_100_miscellaneousmanufactur,Industry beta with regard to factor returns for Miscellaneous Manufacturing
+138,rsk62_beta_industry_constr_5_100_oil_gas,Industry beta with regard to factor returns for Oil & Gas
+139,rsk62_beta_industry_constr_5_100_pharmaceuticals,Industry beta with regard to factor returns for Pharmaceuticals
+140,rsk62_beta_industry_constr_5_100_reits,Industry beta with regard to factor returns for REITS
+141,rsk62_beta_industry_constr_5_100_retail,Industry beta with regard to factor returns for Retail
+142,rsk62_beta_industry_constr_5_100_semiconductors,Industry beta with regard to factor returns for Semiconductors
+143,rsk62_beta_industry_constr_5_100_software,Industry beta with regard to factor returns for Software
+144,rsk62_beta_industry_constr_5_100_telecommunications,Industry beta with regard to factor returns for Telecommunications
+145,rsk62_beta_industry_constr_5_100_transportation,Industry beta with regard to factor returns for Transportation
+146,rsk62_curratio_di,Date Index of current ratio
+147,rsk62_dividend_di,Date Index of dividend
+148,rsk62_factor_1_100_intercept,Intercept value
+149,rsk62_factor_1_100_val100,Factor return
+150,rsk62_factor_1_100_val24,Factor return
+151,rsk62_factor_1_100_val25,Factor return
+152,rsk62_factor_1_100_val26,Factor return
+153,rsk62_factor_1_100_val27,Factor return
+154,rsk62_factor_1_100_val28,Factor return
+155,rsk62_factor_1_100_val29,Factor return
+156,rsk62_factor_1_100_val30,Factor return
+157,rsk62_factor_1_100_val31,Factor return
+158,rsk62_factor_1_100_val32,Factor return
+159,rsk62_factor_1_100_val33,Factor return
+160,rsk62_factor_1_100_val34,Factor return
+161,rsk62_factor_1_100_val35,Factor return
+162,rsk62_factor_1_100_val36,Factor return
+163,rsk62_factor_1_100_val37,Factor return
+164,rsk62_factor_1_100_val38,Factor return
+165,rsk62_factor_1_100_val39,Factor return
+166,rsk62_factor_1_100_val40,Factor return
+167,rsk62_factor_1_100_val41,Factor return
+168,rsk62_factor_1_100_val42,Factor return
+169,rsk62_factor_1_100_val43,Factor return
+170,rsk62_factor_1_100_val44,Factor return
+171,rsk62_factor_1_100_val45,Factor return
+172,rsk62_factor_1_100_val46,Factor return
+173,rsk62_factor_1_100_val47,Factor return
+174,rsk62_factor_1_100_val48,Factor return
+175,rsk62_factor_1_100_val49,Factor return
+176,rsk62_factor_1_100_val50,Factor return
+177,rsk62_factor_1_100_val51,Factor return
+178,rsk62_factor_1_100_val52,Factor return
+179,rsk62_factor_1_100_val53,Factor return
+180,rsk62_factor_1_100_val54,Factor return
+181,rsk62_factor_1_100_val55,Factor return
+182,rsk62_factor_1_100_val56,Factor return
+183,rsk62_factor_1_100_val57,Factor return
+184,rsk62_factor_1_100_val58,Factor return
+185,rsk62_factor_1_100_val59,Factor return
+186,rsk62_factor_1_100_val60,Factor return
+187,rsk62_factor_1_100_val61,Factor return
+188,rsk62_factor_1_100_val62,Factor return
+189,rsk62_factor_1_100_val63,Factor return
+190,rsk62_factor_1_100_val64,Factor return
+191,rsk62_factor_1_100_val65,Factor return
+192,rsk62_factor_1_100_val66,Factor return
+193,rsk62_factor_1_100_val67,Factor return
+194,rsk62_factor_1_100_val68,Factor return
+195,rsk62_factor_1_100_val69,Factor return
+196,rsk62_factor_1_100_val70,Factor return
+197,rsk62_factor_1_100_val71,Factor return
+198,rsk62_factor_1_100_val72,Factor return
+199,rsk62_factor_1_100_val73,Factor return
+200,rsk62_factor_1_100_val74,Factor return
+201,rsk62_factor_1_100_val75,Factor return
+202,rsk62_factor_1_100_val76,Factor return
+203,rsk62_factor_1_100_val77,Factor return
+204,rsk62_factor_1_100_val78,Factor return
+205,rsk62_factor_1_100_val79,Factor return
+206,rsk62_factor_1_100_val80,Factor return
+207,rsk62_factor_1_100_val81,Factor return
+208,rsk62_factor_1_100_val82,Factor return
+209,rsk62_factor_1_100_val83,Factor return
+210,rsk62_factor_1_100_val84,Factor return
+211,rsk62_factor_1_100_val85,Factor return
+212,rsk62_factor_1_100_val86,Factor return
+213,rsk62_factor_1_100_val87,Factor return
+214,rsk62_factor_1_100_val88,Factor return
+215,rsk62_factor_1_100_val89,Factor return
+216,rsk62_factor_1_100_val90,Factor return
+217,rsk62_factor_1_100_val91,Factor return
+218,rsk62_factor_1_100_val92,Factor return
+219,rsk62_factor_1_100_val93,Factor return
+220,rsk62_factor_1_100_val94,Factor return
+221,rsk62_factor_1_100_val95,Factor return
+222,rsk62_factor_1_100_val96,Factor return
+223,rsk62_factor_1_100_val97,Factor return
+224,rsk62_factor_1_100_val98,Factor return
+225,rsk62_factor_1_100_val99,Factor return
+226,rsk62_factor_5_100_intercept,Intercept value
+227,rsk62_factor_5_100_val100,Factor return
+228,rsk62_factor_5_100_val24,Factor return
+229,rsk62_factor_5_100_val25,Factor return
+230,rsk62_factor_5_100_val26,Factor return
+231,rsk62_factor_5_100_val27,Factor return
+232,rsk62_factor_5_100_val28,Factor return
+233,rsk62_factor_5_100_val29,Factor return series
+234,rsk62_factor_5_100_val30,Factor return
+235,rsk62_factor_5_100_val31,Factor return
+236,rsk62_factor_5_100_val32,Factor return
+237,rsk62_factor_5_100_val33,Factor return
+238,rsk62_factor_5_100_val34,Factor return
+239,rsk62_factor_5_100_val35,Factor return
+240,rsk62_factor_5_100_val36,Factor return
+241,rsk62_factor_5_100_val37,Factor return
+242,rsk62_factor_5_100_val38,Factor return
+243,rsk62_factor_5_100_val39,Factor return
+244,rsk62_factor_5_100_val40,Factor return
+245,rsk62_factor_5_100_val41,Factor return
+246,rsk62_factor_5_100_val42,Factor return
+247,rsk62_factor_5_100_val43,Factor return
+248,rsk62_factor_5_100_val44,Factor return
+249,rsk62_factor_5_100_val45,Factor return
+250,rsk62_factor_5_100_val46,Factor return
+251,rsk62_factor_5_100_val47,Factor return
+252,rsk62_factor_5_100_val48,Factor return
+253,rsk62_factor_5_100_val49,Factor return
+254,rsk62_factor_5_100_val50,Factor return
+255,rsk62_factor_5_100_val51,Factor return
+256,rsk62_factor_5_100_val52,Factor return
+257,rsk62_factor_5_100_val53,Factor return
+258,rsk62_factor_5_100_val54,Factor return
+259,rsk62_factor_5_100_val55,Factor return
+260,rsk62_factor_5_100_val56,Factor return
+261,rsk62_factor_5_100_val57,Factor return
+262,rsk62_factor_5_100_val58,Factor return
+263,rsk62_factor_5_100_val59,Factor return
+264,rsk62_factor_5_100_val60,Factor return
+265,rsk62_factor_5_100_val61,Factor return
+266,rsk62_factor_5_100_val62,Factor return
+267,rsk62_factor_5_100_val63,Factor return
+268,rsk62_factor_5_100_val64,Factor return
+269,rsk62_factor_5_100_val65,Factor return
+270,rsk62_factor_5_100_val66,Factor return
+271,rsk62_factor_5_100_val67,Factor return
+272,rsk62_factor_5_100_val68,Factor return
+273,rsk62_factor_5_100_val69,Factor return
+274,rsk62_factor_5_100_val70,Factor return
+275,rsk62_factor_5_100_val71,Factor return
+276,rsk62_factor_5_100_val72,Factor return
+277,rsk62_factor_5_100_val73,Factor return
+278,rsk62_factor_5_100_val74,Factor return
+279,rsk62_factor_5_100_val75,Factor return
+280,rsk62_factor_5_100_val76,Factor return
+281,rsk62_factor_5_100_val77,Factor return
+282,rsk62_factor_5_100_val78,Factor return
+283,rsk62_factor_5_100_val79,Factor return
+284,rsk62_factor_5_100_val80,Factor return
+285,rsk62_factor_5_100_val81,Factor return
+286,rsk62_factor_5_100_val82,Factor return
+287,rsk62_factor_5_100_val83,Factor return
+288,rsk62_factor_5_100_val84,Factor return
+289,rsk62_factor_5_100_val85,Factor return
+290,rsk62_factor_5_100_val86,Factor return
+291,rsk62_factor_5_100_val87,Factor return
+292,rsk62_factor_5_100_val88,Factor return
+293,rsk62_factor_5_100_val89,Factor return
+294,rsk62_factor_5_100_val90,Factor return
+295,rsk62_factor_5_100_val91,Factor return
+296,rsk62_factor_5_100_val92,Factor return
+297,rsk62_factor_5_100_val93,Factor return
+298,rsk62_factor_5_100_val94,Factor return
+299,rsk62_factor_5_100_val95,Factor return
+300,rsk62_factor_5_100_val96,Factor return
+301,rsk62_factor_5_100_val97,Factor return
+302,rsk62_factor_5_100_val98,Factor return
+303,rsk62_factor_5_100_val99,Factor return
+304,rsk62_growth_di,Date Index of eps growth
+305,rsk62_id_mtl,Date Index of long term momentum
+306,rsk62_id_mts,Date Index of short term momentum
+307,rsk62_id_pb,Date Index of book value
+308,rsk62_id_qe2d,Date Index of debt to equity ratio
+309,rsk62_id_spe,Date Index of earnings per share
+310,rsk62_industry_1_100_val100,Industry return
+311,rsk62_industry_1_100_val24,Industry return
+312,rsk62_industry_1_100_val25,Industry return
+313,rsk62_industry_1_100_val26,Industry return
+314,rsk62_industry_1_100_val27,Industry return
+315,rsk62_industry_1_100_val28,Industry return
+316,rsk62_industry_1_100_val29,Industry return
+317,rsk62_industry_1_100_val30,Industry return
+318,rsk62_industry_1_100_val31,Industry return
+319,rsk62_industry_1_100_val32,Industry return
+320,rsk62_industry_1_100_val33,Industry return
+321,rsk62_industry_1_100_val34,Industry return
+322,rsk62_industry_1_100_val35,Industry return
+323,rsk62_industry_1_100_val36,Industry return
+324,rsk62_industry_1_100_val37,Industry return
+325,rsk62_industry_1_100_val38,Industry return
+326,rsk62_industry_1_100_val39,Industry return
+327,rsk62_industry_1_100_val40,Industry return
+328,rsk62_industry_1_100_val41,Industry return
+329,rsk62_industry_1_100_val42,Industry return
+330,rsk62_industry_1_100_val43,Industry return
+331,rsk62_industry_1_100_val44,Industry return
+332,rsk62_industry_1_100_val45,Industry return
+333,rsk62_industry_1_100_val46,Industry return
+334,rsk62_industry_1_100_val47,Industry return
+335,rsk62_industry_1_100_val48,Industry return
+336,rsk62_industry_1_100_val49,Industry return
+337,rsk62_industry_1_100_val50,Industry return
+338,rsk62_industry_1_100_val51,Industry return
+339,rsk62_industry_1_100_val52,Industry return
+340,rsk62_industry_1_100_val53,Industry return
+341,rsk62_industry_1_100_val54,Industry return
+342,rsk62_industry_1_100_val55,Industry return
+343,rsk62_industry_1_100_val56,Industry return
+344,rsk62_industry_1_100_val57,Industry return
+345,rsk62_industry_1_100_val58,Industry return
+346,rsk62_industry_1_100_val59,Industry return
+347,rsk62_industry_1_100_val60,Industry return
+348,rsk62_industry_1_100_val61,Industry return
+349,rsk62_industry_1_100_val62,Industry return
+350,rsk62_industry_1_100_val63,Industry return
+351,rsk62_industry_1_100_val64,Industry return
+352,rsk62_industry_1_100_val65,Industry return
+353,rsk62_industry_1_100_val66,Industry return
+354,rsk62_industry_1_100_val67,Industry return
+355,rsk62_industry_1_100_val68,Industry return
+356,rsk62_industry_1_100_val69,Industry return
+357,rsk62_industry_1_100_val70,Industry return
+358,rsk62_industry_1_100_val71,Industry return
+359,rsk62_industry_1_100_val72,Industry return
+360,rsk62_industry_1_100_val73,Industry return
+361,rsk62_industry_1_100_val74,Industry return
+362,rsk62_industry_1_100_val75,Industry return
+363,rsk62_industry_1_100_val76,Industry return
+364,rsk62_industry_1_100_val77,Industry return
+365,rsk62_industry_1_100_val78,Industry return
+366,rsk62_industry_1_100_val79,Industry return
+367,rsk62_industry_1_100_val80,Industry return
+368,rsk62_industry_1_100_val81,Industry return
+369,rsk62_industry_1_100_val82,Industry return
+370,rsk62_industry_1_100_val83,Industry return
+371,rsk62_industry_1_100_val84,Industry return
+372,rsk62_industry_1_100_val85,Industry return
+373,rsk62_industry_1_100_val86,Industry return
+374,rsk62_industry_1_100_val87,Industry return
+375,rsk62_industry_1_100_val88,Industry return
+376,rsk62_industry_1_100_val89,Industry return
+377,rsk62_industry_1_100_val90,Industry return
+378,rsk62_industry_1_100_val91,Industry return
+379,rsk62_industry_1_100_val92,Industry return
+380,rsk62_industry_1_100_val93,Industry return
+381,rsk62_industry_1_100_val94,Industry return
+382,rsk62_industry_1_100_val95,Industry return
+383,rsk62_industry_1_100_val96,Industry return
+384,rsk62_industry_1_100_val97,Industry return
+385,rsk62_industry_1_100_val98,Industry return
+386,rsk62_industry_1_100_val99,Industry return
+387,rsk62_industry_5_100_val100,Industry return
+388,rsk62_industry_5_100_val24,Industry return
+389,rsk62_industry_5_100_val25,Industry return
+390,rsk62_industry_5_100_val26,Industry return
+391,rsk62_industry_5_100_val27,Industry return
+392,rsk62_industry_5_100_val28,Industry return
+393,rsk62_industry_5_100_val29,Industry return
+394,rsk62_industry_5_100_val30,Industry return
+395,rsk62_industry_5_100_val31,Industry return
+396,rsk62_industry_5_100_val32,Industry return
+397,rsk62_industry_5_100_val33,Industry return
+398,rsk62_industry_5_100_val34,Industry return
+399,rsk62_industry_5_100_val35,Industry return
+400,rsk62_industry_5_100_val36,Industry return
+401,rsk62_industry_5_100_val37,Industry return
+402,rsk62_industry_5_100_val38,Industry return
+403,rsk62_industry_5_100_val39,Industry return
+404,rsk62_industry_5_100_val40,Industry return
+405,rsk62_industry_5_100_val41,Industry return
+406,rsk62_industry_5_100_val42,Industry return
+407,rsk62_industry_5_100_val43,Industry return
+408,rsk62_industry_5_100_val44,Industry return
+409,rsk62_industry_5_100_val45,Industry return
+410,rsk62_industry_5_100_val46,Industry return
+411,rsk62_industry_5_100_val47,Industry return
+412,rsk62_industry_5_100_val48,Industry return
+413,rsk62_industry_5_100_val49,Industry return
+414,rsk62_industry_5_100_val50,Industry return
+415,rsk62_industry_5_100_val51,Industry return
+416,rsk62_industry_5_100_val52,Industry return
+417,rsk62_industry_5_100_val53,Industry return
+418,rsk62_industry_5_100_val54,Industry return
+419,rsk62_industry_5_100_val55,Industry return
+420,rsk62_industry_5_100_val56,Industry return
+421,rsk62_industry_5_100_val57,Industry return
+422,rsk62_industry_5_100_val58,Industry return
+423,rsk62_industry_5_100_val59,Industry return
+424,rsk62_industry_5_100_val60,Industry return
+425,rsk62_industry_5_100_val61,Industry return
+426,rsk62_industry_5_100_val62,Industry return
+427,rsk62_industry_5_100_val63,Industry return
+428,rsk62_industry_5_100_val64,Industry return
+429,rsk62_industry_5_100_val65,Industry return
+430,rsk62_industry_5_100_val66,Industry return
+431,rsk62_industry_5_100_val67,Industry return
+432,rsk62_industry_5_100_val68,Industry return
+433,rsk62_industry_5_100_val69,Industry return
+434,rsk62_industry_5_100_val70,Industry return
+435,rsk62_industry_5_100_val71,Industry return
+436,rsk62_industry_5_100_val72,Industry return
+437,rsk62_industry_5_100_val73,Industry return
+438,rsk62_industry_5_100_val74,Industry return
+439,rsk62_industry_5_100_val75,Industry return
+440,rsk62_industry_5_100_val76,Industry return
+441,rsk62_industry_5_100_val77,Industry return
+442,rsk62_industry_5_100_val78,Industry return
+443,rsk62_industry_5_100_val79,Industry return
+444,rsk62_industry_5_100_val80,Industry return
+445,rsk62_industry_5_100_val81,Industry return
+446,rsk62_industry_5_100_val82,Industry return
+447,rsk62_industry_5_100_val83,Industry return
+448,rsk62_industry_5_100_val84,Industry return
+449,rsk62_industry_5_100_val85,Industry return
+450,rsk62_industry_5_100_val86,Industry return
+451,rsk62_industry_5_100_val87,Industry return
+452,rsk62_industry_5_100_val88,Industry return
+453,rsk62_industry_5_100_val89,Industry return
+454,rsk62_industry_5_100_val90,Industry return
+455,rsk62_industry_5_100_val91,Industry return
+456,rsk62_industry_5_100_val92,Industry return
+457,rsk62_industry_5_100_val93,Industry return
+458,rsk62_industry_5_100_val94,Industry return
+459,rsk62_industry_5_100_val95,Industry return
+460,rsk62_industry_5_100_val96,Industry return
+461,rsk62_industry_5_100_val97,Industry return
+462,rsk62_industry_5_100_val98,Industry return
+463,rsk62_industry_5_100_val99,Industry return
+464,rsk62_industry_constr_1_100_intercept,Intercept value
+465,rsk62_industry_constr_5_100_intercept,Intercept value
+466,rsk62_init_constr_1_val1,Initial Constraint
+467,rsk62_init_constr_5_val1,Initial Constraint
+468,rsk62_logadv20_di,Date Index of log(adv20)
+469,rsk62_logcap_di,Date Index of log(cap)
+470,rsk62_margin_di,Date Index of gross margin
+471,rsk62_nipe_di,Date Index of net income per employee
+472,rsk62_retseries_factor_1_100_val1,Factor return series
+473,rsk62_retseries_factor_1_100_val10,Factor return series
+474,rsk62_retseries_factor_1_100_val11,Factor return series
+475,rsk62_retseries_factor_1_100_val12,Factor return series
+476,rsk62_retseries_factor_1_100_val13,Factor return series
+477,rsk62_retseries_factor_1_100_val14,Factor return series
+478,rsk62_retseries_factor_1_100_val15,Factor return series
+479,rsk62_retseries_factor_1_100_val16,Factor return series
+480,rsk62_retseries_factor_1_100_val17,Factor return series
+481,rsk62_retseries_factor_1_100_val18,Factor return series
+482,rsk62_retseries_factor_1_100_val19,Factor return series
+483,rsk62_retseries_factor_1_100_val2,Factor return series
+484,rsk62_retseries_factor_1_100_val20,Factor return series
+485,rsk62_retseries_factor_1_100_val21,Factor return series
+486,rsk62_retseries_factor_1_100_val22,Factor return series
+487,rsk62_retseries_factor_1_100_val23,Factor return series
+488,rsk62_retseries_factor_1_100_val3,Factor return series
+489,rsk62_retseries_factor_1_100_val4,Factor return series
+490,rsk62_retseries_factor_1_100_val5,Factor return series
+491,rsk62_retseries_factor_1_100_val6,Factor return series
+492,rsk62_retseries_factor_1_100_val7,Factor return series
+493,rsk62_retseries_factor_1_100_val8,Factor return series
+494,rsk62_retseries_factor_1_100_val9,Factor return series
+495,rsk62_retseries_factor_5_100_val1,Factor return series
+496,rsk62_retseries_factor_5_100_val10,Factor return series
+497,rsk62_retseries_factor_5_100_val11,Factor return series
+498,rsk62_retseries_factor_5_100_val12,Factor return series
+499,rsk62_retseries_factor_5_100_val13,Factor return series
+500,rsk62_retseries_factor_5_100_val14,Factor return series
+501,rsk62_retseries_factor_5_100_val15,Factor return series
+502,rsk62_retseries_factor_5_100_val16,Factor return series
+503,rsk62_retseries_factor_5_100_val17,Factor return series
+504,rsk62_retseries_factor_5_100_val18,Factor return series
+505,rsk62_retseries_factor_5_100_val19,Factor return series
+506,rsk62_retseries_factor_5_100_val2,Factor return
+507,rsk62_retseries_factor_5_100_val20,Factor return series
+508,rsk62_retseries_factor_5_100_val21,Factor return series
+509,rsk62_retseries_factor_5_100_val22,Factor return series
+510,rsk62_retseries_factor_5_100_val23,Factor return series
+511,rsk62_retseries_factor_5_100_val3,Factor return series
+512,rsk62_retseries_factor_5_100_val4,Factor return series
+513,rsk62_retseries_factor_5_100_val5,Factor return series
+514,rsk62_retseries_factor_5_100_val6,Factor return series
+515,rsk62_retseries_factor_5_100_val7,Factor return series
+516,rsk62_retseries_factor_5_100_val8,Factor return series
+517,rsk62_retseries_factor_5_100_val9,Factor return series
+518,rsk62_retseries_industry_1_100_val1,Industry return series
+519,rsk62_retseries_industry_1_100_val10,Industry return series
+520,rsk62_retseries_industry_1_100_val11,Industry return series
+521,rsk62_retseries_industry_1_100_val12,Industry return series
+522,rsk62_retseries_industry_1_100_val13,Industry return series
+523,rsk62_retseries_industry_1_100_val14,Industry return series
+524,rsk62_retseries_industry_1_100_val15,Industry return series
+525,rsk62_retseries_industry_1_100_val16,Industry return series
+526,rsk62_retseries_industry_1_100_val17,Industry return series
+527,rsk62_retseries_industry_1_100_val18,Industry return series
+528,rsk62_retseries_industry_1_100_val19,Industry return series
+529,rsk62_retseries_industry_1_100_val2,Industry return series
+530,rsk62_retseries_industry_1_100_val20,Industry return series
+531,rsk62_retseries_industry_1_100_val21,Industry return series
+532,rsk62_retseries_industry_1_100_val22,Industry return series
+533,rsk62_retseries_industry_1_100_val23,Industry return series
+534,rsk62_retseries_industry_1_100_val3,Industry return series
+535,rsk62_retseries_industry_1_100_val4,Industry return series
+536,rsk62_retseries_industry_1_100_val5,Industry return series
+537,rsk62_retseries_industry_1_100_val6,Industry return series
+538,rsk62_retseries_industry_1_100_val7,Industry return series
+539,rsk62_retseries_industry_1_100_val8,Industry return series
+540,rsk62_retseries_industry_1_100_val9,Industry return series
+541,rsk62_retseries_industry_5_100_val1,Industry return series
+542,rsk62_retseries_industry_5_100_val10,Industry return series
+543,rsk62_retseries_industry_5_100_val11,Industry return series
+544,rsk62_retseries_industry_5_100_val12,Industry return series
+545,rsk62_retseries_industry_5_100_val13,Industry return series
+546,rsk62_retseries_industry_5_100_val14,Industry return series
+547,rsk62_retseries_industry_5_100_val15,Industry return series
+548,rsk62_retseries_industry_5_100_val16,Industry return series
+549,rsk62_retseries_industry_5_100_val17,Industry return series
+550,rsk62_retseries_industry_5_100_val18,Industry return series
+551,rsk62_retseries_industry_5_100_val19,Industry return series
+552,rsk62_retseries_industry_5_100_val2,Industry return series
+553,rsk62_retseries_industry_5_100_val20,Industry return series
+554,rsk62_retseries_industry_5_100_val21,Industry return series
+555,rsk62_retseries_industry_5_100_val22,Industry return series
+556,rsk62_retseries_industry_5_100_val23,Industry return series
+557,rsk62_retseries_industry_5_100_val3,Industry return series
+558,rsk62_retseries_industry_5_100_val4,Industry return series
+559,rsk62_retseries_industry_5_100_val5,Industry return series
+560,rsk62_retseries_industry_5_100_val6,Industry return series
+561,rsk62_retseries_industry_5_100_val7,Industry return series
+562,rsk62_retseries_industry_5_100_val8,Industry return series
+563,rsk62_retseries_industry_5_100_val9,Industry return series
+564,rsk62_risk_backfill_curratio,current ratio
+565,rsk62_risk_backfill_dividend,dividend
+566,rsk62_risk_backfill_growth,eps growth
+567,rsk62_risk_backfill_logadv20,log(adv20)
+568,rsk62_risk_backfill_logcap,log(cap)
+569,rsk62_risk_backfill_margin,gross margin
+570,rsk62_risk_backfill_mtl,long term momentum
+571,rsk62_risk_backfill_mts,short term momentum
+572,rsk62_risk_backfill_nipe,net income per employee
+573,rsk62_risk_backfill_pb,book value
+574,rsk62_risk_backfill_qe2d,debt to equity ratio
+575,rsk62_risk_backfill_spe,earnings per share
+576,rsk62_risk_backfill_volatility,volatility
+577,rsk62_risk_curratio,current ratio
+578,rsk62_risk_dividend,dividend
+579,rsk62_risk_growth,eps growth
+580,rsk62_risk_logadv20,log(adv20)
+581,rsk62_risk_logcap,log(cap)
+582,rsk62_risk_margin,gross margin
+583,rsk62_risk_mtl,long term momentum
+584,rsk62_risk_mts,short term momentum
+585,rsk62_risk_nipe,net income per employee
+586,rsk62_risk_pb,book value
+587,rsk62_risk_qe2d,debt to equity ratio
+588,rsk62_risk_spe,earnings per share
+589,rsk62_risk_volatility,volatility
+590,rsk62_volatility_di,Date Index of volatility

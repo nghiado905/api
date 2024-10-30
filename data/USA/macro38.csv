@@ -1,0 +1,57 @@
+,id,description
+0,mcr38_adx_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. -> for ADX indicator"
+1,mcr38_adx_signal,S(sell)/B(buy)/H(hold) for average directional index (ADX) indicator
+2,mcr38_adx_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for average directional index (ADX) indicator"
+3,mcr38_bb_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for BB indicator"
+4,mcr38_bb_signal,S(sell)/B(buy)/H(hold) for bollinger band (BB) indicator
+5,mcr38_bb_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for bollinger band (bb) indicator"
+6,mcr38_cci_40_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for CCI_40 indicator"
+7,mcr38_cci_40_signal,S(sell)/B(buy)/H(hold) for commodity channel index (cci) 40 days indicator
+8,mcr38_cci_40_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for commodity channel index (cci) 40days indicator"
+9,mcr38_cci_60_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for CCI_60 indicator"
+10,mcr38_cci_60_signal,S(sell)/B(buy)/H(hold) for commodity channel index (cci) 60 days indicator
+11,mcr38_cci_60_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for commodity channel index (cci) 60days indicator"
+12,mcr38_change,Change in price in last 1 day
+13,mcr38_direction_rating,Overall direction rating from 1 to 10
+14,mcr38_high,High price in last day
+15,mcr38_last,Latest close price
+16,mcr38_longterm_percent,Average signal across all long term indicators
+17,mcr38_longterm_signal,Buy(B)/Sell(S)/Hold(H) average across all long term indicators
+18,mcr38_low,Low price in last day
+19,mcr38_ma_100_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for MA_100 indicator"
+20,mcr38_ma_100_signal,S(sell)/B(buy)/H(hold) for moving average (ma) 100 days indicator
+21,mcr38_ma_100_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for moving average (ma) 100days indicator"
+22,mcr38_ma_20_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for MA_20 indicator"
+23,mcr38_ma_20_signal,S(sell)/B(buy)/H(hold) for moving average (ma) 20 days indicator
+24,mcr38_ma_20_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for moving average (ma) 20days indicator"
+25,mcr38_ma_50_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for MA_50 indicator"
+26,mcr38_ma_50_signal,S(sell)/B(buy)/H(hold) for moving average (ma) 50 days indicator
+27,mcr38_ma_50_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for moving average (ma) 50days indicator"
+28,mcr38_macd_20_100_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for MACD_20_100 indicator"
+29,mcr38_macd_20_100_signal,S(sell)/B(buy)/H(hold) for moving average convergence divergence (macd) 20/100 days indicator
+30,mcr38_macd_20_100_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for moving average convergence divergence (macd) 20/100 days indicator"
+31,mcr38_macd_20_50_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for MACD_20_50 indicator"
+32,mcr38_macd_20_50_signal,S(sell)/B(buy)/H(hold) for moving average convergence divergence (macd) 20/50 days indicator
+33,mcr38_macd_20_50_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for moving average convergence divergence (macd) 20/50 days indicator"
+34,mcr38_macd_50_100_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for MACD_50_100 indicator"
+35,mcr38_macd_50_100_signal,S(sell)/B(buy)/H(hold) for moving average convergence divergence (macd) 50/100 days indicator
+36,mcr38_macd_50_100_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for moving average convergence divergence (macd) 50/100 days indicator"
+37,mcr38_mahilo_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for MAHILO indicator"
+38,mcr38_mahilo_signal,S(sell)/B(buy)/H(hold) for moving average using high and low prices (mahilo) indicator
+39,mcr38_mahilo_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for moving average using high and low price (mahilo) indicator"
+40,mcr38_mediumterm_percent,Average signal across all medium term indicators
+41,mcr38_mediumterm_signal,Buy(B)/Sell(S)/Hold(H) average across all medium term indicators
+42,mcr38_open,Open price yesterday
+43,mcr38_overall_percent,Average signal across all indicators
+44,mcr38_overall_signal,Buy(B)/Sell(S)/Hold(H) average across all indicators
+45,mcr38_para_50_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for PARA_50 indicator"
+46,mcr38_para_50_signal,S(sell)/B(buy)/H(hold) for 50 days PARA indicator
+47,mcr38_para_50_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for PARA_50 indicator"
+48,mcr38_percent_change,Percentage change in price in last 1 day
+49,mcr38_shorttermpercent,Average signal across all short term indicators
+50,mcr38_shorttermsignal,Buy(B)/Sell(S)/Hold(H) average across all short term indicators
+51,mcr38_strength_rating,Overall strength rating from 1 to 10
+52,mcr38_trendspotter_direction,"If signal is Buy or Sell, this field tellls whether signal is strengthening (5) or weakening (1). If signal is Hold, this field tells if it is heading towards bullish (5) or bearish (1) signal. ->for proprietary composite indicator"
+53,mcr38_trendspotter_signal,S(sell)/B(buy)/H(hold) forproprietary composite indicator
+54,mcr38_trendspotter_strength,"Strength of signal compared to historical performance, from minimum 1 to maximum 5, for proprietary composite indicator"
+55,mcr38_volume,Total shares traded yesterday

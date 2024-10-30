@@ -1,0 +1,13 @@
+,id,description
+17,io_fund_holding,Total shares that entity holds at the reported time
+18,io_fund_mv,Total market values that entity holds at the reported time
+19,io_fund_number,The total number of holders of the security
+20,io_fund_pct,The percentage of the total shares outstanding (TSO) of the security held in aggregate by all filing fund// Note: For some records pct_held is greater than 100 (error at vendor's end); use with discretion.
+21,io_fund_prev_holding,The number of shares in that entity last reported time
+22,io_fund_prev_mv,The total value of that entity last reported time
+23,io_inst_holding,Total shares that institution holds at the reported time
+24,io_inst_mv,Total market values that institution holds at the reported time
+25,io_inst_number,The total number of institutional holders of the security
+26,io_inst_pct,The percentage of the total shares outstanding (TSO) of the security held in aggregate by all instututions Note: For some records pct_held is greater than 100 (error at vendor's end); use with discretion.
+27,io_inst_prev_holding,The number of shares in that institution last reported time
+28,io_inst_prev_mv,The total value of that institution last reported time

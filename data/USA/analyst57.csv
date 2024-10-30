@@ -1,0 +1,48 @@
+,id,description
+0,anl57_l_d1_cusip,a nine-character numeric or alphanumeric code that uniquely identifies a North American financial security
+1,anl57_l_d1_isin,"a code that uniquely identifies a security globally for the purposes of facilitating clearing, reporting and settlement of trades"
+2,anl57_l_d1_ticker,code used by the stock exchanges to identify a company
+3,anl57_q_d1_avgassets,"Weighted average assets for the period, as reported by the company, if available, otherwise, calculated by SNL"
+4,anl57_q_d1_avgbasicsharesout,Average shares used to calculate basic EPS
+5,anl57_q_d1_avgcommonequity,"Average of common equity over the period, as reported by the company, if available, otherwise, calculated by SNL"
+6,anl57_q_d1_avgdilutedshares,Average shares used to calculate diluted EPS
+7,anl57_q_d1_avgequity,"Average total equity for the period, as reported by the company, if available, otherwise, calculated by SNL"
+8,anl57_q_d1_basicepsbeforeextra,Basic earnings per share pursuant to FAS 128
+9,anl57_q_d1_cashflowfromfinancingactivities,Net increase in cash from financing activities
+10,anl57_q_d1_cashflowfromoperatingactivities,Net increase in cash and equivalents from operating activities
+11,anl57_q_d1_commonequity,All equity attributable to the common shareholders
+12,anl57_q_d1_commonequitytotalassets,Common equity as a percent of assets
+13,anl57_q_d1_commonsharesoutstanding,"Number of common shares issued and outstanding, net of any treasury shares, shares held by subsidiaries, and shares held in Rabbi Trust"
+14,anl57_q_d1_cusip,a nine-character numeric or alphanumeric code that uniquely identifies a North American financial security
+15,anl57_q_d1_dilutedepsafterextraordinary,"Diluted earnings per share, after extraordinary items if applicable"
+16,anl57_q_d1_dilutedepsbeforeextra,"Diluted earnings per share, before extraordinary items, pursuant to FAS 128"
+17,anl57_q_d1_highpriceduringperiod,Highest closing price over the period indicated
+18,anl57_q_d1_isin,"a code that uniquely identifies a security globally for the purposes of facilitating clearing, reporting and settlement of trades"
+19,anl57_q_d1_marketcapitalization,"Aggregate market capitalization of all issues of common equity whether traded or non-traded, including convertible common stock on a one-to-one basis until the conversion window opens, and then at the conversion rate"
+20,anl57_q_d1_netincome,"Net income after taxes, minority interest, and extraordinary and other after-tax items"
+21,anl57_q_d1_netincomeattributabletoparent,Represents the portion of net income attributable to equity holders of the parent company
+22,anl57_q_d1_netincomeavailtocommon,"Net income after taxes, extraordinary items, noncontrolling interest, and preferred dividends"
+23,anl57_q_d1_netincomebeforeextra,"GAAP net income, after taxes, minority interest, and other after tax items, but before any extraordinary items"
+24,anl57_q_d1_netincomeforbasiceps,"The numerator of the equation used to calculate basic EPS, after extraordinary items"
+25,anl57_q_d1_netincomefordilutedeps,Net income used to calculate diluted EPS after extraordinary items
+26,anl57_q_d1_netincreaseincashandcashequivalents,Net increase in cash and cash equivalents
+27,anl57_q_d1_tangiblecommonequity,"Equity attributable to the common shareholders, net of intangible assets"
+28,anl57_q_d1_ticker,code used by the stock exchanges to identify a company
+29,anl57_q_d1_totaldebt,"The aggregate unpaid principal balance owed under financial obligations to other parties, required to be paid by a specified date or on demand"
+30,anl57_q_d1_totalequity,Equity as defined under the indicated accounting principles
+31,anl57_q_d1_totalequitytotalassets,Equity as a percent of assets
+32,anl57_q_d1_totalliabilities,Total liabilities as carried on the balance sheet and defined by the indicated accounting principles
+33,anl57_q_d1_totalotherliabilities,All liabilities not otherwise classified above
+34,anl57_y_d1_avgbasicsharesout,Average shares used to calculate basic EPS
+35,anl57_y_d1_avgdilutedshares,Average shares used to calculate diluted EPS
+36,anl57_y_d1_avgequity,"Average total equity for the period, as reported by the company, if available, otherwise, calculated by SNL"
+37,anl57_y_d1_basicepsbeforeextra,Basic earnings per share pursuant to FAS 128
+38,anl57_y_d1_commonequity,All equity attributable to the common shareholders
+39,anl57_y_d1_commonsharesoutstanding,"Number of common shares issued and outstanding, net of any treasury shares, shares held by subsidiaries, and shares held in Rabbi Trust"
+40,anl57_y_d1_cusip,a nine-character numeric or alphanumeric code that uniquely identifies a North American financial security
+41,anl57_y_d1_isin,"a code that uniquely identifies a security globally for the purposes of facilitating clearing, reporting and settlement of trades"
+42,anl57_y_d1_marketcapitalization,"Aggregate market capitalization of all issues of common equity whether traded or non-traded, including convertible common stock on a one-to-one basis until the conversion window opens, and then at the conversion rate"
+43,anl57_y_d1_netincome,"Net income after taxes, minority interest, and extraordinary and other after-tax items"
+44,anl57_y_d1_netincomefordilutedeps,Net income used to calculate diluted EPS after extraordinary items
+45,anl57_y_d1_ticker,code used by the stock exchanges to identify a company
+46,anl57_y_d1_totalliabilities,Total liabilities as carried on the balance sheet and defined by the indicated accounting principles

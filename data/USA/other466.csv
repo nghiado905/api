@@ -1,0 +1,566 @@
+,id,description
+0,oth466_a_bi,Impairment Goodwill/Intangibles
+1,oth466_a_cld,Debt in Current Liabilities - Total
+2,oth466_a_drx,Research And Development Expense
+3,oth466_a_er,Restricted Cash - Long Term
+4,oth466_a_in,Number of Units Sold
+5,oth466_a_ip,Additional Paid-In Capital
+6,oth466_a_ipspe,Basic Earnings Per Share Including Extraodinary Items
+7,oth466_a_lwdg,Goodwill - Net Of Accumulated Amortization
+8,oth466_a_oca,Current Assets - Other - Total
+9,oth466_a_ocl,Other Current Liabilities
+10,oth466_a_ol,Reserves for Loan Losses
+11,oth466_a_pa,Capitalized Lease Obligations
+12,oth466_a_pd,Non-Interest Bearing Deposits(BANKS)
+13,oth466_a_pdaio,Operating Income
+14,oth466_a_pxt,Income Taxes Paid
+15,oth466_a_qec,Common Equity
+16,oth466_a_ta,Reinvestment Rate ? per Share
+17,oth466_a_tcl,Total Current Liabilities
+18,oth466_a_tl,Long Term Investments
+19,oth466_a_tnix,"Interest And Related Expense - Total, Net Of Interest Capitalized"
+20,oth466_a_ttld,Long-Term Debt - Total
+21,oth466_a_tvni,Inventory Finished Goods
+22,oth466_a_txt,Unrecog. Tax Benefits - End of Year
+23,oth466_a_xpspe,Basic Earnings Per Share Excluding Extraodinary Items
+24,oth466_act_a,Loan Losses - Actual
+25,oth466_aor_tr,Return On Assets
+26,oth466_bs_acconts_pay,Accounts Payable
+27,oth466_bs_accr_exp_xpayr_q,Other Accrued Expenses
+28,oth466_bs_accr_payr,Other Accrued Expenses
+29,oth466_bs_accrued_income_taxes,Income Tax Payable
+30,oth466_bs_accum_depr,Accumulated Depreciation
+31,oth466_bs_actq_q,Current Assets - Total
+32,oth466_bs_allow_doubtful_acc_rec,Allowance For Doubtful Accounts
+33,oth466_bs_assets_curr_oth_q,Other Current Assets
+34,oth466_bs_assets_curr_q,Total Current Assets
+35,oth466_bs_assets_intl,Assets - International
+36,oth466_bs_assets_oth,Other Assets
+37,oth466_bs_assets_oth_intang_q,Other Assets(incl. Intangibles)
+38,oth466_bs_assets_oth_q,Other Assets
+39,oth466_bs_assets_oth_tang,Other Assets (incl. Tangibles)
+40,oth466_bs_assets_oth_tot,"Other Long Term Assets, Total"
+41,oth466_bs_assets_oth_tot_q,"Other Long Term Assets, Total"
+42,oth466_bs_assets_tot,Total Assets
+43,oth466_bs_assets_tot_q,Total Assets
+44,oth466_bs_bdebt_q,Bad Debt
+45,oth466_bs_bps_tang_q,Tangible Book Value per Share
+46,oth466_bs_bv_tang,Tangible Book Value
+47,oth466_bs_cap_lease_q,Capitalized Lease Obligations
+48,oth466_bs_cap_surp,Capital Surplus
+49,oth466_bs_cash_equiv_q,Cash and equivalents
+50,oth466_bs_cash_only_q,Net Cash
+51,oth466_bs_cash_st_invest,Cash & Short-Term Investments
+52,oth466_bs_cash_st_q,Cash & Short-Term Investments
+53,oth466_bs_cheq_q,Cash Equivalent Distributions per Share Monthly
+54,oth466_bs_com_eq_apic_q,Additional Paid-In Capital
+55,oth466_bs_com_eq_for_exch_q,Unrealized Foreign Exchange Gain/Loss
+56,oth466_bs_com_eq_par_q,Common Stock Par/Carry Value
+57,oth466_bs_com_eq_retain_earn_q,Retained Earnings
+58,oth466_bs_common_eq,Common Equity
+59,oth466_bs_common_eqt_tot,Common Equity - Total
+60,oth466_bs_common_stk,Common Stock
+61,oth466_bs_compr_inc_pens_liabs_q,Comprehensive Income - Pension Liability
+62,oth466_bs_curr_asset_tot,Current Assets - Total
+63,oth466_bs_curr_assets_oth,Current Assets - Other
+64,oth466_bs_curr_liab_oth,Other Current Liabilities
+65,oth466_bs_curr_liab_tot,Total Current Liabilities
+66,oth466_bs_curr_por_lt_debt,Current Portion of Long Term Debt
+67,oth466_bs_debt_lt_curr_q,Current Portion of Long Term Debt
+68,oth466_bs_debt_lt_net,"Long Term Debt, Net"
+69,oth466_bs_debt_lt_q,Long Term Debt
+70,oth466_bs_debt_lt_tot,"Long Term Debt, Total"
+71,oth466_bs_debt_lt_xcap_q,LT Debt excl Capital Lease Obligations
+72,oth466_bs_debt_net,Net Debt
+73,oth466_bs_debt_notes_bonds_tot,"Total Long Term Debt, Supplemental"
+74,oth466_bs_debt_q,Total Debt
+75,oth466_bs_debt_st,Short Term Debt
+76,oth466_bs_debt_st_curr_port,Long Term Debt Maturing Within 1 Year
+77,oth466_bs_debt_st_lt_tot,Short Term Debt & Current Portion of Long Term Debt
+78,oth466_bs_debt_st_q,Short Term Debt
+79,oth466_bs_debt_st_x_curr_port_q,Short-Term Debt
+80,oth466_bs_defer_rev_curr,Deferred Revenue - Current
+81,oth466_bs_dfd_revenue_q,Deferred Revenue - Current
+82,oth466_bs_dfd_tax_as_q,Deferred Income Tax - Current Asset
+83,oth466_bs_dfd_tax_assets_lt,Deferred Income Tax Long Term Asset
+84,oth466_bs_dfd_tax_assets_st,Deferred Income Tax - Current Asset
+85,oth466_bs_dfd_tax_cr_q,Deferred Tax Liabilities
+86,oth466_bs_dfd_tax_db_q,Deferred Tax Assets
+87,oth466_bs_dfd_tax_fed,Deferred Taxes-Federal
+88,oth466_bs_dfd_tax_for,Deferred Taxes-Foreign
+89,oth466_bs_dfd_tax_itc_q,Deferred Taxes and Investment Tax Credit
+90,oth466_bs_dfd_tax_q,Deferred Taxes
+91,oth466_bs_dfd_tax_stat,Deferred Taxes-State
+92,oth466_bs_disclosed_intangibles,Intangible Assets - Total
+93,oth466_bs_dpactq_q,"Depreciation, Depletion And Amortization (Accumulated)"
+94,oth466_bs_eq_tot,Total Equity & Minority Interest
+95,oth466_bs_eq_tot_q,Total Equity
+96,oth466_bs_fv_assets_rec_level_1,Total Value Of Level 1 Assets
+97,oth466_bs_goodwill_q,Goodwill - Net
+98,oth466_bs_gw_net,Goodwill - Net Of Accumulated Amortization
+99,oth466_bs_gw_net_q,Net Goodwill
+100,oth466_bs_int_pay,Interest Payable
+101,oth466_bs_intang_oth,Net Other Intangibles
+102,oth466_bs_intang_oth_amort_q,Total Intangible Other Assets ? Accumulated Amortization
+103,oth466_bs_intang_oth_gross_q,Total Intangible Other Assets - Gross
+104,oth466_bs_intang_oth_q,Net Other Intangibles
+105,oth466_bs_intang_q,Total Intangible Other Assets - Net
+106,oth466_bs_inv_total_q,Total Inventory
+107,oth466_bs_inven_matl,Inventories - Raw Materials
+108,oth466_bs_invest_aff_q,LT Investment - Affiliate Companies
+109,oth466_bs_invest_cap,Invested Capital Total
+110,oth466_bs_invest_cap_q,Total Capital
+111,oth466_bs_invest_lt_q,Long Term Investments
+112,oth466_bs_invest_q,Investments ? Total
+113,oth466_bs_invest_st_q,Short Term Investments
+114,oth466_bs_invest_st_tot,Shortterm Investments
+115,oth466_bs_invt_tot,Total Inventory
+116,oth466_bs_lease_pay_due_3,Operating Lease Payments Due In Year 3
+117,oth466_bs_lease_pay_due_4,Operating Lease Payments Due In Year 4
+118,oth466_bs_lease_pay_due_5,Operating Lease Payments Due In Year 5
+119,oth466_bs_lease_pay_due_6b,Oper. Lse. Pymts. Due In Year 6 & Beyond
+120,oth466_bs_liab_oth_tot,"Other Liabilities, Total"
+121,oth466_bs_liab_shh_eq_tot,Total Liabilities & Shareholders' Equity
+122,oth466_bs_liab_tot,Total Liabilities
+123,oth466_bs_liabs_curr_oth_q,"Other Current liabilities, Total"
+124,oth466_bs_liabs_curr_q,Total Current Liabilities
+125,oth466_bs_liabs_oth_xdfd_rev_q,Other Liabilities
+126,oth466_bs_liabs_tot_q,Total Liabilities
+127,oth466_bs_liabs_xmin_int_accum_q,Liabilities (excl. Minority Interest)
+128,oth466_bs_lt_debt_mature_2,Long Term Debt Maturing In Year 2
+129,oth466_bs_lt_debt_mature_3,Long Term Debt Maturing In Year 3
+130,oth466_bs_lt_debt_mature_4,Long Term Debt Maturing In Year 4
+131,oth466_bs_lt_debt_mature_5,Long Term Debt Maturing In Year 5
+132,oth466_bs_min_int_accum_q,Accumulated Minority Interest - Total
+133,oth466_bs_minority_noncontrolling_interest,Minority Interest - Total
+134,oth466_bs_oper_lease_commit_yr1,Operating Lease Payments Due In Year 1
+135,oth466_bs_oper_lease_commit_yr2,Operating Lease Payments Due In Year 2
+136,oth466_bs_options_outstanding,Options Outstanding - End Of Year
+137,oth466_bs_over_underfunded_post_retirem,Overfunded (underfunded) Post Retirement Benefits
+138,oth466_bs_par_val,Par Value
+139,oth466_bs_pay_acct_q,Accounts Payable
+140,oth466_bs_pay_tax_q,Income Tax Payable
+141,oth466_bs_pens_assets_val,Pension - Fair Value Of Plan Assets
+142,oth466_bs_pens_bnfit_retir_post,Pension - Pension & Post Retirement Benefits
+143,oth466_bs_pens_funded_status,Pension - Funded Status
+144,oth466_bs_ppe_gross_bldg,Buildings - Gross
+145,oth466_bs_ppe_gross_constr,"Plant, Property And Equipment At Cost- Construction In Progress"
+146,oth466_bs_ppe_gross_constr_q,"Property, Plant, & Equipment - Constuction in Progress"
+147,oth466_bs_ppe_gross_equip,Machinery/Equipment - Gross
+148,oth466_bs_ppe_gross_land,Land/Improvements - Gross
+149,oth466_bs_ppe_gross_q,"Property, Plant, & Equipment - Gross"
+150,oth466_bs_ppe_gross_soft_equip_q,"Property, Plant & Equipment - Computer Software and Equip"
+151,oth466_bs_ppe_net_q,"Net Property, Plant & Equipment"
+152,oth466_bs_ppe_tot,"Property/Plant/Equipment, Total - Gross"
+153,oth466_bs_ppegtq_q,"Property, Plant, & Equipment - Constuction in Progress"
+154,oth466_bs_ppentq_q,"Property, Plant, & Equipment - Constuction in Progress"
+155,oth466_bs_prep_exp,Prepaid Expenses
+156,oth466_bs_prep_exp_q,Prepaid Expenses
+157,oth466_bs_projected_post_retirement,Post-Retirement Obligation
+158,oth466_bs_pure_retained_earnings,Pure Retained Earnings
+159,oth466_bs_receiv_gross,"Accounts receivables, gross"
+160,oth466_bs_receiv_gross_q,"Accounts receivables, gross"
+161,oth466_bs_receiv_net,"Accounts Receivable - Trade, Net"
+162,oth466_bs_receiv_tot_q,Total Accounts Receivable
+163,oth466_bs_rectq_q,"Accounts receivables, gross"
+164,oth466_bs_sh_cap_and_apic,Share Capital (Par Value) And Additional Paid In Capital Or Capital Surplus (Share Premium) Of Common Equity
+165,oth466_bs_shdl_eqt_tot,Total Shareholders? Equity
+166,oth466_bs_st_borrow,Short Term Borrowings
+167,oth466_bs_stock_com_q,Common Stock
+168,oth466_bs_tang_bps,Tangible Book Value Per Share
+169,oth466_bs_tang_fix_assets_xre,"Property/Plant/Equipment, Total Net"
+170,oth466_bs_treas_stk_q,Treasury Stock
+171,oth466_bs_wkcap_ps,Working Capital Per Share
+172,oth466_cf_acq_biz,Acquisition Of Business
+173,oth466_cf_cap_expend_prpty_add,Purchases Of Fixed Assets.
+174,oth466_cf_capex,Capital Expenditures
+175,oth466_cf_capex_fix_q,Capital Expenditures
+176,oth466_cf_capex_ps,Capital Expenditures Per Share
+177,oth466_cf_cash,Cash
+178,oth466_cf_cash_chg,Net Change In Cash
+179,oth466_cf_cash_from_oper,Cash From Operating Activities
+180,oth466_cf_cash_int_pay,Cash Interest Paid
+181,oth466_cf_cash_paid_for_tax,Cash Paid for Taxes
+182,oth466_cf_chg_cash_st_invest,Increase/Decrease In Cash And Short Term Investments
+183,oth466_cf_debt_lt,"Long Term Debt, Net"
+184,oth466_cf_debt_lt_reduct_q,Reduction In Long Term Debt
+185,oth466_cf_decr_cap_stock,Decrease in Capital Stocks
+186,oth466_cf_dep_amort_tot_q,Depreciation and Amortization - Total
+187,oth466_cf_dfd_tax,Deferred Income Taxes & Investment Tax Credit
+188,oth466_cf_div_com,Common Dividends
+189,oth466_cf_div_com_q,Common Dividends
+190,oth466_cf_div_pay_out_ps,Dividend Payout Per Share
+191,oth466_cf_div_q,Cash Dividends Paid - Total
+192,oth466_cf_div_tot,Dividends - Total
+193,oth466_cf_dps_secs_q,Dividends Per Share
+194,oth466_cf_fin,Cash From Financing Activities
+195,oth466_cf_fix_assets_sale_q,Sale of Fixed Assets
+196,oth466_cf_forex_eff,Foreign Exchange Effects
+197,oth466_cf_inc_tax_dfd,Deferred Income Taxes (Cash Flow)
+198,oth466_cf_inc_tax_dfd_q,Income Taxes - Deferred
+199,oth466_cf_invest_purch,Increase In Investments
+200,oth466_cf_invest_sold_q,Sale/Maturity of Investment
+201,oth466_cf_lt_debt_issue,Long Term Debt Issued
+202,oth466_cf_lt_debt_rdct,Long-Term Debt - Reduction
+203,oth466_cf_net_inc,Net Income From Cf Starting Line
+204,oth466_cf_net_inc_q,Comp Inc - Beginning Net Income
+205,oth466_cf_net_inc_strt,Comp Inc - Beginning Net Income
+206,oth466_cf_oper_q,Net Cash Flow - Operating Activities
+207,oth466_cf_other_use_invest,Other Uses - Investing
+208,oth466_cf_stk_purch,Purchase Of Common And Preferred Stock
+209,oth466_cf_stk_sale,Sale Of Common And Preferred Stock
+210,oth466_cf_txditcq_q,Deferred Taxes & Investment Tax Credit
+211,oth466_che_a,Number of Outlets and Branches
+212,oth466_cni_dfd_sb,Deferred Income
+213,oth466_cogs_a,COGS excluding D&A
+214,oth466_csho_a,Common Shares Outstanding
+215,oth466_de_cshoq_q,Common Shares Outstanding
+216,oth466_des_amt_of_tsy_stock,Amount Of Treasury Shares
+217,oth466_des_basic_avg_shs,Common Shares Used To Calculate Basic Eps
+218,oth466_des_com_shs_out_eps_basic_q,Common Shares Used to Calculate Earnings Per Share - Basic
+219,oth466_des_com_shs_out_eps_dil_q,Common Shares Used to Calculate Fully Diluted Earnings Per Share
+220,oth466_des_com_shs_out_q,Common Shares Outstanding
+221,oth466_des_com_shs_out_secs_q,Common Shares Outstanding - Security
+222,oth466_des_com_shs_trade,Common Shares Traded - Annual
+223,oth466_des_common_shs,Common Shares Outstanding
+224,oth466_des_employee,Fulltime Employees
+225,oth466_des_inven_days,Inventories Days Held
+226,oth466_des_mkt_cap_q,Market Capitalization
+227,oth466_des_mkt_val_public,Market Capitalization (Public)
+228,oth466_des_net_debt_q,Net Debt
+229,oth466_des_options_granted,Options - Granted
+230,oth466_des_par_ps_q,Par Value
+231,oth466_des_price_close,MARKET PRICE - FISCAL PERIOD CLOSE
+232,oth466_des_price_close_fp_q,MARKET PRICE - FISCAL PERIOD CLOSE
+233,oth466_des_receiv_turn_days,Accounts Receivables Days
+234,oth466_des_shs_closely_held,Shares - Number Of Closely Held
+235,oth466_des_treas_shs_q,Treasury Shares
+236,oth466_des_volume_trade,Volume - Trading (Shares * Price)
+237,oth466_des_volume_wk_avg,Volume - Trading - Weekly Average (Shares * Price)
+238,oth466_des_wkcap_q,Working Capital
+239,oth466_dpact_a,"Depreciation, Depletion And Amortization (Accumulated)"
+240,oth466_dpxe_tpc_fc,Capital Expenditures
+241,oth466_drox_cni_lid_spe_si,Diluted Earnings Per Share Including Extraodinary Items
+242,oth466_drox_xe_cni_si,Income Excl Extraordinary Items
+243,oth466_gf_nevni_sb,Inventories - Finished Goods
+244,oth466_ghc_tvni_fc,Changes In Inventories
+245,oth466_gnhc_viecer_cca_fc,Accounts Receivable - Decrease (Increase)
+246,oth466_grhc_dfd_sb,Deferred Charges
+247,oth466_hs_yst_fo_mun_sed,Treas Shares - Common Stock Prmry Issue
+248,oth466_hto_cni_pmoc_si,Comp Inc - Currency Trans Adj
+249,oth466_hto_pxe_tni_si,Other Interest Expense - Banks
+250,oth466_hto_ts_viecer_sb,Other Receivables
+251,oth466_htua_shs_moc_sed,Common Shares Authorized
+252,oth466_is_amort_intang,Amortization of Intangibles
+253,oth466_is_amort_intang_q,Amortization Of Intangibles
+254,oth466_is_aud_fees,Audit Fees
+255,oth466_is_basic_eps_cont_ops_q,Basic EPS Before Abnormal Items
+256,oth466_is_cogs,Cost of Goods Sold (COGS) incl D&A
+257,oth466_is_cogs_q,Cost of Goods Sold (COGS) incl D&A
+258,oth466_is_cogs_xdep_q,COGS excluding D&A
+259,oth466_is_cogsq_q,COGS excluding D&A
+260,oth466_is_comprehensive_income,Comprehensive Income
+261,oth466_is_consol_net_inc_q,Net Income - Consolidated
+262,oth466_is_dep_amort_exp_q,Depreciation & Amortization
+263,oth466_is_ebit_bef_unusual,"Earnings Before Interest, Taxes & Unusual Expense"
+264,oth466_is_ebit_oper_ps,Operating Profit Per Share
+265,oth466_is_ebit_oper_q,EBIT (Operating Income)
+266,oth466_is_ebitda_bef_unusual,EBITDA Before Unusual Expenses
+267,oth466_is_ebitda_oper_q,EBITDA (Operating Income plus Depreciation & Amortization Exp)
+268,oth466_is_ebitda_q,"Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)"
+269,oth466_is_eps_aft_xord,Earnings Per Share After Extraordinary Items
+270,oth466_is_eps_basic,Basic Earnings Per Share
+271,oth466_is_eps_basic_ex_xord,Basic Earnings Per Share Excluding Extraodinary Items
+272,oth466_is_eps_basic_inc_xord,Basic Earnings Per Share Including Extraodinary Items
+273,oth466_is_eps_basic_q,EPS - Basic
+274,oth466_is_eps_contin_oper_q,Earnings Per Share From Continuing Opers-Fiscal
+275,oth466_is_eps_dil_aft_xord,Diluted Earnings Per Share Excluding Extraodinary Items
+276,oth466_is_eps_dil_aft_xord_q,Diluted EPS Including Extraordinary
+277,oth466_is_expense_stock_based_comp,Stock Compensation Expense
+278,oth466_is_for_exch_inc,Foreign Exchange Income (Loss)
+279,oth466_is_foreign_crncy_trans_adj,Foreign Currency Translation Adjustment
+280,oth466_is_gross_inc_q,Gross Profit
+281,oth466_is_gross_prof,Gross Profit
+282,oth466_is_hlth_int_cost,Healthcare Plan - Interest Cost
+283,oth466_is_inc_common_ex_xord,Income Available To Common Excl Extraordinary Items
+284,oth466_is_inc_pre_tax,Pretax Income
+285,oth466_is_inc_tax_curr,Current Income Taxes
+286,oth466_is_inc_tax_curr_dom,Current Income Taxes - Domestic
+287,oth466_is_inc_tax_dfd_tot,Total Deferred Income Tax
+288,oth466_is_inc_tax_exp,Income Taxes - Total
+289,oth466_is_inc_tax_for,Income Taxes (Foreign)
+290,oth466_is_inc_tax_q,Income Taxes
+291,oth466_is_inc_tax_stat,Income Taxes (Statutory)
+292,oth466_is_int_exp_debt,Total Interest Expenses(Industrials)
+293,oth466_is_int_exp_debt_q,Interest Expense on Debt
+294,oth466_is_int_exp_net,"Interest Expense, Net of Interest Capitalized"
+295,oth466_is_int_exp_net_q,"Interest Expense, Net of Interest Capitalized"
+296,oth466_is_int_inc_non_oper,Interest Income - Non-Operating
+297,oth466_is_int_relate_inc,Interest And Related Income - Total
+298,oth466_is_min_int_exp_q,Minority Interest Expense
+299,oth466_is_min_noncontrol_interest_credits,Minority/Non Controlling Interests (Credits)
+300,oth466_is_net_inc,Net Income
+301,oth466_is_net_inc_basic_aft_xord_q,Net Income Avail to Common - Basic - After Extraordinaries
+302,oth466_is_net_inc_basic_beft_xord_q,Income Before Extraordinary Items
+303,oth466_is_net_inc_basic_q,Net Income Avail to Common - Basic
+304,oth466_is_net_inc_cm_q,Income Available to Common
+305,oth466_is_net_inc_dil,Diluted Net Income
+306,oth466_is_net_inc_dil_q,Diluted Net Income
+307,oth466_is_net_profit_12m_q,TRAILING TWELVE MONTHS NET PROFIT
+308,oth466_is_oper_exp_q,Total Operating Expense
+309,oth466_is_oper_inc_bef_dep_q,Operating Inc Before Depreciation
+310,oth466_is_oper_inc_intl,International Operating Income
+311,oth466_is_oper_inc_q,Operating Income
+312,oth466_is_oper_lease_exp,Rental/Operating Lease Expense
+313,oth466_is_pens_bnfit_oblig_proj,Pension - Projected Benefit Obligation
+314,oth466_is_pens_cost_int,Pension - Interest Cost
+315,oth466_is_pens_cost_serv,Pension - Pension Service Costs
+316,oth466_is_pens_roa,Pension - Expected Return On Plan Assets
+317,oth466_is_personnel_exp,Staff Expense - Total
+318,oth466_is_ppe_impair_q,"Impairment of Property, Plant & Equipment"
+319,oth466_is_pre_tax_prf,Pretax Profit
+320,oth466_is_ptx_inc_norm_q,Normalized Income Before Taxes
+321,oth466_is_rd_expend,Research And Development Expense
+322,oth466_is_restruct_ps_ptax,Restructuring Exp Per Share - Pretax
+323,oth466_is_revenue_q,Total Revenue
+324,oth466_is_revt,Total Revenue
+325,oth466_is_saleq_q,Description
+326,oth466_is_sales_intl,International Sales
+327,oth466_is_sales_q,Total Sales
+328,oth466_is_sga_tot_q,"Selling/General/Admin. Expenses, Total"
+329,oth466_is_spc_item,Total Special Items
+330,oth466_is_stock_comp_exp_q,Stock Compensation Expense
+331,oth466_is_tot_pens_exp,Total Pension Expense
+332,oth466_is_ut_operation_exp,Operation Expenses Total
+333,oth466_pd_fc,Depreciation And Amortization
+334,oth466_piw_nevni_sb,Inventories - Work In Progress
+335,oth466_ppegt_a,"Property/Plant/Equipment, Total - Gross"
+336,oth466_ppent_a,"Property, Plant and Equipment - Total (Net)"
+337,oth466_pxe_ped_si,Depreciation & Amortization (Cash Flow)
+338,oth466_pxe_rcca_sb,Accrued Expenses
+339,oth466_pxe_vda_si,Advertising Expense
+340,oth466_q_actq_q,Total Current Assets
+341,oth466_q_aor_tr,Return on Assets
+342,oth466_q_cheq_q,Cash & Short-Term Investments
+343,oth466_q_cni_ffa_qe_si,Equity in Affiliates
+344,oth466_q_cni_xtp_si,Pretax Income
+345,oth466_q_cogsq_q,COGS excluding D&A
+346,oth466_q_crp_vni_sb,Inventories - Work In Progress
+347,oth466_q_cshoq_q,Common Shares Outstanding
+348,oth466_q_dpactq_q,Accumulated Depreciation
+349,oth466_q_drox_spe_si,Earnings Per Share incl. Extraordinary Items
+350,oth466_q_drox_xe_lid_spe_si,Diluted EPS Excluding Extraordinary Items
+351,oth466_q_fc_pxe_ped_si,Depreciation & Amortization (Cash Flow)
+352,oth466_q_grhc_drox_xtp_si,Extraordinary Charge - Pretax
+353,oth466_q_hto_jda_rpmoc_hto_qe_moc_si,Accum Other Comp Inc - Other Adjustments
+354,oth466_q_hto_sbail_sb,"Other Liabilities, Total"
+355,oth466_q_hto_viecer_sb,Other Receivables
+356,oth466_q_lg_gdeh_qe_moc_si,Comprehensive Income - Hedging Gain/Loss
+357,oth466_q_lg_qe_moc_sb,Unrealized Gain/Loss On Marketable Securities
+358,oth466_q_mr_vni_sb,Inventories - Raw Materials
+359,oth466_q_nf_vni_sb,Inventories - Finished Goods
+360,oth466_q_ngm_xtp_tr,Pretax Margin
+361,oth466_q_ped_epp_sb,Accumulated Depreciation
+362,oth466_q_ppegtq_q,"Property, Plant, & Equipment - Gross"
+363,oth466_q_ppentq_q,"Net Property, Plant & Equipment"
+364,oth466_q_pxe_ags_si,"Selling, General & Administrative Expense"
+365,oth466_q_pxe_dr_si,Research & Development
+366,oth466_q_pxe_rcca_sb,Accrued Expenses
+367,oth466_q_q_qbi,Income Before Extraordinary Items
+368,oth466_q_q_qcld,Short Term Debt & Current Portion of Long Term Debt
+369,oth466_q_q_qdrx,Research & Development
+370,oth466_q_q_qer,Retained Earnings
+371,oth466_q_q_qin,Net Income - Consolidated
+372,oth466_q_q_qip,Pretax Income
+373,oth466_q_q_qipspe,Earnings Per Share incl. Extraordinary Items
+374,oth466_q_q_qlwdg,Net Goodwill
+375,oth466_q_q_qoca,Other Current Assets
+376,oth466_q_q_qocl,"Other Current liabilities, Total"
+377,oth466_q_q_qol,"Other Liabilities, Total"
+378,oth466_q_q_qpa,Accounts Payable
+379,oth466_q_q_qpd,Depreciation and Amortization - Total
+380,oth466_q_q_qpdaio,Operating Income
+381,oth466_q_q_qpxt,Income Tax Payable
+382,oth466_q_q_qqec,Common Equity
+383,oth466_q_q_qrphsc,Common Shares Used to Calculate Earnings Per Share - Basic
+384,oth466_q_q_qta,Total Assets
+385,oth466_q_q_qtcl,Total Current Liabilities
+386,oth466_q_q_qtl,Total Liabilities
+387,oth466_q_q_qtnix,"Interest Expense, Net of Interest Capitalized"
+388,oth466_q_q_qttld,Long Term Debt
+389,oth466_q_q_qtvni,Total Inventory
+390,oth466_q_q_qtxt,Income Taxes
+391,oth466_q_q_qxpspe,EPS - Basic
+392,oth466_q_qbi_si,Income Bef Extraord Items
+393,oth466_q_qcld_sb,Debt in Current Liabilities
+394,oth466_q_qdrx_si,Research And Development Expense
+395,oth466_q_qe_moc_dtl_tr,Long Term Debt % Common Equity
+396,oth466_q_qe_moc_sb,Common Equity
+397,oth466_q_qe_srdlhs_sb,Total Shareholders' Equity
+398,oth466_q_qe_srdlhs_sbail_sb,Liabilities & Stockholders' Equity - Total
+399,oth466_q_qer_sb,Retained Earnings
+400,oth466_q_qin_si,Net Income (Loss)
+401,oth466_q_qip_si,Pretax Income
+402,oth466_q_qipspe_si,EPS (Basic) - Incl Extraord Items
+403,oth466_q_qlwdg_sb,Goodwill
+404,oth466_q_qoca_sb,Current Assets - Other - Total
+405,oth466_q_qocl_sb,Current Liabilities - Other - Total
+406,oth466_q_qol_sb,Gains/Losses - Other
+407,oth466_q_qpa_sb,Working Capital (Balance Sheet)
+408,oth466_q_qpd_si,Depreciation
+409,oth466_q_qpdaio_si,Operating Income After Depreciation
+410,oth466_q_qpxt_sb,Income Taxes Payable
+411,oth466_q_qqec_sb,Common Equity
+412,oth466_q_qrphsc_ed,Common Shares Used To Calculate Basic Eps
+413,oth466_q_qta_sb,Assets - Total
+414,oth466_q_qtcl_sb,Current Liabilities - Total
+415,oth466_q_qtl_sb,Liabilities - Total
+416,oth466_q_qtnix_si,Total Interest
+417,oth466_q_qttld_sb,Long-Term Debt - Total
+418,oth466_q_qtvni_sb,Investments ? Total
+419,oth466_q_qtxt_si,Income Taxes - Total
+420,oth466_q_qxpspe_si,EPS (Basic) Excl Extraord Items
+421,oth466_q_rc_drox_xtp_si,Extraordinary Credit - Pretax
+422,oth466_q_rectq_q,Total Accounts Receivable
+423,oth466_q_rg_qe_moc_tr,Equity Growth
+424,oth466_q_rg_spb_tr,Book Value Per Share Growth %
+425,oth466_q_saleq_q,Total Sales
+426,oth466_q_spb_sb,Book Value Per Share
+427,oth466_q_ts_viecer_sb,Short-term Receivables
+428,oth466_q_txditcq_q,Deferred Taxes and Investment Tax Credit
+429,oth466_qe_moc_dtl_tr,Long Term Debt % Common Equity
+430,oth466_rect_a,Direct Insurance In Force (Financial Guarantee)
+431,oth466_rg_pme_tr,Employees Growth
+432,oth466_rg_qe_moc_tr,Equity Growth
+433,oth466_rg_spd_tr,Dividends Per Share Growth
+434,oth466_rpo_cni_si,Operating Income
+435,oth466_rt_asset_turn_q,Total Asset Turnover
+436,oth466_rt_assets_com_eq,Total Assets / Common Equity Ratio
+437,oth466_rt_assets_com_eq_q,Total Assets / Common Equity Ratio
+438,oth466_rt_assets_gr,Total Assets Growth
+439,oth466_rt_assets_gr_q,Total Assets Growth
+440,oth466_rt_assets_per_emp,Assets Per Employee
+441,oth466_rt_capex_assets,Capital Expenditure % Total Assets
+442,oth466_rt_capex_assets_q,Capital Expenditures % Total Assets
+443,oth466_rt_capex_fix_assets,Capital Expenditure % Gross Fixed Assets
+444,oth466_rt_capex_sales_q,Capital Expenditures % Sales
+445,oth466_rt_cash_curr_assets,Cash & Equivalents % Total Current Assets
+446,oth466_rt_cash_curr_assets_q,Cash & Short Term Investments % Total Current Assets
+447,oth466_rt_cash_div_covg_ratio,Cash Dividend Coverage Ratio
+448,oth466_rt_cash_roce,Cash Earnings Return On Equity
+449,oth466_rt_cf_sales_q,Cash Flow/Sales
+450,oth466_rt_cogs_sales,Cost Of Goods Sold / Sales #
+451,oth466_rt_com_eq_assets_q,Common Equity % Total Assets
+452,oth466_rt_com_eq_tcap,Common Equity % Total Capital
+453,oth466_rt_curr_ratio_q,Current Ratio
+454,oth466_rt_current_ratio,Current Ratio
+455,oth466_rt_debt_assets_q,Total Debt % Total Assets
+456,oth466_rt_debt_com_eq,Total Debt % Common Equity
+457,oth466_rt_debt_com_eq_q,Total Debt % Common Equity
+458,oth466_rt_dep_accum_fix_assets,Deprec (Accum) % Gross Fixed Assets
+459,oth466_rt_div_yld,Dividend Yield Close
+460,oth466_rt_earn_assets_avail_funds,Earning Assets % Total Available Funds
+461,oth466_rt_earn_yld,Earnings Yield Close
+462,oth466_rt_ebit_oper_fix_chrg_covg,Fixed Charge Coverage Ratio
+463,oth466_rt_ebit_oper_fix_chrg_covg_q,Fixed Charge Coverage Ratio
+464,oth466_rt_ebit_oper_mgn_q,Operating Margin
+465,oth466_rt_eff_int_rate,Interest Rate Estimated Average
+466,oth466_rt_fix_assets_com_eq,Fixed Assets % Common Equity
+467,oth466_rt_fix_assets_com_eq_q,Fixed Assets % Common Equity
+468,oth466_rt_for_asset_turn,Foreign Asset Turnover
+469,oth466_rt_for_assets_pct,Foreign Assets % Total Assets
+470,oth466_rt_for_inc_pct,Foreign Income % Total Income
+471,oth466_rt_for_net_mgn,Foreign Income Margin
+472,oth466_rt_for_roa,Foreign Return On Assets
+473,oth466_rt_for_sales_pct,Foreign Sales % Total Sales
+474,oth466_rt_gross_margin,Gross Margin
+475,oth466_rt_gross_mgn_q,Gross Margin
+476,oth466_rt_inven_curr_assets,Inventories % Total Current Assets
+477,oth466_rt_inven_turn,Inventory Turnover
+478,oth466_rt_invest_assets_pct,Invested Assets % Total Assets
+479,oth466_rt_invest_tcap,Total Investments % Total Capital
+480,oth466_rt_ltd_tcap,Long Term Debt % Total Capital
+481,oth466_rt_min_int_tcap,Minority Interest % Total Capital
+482,oth466_rt_mkt_val_gr,Market Capitalization Growth
+483,oth466_rt_mkt_val_gr_q,Market Capitalization Growth %
+484,oth466_rt_net_inc_bef_xord_gr,Net Income 1 Yr Annual Growth
+485,oth466_rt_net_mgn_gr,Net Margin 1 Year Annual Growth
+486,oth466_rt_net_mgn_q,Net Profit Margin
+487,oth466_rt_oper_cf_fix_chrg,Operating Cash / Fixed Charges
+488,oth466_rt_oper_cf_fix_chrg_q,Operating Cash/Fixed Charges
+489,oth466_rt_oper_inc_gr,Operating Income 1 Yr Annual Growth
+490,oth466_rt_oper_inc_tcap,Operating Income/Total Capital
+491,oth466_rt_pay_acct_sales,Accounts Payable % Sales
+492,oth466_rt_pre_tax_margin,Pretax Margin
+493,oth466_rt_prf_margin_opr,Operating Profit Margin
+494,oth466_rt_psales_q,Price to Sales
+495,oth466_rt_quick_ratio,Quick Ratio
+496,oth466_rt_quick_ratio_q,Quick Ratio
+497,oth466_rt_rd_sales,Research & Development Expense / Sales
+498,oth466_rt_receiv_curr_assets,Receivables % Total Current Assets
+499,oth466_rt_reinvest_rate,Reinvestment Rate Total
+500,oth466_rt_reinvest_rate_q,Reinvestment Rate ? per Share
+501,oth466_rt_roce,Return On Equity ? Total (%)
+502,oth466_rt_roce_q,Return on Equity - Per Share
+503,oth466_rt_roe,Return On Earning Assets
+504,oth466_rt_roe_q,Return on Equity ? Total (%)
+505,oth466_rt_roic,Return On Invested Capital
+506,oth466_rt_sales,Net Sales To Gross Fixed Assets
+507,oth466_rt_sales_fix_assets,Net Sales To Gross Fixed Assets
+508,oth466_rt_sales_gr,Net Sales/Revenues Growth
+509,oth466_rt_sales_gr_q,Net Sales/Revenues Growth
+510,oth466_rt_sales_per_emp,Sales Per Employee
+511,oth466_rt_sales_wkcap,Net Sales / Working Capital
+512,oth466_rt_shs_closely_held_pct,Shares - Closely Held - Percent
+513,oth466_rt_stk_split_ratio,Stock Split/Dividend Ratio
+514,oth466_rt_tax_rate,Tax Rate
+515,oth466_rt_tax_rate_q,Effective Tax Rate
+516,oth466_rt_tcap_assets,Total Capital % Total Assets
+517,oth466_rt_tot_debt_tcap_std,Total Debt % Total Capital
+518,oth466_rt_tot_invest_ret_q,Total Investment Return
+519,oth466_rt_turn_rate,Turnover Rate
+520,oth466_rt_wkcap_pct,Working Capital % Total Capital
+521,oth466_sale_a,Total Sales
+522,oth466_shs_gva_lid_sed,Common Shares Used To Calculate Fully Diluted Eps
+523,oth466_smart_q_actq_q,Total Current Assets
+524,oth466_smart_q_cheq_q,Cash & Short-Term Investments
+525,oth466_smart_q_cogsq_q,COGS excluding D&A
+526,oth466_smart_q_cshoq_q,Common Shares Outstanding
+527,oth466_smart_q_dpactq_q,Accumulated Depreciation
+528,oth466_smart_q_ppegtq_q,"Property, Plant, & Equipment - Gross"
+529,oth466_smart_q_ppentq_q,"Net Property, Plant & Equipment"
+530,oth466_smart_q_q_qbi,Income Before Extraordinary Items
+531,oth466_smart_q_q_qcld,Short Term Debt & Current Portion of Long Term Debt
+532,oth466_smart_q_q_qdrx,Research & Development
+533,oth466_smart_q_q_qer,Retained Earnings
+534,oth466_smart_q_q_qin,Net Income - Consolidated
+535,oth466_smart_q_q_qip,Pretax Income
+536,oth466_smart_q_q_qipspe,Earnings Per Share incl. Extraordinary Items
+537,oth466_smart_q_q_qlwdg,Net Goodwill
+538,oth466_smart_q_q_qoca,Other Current Assets
+539,oth466_smart_q_q_qocl,"Other Current liabilities, Total"
+540,oth466_smart_q_q_qol,"Other Liabilities, Total"
+541,oth466_smart_q_q_qpa,Accounts Payable
+542,oth466_smart_q_q_qpd,Depreciation and Amortization - Total
+543,oth466_smart_q_q_qpdaio,Operating Income
+544,oth466_smart_q_q_qpxt,Income Tax Payable
+545,oth466_smart_q_q_qqec,Common Equity
+546,oth466_smart_q_q_qrphsc,Common Shares Used to Calculate Earnings Per Share - Basic
+547,oth466_smart_q_q_qta,Total Assets
+548,oth466_smart_q_q_qtcl,Total Current Liabilities
+549,oth466_smart_q_q_qtl,Total Liabilities
+550,oth466_smart_q_q_qtnix,"Interest Expense, Net of Interest Capitalized"
+551,oth466_smart_q_q_qttld,Long Term Debt
+552,oth466_smart_q_q_qtvni,Total Inventory
+553,oth466_smart_q_q_qtxt,Income Taxes
+554,oth466_smart_q_q_qxpspe,EPS - Basic
+555,oth466_smart_q_rectq_q,Total Accounts Receivable
+556,oth466_smart_q_saleq_q,Total Sales
+557,oth466_smart_q_txditcq_q,Deferred Taxes and Investment Tax Credit
+558,oth466_sp_fcf_fc,Free Cash Flow Per Share
+559,oth466_sp_sbail_sb,Liabilities - Long Term - Per Share
+560,oth466_spb_sb,Book Value Per Share
+561,oth466_spd_si,Dividends Per Share
+562,oth466_tl_tvni_sb,Long Term Investments
+563,oth466_txditc_a,Deferred Taxes and Investment Tax Credit
+564,oth466_vni_fc,Cash From Investing Activities

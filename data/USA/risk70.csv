@@ -1,0 +1,33 @@
+,id,description
+0,rsk70_mfm2_usfast_1drevrsl,Style factor loading
+1,rsk70_mfm2_usfast_beta,Beta style factor loading
+2,rsk70_mfm2_usfast_divyild,Dividend Yield Style Factor Loading
+3,rsk70_mfm2_usfast_dsrt,Specific returns
+4,rsk70_mfm2_usfast_dwnrisk,Down Risk Style Factor Loading
+5,rsk70_mfm2_usfast_earnqlty,Earnings Quality Style Factor Loading
+6,rsk70_mfm2_usfast_earnyild,Earnings Yield Style Factor Loading
+7,rsk70_mfm2_usfast_growth,Growth Style Factor Loading
+8,rsk70_mfm2_usfast_indmom,Industrial Momentum Style Factor Loading
+9,rsk70_mfm2_usfast_leverage,Leverage Style Factor Loading
+10,rsk70_mfm2_usfast_ltrevrsl,Long-Term Reversal Style Factor Loading
+11,rsk70_mfm2_usfast_market,Market Market Factor Loading
+12,rsk70_mfm2_usfast_mgmtqlty,Management Quality Style Factor Loading
+13,rsk70_mfm2_usfast_midcap,Midcap Style Factor Loading
+14,rsk70_mfm2_usfast_momentum,Momentum Style Factor Loading
+15,rsk70_mfm2_usfast_profit,Profit Style Factor Loading
+16,rsk70_mfm2_usfast_prospect,Prospect Style Factor Loading
+17,rsk70_mfm2_usfast_prospect_specret_daily,Prospect Style Factor Loading
+18,rsk70_mfm2_usfast_prospect_specret_monthly,Prospect Style Factor Loading
+19,rsk70_mfm2_usfast_regmom,Regional Momentum Style Factor Loading
+20,rsk70_mfm2_usfast_resvol,Residual Volatility Style Factor Loading
+21,rsk70_mfm2_usfast_season,Season Style Factor Loading
+22,rsk70_mfm2_usfast_sentmt,Sentiment Style Factor Loading
+23,rsk70_mfm2_usfast_shortint,Short Interest Style Factor Loading
+24,rsk70_mfm2_usfast_size,Size Style Factor Loading
+25,rsk70_mfm2_usfast_specret_daily_htcri,Industry factor loading
+26,rsk70_mfm2_usfast_specret_daily_lpmi,Industry factor loading
+27,rsk70_mfm2_usfast_srisk,Final specific risk annualized in units of %-squared
+28,rsk70_mfm2_usfast_srisku,Unadjusted initial specific risk annualized in units of %-squared
+29,rsk70_mfm2_usfast_sriskv,Intermediate specific risk annualized in units of %-squared
+30,rsk70_mfm2_usfast_strevrsl,Short-Term Reversal Style Factor Loading
+31,rsk70_mfm2_usfast_value,VALUE style factor loading

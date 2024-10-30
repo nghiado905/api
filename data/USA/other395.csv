@@ -1,0 +1,426 @@
+,id,description
+0,oth395_asset_41_11,Current Asset Accruals / Total Assets
+1,oth395_asset_41_12,Current Asset Accruals / Time Series Average Total Assets 1
+2,oth395_asset_41_13,Current Asset Accruals / Time Series Average Total Assets 2
+3,oth395_asset_41_21,Current Asset Accruals / Current Assets
+4,oth395_asset_41_22,Current Asset Accruals / Time Series Average Current Assets 1
+5,oth395_asset_41_23,Current Asset Accruals / Time Series Average Current Assets 2
+6,oth395_asset_41_31,Current Asset Accruals / Sales
+7,oth395_asset_42_11,Current Asset Accruals / Total Assets
+8,oth395_asset_42_12,Current Asset Accruals / Time Series Average Total Assets 1
+9,oth395_asset_42_13,Current Asset Accruals / Time Series Average Total Assets 2
+10,oth395_asset_42_21,Current Asset Accruals / Current Assets
+11,oth395_asset_42_22,Current Asset Accruals / Time Series Average Current Assets 1
+12,oth395_asset_42_23,Current Asset Accruals / Time Series Average Current Assets 2
+13,oth395_asset_42_31,Current Asset Accruals / Sales
+14,oth395_asset_43_11,Current Asset Accruals / Total Assets
+15,oth395_asset_43_12,Current Asset Accruals / Time Series Average Total Assets 1
+16,oth395_asset_43_13,Current Asset Accruals / Time Series Average Total Assets 2
+17,oth395_asset_43_21,Current Asset Accruals / Current Assets
+18,oth395_asset_43_22,Current Asset Accruals / Time Series Average Current Assets 1
+19,oth395_asset_43_23,Current Asset Accruals / Time Series Average Current Assets 2
+20,oth395_asset_43_31,Current Asset Accruals / Sales
+21,oth395_asset_51_11,Non-current Asset Accruals / Total Assets
+22,oth395_asset_51_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+23,oth395_asset_51_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+24,oth395_asset_51_21,Non-current Asset Accruals / Current Assets
+25,oth395_asset_51_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+26,oth395_asset_51_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+27,oth395_asset_51_31,Non-current Asset Accruals / Sales
+28,oth395_asset_52_11,Non-current Asset Accruals / Total Assets
+29,oth395_asset_52_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+30,oth395_asset_52_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+31,oth395_asset_52_21,Non-current Asset Accruals / Current Assets
+32,oth395_asset_52_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+33,oth395_asset_52_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+34,oth395_asset_52_31,Non-current Asset Accruals / Sales
+35,oth395_asset_53_11,Non-current Asset Accruals / Total Assets
+36,oth395_asset_53_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+37,oth395_asset_53_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+38,oth395_asset_53_21,Non-current Asset Accruals / Current Assets
+39,oth395_asset_53_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+40,oth395_asset_53_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+41,oth395_asset_53_31,Non-current Asset Accruals / Sales
+42,oth395_asset_54_11,Non-current Asset Accruals / Total Assets
+43,oth395_asset_54_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+44,oth395_asset_54_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+45,oth395_asset_54_21,Non-current Asset Accruals / Current Assets
+46,oth395_asset_54_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+47,oth395_asset_54_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+48,oth395_asset_54_31,Non-current Asset Accruals / Sales
+49,oth395_asset_55_11,Non-current Asset Accruals / Total Assets
+50,oth395_asset_55_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+51,oth395_asset_55_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+52,oth395_asset_55_21,Non-current Asset Accruals / Current Assets
+53,oth395_asset_55_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+54,oth395_asset_55_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+55,oth395_asset_55_31,Non-current Asset Accruals / Sales
+56,oth395_asset_56_11,Non-current Asset Accruals / Total Assets
+57,oth395_asset_56_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+58,oth395_asset_56_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+59,oth395_asset_56_21,Non-current Asset Accruals / Current Assets
+60,oth395_asset_56_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+61,oth395_asset_56_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+62,oth395_asset_56_31,Non-current Asset Accruals / Sales
+63,oth395_asset_57_11,Non-current Asset Accruals / Total Assets
+64,oth395_asset_57_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+65,oth395_asset_57_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+66,oth395_asset_57_21,Non-current Asset Accruals / Current Assets
+67,oth395_asset_57_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+68,oth395_asset_57_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+69,oth395_asset_57_31,Non-current Asset Accruals / Sales
+70,oth395_asset_58_11,Non-current Asset Accruals / Total Assets
+71,oth395_asset_58_12,Non-current Asset Accruals / Time Series Average Total Assets 1
+72,oth395_asset_58_13,Non-current Asset Accruals / Time Series Average Total Assets 2
+73,oth395_asset_58_21,Non-current Asset Accruals / Current Assets
+74,oth395_asset_58_22,Non-current Asset Accruals / Time Series Average Current Assets 1
+75,oth395_asset_58_23,Non-current Asset Accruals / Time Series Average Current Assets 2
+76,oth395_asset_58_31,Non-current Asset Accruals / Sales
+77,oth395_asset_61_11,Financial Asset Accruals / Total Assets
+78,oth395_asset_61_12,Financial Asset Accruals / Time Series Average Total Assets 1
+79,oth395_asset_61_13,Financial Asset Accruals / Time Series Average Total Assets 2
+80,oth395_asset_61_31,Financial Asset Accruals / Sales
+81,oth395_asset_62_11,Financial Asset Accruals / Total Assets
+82,oth395_asset_62_12,Financial Asset Accruals / Time Series Average Total Assets 1
+83,oth395_asset_62_13,Financial Asset Accruals / Time Series Average Total Assets 2
+84,oth395_asset_62_21,Financial Asset Accruals / Current Assets
+85,oth395_asset_62_22,Financial Asset Accruals / Time Series Average Current Assets 1
+86,oth395_asset_62_23,Financial Asset Accruals / Time Series Average Current Assets 2
+87,oth395_asset_62_31,Financial Asset Accruals / Sales
+88,oth395_asset_63_11,Financial Asset Accruals / Total Assets
+89,oth395_asset_63_12,Financial Asset Accruals / Time Series Average Total Assets 1
+90,oth395_asset_63_13,Financial Asset Accruals / Time Series Average Total Assets 2
+91,oth395_asset_63_21,Financial Asset Accruals / Current Assets
+92,oth395_asset_63_22,Financial Asset Accruals / Time Series Average Current Assets 1
+93,oth395_asset_63_23,Financial Asset Accruals / Time Series Average Current Assets 2
+94,oth395_asset_63_31,Financial Asset Accruals / Sales
+95,oth395_asset_64_11,Financial Asset Accruals / Total Assets
+96,oth395_asset_64_12,Financial Asset Accruals / Time Series Average Total Assets 1
+97,oth395_asset_64_13,Financial Asset Accruals / Time Series Average Total Assets 2
+98,oth395_asset_64_21,Financial Asset Accruals / Current Assets
+99,oth395_asset_64_22,Financial Asset Accruals / Time Series Average Current Assets 1
+100,oth395_asset_64_23,Financial Asset Accruals / Time Series Average Current Assets 2
+101,oth395_asset_64_31,Financial Asset Accruals / Sales
+102,oth395_asset_d1_asset_change,Ratio of the latest asset over asset_ltm
+103,oth395_best11_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+104,oth395_best11_d1_asset_double_history,Whether asset doubled over history
+105,oth395_best11_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+106,oth395_best11_d1_dts,Standard deviation of accruals ratio over history
+107,oth395_best11_d1_length,Numbers of accruals ratio data that is available over history
+108,oth395_best11_d1_max,Maximum of accruals ratio over history
+109,oth395_best11_d1_mean,Mean of accruals ratio over history
+110,oth395_best11_d1_min,Minimum of accruals ratio over history
+111,oth395_best21_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+112,oth395_best21_d1_asset_double_history,Whether asset doubled over history
+113,oth395_best21_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+114,oth395_best21_d1_dts,Standard deviation of accruals ratio over history
+115,oth395_best21_d1_length,Numbers of accruals ratio data that is available over history
+116,oth395_best21_d1_max,Maximum of accruals ratio over history
+117,oth395_best21_d1_mean,Mean of accruals ratio over history
+118,oth395_best21_d1_min,Minimum of accruals ratio over history
+119,oth395_csjones_all_major_11,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+120,oth395_csjones_all_major_12,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+121,oth395_csjones_all_major_13,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+122,oth395_csjones_all_major_14,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+123,oth395_csjones_all_major_21,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across All universe"
+124,oth395_csjones_all_major_22,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across All universe"
+125,oth395_csjones_all_major_31,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across All universe"
+126,oth395_csjones_all_major_32,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across All universe"
+127,oth395_csjones_all_other_11,"Cross Sectional Ratio of Comprehensive Accruals, scaled by Average Total Asset across All universe"
+128,oth395_csjones_all_other_12,"Cross Sectional Ratio of Operating Accruals, scaled by Average Total Asset across All universe"
+129,oth395_csjones_all_other_13,"Cross Sectional Ratio of Financial Accruals, scaled by Average Total Asset across All universe"
+130,oth395_csjones_all_other_14,"Cross Sectional Ratio of Working Capital Accruals, scaled by Average Total Asset across All universe"
+131,oth395_csjones_all_other_15,"Cross Sectional Ratio of Long-term Operating Accruals, scaled by Average Total Asset across All universe"
+132,oth395_csjones_all_r2_major_11,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+133,oth395_csjones_all_r2_major_12,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+134,oth395_csjones_all_r2_major_13,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+135,oth395_csjones_all_r2_major_14,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across All universe"
+136,oth395_csjones_all_r2_major_21,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across All universe"
+137,oth395_csjones_all_r2_major_31,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across All universe"
+138,oth395_csjones_all_r2_other_11,"R Squared Value of Cross Sectional Ratio of Comprehensive Accruals, scaled by Average Total Asset across All universe"
+139,oth395_csjones_all_r2_other_12,"R Squared Value of Cross Sectional Ratio of Operating Accruals, scaled by Average Total Asset across All universe"
+140,oth395_csjones_all_r2_other_13,"R Squared Value of Cross Sectional Ratio of Financial Accruals, scaled by Average Total Asset across All universe"
+141,oth395_csjones_all_r2_other_14,"R Squared Value of Cross Sectional Ratio of Working Capital Accruals, scaled by Average Total Asset across All universe"
+142,oth395_csjones_all_r2_other_15,"R Squared Value of Cross Sectional Ratio of Long-term Operating Accruals, scaled by Average Total Asset across All universe"
+143,oth395_csjones_d1_asset_change,Ratio of the latest asset over asset_ltm
+144,oth395_csjones_industry_major_11,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+145,oth395_csjones_industry_major_12,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+146,oth395_csjones_industry_major_13,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+147,oth395_csjones_industry_major_14,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+148,oth395_csjones_industry_major_21,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Industry"
+149,oth395_csjones_industry_major_31,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Industry"
+150,oth395_csjones_industry_other_11,"Cross Sectional Ratio of Comprehensive Accruals, scaled by Average Total Asset across Industry"
+151,oth395_csjones_industry_other_12,"Cross Sectional Ratio of Operating Accruals, scaled by Average Total Asset across Industry"
+152,oth395_csjones_industry_other_13,"Cross Sectional Ratio of Financial Accruals, scaled by Average Total Asset across Industry"
+153,oth395_csjones_industry_other_14,"Cross Sectional Ratio of Working Capital Accruals, scaled by Average Total Asset across Industry"
+154,oth395_csjones_industry_other_15,"Cross Sectional Ratio of Long-term Operating Accruals, scaled by Average Total Asset across Industry"
+155,oth395_csjones_industry_r2_major_11,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+156,oth395_csjones_industry_r2_major_12,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+157,oth395_csjones_industry_r2_major_13,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+158,oth395_csjones_industry_r2_major_14,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Industry"
+159,oth395_csjones_industry_r2_major_21,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Industry"
+160,oth395_csjones_industry_r2_major_22,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Industry"
+161,oth395_csjones_industry_r2_major_31,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Industry"
+162,oth395_csjones_industry_r2_major_32,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Industry"
+163,oth395_csjones_industry_r2_other_11,"R Squared Value of Cross Sectional Ratio of Comprehensive Accruals, scaled by Average Total Asset across Industry"
+164,oth395_csjones_industry_r2_other_12,"R Squared Value of Cross Sectional Ratio of Operating Accruals, scaled by Average Total Asset across Industry"
+165,oth395_csjones_industry_r2_other_13,"R Squared Value of Cross Sectional Ratio of Financial Accruals, scaled by Average Total Asset across Industry"
+166,oth395_csjones_industry_r2_other_14,"R Squared Value of Cross Sectional Ratio of Working Capital Accruals, scaled by Average Total Asset across Industry"
+167,oth395_csjones_industry_r2_other_15,"R Squared Value of Cross Sectional Ratio of Long-term Operating Accruals, scaled by Average Total Asset across Industry"
+168,oth395_csjones_sector_major_11,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+169,oth395_csjones_sector_major_12,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+170,oth395_csjones_sector_major_13,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+171,oth395_csjones_sector_major_14,"Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+172,oth395_csjones_sector_major_21,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+173,oth395_csjones_sector_major_22,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+174,oth395_csjones_sector_major_31,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+175,oth395_csjones_sector_major_32,"Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+176,oth395_csjones_sector_other_11,"Cross Sectional Ratio of Comprehensive Accruals, scaled by Average Total Asset across Sector"
+177,oth395_csjones_sector_other_12,"Cross Sectional Ratio of Operating Accruals, scaled by Average Total Asset across Sector"
+178,oth395_csjones_sector_other_13,"Cross Sectional Ratio of Financial Accruals, scaled by Average Total Asset across Sector"
+179,oth395_csjones_sector_other_14,"Cross Sectional Ratio of Working Capital Accruals, scaled by Average Total Asset across Sector"
+180,oth395_csjones_sector_other_15,"Cross Sectional Ratio of Long-term Operating Accruals, scaled by Average Total Asset across Sector"
+181,oth395_csjones_sector_r2_major_11,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+182,oth395_csjones_sector_r2_major_12,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+183,oth395_csjones_sector_r2_major_13,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+184,oth395_csjones_sector_r2_major_14,"R Squared Value of Cross Sectional Ratio of Cash-related field (income statement), scaled by Average Total Asset across Sector"
+185,oth395_csjones_sector_r2_major_21,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+186,oth395_csjones_sector_r2_major_22,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+187,oth395_csjones_sector_r2_major_31,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+188,oth395_csjones_sector_r2_major_32,"R Squared Value of Cross Sectional Ratio of Asset-related field (balance sheet), scaled by Average Total Asset across Sector"
+189,oth395_csjones_sector_r2_other_11,"R Squared Value of Cross Sectional Ratio of Comprehensive Accruals, scaled by Average Total Asset across Sector"
+190,oth395_csjones_sector_r2_other_12,"R Squared Value of Cross Sectional Ratio of Operating Accruals, scaled by Average Total Asset across Sector"
+191,oth395_csjones_sector_r2_other_13,"R Squared Value of Cross Sectional Ratio of Financial Accruals, scaled by Average Total Asset across Sector"
+192,oth395_csjones_sector_r2_other_14,"R Squared Value of Cross Sectional Ratio of Working Capital Accruals, scaled by Average Total Asset across Sector"
+193,oth395_csjones_sector_r2_other_15,"R Squared Value of Cross Sectional Ratio of Long-term Operating Accruals, scaled by Average Total Asset across Sector"
+194,oth395_csjonesallmajor13_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+195,oth395_csjonesallmajor13_d1_asset_double_history,Whether asset doubled over history
+196,oth395_csjonesallmajor13_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+197,oth395_csjonesallmajor13_d1_dts,Standard deviation of accruals ratio over history
+198,oth395_csjonesallmajor13_d1_length,Numbers of accruals ratio data that is available over history
+199,oth395_csjonesallmajor13_d1_max,Maximum of accruals ratio over history
+200,oth395_csjonesallmajor13_d1_mean,Mean of accruals ratio over history
+201,oth395_csjonesallmajor13_d1_min,Minimum of accruals ratio over history
+202,oth395_csjonesallother11_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+203,oth395_csjonesallother11_d1_length,Numbers of accruals ratio data that is available over history
+204,oth395_csjonesallother11_d1_max,Maximum of accruals ratio over history
+205,oth395_csjonesallother11_d1_mean,Mean of accruals ratio over history
+206,oth395_csjonesallother11_d1_min,Minimum of accruals ratio over history
+207,oth395_csjonesindustrymajor13_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+208,oth395_csjonesindustrymajor13_d1_asset_double_history,Whether asset doubled over history
+209,oth395_csjonesindustrymajor13_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+210,oth395_csjonesindustrymajor13_d1_dts,Standard deviation of accruals ratio over history
+211,oth395_csjonesindustrymajor13_d1_length,Numbers of accruals ratio data that is available over history
+212,oth395_csjonesindustrymajor13_d1_max,Maximum of accruals ratio over history
+213,oth395_csjonesindustrymajor13_d1_mean,Mean of accruals ratio over history
+214,oth395_csjonesindustrymajor13_d1_min,Minimum of accruals ratio over history
+215,oth395_csjonesindustryother11_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+216,oth395_csjonesindustryother11_d1_asset_double_history,Whether asset doubled over history
+217,oth395_csjonesindustryother11_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+218,oth395_csjonesindustryother11_d1_dts,Standard deviation of accruals ratio over history
+219,oth395_csjonesindustryother11_d1_length,Numbers of accruals ratio data that is available over history
+220,oth395_csjonesindustryother11_d1_max,Maximum of accruals ratio over history
+221,oth395_csjonesindustryother11_d1_mean,Mean of accruals ratio over history
+222,oth395_csjonesindustryother11_d1_min,Minimum of accruals ratio over history
+223,oth395_fixed1313_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+224,oth395_fixed1313_d1_asset_double_history,Whether asset doubled over history
+225,oth395_fixed1313_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+226,oth395_fixed1313_d1_dts,Standard deviation of accruals ratio over history
+227,oth395_fixed1313_d1_length,Numbers of accruals ratio data that is available over history
+228,oth395_fixed1313_d1_max,Maximum of accruals ratio over history
+229,oth395_fixed1313_d1_mean,Mean of accruals ratio over history
+230,oth395_fixed1313_d1_min,Minimum of accruals ratio over history
+231,oth395_fixed1513_d1_asset_double_history,Whether asset doubled over history
+232,oth395_jones_accrual_major_11,"Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+233,oth395_jones_accrual_major_12,"Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+234,oth395_jones_accrual_major_13,"Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+235,oth395_jones_accrual_major_14,"Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+236,oth395_jones_accrual_major_21,"Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+237,oth395_jones_accrual_major_22,"Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+238,oth395_jones_accrual_major_31,"Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+239,oth395_jones_accrual_major_32,"Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+240,oth395_jones_accrual_other_11,"Time Series Ratio of Comprehensive Accruals, scaled by Average Total Asset"
+241,oth395_jones_accrual_other_12,"Time Series Ratio of Operating Accruals, scaled by Average Total Asset"
+242,oth395_jones_accrual_other_13,"Time Series Ratio of Financial Accruals, scaled by Average Total Asset"
+243,oth395_jones_accrual_other_14,"Time Series Ratio of Working Capital Accruals, scaled by Average Total Asset"
+244,oth395_jones_accrual_other_15,"Time Series Ratio of Long-term Operating Accruals, scaled by Average Total Asset"
+245,oth395_jones_accrual_pct_major_11,"Percentage of Discretionary Accrual for Cash-related field (income statement), scaled by Average Total Asset out of Total Accruals"
+246,oth395_jones_accrual_pct_major_12,"Percentage of Discretionary Accrual for Cash-related field (income statement), scaled by Average Total Asset out of Total Accruals"
+247,oth395_jones_accrual_pct_major_13,"Percentage of Discretionary Accrual for Cash-related field (income statement), scaled by Average Total Asset out of Total Accruals"
+248,oth395_jones_accrual_pct_major_14,"Percentage of Discretionary Accrual for Cash-related field (income statement), scaled by Average Total Asset out of Total Accruals"
+249,oth395_jones_accrual_pct_major_21,"Percentage of Discretionary Accrual for Asset-related field (balance sheet), scaled by Average Total Asset out of Total Accruals"
+250,oth395_jones_accrual_pct_major_22,"Percentage of Discretionary Accrual for Asset-related field (balance sheet), scaled by Average Total Asset out of Total Accruals"
+251,oth395_jones_accrual_pct_major_31,"Percentage of Discretionary Accrual for Asset-related field (balance sheet), scaled by Average Total Asset out of Total Accruals"
+252,oth395_jones_accrual_pct_major_32,"Percentage of Discretionary Accrual for Asset-related field (balance sheet), scaled by Average Total Asset out of Total Accruals"
+253,oth395_jones_accrual_pct_other_11,"Percentage of Discretionary Accrual for Comprehensive Accruals, scaled by Average Total Asset out of Total Accruals"
+254,oth395_jones_accrual_pct_other_12,"Percentage of Discretionary Accrual for Operating Accruals, scaled by Average Total Asset out of Total Accruals"
+255,oth395_jones_accrual_pct_other_13,"Percentage of Discretionary Accrual for Financial Accruals, scaled by Average Total Asset out of Total Accruals"
+256,oth395_jones_accrual_pct_other_14,"Percentage of Discretionary Accrual for Working Capital Accruals, scaled by Average Total Asset out of Total Accruals"
+257,oth395_jones_accrual_pct_other_15,"Percentage of Discretionary Accrual for Long-term Operating Accruals, scaled by Average Total Asset out of Total Accruals"
+258,oth395_jones_accrual_r2_major_11,"R Squared Value of Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+259,oth395_jones_accrual_r2_major_12,"R Squared Value of Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+260,oth395_jones_accrual_r2_major_13,"R Squared Value of Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+261,oth395_jones_accrual_r2_major_21,"R Squared Value of Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+262,oth395_jones_accrual_r2_major_22,"R Squared Value of Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+263,oth395_jones_accrual_r2_major_31,"R Squared Value of Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+264,oth395_jones_accrual_r2_major_32,"R Squared Value of Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+265,oth395_jones_accrual_r2_other_11,"R Squared Value of Time Series Ratio of Comprehensive Accruals, scaled by Average Total Asset"
+266,oth395_jones_accrual_r2_other_12,"R Squared Value of Time Series Ratio of Operating Accruals, scaled by Average Total Asset"
+267,oth395_jones_accrual_r2_other_13,"R Squared Value of Time Series Ratio of Financial Accruals, scaled by Average Total Asset"
+268,oth395_jones_accrual_r2_other_14,"R Squared Value of Time Series Ratio of Working Capital Accruals, scaled by Average Total Asset"
+269,oth395_jones_accrual_r2_other_15,"R Squared Value of Time Series Ratio of Long-term Operating Accruals, scaled by Average Total Asset"
+270,oth395_jones_d1_asset_change,Ratio of the latest asset over asset_ltm
+271,oth395_jones_nondiscretionary_accrual_major_11,"Non-discretionary Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+272,oth395_jones_nondiscretionary_accrual_major_12,"Non-discretionary Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+273,oth395_jones_nondiscretionary_accrual_major_13,"Non-discretionary Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+274,oth395_jones_nondiscretionary_accrual_major_14,"Non-discretionary Time Series Ratio of Cash-related field (income statement), scaled by Average Total Asset"
+275,oth395_jones_nondiscretionary_accrual_major_21,"Non-discretionary Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+276,oth395_jones_nondiscretionary_accrual_major_22,"Non-discretionary Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+277,oth395_jones_nondiscretionary_accrual_major_31,"Non-discretionary Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+278,oth395_jones_nondiscretionary_accrual_major_32,"Non-discretionary Time Series Ratio of Asset-related field (balance sheet), scaled by Average Total Asset"
+279,oth395_jones_nondiscretionary_accrual_other_11,"Non-discretionary Time Series Ratio of Comprehensive Accruals, scaled by Average Total Asset"
+280,oth395_jones_nondiscretionary_accrual_other_12,"Non-discretionary Time Series Ratio of Operating Accruals, scaled by Average Total Asset"
+281,oth395_jones_nondiscretionary_accrual_other_13,"Non-discretionary Time Series Ratio of Financial Accruals, scaled by Average Total Asset"
+282,oth395_jones_nondiscretionary_accrual_other_14,"Non-discretionary Time Series Ratio of Working Capital Accruals, scaled by Average Total Asset"
+283,oth395_jones_nondiscretionary_accrual_other_15,"Non-discretionary Time Series Ratio of Long-term Operating Accruals, scaled by Average Total Asset"
+284,oth395_jonesmajor13_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+285,oth395_jonesmajor13_d1_asset_double_history,Whether asset doubled over history
+286,oth395_jonesmajor13_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+287,oth395_jonesmajor13_d1_dts,Standard deviation of accruals ratio over history
+288,oth395_jonesmajor13_d1_length,Numbers of accruals ratio data that is available over history
+289,oth395_jonesmajor13_d1_max,Maximum of accruals ratio over history
+290,oth395_jonesmajor13_d1_mean,Mean of accruals ratio over history
+291,oth395_jonesmajor13_d1_min,Minimum of accruals ratio over history
+292,oth395_jonesmajor31_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+293,oth395_jonesmajor31_d1_asset_double_history,Whether asset doubled over history
+294,oth395_jonesmajor31_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+295,oth395_jonesmajor31_d1_dts,Standard deviation of accruals ratio over history
+296,oth395_jonesmajor31_d1_length,Numbers of accruals ratio data that is available over history
+297,oth395_jonesmajor31_d1_max,Maximum of accruals ratio over history
+298,oth395_jonesmajor31_d1_mean,Mean of accruals ratio over history
+299,oth395_jonesmajor31_d1_min,Minimum of accruals ratio over history
+300,oth395_jonesmajor32_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+301,oth395_jonesmajor32_d1_asset_double_history,Whether asset doubled over history
+302,oth395_jonesmajor32_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+303,oth395_jonesmajor32_d1_dts,Standard deviation of accruals ratio over history
+304,oth395_jonesmajor32_d1_length,Numbers of accruals ratio data that is available over history
+305,oth395_jonesmajor32_d1_max,Maximum of accruals ratio over history
+306,oth395_jonesmajor32_d1_mean,Mean of accruals ratio over history
+307,oth395_jonesmajor32_d1_min,Minimum of accruals ratio over history
+308,oth395_jonesother11_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+309,oth395_jonesother11_d1_asset_double_history,Whether asset doubled over history
+310,oth395_jonesother11_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+311,oth395_jonesother11_d1_dts,Standard deviation of accruals ratio over history
+312,oth395_jonesother11_d1_length,Numbers of accruals ratio data that is available over history
+313,oth395_jonesother11_d1_max,Maximum of accruals ratio over history
+314,oth395_jonesother11_d1_mean,Mean of accruals ratio over history
+315,oth395_jonesother11_d1_min,Minimum of accruals ratio over history
+316,oth395_jonesother14_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+317,oth395_jonesother14_d1_asset_double_history,Whether asset doubled over history
+318,oth395_jonesother14_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+319,oth395_jonesother14_d1_dts,Standard deviation of accruals ratio over history
+320,oth395_jonesother14_d1_length,Numbers of accruals ratio data that is available over history
+321,oth395_jonesother14_d1_max,Maximum of accruals ratio over history
+322,oth395_jonesother14_d1_mean,Mean of accruals ratio over history
+323,oth395_jonesother14_d1_min,Minimum of accruals ratio over history
+324,oth395_jonesother15_d1_accum_4q,Accumulated sum of accruals ratio over the last four quarters
+325,oth395_jonesother15_d1_asset_double_history,Whether asset doubled over history
+326,oth395_jonesother15_d1_current_t,"Current t-statistics of accruals ratio, calculated as Current-t = (current accruals ratio â€“ mean) / std"
+327,oth395_jonesother15_d1_dts,Standard deviation of accruals ratio over history
+328,oth395_jonesother15_d1_length,Numbers of accruals ratio data that is available over history
+329,oth395_jonesother15_d1_max,Maximum of accruals ratio over history
+330,oth395_jonesother15_d1_mean,Mean of accruals ratio over history
+331,oth395_jonesother15_d1_min,Minimum of accruals ratio over history
+332,oth395_major_11_11,Cash-related field (income statement) / Total Assets
+333,oth395_major_11_12,Cash-related field (income statement) / Time Series Average Total Assets 1
+334,oth395_major_11_13,Cash-related field (income statement) / Time Series Average Total Assets 2
+335,oth395_major_11_21,Cash-related field (income statement) / Current Assets
+336,oth395_major_11_22,Cash-related field (income statement) / Time Series Average Current Assets 1
+337,oth395_major_11_23,Cash-related field (income statement) / Time Series Average Current Assets 2
+338,oth395_major_11_31,Cash-related field (income statement) / Sales
+339,oth395_major_12_11,Cash-related field (income statement) / Total Assets
+340,oth395_major_12_12,Cash-related field (income statement) / Time Series Average Total Assets 1
+341,oth395_major_12_13,Cash-related field (income statement) / Time Series Average Total Assets 2
+342,oth395_major_12_21,Cash-related field (income statement) / Current Assets
+343,oth395_major_12_22,Cash-related field (income statement) / Time Series Average Current Assets 1
+344,oth395_major_12_23,Cash-related field (income statement) / Time Series Average Current Assets 2
+345,oth395_major_12_31,Cash-related field (income statement) / Sales
+346,oth395_major_13_11,Cash-related field (income statement) / Total Assets
+347,oth395_major_13_12,Cash-related field (income statement) / Time Series Average Total Assets 1
+348,oth395_major_13_13,Cash-related field (income statement) / Time Series Average Total Assets 2
+349,oth395_major_13_21,Cash-related field (income statement) / Current Assets
+350,oth395_major_13_22,Cash-related field (income statement) / Time Series Average Current Assets 1
+351,oth395_major_13_23,Cash-related field (income statement) / Time Series Average Current Assets 2
+352,oth395_major_13_31,Cash-related field (income statement) / Sales
+353,oth395_major_14_11,Cash-related field (income statement) / Total Assets
+354,oth395_major_14_12,Cash-related field (income statement) / Time Series Average Total Assets 1
+355,oth395_major_14_13,Cash-related field (income statement) / Time Series Average Total Assets 2
+356,oth395_major_14_21,Cash-related field (income statement) / Current Assets
+357,oth395_major_14_22,Cash-related field (income statement) / Time Series Average Current Assets 1
+358,oth395_major_14_23,Cash-related field (income statement) / Time Series Average Current Assets 2
+359,oth395_major_14_31,Cash-related field (income statement) / Sales
+360,oth395_major_21_11,Asset-related field (balance sheet) / Total Assets
+361,oth395_major_21_12,Asset-related field (balance sheet) / Time Series Average Total Assets 1
+362,oth395_major_21_13,Asset-related field (balance sheet) / Time Series Average Total Assets 2
+363,oth395_major_21_21,Asset-related field (balance sheet) / Current Assets
+364,oth395_major_21_22,Asset-related field (balance sheet) / Time Series Average Current Assets 1
+365,oth395_major_21_23,Asset-related field (balance sheet) / Time Series Average Current Assets 2
+366,oth395_major_21_31,Asset-related field (balance sheet) / Sales
+367,oth395_major_22_11,Asset-related field (balance sheet) / Total Assets
+368,oth395_major_22_12,Asset-related field (balance sheet) / Time Series Average Total Assets 1
+369,oth395_major_22_13,Asset-related field (balance sheet) / Time Series Average Total Assets 2
+370,oth395_major_22_21,Asset-related field (balance sheet) / Current Assets
+371,oth395_major_22_22,Asset-related field (balance sheet) / Time Series Average Current Assets 1
+372,oth395_major_22_23,Asset-related field (balance sheet) / Time Series Average Current Assets 2
+373,oth395_major_22_31,Asset-related field (balance sheet) / Sales
+374,oth395_major_31_11,Asset-related field (balance sheet) / Total Assets
+375,oth395_major_31_12,Asset-related field (balance sheet) / Time Series Average Total Assets 1
+376,oth395_major_31_13,Asset-related field (balance sheet) / Time Series Average Total Assets 2
+377,oth395_major_31_21,Asset-related field (balance sheet) / Current Assets
+378,oth395_major_31_22,Asset-related field (balance sheet) / Time Series Average Current Assets 1
+379,oth395_major_31_23,Asset-related field (balance sheet) / Time Series Average Current Assets 2
+380,oth395_major_31_31,Asset-related field (balance sheet) / Sales
+381,oth395_major_32_11,Asset-related field (balance sheet) / Total Assets
+382,oth395_major_32_12,Asset-related field (balance sheet) / Time Series Average Total Assets 1
+383,oth395_major_32_13,Asset-related field (balance sheet) / Time Series Average Total Assets 2
+384,oth395_major_32_21,Asset-related field (balance sheet) / Current Assets
+385,oth395_major_32_22,Asset-related field (balance sheet) / Time Series Average Current Assets 1
+386,oth395_major_32_23,Asset-related field (balance sheet) / Time Series Average Current Assets 1
+387,oth395_major_32_31,Asset-related field (balance sheet) / Time Series Average Current Assets 2
+388,oth395_major_d1_asset_change,Ratio of the latest asset over asset_ltm
+389,oth395_other_11_11,Comprehensive Accruals / Total Assets
+390,oth395_other_11_12,Comprehensive Accruals / Time Series Average Total Assets 1
+391,oth395_other_11_13,Comprehensive Accruals / Time Series Average Total Assets 2
+392,oth395_other_11_21,Comprehensive Accruals / Current Assets
+393,oth395_other_11_22,Comprehensive Accruals / Time Series Average Current Assets 1
+394,oth395_other_11_23,Comprehensive Accruals / Time Series Average Current Assets 2
+395,oth395_other_11_31,Comprehensive Accruals / Sales
+396,oth395_other_12_11,Operating Accruals / Total Assets
+397,oth395_other_12_12,Operating Accruals / Time Series Average Total Assets 1
+398,oth395_other_12_13,Operating Accruals / Time Series Average Total Assets 2
+399,oth395_other_12_21,Operating Accruals / Current Assets
+400,oth395_other_12_22,Operating Accruals / Time Series Average Current Assets 1
+401,oth395_other_12_23,Operating Accruals / Time Series Average Current Assets 2
+402,oth395_other_12_31,Operating Accruals / Sales
+403,oth395_other_13_11,Financial Accruals / Total Assets
+404,oth395_other_13_12,Financial Accruals / Time Series Average Total Assets 1
+405,oth395_other_13_13,Financial Accruals / Time Series Average Total Assets 2
+406,oth395_other_13_21,Financial Accruals / Current Assets
+407,oth395_other_13_22,Financial Accruals / Time Series Average Current Assets 1
+408,oth395_other_13_23,Financial Accruals / Time Series Average Current Assets 2
+409,oth395_other_13_31,Financial Accruals / Sales
+410,oth395_other_14_11,Working Capital Accruals / Total Assets
+411,oth395_other_14_12,Working Capital Accruals / Time Series Average Total Assets 1
+412,oth395_other_14_13,Working Capital Accruals / Time Series Average Total Assets 2
+413,oth395_other_14_21,Working Capital Accruals / Current Assets
+414,oth395_other_14_22,Working Capital Accruals / Time Series Average Current Assets 1
+415,oth395_other_14_23,Working Capital Accruals / Time Series Average Current Assets 2
+416,oth395_other_14_31,Working Capital Accruals / Sales
+417,oth395_other_15_11,Long-term Operating Accruals / Total Assets
+418,oth395_other_15_12,Long-term Operating Accruals / Time Series Average Total Assets 1
+419,oth395_other_15_13,Long-term Operating Accruals / Time Series Average Total Assets 2
+420,oth395_other_15_21,Long-term Operating Accruals / Current Assets
+421,oth395_other_15_22,Long-term Operating Accruals / Time Series Average Current Assets 1
+422,oth395_other_15_23,Long-term Operating Accruals / Time Series Average Current Assets 2
+423,oth395_other_15_31,Long-term Operating Accruals / Sales
+424,oth395_other_d1_asset_change,Ratio of the latest asset over asset_ltm

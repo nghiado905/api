@@ -1,0 +1,18 @@
+,id,description
+0,snt1_cored1_score,"bearish: score < 5, bullish: score > 5, neutral: score in [-5, 5]"
+1,snt1_d1_analystcoverage,# of analysts providing an earnings estimate
+2,snt1_d1_buyrecpercent,ratio of (# of analyst buy) over (# of all analysts)
+3,snt1_d1_downtargetpercent,ratio of (# of down target) over (# of all analysts)
+4,snt1_d1_dtstsespe,Dispersion among analysts' estimates
+5,snt1_d1_dynamicfocusrank,"0-100, high values for buy signal and lower values for sell signal"
+6,snt1_d1_earningsrevision,1 month change in mean of earnings estimate / price
+7,snt1_d1_earningssurprise,(Actual earnings - expected earnings) / price
+8,snt1_d1_earningstorpedo,(Expected earnings - previous actual earnings ) / price
+9,snt1_d1_fundamentalfocusrank,"0-100, high values for buy signal and lower values for sell signal"
+10,snt1_d1_longtermepsgrowthest,The median of analyst expected growth in operating earnings
+11,snt1_d1_netearningsrevision,ratio of (# of analyst raising est earnings)  - (# of analyst lowering est earnings) over (# of all analysts)
+12,snt1_d1_netrecpercent,ratio of (# of analyst buy) - (# of analyst sell) over (# of all analysts)
+13,snt1_d1_nettargetpercent,ratio of (# of up target) - (# of down target) over (# of all analysts)
+14,snt1_d1_sellrecpercent,ratio of (# of analyst sell) over (# of all analysts)
+15,snt1_d1_stockrank,"0-100, high values for buy signal and lower values for sell signal"
+16,snt1_d1_uptargetpercent,ratio of (# of up target) over (# of all analysts)

@@ -1,0 +1,78 @@
+,id,description
+0,oth131_adj_sum_aret_prev_fund_sec_mv12_adj_avg_fundgp_turnover_w_stx,"average owner turnover in the industry group, weighted by Alpha-ROE"
+1,oth131_adj_sum_aret_prev_fund_sec_mv12_avg_fund_cap_w_stx,"average owner market cap, weighted by Alpha-ROE"
+2,oth131_adj_sum_aret_prev_fund_sec_mv12_avg_fund_turnover_w_stx,"average owner turnover, weighted by Alpha-ROE"
+3,oth131_adj_sum_aret_prev_fund_sec_mv12_avg_fundsec_cap_w_stx,"average owner market cap in the sector, weighted by Alpha-ROE"
+4,oth131_adj_sum_aret_prev_fund_sec_mv12_avg_weight_delta_w_stx,"change of avg weight across owners, weighted by Alpha-ROE"
+5,oth131_adj_sum_aret_prev_fund_sec_mv12_avg_weight_in_fundsec_w_stx,"avg weight in sector across owners, weighted by Alpha-ROE"
+6,oth131_adj_sum_aret_prev_fund_sec_mv12_avg_weight_w_stx,"avg weight across owners, weighted by Alpha-ROE"
+7,oth131_adj_sum_aret_prev_fund_sec_mv12_cap_delta_4_w_over_adv_stx,"12m level change, conviction-weighted by ADV, weighted by Alpha-ROE"
+8,oth131_adj_sum_aret_prev_fund_sec_mv12_cap_delta_w_over_adv_stx,"level change, conviction-weighted by ADV, weighted by Alpha-ROE"
+9,oth131_adj_sum_aret_prev_fund_sec_mv12_intensity_w_delta_4_stx,"12m change of percentage of float-adjusted number of shares outstanding held by the owners, weighted by Alpha-ROE"
+10,oth131_adj_sum_aret_prev_fund_sec_mv12_intensity_w_delta_stx,"3m change of percentage of float-adjusted number of shares outstanding held by the owners, weighted by Alpha-ROE"
+11,oth131_adj_sum_aret_prev_fund_sec_mv12_intensity_w_stx,"percentage of float-adjusted number of shares outstanding held by the owners, weighted by Alpha-ROE"
+12,oth131_adj_sum_aret_prev_fund_sec_mv12_level_delta_4_w_stx,"12m change of market value held in aggregate by owners, weighted by Alpha-ROE"
+13,oth131_adj_sum_aret_prev_fund_sec_mv12_level_delta_w_stx,"3m change of market value held in aggregate by owners, weighted by Alpha-ROE"
+14,oth131_adj_sum_aret_prev_fund_sec_mv12_level_w_stx,"market value held in aggregate by owners, weighted by Alpha-ROE"
+15,oth131_adj_sum_aret_prev_fund_sec_mv12_num_shares_delta_4_up_w_stx,"# of owners who have increased their positions in the stock in the last 12m, weighted by Alpha-ROE"
+16,oth131_adj_sum_aret_prev_fund_sec_mv12_num_shares_delta_up_w_stx,"# of owners who have increased their positions in the stock in the last 3m, weighted by Alpha-ROE"
+17,oth131_adj_sum_aret_prev_fund_sec_mv12_popularity_w_delta_4_stx,"12m change of number of owners holding the stock, weighted by Alpha-ROE"
+18,oth131_adj_sum_aret_prev_fund_sec_mv12_popularity_w_delta_stx,"3m change of number of owners holding the stock, weighted by Alpha-ROE"
+19,oth131_adj_sum_aret_prev_fund_sec_mv12_popularity_w_stx,"number of owners holding the stock, weighted by Alpha-ROE"
+20,oth131_adj_sum_aret_prev_fund_sec_mv12_sum_initcover_4_w_stx,"number of owners that have added the stock to the portfolio in last 12m, weighted by Alpha-ROE"
+21,oth131_adj_sum_aret_prev_fund_sec_mv12_sum_initcover_w_stx,"number of owners that have added the stock to the portfolio in last 3m, weighted by Alpha-ROE"
+22,oth131_adj_sum_aret_prev_fund_sec_mv12_sum_weight_delta_w_stx,"change of avg weight across all hedge funds, weighted by Alpha-ROE"
+23,oth131_adj_sum_aret_prev_fund_sec_mv12_sum_weight_w_stx,"avg weight across all hedge funds, weighted by Alpha-ROE"
+24,oth131_baseline_adj_avg_fundgp_turnover_stx,average owner turnover in the industry group
+25,oth131_baseline_avg_fund_cap_stx,average owner market cap
+26,oth131_baseline_avg_fund_turnover_stx,average owner turnover
+27,oth131_baseline_avg_fundgp_cap_stx,average owner market cap in the industry group
+28,oth131_baseline_avg_fundsec_cap_stx,average owner market cap in the sector
+29,oth131_baseline_avg_weight_delta_stx,change of avg weight across owners
+30,oth131_baseline_avg_weight_in_fundgp_stx,avg weight in industry group across owners
+31,oth131_baseline_avg_weight_in_fundsec_stx,avg weight in sector across owners
+32,oth131_baseline_avg_weight_stx,avg weight across owners
+33,oth131_baseline_cr_stx,concentration ratio
+34,oth131_baseline_delta_4_over_adv_stx,"12m level change, conviction-weighted by ADV"
+35,oth131_baseline_delta_over_adv_stx,"level change, conviction-weighted by ADV"
+36,oth131_baseline_intensity_delta_4_stx,12m change of percentage of float-adjusted number of shares outstanding held by the owners
+37,oth131_baseline_intensity_delta_stx,3m change of percentage of float-adjusted number of shares outstanding held by the owners
+38,oth131_baseline_intensity_stx,percentage of float-adjusted number of shares outstanding held by the owners
+39,oth131_baseline_level_delta_4_stx,12m change of market value held in aggregate by owners
+40,oth131_baseline_level_delta_stx,3m change of market value held in aggregate by owners
+41,oth131_baseline_level_stx,market value held in aggregate by owners
+42,oth131_baseline_level_weight_drift_4_delta_stx,drift adjusted 12m change of weight
+43,oth131_baseline_level_weight_drift_delta_stx,drift adjusted 3m change of weight
+44,oth131_baseline_num_shares_delta_4_up_stx,# of owners who have increased their positions in the stock in the last 12m
+45,oth131_baseline_num_shares_delta_up_stx,# of owners who have increased their positions in the stock in the last 3m
+46,oth131_baseline_popularity_delta_4_stx,12m change of number of owners holding the stock
+47,oth131_baseline_popularity_delta_stx,3m change of number of owners holding the stock
+48,oth131_baseline_popularity_stx,number of owners holding the stock
+49,oth131_baseline_sum_initcover_4_stx,number of owners that have added the stock to the portfolio in last 12m
+50,oth131_baseline_sum_initcover_stx,number of owners that have added the stock to the portfolio in last 3m
+51,oth131_baseline_sum_weight_delta_stx,change of avg weight across all hedge funds
+52,oth131_baseline_sum_weight_stx,avg weight across all hedge funds
+53,oth131_spec_air_prev_fund_sec_mv12_adj_avg_fundgp_turnover_w_stx,"average owner turnover in the industry group, weighted by sector risk-adjusted alpha"
+54,oth131_spec_air_prev_fund_sec_mv12_avg_fund_cap_w_stx,"average owner market cap, weighted by sector risk-adjusted alpha"
+55,oth131_spec_air_prev_fund_sec_mv12_avg_fund_turnover_w_stx,"average owner turnover, weighted by sector risk-adjusted alpha"
+56,oth131_spec_air_prev_fund_sec_mv12_avg_fundsec_cap_w_stx,"average owner market cap in the sector, weighted by sector risk-adjusted alpha"
+57,oth131_spec_air_prev_fund_sec_mv12_avg_weight_delta_w_stx,"change of avg weight across owners, weighted by sector risk-adjusted alpha"
+58,oth131_spec_air_prev_fund_sec_mv12_avg_weight_in_fundsec_w_stx,"avg weight in sector across owners, weighted by sector risk-adjusted alpha"
+59,oth131_spec_air_prev_fund_sec_mv12_avg_weight_w_stx,"avg weight across owners, weighted by sector risk-adjusted alpha"
+60,oth131_spec_air_prev_fund_sec_mv12_cap_delta_4_w_over_adv_stx,"12m level change, conviction-weighted by ADV, weighted by sector risk-adjusted alpha"
+61,oth131_spec_air_prev_fund_sec_mv12_cap_delta_w_over_adv_stx,"level change, conviction-weighted by ADV, weighted by sector risk-adjusted alpha"
+62,oth131_spec_air_prev_fund_sec_mv12_intensity_w_delta_4_stx,"12m change of percentage of float-adjusted number of shares outstanding held by the owners, weighted by sector risk-adjusted alpha"
+63,oth131_spec_air_prev_fund_sec_mv12_intensity_w_delta_stx,"3m change of percentage of float-adjusted number of shares outstanding held by the owners, weighted by sector risk-adjusted alpha"
+64,oth131_spec_air_prev_fund_sec_mv12_intensity_w_stx,"percentage of float-adjusted number of shares outstanding held by the owners, weighted by sector risk-adjusted alpha"
+65,oth131_spec_air_prev_fund_sec_mv12_level_delta_4_w_stx,"12m change of market value held in aggregate by owners, weighted by sector risk-adjusted alpha"
+66,oth131_spec_air_prev_fund_sec_mv12_level_delta_w_stx,"3m change of market value held in aggregate by owners, weighted by sector risk-adjusted alpha"
+67,oth131_spec_air_prev_fund_sec_mv12_level_w_stx,"market value held in aggregate by owners, weighted by sector risk-adjusted alpha"
+68,oth131_spec_air_prev_fund_sec_mv12_num_shares_delta_4_up_w_stx,"# of owners who have increased their positions in the stock in the last 12m, weighted by sector risk-adjusted alpha"
+69,oth131_spec_air_prev_fund_sec_mv12_num_shares_delta_up_w_stx,"# of owners who have increased their positions in the stock in the last 3m, weighted by sector risk-adjusted alpha"
+70,oth131_spec_air_prev_fund_sec_mv12_popularity_w_delta_4_stx,"12m change of number of owners holding the stock, weighted by sector risk-adjusted alpha"
+71,oth131_spec_air_prev_fund_sec_mv12_popularity_w_delta_stx,"3m change of number of owners holding the stock, weighted by sector risk-adjusted alpha"
+72,oth131_spec_air_prev_fund_sec_mv12_popularity_w_stx,"number of owners holding the stock, weighted by sector risk-adjusted alpha"
+73,oth131_spec_air_prev_fund_sec_mv12_sum_initcover_4_w_stx,"number of owners that have added the stock to the portfolio in last 12m, weighted by sector risk-adjusted alpha"
+74,oth131_spec_air_prev_fund_sec_mv12_sum_initcover_w_stx,"number of owners that have added the stock to the portfolio in last 3m, weighted by sector risk-adjusted alpha"
+75,oth131_spec_air_prev_fund_sec_mv12_sum_weight_delta_w_stx,"change of avg weight across all hedge funds, weighted by sector risk-adjusted alpha"
+76,oth131_spec_air_prev_fund_sec_mv12_sum_weight_w_stx,"avg weight across all hedge funds, weighted by sector risk-adjusted alpha"

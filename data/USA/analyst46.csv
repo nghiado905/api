@@ -1,0 +1,6 @@
+,id,description
+0,anl46_alphadecay,Contribution of idea age
+1,anl46_experts,Contribution of author historical performance
+2,anl46_indicator,Sentiment deciled by region {1-10}
+3,anl46_performancepercentile,A value from 1 to 100 expressing how well the Indicator has predicted price movement on the stock in the last 12 months
+4,anl46_sentiment,Score estimated as a sum of 4 components: decay + experts + earnings + (long/short idea count & open/closed status)

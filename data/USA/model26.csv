@@ -1,0 +1,546 @@
+,id,description
+0,mdl26_5yr_hstrcl_grwth_rt,5year historical growth rate
+1,mdl26_60dy_srprs_lst_q_rnngs,60day surprise (actual value - predicted value) last QTR earnings
+2,mdl26_60dy_srprs_lst_y_rnngs,60day surprise (actual value - predicted value) last YEAR earnings
+3,mdl26_7dy_bld_stmt_flg_fq1_rnngs,7day rough estimate flag FQTR1 earnings
+4,mdl26_7dy_bld_stmt_flg_fq2_rnngs,7day rough estimate flag FQTR2 earnings
+5,mdl26_7dy_bld_stmt_flg_fq3_rnngs,7day rough estimate flag FQTR3 earnings
+6,mdl26_7dy_bld_stmt_flg_fq4_rnngs,7day rough estimate flag FQTR4 earnings
+7,mdl26_7dy_bld_stmt_flg_fy2_rnngs,7day rough estimate flag FYEAR2 earnings
+8,mdl26_7dy_mn_chng_flg_fq1_rnngs,7day mean change flag FQTR1 earnings
+9,mdl26_7dy_mn_chng_flg_fq2_rnngs,7day mean change flag FQTR2 earnings
+10,mdl26_7dy_mn_chng_flg_fq3_rnngs,7day mean change flag FQTR3 earnings
+11,mdl26_7dy_mn_chng_flg_fq4_rnngs,7day mean change flag FQTR4 earnings
+12,mdl26_7dy_mn_chng_flg_fy1_rnngs,7day mean change flag FYEAR1 earnings
+13,mdl26_7dy_mn_chng_flg_fy2_rnngs,7day mean change flag FYEAR2 earnings
+14,mdl26_actual_last_q_earnings,actual last QTR earnings
+15,mdl26_actual_last_q_ebitda,actual last QTR EBITDA
+16,mdl26_actual_last_q_revenue,actual last QTR revenue
+17,mdl26_actual_last_y_earnings,actual last YEAR earnings
+18,mdl26_actual_last_y_ebitda,actual last YEAR EBITDA
+19,mdl26_actual_last_y_revenue,actual last YEAR revenue
+20,mdl26_arm_score_change_1,score change for days: 1
+21,mdl26_arm_score_change_3,score change for days: 3
+22,mdl26_arm_score_change_60,score change for days: 60
+23,mdl26_arm_score_change_7,score change for days: 7
+24,mdl26_arm_score_change_90,score change for days: 90
+25,mdl26_avrevsn_fq1_earnings_30,average revision FQTR1 earnings: 30 days
+26,mdl26_avrevsn_fq2_earnings_30,average revision FQTR2 earnings: 30 days
+27,mdl26_avrevsn_fq3_earnings_30,average revision FQTR3 earnings: 30 days
+28,mdl26_avrevsn_fq4_earnings_30,average revision FQTR4 earnings: 30 days
+29,mdl26_avrevsn_fy1_earnings_30,average revision FYEAR1 earnings: 30 days
+30,mdl26_avrevsn_fy2_earnings_30,average revision FYEAR2 earnings: 30 days
+31,mdl26_bld_stmt_flg_fq1_rnngs,rough estimate flag FQTR1 earnings
+32,mdl26_bld_stmt_flg_fq2_rnngs,rough estimate flag FQTR2 earnings
+33,mdl26_bld_stmt_flg_fq3_rnngs,rough estimate flag FQTR3 earnings
+34,mdl26_bld_stmt_flg_fq4_rnngs,rough estimate flag FQTR4 earnings
+35,mdl26_bld_stmt_flg_fy1_rnngs,rough estimate flag FYEAR1 earnings
+36,mdl26_bld_stmt_flg_fy2_rnngs,rough estimate flag FYEAR2 earnings
+37,mdl26_blndd_grwth_ndstry_prcntl,blended growth industry percentile
+38,mdl26_blndd_grwth_rt_smrtstmt,blended growth rate smartestimate
+39,mdl26_blndd_grwth_sctr_prcntl,blended growth sector percentile
+40,mdl26_chng_frm_52wk_hgh_prc,change from 52week high price
+41,mdl26_chng_frm_52wk_lw_prc,change from 52week low price
+42,mdl26_chng_rltv_t_cc_40_30,change relative to CAC40  30 day average
+43,mdl26_chng_rltv_t_cntry_bnchmrk_30,change relative to country benchmark  30 day average
+44,mdl26_chng_rltv_t_dj_stxx_600_30,change relative to DJStoxx600  30 day average
+45,mdl26_chng_rltv_t_fts_100_30,change relative to FTSE100  30 day average
+46,mdl26_chng_rltv_t_hng_sng_30,change relative to HangSeng  30 day average
+47,mdl26_chng_rltv_t_js_ll_shr_30,change relative to JSE-ALL 30 day average
+48,mdl26_chng_rltv_t_msc_f_30,change relative to MSCI-EAFE  30 day average
+49,mdl26_chng_rltv_t_msc_mf_30,change relative to MSCI-EMF  30 day average
+50,mdl26_chng_rltv_t_msc_pc_x_jp_30,change relative to MSCI-PACExJP 30 day average
+51,mdl26_chng_rltv_t_msc_rp_30,change relative to MSCI-EUROPE 30 day average
+52,mdl26_chng_rltv_t_ndstry_bnchmrk_30,change relative to industry benchmark  30 day average
+53,mdl26_chng_rltv_t_r1000_grwth_30,change relative to Russell1000 growth 30 day average
+54,mdl26_chng_rltv_t_rssll_2000_30,change relative to Russell2000 30 day average
+55,mdl26_chng_rltv_t_rssll_mdcp_30,change relative to Russell-midcap 30 day average
+56,mdl26_chng_rltv_t_sp_400_30,change relative to SNP400 30 day average
+57,mdl26_chng_rltv_t_sp_500_30,change relative to SNP500 30 day average
+58,mdl26_chng_rltv_t_sp_600_30,change relative to SNP600 30 day average
+59,mdl26_chng_rltv_t_sx_100_30,change relative to ASX100 30 day average
+60,mdl26_chng_rltv_t_sx_200_30,change relative to ASX200 30 day average
+61,mdl26_chng_rltv_t_sx_300_30,change relative to ASX300 30 day average
+62,mdl26_chng_rltv_t_sx_ll_rd_30,change relative to ASX-ALL Ord 30 day average
+63,mdl26_chng_rltv_t_tpx_30,change relative to topix 30 day average
+64,mdl26_chng_rltv_t_tsx_cmpst_30,change relative to tsx composite 30 day average
+65,mdl26_days_since_last_report,days since last report
+66,mdl26_dff_frm_200dy_mvng_vrg,difference from 200day moving average
+67,mdl26_dff_frm_50dy_mvng_vrg,difference from 50day moving average
+68,mdl26_dffrnc_frm_hstrcl_p,difference from historical (Price/Earnings ratio)
+69,mdl26_dffrnc_frm_hstrcl_prc_rt_rnngs,difference from historical (Price/Earnings ratio)
+70,mdl26_dsnc_bld_stmt_fq1_rnngs,days since rough estimate FQTR1 earnings
+71,mdl26_dsnc_bld_stmt_fq2_rnngs,days since rough estimate FQTR2 earnings
+72,mdl26_dsnc_bld_stmt_fq3_rnngs,days since rough estimate FQTR3 earnings
+73,mdl26_dsnc_bld_stmt_fq4_rnngs,days since rough estimate FQTR4 earnings
+74,mdl26_dsnc_bld_stmt_fy1_rnngs,days since rough estimate FYEAR1 earnings
+75,mdl26_dsnc_bld_stmt_fy2_rnngs,days since rough estimate FYEAR2 earnings
+76,mdl26_dsnc_clstr_bgn_fq1_rnngs,days since cluster began FQTR1 earnings
+77,mdl26_dsnc_clstr_bgn_fq2_rnngs,days since cluster began FQTR2 earnings
+78,mdl26_dsnc_clstr_bgn_fq3_rnngs,days since cluster began FQTR3 earnings
+79,mdl26_dsnc_clstr_bgn_fq4_rnngs,days since cluster began FQTR4 earnings
+80,mdl26_dsnc_clstr_bgn_fy1_rnngs,days since cluster began FYEAR1 earnings
+81,mdl26_dsnc_clstr_bgn_fy2_rnngs,days since cluster began FYEAR2 earnings
+82,mdl26_dsnc_clstr_dtctd_fq1_rnngs,days since cluster detected FQTR1 earnings
+83,mdl26_dsnc_clstr_dtctd_fq2_rnngs,days since cluster detected FQTR2 earnings
+84,mdl26_dsnc_clstr_dtctd_fq3_rnngs,days since cluster detected FQTR3 earnings
+85,mdl26_dsnc_clstr_dtctd_fq4_rnngs,days since cluster detected FQTR4 earnings
+86,mdl26_dsnc_clstr_dtctd_fy1_rnngs,days since cluster detected FYEAR1 earnings
+87,mdl26_dsnc_clstr_dtctd_fy2_rnngs,days since cluster detected FYEAR2 earnings
+88,mdl26_dsnc_lst_bss_chng_rnngs,days since last basis change earnings
+89,mdl26_dsnc_lst_ng_prnnncmnt,days since last negative preannouncement
+90,mdl26_dsnc_lst_ps_prnnncmnt,days since last positive preannouncement
+91,mdl26_dsnc_ngtv_bld_stmt_fy2_rnngs,days since negative rough estimate FYEAR2 earnings
+92,mdl26_dsnc_prd_srprs_flg_chg_fq1_rnngs,days since pred surprise (actual value - predicted value) flag chg FQTR1 earnings
+93,mdl26_dsnc_prd_srprs_flg_chg_fq2_rnngs,days since pred surprise (actual value - predicted value) flag chg FQTR2 earnings
+94,mdl26_dsnc_prd_srprs_flg_chg_fq3_rnngs,days since pred surprise (actual value - predicted value) flag chg FQTR3 earnings
+95,mdl26_dsnc_prd_srprs_flg_chg_fq4_rnngs,days since pred surprise (actual value - predicted value) flag chg FQTR4 earnings
+96,mdl26_dsnc_prd_srprs_flg_chg_fy1_rnngs,days since pred surprise (actual value - predicted value) flag chg FYEAR1 earnings
+97,mdl26_dsnc_prd_srprs_flg_chg_fy2_rnngs,days since pred surprise (actual value - predicted value) flag chg FYEAR2 earnings
+98,mdl26_ep_industry_percentile_fy1,(Earnings/Price ratio)industry percentile FYEAR1
+99,mdl26_ep_sector_percentile_fy1,(Earnings/Price ratio)sector percentile FYEAR1
+100,mdl26_ep_yield_smartestimate_fy1,(Earnings/Price ratio)yield smartestimate FYEAR1
+101,mdl26_forward_pe_mean_f12m,forward (Price/Earnings ratio) mean F-12MonthsRolling
+102,mdl26_forward_pe_mean_fy1,forward (Price/Earnings ratio) mean FYEAR1
+103,mdl26_forward_pe_mean_fy2,forward (Price/Earnings ratio) mean FYEAR2
+104,mdl26_frwrd_p_stm_f12m,forward (Price/Earnings ratio) smartestimate F-12MonthsRolling
+105,mdl26_frwrd_p_stm_fy1,forward (Price/Earnings ratio) smartestimate FYEAR1
+106,mdl26_frwrd_p_stm_fy2,forward (Price/Earnings ratio) smartestimate FYEAR2
+107,mdl26_grwth_nxt_yr_ndstry_prcntl_rnngs,growth next yr industry percentile earnings
+108,mdl26_grwth_nxt_yr_sctr_prcntl_rnngs,growth next yr sector percentile earnings
+109,mdl26_grwth_ths_yr_ndstry_prcntl_rnngs,growth this yr industry percentile earnings
+110,mdl26_grwth_ths_yr_sctr_prcntl_rnngs,growth this yr sector percentile earnings
+111,mdl26_hgh_stmt_chng_fq1_rnngs_30,high estimate FQTR1 earnings change over days: 30
+112,mdl26_hgh_stmt_chng_fq2_rnngs_30,high estimate FQTR2 earnings change over days: 30
+113,mdl26_hgh_stmt_chng_fq3_rnngs_30,high estimate FQTR3 earnings change over days: 30
+114,mdl26_hgh_stmt_chng_fq4_rnngs_30,high estimate FQTR4 earnings change over days: 30
+115,mdl26_hgh_stmt_chng_fy1_rnngs_30,high estimate FYEAR1 earnings change over days: 30
+116,mdl26_hgh_stmt_chng_fy2_rnngs_30,high estimate FYEAR2 earnings change over days: 30
+117,mdl26_hgh_stmt_prr_fq1_rnngs_30,high estimate prior FQTR1 earnings: 30 days
+118,mdl26_hgh_stmt_prr_fq2_rnngs_30,high estimate prior FQTR2 earnings: 30 days
+119,mdl26_hgh_stmt_prr_fq3_rnngs_30,high estimate prior FQTR3 earnings: 30 days
+120,mdl26_hgh_stmt_prr_fq4_rnngs_30,high estimate prior FQTR4 earnings: 30 days
+121,mdl26_hgh_stmt_prr_fy1_rnngs_30,high estimate prior FYEAR1 earnings: 30 days
+122,mdl26_hgh_stmt_prr_fy2_rnngs_30,high estimate prior FYEAR2 earnings: 30 days
+123,mdl26_high_price_52,high price 52 days
+124,mdl26_last_fiscal_year_pe,last fiscal year (Price/Earnings ratio)
+125,mdl26_low_price_52,low price 52 days
+126,mdl26_lst_ngtv_bld_stmt_fy2_rnngs,last negative rough estimate FYEAR2 earnings
+127,mdl26_lt_grwth_ndstry_prcntl,Long-term growth industry percentile
+128,mdl26_lt_grwth_sctr_prcntl,Long-term growth sector percentile
+129,mdl26_lw_stmt_chng_fq1_rnngs_30,low estimate FQTR1 earnings change over days: 30
+130,mdl26_lw_stmt_chng_fq2_rnngs_30,low estimate FQTR2 earnings change over days: 30
+131,mdl26_lw_stmt_chng_fq3_rnngs_30,low estimate FQTR3 earnings change over days: 30
+132,mdl26_lw_stmt_chng_fq4_rnngs_30,low estimate FQTR4 earnings change over days: 30
+133,mdl26_lw_stmt_chng_fy1_rnngs_30,low estimate FYEAR1 earnings change over days: 30
+134,mdl26_lw_stmt_chng_fy2_rnngs_30,low estimate FYEAR2 earnings change over days: 30
+135,mdl26_lw_stmt_prr_fq1_rnngs_30,low estimate prior FQTR1 earnings: 30 days
+136,mdl26_lw_stmt_prr_fq2_rnngs_30,low estimate prior FQTR2 earnings: 30 days
+137,mdl26_lw_stmt_prr_fq3_rnngs_30,low estimate prior FQTR3 earnings: 30 days
+138,mdl26_lw_stmt_prr_fq4_rnngs_30,low estimate prior FQTR4 earnings: 30 days
+139,mdl26_lw_stmt_prr_fy1_rnngs_30,low estimate prior FYEAR1 earnings: 30 days
+140,mdl26_lw_stmt_prr_fy2_rnngs_30,low estimate prior FYEAR2 earnings: 30 days
+141,mdl26_market_cap_l,market cap Local Currency
+142,mdl26_market_cap_u,market cap USD
+143,mdl26_mdn_hstrcl_f12m_prc_rt_rnngs,median historical (Price/Earnings ratio) F-12MonthsRolling
+144,mdl26_median_historical_f12m_pe,median historical F-12MonthsRolling (Price/Earnings ratio)
+145,mdl26_mn_f_rvsnclstr_nlysts_fq1_rnngs,mean of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR1 earnings
+146,mdl26_mn_f_rvsnclstr_nlysts_fq2_rnngs,mean of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR2 earnings
+147,mdl26_mn_f_rvsnclstr_nlysts_fq3_rnngs,mean of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR3 earnings
+148,mdl26_mn_f_rvsnclstr_nlysts_fq4_rnngs,mean of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR4 earnings
+149,mdl26_mn_f_rvsnclstr_nlysts_fy1_rnngs,mean of revisioncluster(cluster of similar companies that are generally revised together) analysts FYEAR1 earnings
+150,mdl26_mn_f_rvsnclstr_nlysts_fy2_rnngs,mean of revisioncluster(cluster of similar companies that are generally revised together) analysts FYEAR2 earnings
+151,mdl26_mn_stmt_prc_rt_f12m_btd,mean estimate (Price/EBITDA ratio) F-12MonthsRolling
+152,mdl26_mn_stmt_prc_rt_f12m_rnngs,mean estimate (Price/Earnings ratio) F-12MonthsRolling
+153,mdl26_mn_stmt_prc_rt_f12m_rvn,mean estimate (Price/revenue ratio) F-12MonthsRolling
+154,mdl26_mn_stmt_prc_rt_fy1_btd,mean estimate (Price/EBITDA ratio) FYEAR1
+155,mdl26_mn_stmt_prc_rt_fy1_rnngs,mean estimate (Price/Earnings ratio) FYEAR1
+156,mdl26_mn_stmt_prc_rt_fy1_rvn,mean estimate (Price/revenue ratio) FYEAR1
+157,mdl26_mn_stmt_prc_rt_fy2_btd,mean estimate (Price/EBITDA ratio) FYEAR2
+158,mdl26_mn_stmt_prc_rt_fy2_rnngs,mean estimate (Price/Earnings ratio) FYEAR2
+159,mdl26_mn_stmt_prc_rt_fy2_rvn,mean estimate (Price/revenue ratio) FYEAR2
+160,mdl26_mn_stmt_prr_fq1_rnngs_7,mean estimate prior FQTR1 earnings: 7 days
+161,mdl26_mn_stmt_prr_fq2_rnngs_7,mean estimate prior FQTR2 earnings: 7 days
+162,mdl26_mn_stmt_prr_fq3_rnngs_7,mean estimate prior FQTR3 earnings: 7 days
+163,mdl26_mn_stmt_prr_fq4_rnngs_7,mean estimate prior FQTR4 earnings: 7 days
+164,mdl26_mn_stmt_prr_fy1_rnngs_7,mean estimate prior FYEAR1 earnings: 7 days
+165,mdl26_mn_stmt_prr_fy2_rnngs_7,mean estimate prior FYEAR2 earnings: 7 days
+166,mdl26_mstchg_fq1_rnngs_30,mean estimate FQTR1 earnings change over days: 30
+167,mdl26_mstchg_fq2_rnngs_30,mean estimate FQTR2 earnings change over days: 30
+168,mdl26_mstchg_fq3_rnngs_30,mean estimate FQTR3 earnings change over days: 30
+169,mdl26_mstchg_fq4_rnngs_30,mean estimate FQTR4 earnings change over days: 30
+170,mdl26_mstchg_fy1_rnngs_30,mean estimate FYEAR1 earnings change over days: 30
+171,mdl26_mstchg_fy2_rnngs_30,mean estimate FYEAR2 earnings change over days: 30
+172,mdl26_mstchg_pct_f12m_btd_14,mean estimate F-12MonthsRolling EBITDA change percentage for days: 14
+173,mdl26_mstchg_pct_f12m_btd_30,mean estimate F-12MonthsRolling EBITDA change percentage for days: 30
+174,mdl26_mstchg_pct_f12m_btd_60,mean estimate F-12MonthsRolling EBITDA change percentage for days: 60
+175,mdl26_mstchg_pct_f12m_btd_7,mean estimate F-12MonthsRolling EBITDA change percentage for days: 7
+176,mdl26_mstchg_pct_f12m_btd_90,mean estimate F-12MonthsRolling EBITDA change percentage for days: 90
+177,mdl26_mstchg_pct_f12m_rnngs_14,mean estimate F-12MonthsRolling earnings change percentage for days: 14
+178,mdl26_mstchg_pct_f12m_rnngs_30,mean estimate F-12MonthsRolling earnings change percentage for days: 30
+179,mdl26_mstchg_pct_f12m_rnngs_60,mean estimate F-12MonthsRolling earnings change percentage for days: 60
+180,mdl26_mstchg_pct_f12m_rnngs_7,mean estimate F-12MonthsRolling earnings change percentage for days: 7
+181,mdl26_mstchg_pct_f12m_rnngs_90,mean estimate F-12MonthsRolling earnings change percentage for days: 90
+182,mdl26_mstchg_pct_f12m_rvn_14,mean estimate F-12MonthsRolling revenue change percentage for days: 14
+183,mdl26_mstchg_pct_f12m_rvn_30,mean estimate F-12MonthsRolling revenue change percentage for days: 30
+184,mdl26_mstchg_pct_f12m_rvn_60,mean estimate F-12MonthsRolling revenue change percentage for days: 60
+185,mdl26_mstchg_pct_f12m_rvn_7,mean estimate F-12MonthsRolling revenue change percentage for days: 7
+186,mdl26_mstchg_pct_f12m_rvn_90,mean estimate F-12MonthsRolling revenue change percentage for days: 90
+187,mdl26_mstchg_pct_fq1_btd_14,mean estimate FQTR1 EBITDA change percentage for days: 14
+188,mdl26_mstchg_pct_fq1_btd_30,mean estimate FQTR1 EBITDA change percentage for days: 30
+189,mdl26_mstchg_pct_fq1_btd_60,mean estimate FQTR1 EBITDA change percentage for days: 60
+190,mdl26_mstchg_pct_fq1_btd_7,mean estimate FQTR1 EBITDA change percentage for days: 7
+191,mdl26_mstchg_pct_fq1_btd_90,mean estimate FQTR1 EBITDA change percentage for days: 90
+192,mdl26_mstchg_pct_fq1_rnngs_14,mean estimate FQTR1 earnings change percentage for days: 14
+193,mdl26_mstchg_pct_fq1_rnngs_30,mean estimate FQTR1 earnings change percentage for days: 30
+194,mdl26_mstchg_pct_fq1_rnngs_60,mean estimate FQTR1 earnings change percentage for days: 60
+195,mdl26_mstchg_pct_fq1_rnngs_7,mean estimate FQTR1 earnings change percentage for days: 7
+196,mdl26_mstchg_pct_fq1_rnngs_90,mean estimate FQTR1 earnings change percentage for days: 90
+197,mdl26_mstchg_pct_fq1_rvn_14,mean estimate FQTR1 revenue change percentage for days: 14
+198,mdl26_mstchg_pct_fq1_rvn_30,mean estimate FQTR1 revenue change percentage for days: 30
+199,mdl26_mstchg_pct_fq1_rvn_60,mean estimate FQTR1 revenue change percentage for days: 60
+200,mdl26_mstchg_pct_fq1_rvn_7,mean estimate FQTR1 revenue change percentage for days: 7
+201,mdl26_mstchg_pct_fq1_rvn_90,mean estimate FQTR1 revenue change percentage for days: 90
+202,mdl26_mstchg_pct_fq2_btd_14,mean estimate FQTR2 EBITDA change percentage for days: 14
+203,mdl26_mstchg_pct_fq2_btd_30,mean estimate FQTR2 EBITDA change percentage for days: 30
+204,mdl26_mstchg_pct_fq2_btd_60,mean estimate FQTR2 EBITDA change percentage for days: 60
+205,mdl26_mstchg_pct_fq2_btd_7,mean estimate FQTR2 EBITDA change percentage for days: 7
+206,mdl26_mstchg_pct_fq2_btd_90,mean estimate FQTR2 EBITDA change percentage for days: 90
+207,mdl26_mstchg_pct_fq2_rnngs_14,mean estimate FQTR2 earnings change percentage for days: 14
+208,mdl26_mstchg_pct_fq2_rnngs_30,mean estimate FQTR2 earnings change percentage for days: 30
+209,mdl26_mstchg_pct_fq2_rnngs_60,mean estimate FQTR2 earnings change percentage for days: 60
+210,mdl26_mstchg_pct_fq2_rnngs_7,mean estimate FQTR2 earnings change percentage for days: 7
+211,mdl26_mstchg_pct_fq2_rnngs_90,mean estimate FQTR2 earnings change percentage for days: 90
+212,mdl26_mstchg_pct_fq2_rvn_14,mean estimate FQTR2 revenue change percentage for days: 14
+213,mdl26_mstchg_pct_fq2_rvn_30,mean estimate FQTR2 revenue change percentage for days: 30
+214,mdl26_mstchg_pct_fq2_rvn_60,mean estimate FQTR2 revenue change percentage for days: 60
+215,mdl26_mstchg_pct_fq2_rvn_7,mean estimate FQTR2 revenue change percentage for days: 7
+216,mdl26_mstchg_pct_fq2_rvn_90,mean estimate FQTR2 revenue change percentage for days: 90
+217,mdl26_mstchg_pct_fy1_btd_14,mean estimate FYEAR1 EBITDA change percentage for days: 14
+218,mdl26_mstchg_pct_fy1_btd_30,mean estimate FYEAR1 EBITDA change percentage for days: 30
+219,mdl26_mstchg_pct_fy1_btd_60,mean estimate FYEAR1 EBITDA change percentage for days: 60
+220,mdl26_mstchg_pct_fy1_btd_7,mean estimate FYEAR1 EBITDA change percentage for days: 7
+221,mdl26_mstchg_pct_fy1_btd_90,mean estimate FYEAR1 EBITDA change percentage for days: 90
+222,mdl26_mstchg_pct_fy1_rnngs_14,mean estimate FYEAR1 earnings change percentage for days: 14
+223,mdl26_mstchg_pct_fy1_rnngs_30,mean estimate FYEAR1 earnings change percentage for days: 30
+224,mdl26_mstchg_pct_fy1_rnngs_60,mean estimate FYEAR1 earnings change percentage for days: 60
+225,mdl26_mstchg_pct_fy1_rnngs_7,mean estimate FYEAR1 earnings change percentage for days: 7
+226,mdl26_mstchg_pct_fy1_rnngs_90,mean estimate FYEAR1 earnings change percentage for days: 90
+227,mdl26_mstchg_pct_fy1_rvn_14,mean estimate FYEAR1 revenue change percentage for days: 14
+228,mdl26_mstchg_pct_fy1_rvn_30,mean estimate FYEAR1 revenue change percentage for days: 30
+229,mdl26_mstchg_pct_fy1_rvn_60,mean estimate FYEAR1 revenue change percentage for days: 60
+230,mdl26_mstchg_pct_fy1_rvn_7,mean estimate FYEAR1 revenue change percentage for days: 7
+231,mdl26_mstchg_pct_fy1_rvn_90,mean estimate FYEAR1 revenue change percentage for days: 90
+232,mdl26_mxmm_ngtv_bld_st_dff_fy2_rnngs,maximum negative bold estimate difference FYEAR2 earnings
+233,mdl26_nm_mn_nlysts_prr_fq1_rnngs_7,number of mean analysts prior FQTR1 earnings: 7 days
+234,mdl26_nm_mn_nlysts_prr_fq2_rnngs_7,number of mean analysts prior FQTR2 earnings: 7 days
+235,mdl26_nm_mn_nlysts_prr_fq3_rnngs_7,number of mean analysts prior FQTR3 earnings: 7 days
+236,mdl26_nm_mn_nlysts_prr_fq4_rnngs_7,number of mean analysts prior FQTR4 earnings: 7 days
+237,mdl26_nm_mn_nlysts_prr_fy1_rnngs_7,number of mean analysts prior FYEAR1 earnings: 7 days
+238,mdl26_nm_mn_nlysts_prr_fy2_rnngs_7,number of mean analysts prior FYEAR2 earnings: 7 days
+239,mdl26_nm_ngtv_bld_stmts_fy2_rnngs,number of negative rough estimates FYEAR2 earnings
+240,mdl26_nm_rvsnclstr_nlysts_fq1_rnngs,number of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR1 earnings
+241,mdl26_nm_rvsnclstr_nlysts_fq2_rnngs,number of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR2 earnings
+242,mdl26_nm_rvsnclstr_nlysts_fq3_rnngs,number of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR3 earnings
+243,mdl26_nm_rvsnclstr_nlysts_fq4_rnngs,number of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR4 earnings
+244,mdl26_nm_rvsnclstr_nlysts_fy1_rnngs,number of revisioncluster(cluster of similar companies that are generally revised together) analysts FYEAR1 earnings
+245,mdl26_nm_rvsnclstr_nlysts_fy2_rnngs,number of revisioncluster(cluster of similar companies that are generally revised together) analysts FYEAR2 earnings
+246,mdl26_nm_stm_nlysts_fq1_rnngs,number of smartestimate analysts FQTR1 earnings
+247,mdl26_nm_stm_nlysts_fq2_rnngs,number of smartestimate analysts FQTR2 earnings
+248,mdl26_nm_stm_nlysts_fq3_rnngs,number of smartestimate analysts FQTR3 earnings
+249,mdl26_nm_stm_nlysts_fq4_rnngs,number of smartestimate analysts FQTR4 earnings
+250,mdl26_nm_stm_nlysts_fy1_rnngs,number of smartestimate analysts FYEAR1 earnings
+251,mdl26_nm_stm_nlysts_fy2_rnngs,number of smartestimate analysts FYEAR2 earnings
+252,mdl26_nnlyst_rvsng_dwn_fq1_btd_14,number of analysts revising down FQTR1 EBITDA: 14 days
+253,mdl26_nnlyst_rvsng_dwn_fq1_btd_30,number of analysts revising down FQTR1 EBITDA: 30 days
+254,mdl26_nnlyst_rvsng_dwn_fq1_btd_7,number of analysts revising down FQTR1 EBITDA: 7 days
+255,mdl26_nnlyst_rvsng_dwn_fq1_rnngs_14,number of analysts revising down FQTR1 earnings: 14 days
+256,mdl26_nnlyst_rvsng_dwn_fq1_rnngs_30,number of analysts revising down FQTR1 earnings: 30 days
+257,mdl26_nnlyst_rvsng_dwn_fq1_rnngs_7,number of analysts revising down FQTR1 earnings: 7 days
+258,mdl26_nnlyst_rvsng_dwn_fq1_rvn_14,number of analysts revising down FQTR1 revenue: 14 days
+259,mdl26_nnlyst_rvsng_dwn_fq1_rvn_30,number of analysts revising down FQTR1 revenue: 30 days
+260,mdl26_nnlyst_rvsng_dwn_fq1_rvn_7,number of analysts revising down FQTR1 revenue: 7 days
+261,mdl26_nnlyst_rvsng_dwn_fq2_btd_14,number of analysts revising down FQTR2 EBITDA: 14 days
+262,mdl26_nnlyst_rvsng_dwn_fq2_btd_30,number of analysts revising down FQTR2 EBITDA: 30 days
+263,mdl26_nnlyst_rvsng_dwn_fq2_btd_7,number of analysts revising down FQTR2 EBITDA: 7 days
+264,mdl26_nnlyst_rvsng_dwn_fq2_rnngs_14,number of analysts revising down FQTR2 earnings: 14 days
+265,mdl26_nnlyst_rvsng_dwn_fq2_rnngs_7,number of analysts revising down FQTR2 earnings: 7 days
+266,mdl26_nnlyst_rvsng_dwn_fq2_rvn_14,number of analysts revising down FQTR2 revenue: 14 days
+267,mdl26_nnlyst_rvsng_dwn_fq2_rvn_30,number of analysts revising down FQTR2 revenue: 30 days
+268,mdl26_nnlyst_rvsng_dwn_fq2_rvn_7,number of analysts revising down FQTR2 revenue: 7 days
+269,mdl26_nnlyst_rvsng_dwn_fq3_rnngs_30,number of analysts revising down FQTR3 earnings: 30 days
+270,mdl26_nnlyst_rvsng_dwn_fq4_rnngs_30,number of analysts revising down FQTR4 earnings: 30 days
+271,mdl26_nnlyst_rvsng_dwn_fy1_btd_14,number of analysts revising down FYEAR1 EBITDA: 14 days
+272,mdl26_nnlyst_rvsng_dwn_fy1_btd_30,number of analysts revising down FYEAR1 EBITDA: 30 days
+273,mdl26_nnlyst_rvsng_dwn_fy1_btd_7,number of analysts revising down FYEAR1 EBITDA: 7 days
+274,mdl26_nnlyst_rvsng_dwn_fy1_rnngs_14,number of analysts revising down FYEAR1 earnings: 14 days
+275,mdl26_nnlyst_rvsng_dwn_fy1_rnngs_7,number of analysts revising down FYEAR1 earnings: 7 days
+276,mdl26_nnlyst_rvsng_dwn_fy1_rvn_14,number of analysts revising down FYEAR1 revenue: 14 days
+277,mdl26_nnlyst_rvsng_dwn_fy1_rvn_30,number of analysts revising down FYEAR1 revenue: 30 days
+278,mdl26_nnlyst_rvsng_dwn_fy1_rvn_7,number of analysts revising down FYEAR1 revenue: 7 days
+279,mdl26_nnlyst_rvsng_dwn_fy2_rnngs_30,number of analysts revising down FYEAR2 earnings: 30 days
+280,mdl26_nnlyst_rvsng_p_fq1_btd_14,number of analysts revising up FQTR1 EBITDA: 14 days
+281,mdl26_nnlyst_rvsng_p_fq1_btd_30,number of analysts revising up FQTR1 EBITDA: 30 days
+282,mdl26_nnlyst_rvsng_p_fq1_btd_7,number of analysts revising up FQTR1 EBITDA: 7 days
+283,mdl26_nnlyst_rvsng_p_fq1_rnngs_14,number of analysts revising up FQTR1 earnings: 14 days
+284,mdl26_nnlyst_rvsng_p_fq1_rnngs_30,number of analysts revising up FQTR1 earnings: 30 days
+285,mdl26_nnlyst_rvsng_p_fq1_rnngs_7,number of analysts revising up FQTR1 earnings: 7 days
+286,mdl26_nnlyst_rvsng_p_fq1_rvn_14,number of analysts revising up FQTR1 revenue: 14 days
+287,mdl26_nnlyst_rvsng_p_fq1_rvn_30,number of analysts revising up FQTR1 revenue: 30 days
+288,mdl26_nnlyst_rvsng_p_fq1_rvn_7,number of analysts revising up FQTR1 revenue: 7 days
+289,mdl26_nnlyst_rvsng_p_fq2_btd_14,number of analysts revising up FQTR2 EBITDA: 14 days
+290,mdl26_nnlyst_rvsng_p_fq2_btd_30,number of analysts revising up FQTR2 EBITDA: 30 days
+291,mdl26_nnlyst_rvsng_p_fq2_btd_7,number of analysts revising up FQTR2 EBITDA: 7 days
+292,mdl26_nnlyst_rvsng_p_fq2_rnngs_14,number of analysts revising up FQTR2 earnings: 14 days
+293,mdl26_nnlyst_rvsng_p_fq2_rnngs_7,number of analysts revising up FQTR2 earnings: 7 days
+294,mdl26_nnlyst_rvsng_p_fq2_rvn_14,number of analysts revising up FQTR2 revenue: 14 days
+295,mdl26_nnlyst_rvsng_p_fq2_rvn_30,number of analysts revising up FQTR2 revenue: 30 days
+296,mdl26_nnlyst_rvsng_p_fq2_rvn_7,number of analysts revising up FQTR2 revenue: 7 days
+297,mdl26_nnlyst_rvsng_p_fq3_rnngs_30,number of analysts revising up FQTR3 earnings: 30 days
+298,mdl26_nnlyst_rvsng_p_fq4_rnngs_30,number of analysts revising up FQTR4 earnings: 30 days
+299,mdl26_nnlyst_rvsng_p_fy1_btd_14,number of analysts revising up FYEAR1 EBITDA: 14 days
+300,mdl26_nnlyst_rvsng_p_fy1_btd_30,number of analysts revising up FYEAR1 EBITDA: 30 days
+301,mdl26_nnlyst_rvsng_p_fy1_btd_7,number of analysts revising up FYEAR1 EBITDA: 7 days
+302,mdl26_nnlyst_rvsng_p_fy1_rnngs_14,number of analysts revising up FYEAR1 earnings: 14 days
+303,mdl26_nnlyst_rvsng_p_fy1_rnngs_7,number of analysts revising up FYEAR1 earnings: 7 days
+304,mdl26_nnlyst_rvsng_p_fy1_rvn_14,number of analysts revising up FYEAR1 revenue: 14 days
+305,mdl26_nnlyst_rvsng_p_fy1_rvn_30,number of analysts revising up FYEAR1 revenue: 30 days
+306,mdl26_nnlyst_rvsng_p_fy1_rvn_7,number of analysts revising up FYEAR1 revenue: 7 days
+307,mdl26_nnlyst_rvsng_p_fy2_btd_14,number of analysts revising up FYEAR2 EBITDA: 14 days
+308,mdl26_nnlyst_rvsng_p_fy2_btd_30,number of analysts revising up FYEAR2 EBITDA: 30 days
+309,mdl26_nnlyst_rvsng_p_fy2_btd_7,number of analysts revising up FYEAR2 EBITDA: 7 days
+310,mdl26_nnlyst_rvsng_p_fy2_rnngs_14,number of analysts revising up FYEAR2 earnings: 14 days
+311,mdl26_nnlyst_rvsng_p_fy2_rnngs_7,number of analysts revising up FYEAR2 earnings: 7 days
+312,mdl26_nnlyst_rvsng_p_fy2_rvn_14,number of analysts revising up FYEAR2 revenue: 14 days
+313,mdl26_nnlyst_rvsng_p_fy2_rvn_30,number of analysts revising up FYEAR2 revenue: 30 days
+314,mdl26_nnlyst_rvsng_p_fy2_rvn_7,number of analysts revising up FYEAR2 revenue: 7 days
+315,mdl26_num_downgrades_14,number of downgrades in 14 days
+316,mdl26_num_downgrades_60,number of downgrades in 60 days
+317,mdl26_num_downgrades_7,number of downgrades in 7 days
+318,mdl26_num_downgrades_90,number of downgrades in 90 days
+319,mdl26_num_upgrades_14,number of upgrades in 14 days
+320,mdl26_num_upgrades_60,number of upgrades in 60 days
+321,mdl26_num_upgrades_7,number of upgrades in 7 days
+322,mdl26_num_upgrades_90,number of upgrades in 90 days
+323,mdl26_p_yld_pct_stm_f12m,(Earnings/Price ratio)yield percentage smartestimate F-12MonthsRolling
+324,mdl26_p_yld_pct_stm_fy1,(Earnings/Price ratio)yield percentage smartestimate FYEAR1
+325,mdl26_p_yld_pct_stm_fy2,(Earnings/Price ratio)yield percentage smartestimate FYEAR2
+326,mdl26_peg_mean_fy1,(Price/Earnings-to-growth) mean FYEAR1
+327,mdl26_peg_smartestimate_fy1,(Price/Earnings-to-growth) smartestimate FYEAR1
+328,mdl26_preferred,preferred
+329,mdl26_price_change_30,price change in days:  30
+330,mdl26_prsprise_f12m_earnings,predicted surprise (actual value - predicted value) F-12MonthsRolling earnings
+331,mdl26_prsprise_f12m_ebitda,predicted surprise (actual value - predicted value) F-12MonthsRolling EBITDA
+332,mdl26_prsprise_f12m_revenue,predicted surprise (actual value - predicted value) F-12MonthsRolling revenue
+333,mdl26_prsprise_flag_fq1_earnings,predicted surprise (actual value - predicted value) flag FQTR1 earnings
+334,mdl26_prsprise_flag_fq2_earnings,predicted surprise (actual value - predicted value) flag FQTR2 earnings
+335,mdl26_prsprise_flag_fq3_earnings,predicted surprise (actual value - predicted value) flag FQTR3 earnings
+336,mdl26_prsprise_flag_fq4_earnings,predicted surprise (actual value - predicted value) flag FQTR4 earnings
+337,mdl26_prsprise_flag_fy1_earnings,predicted surprise (actual value - predicted value) flag FYEAR1 earnings
+338,mdl26_prsprise_flag_fy2_earnings,predicted surprise (actual value - predicted value) flag FYEAR2 earnings
+339,mdl26_prsprise_fq1_earnings,predicted surprise (actual value - predicted value) FQTR1 earnings
+340,mdl26_prsprise_fq1_ebitda,predicted surprise (actual value - predicted value) FQTR1 EBITDA
+341,mdl26_prsprise_fq1_revenue,predicted surprise (actual value - predicted value) FQTR1 revenue
+342,mdl26_prsprise_fq2_ebitda,predicted surprise (actual value - predicted value) FQTR2 EBITDA
+343,mdl26_prsprise_fq2_revenue,predicted surprise (actual value - predicted value) FQTR2 revenue
+344,mdl26_prsprise_fq3_earnings,predicted surprise (actual value - predicted value) FQTR3 earnings
+345,mdl26_prsprise_fq4_earnings,predicted surprise (actual value - predicted value) FQTR4 earnings
+346,mdl26_prsprise_fy1_ebitda,predicted surprise (actual value - predicted value) FYEAR1 EBITDA
+347,mdl26_prsprise_fy1_revenue,predicted surprise (actual value - predicted value) FYEAR1 revenue
+348,mdl26_prsprise_fy2_ebitda,predicted surprise (actual value - predicted value) FYEAR2 EBITDA
+349,mdl26_prsprise_fy2_revenue,predicted surprise (actual value - predicted value) FYEAR2 revenue
+350,mdl26_prsprise_pct_f12m_earnings,predicted surprise (actual value - predicted value) percentage F-12MonthsRolling earnings
+351,mdl26_prsprise_pct_f12m_ebitda,predicted surprise (actual value - predicted value) percentage F-12MonthsRolling EBITDA
+352,mdl26_prsprise_pct_f12m_revenue,predicted surprise (actual value - predicted value) percentage F-12MonthsRolling revenue
+353,mdl26_prsprise_pct_fq1_earnings,predicted surprise (actual value - predicted value) percentage FQTR1 earnings
+354,mdl26_prsprise_pct_fq1_ebitda,predicted surprise (actual value - predicted value) percentage FQTR1 EBITDA
+355,mdl26_prsprise_pct_fq1_revenue,predicted surprise (actual value - predicted value) percentage FQTR1 revenue
+356,mdl26_prsprise_pct_fq2_earnings,predicted surprise (actual value - predicted value) percentage FQTR2 earnings
+357,mdl26_prsprise_pct_fq2_ebitda,predicted surprise (actual value - predicted value) percentage FQTR2 EBITDA
+358,mdl26_prsprise_pct_fq2_revenue,predicted surprise (actual value - predicted value) percentage FQTR2 revenue
+359,mdl26_prsprise_pct_fy1_earnings,predicted surprise (actual value - predicted value) percentage FYEAR1 earnings
+360,mdl26_prsprise_pct_fy1_ebitda,predicted surprise (actual value - predicted value) percentage FYEAR1 EBITDA
+361,mdl26_prsprise_pct_fy1_revenue,predicted surprise (actual value - predicted value) percentage FYEAR1 revenue
+362,mdl26_prsprise_pct_fy2_earnings,predicted surprise (actual value - predicted value) percentage FYEAR2 earnings
+363,mdl26_prsprise_pct_fy2_ebitda,predicted surprise (actual value - predicted value) percentage FYEAR2 EBITDA
+364,mdl26_prsprise_pct_fy2_revenue,predicted surprise (actual value - predicted value) percentage FYEAR2 revenue
+365,mdl26_prsprise_per_fq1_earnings,predicted surprise (actual value - predicted value) per FQTR1 earnings
+366,mdl26_prsprs_fq2_rnngs_rt,predicted surprise (actual value - predicted value) FQTR2 earnings ratio
+367,mdl26_prsprs_fq3_rnngs_rt,predicted surprise (actual value - predicted value) FQTR3 earnings ratio
+368,mdl26_prsprs_fq4_rnngs_rt,predicted surprise (actual value - predicted value) FQTR4 earnings ratio
+369,mdl26_prsprs_fy1_rnngs_rt,predicted surprise (actual value - predicted value) FYEAR1 earnings ratio
+370,mdl26_prsprs_fy2_rnngs_rt,predicted surprise (actual value - predicted value) FYEAR2 earnings ratio
+371,mdl26_rank,rank (i.e. relative score)
+372,mdl26_rcmmndtn_mn_chng_14,recommendation mean change for days: 14
+373,mdl26_rcmmndtn_mn_chng_60,recommendation mean change for days: 60
+374,mdl26_rcmmndtn_mn_chng_7,recommendation mean change for days: 7
+375,mdl26_rcmmndtn_mn_chng_90,recommendation mean change for days: 90
+376,mdl26_recommendations,recommendations
+377,mdl26_revenue,revenue
+378,mdl26_revisions,revisions
+379,mdl26_rm02fqn_prsprs_fq2_rnngs,predicted surprise (actual value - predicted value) FQTR2 earnings
+380,mdl26_rm02fqn_stm_fq2_rnngs,smartestimate FQTR2 earnings
+381,mdl26_rm02fy_prsprs_fy1_rnngs,predicted surprise (actual value - predicted value) FYEAR1 earnings
+382,mdl26_rm02fy_prsprs_fy2_rnngs,predicted surprise (actual value - predicted value) FYEAR2 earnings
+383,mdl26_rm02fy_stm_fy1_rnngs,smartestimate FYEAR1 earnings
+384,mdl26_rm02fy_stm_fy2_rnngs,smartestimate FYEAR2 earnings
+385,mdl26_rm03_nly_rvs_d_fq2_rnd_30,number of analysts revising down FQTR2 earnings: 30 days
+386,mdl26_rm03_nly_rvs_d_fy1_rnd_30,number of analysts revising down FYEAR1 earnings: 30 days
+387,mdl26_rm03_nly_rvs_p_fq2_rnd_30,number of analysts revising up FQTR2 earnings: 30 days
+388,mdl26_rm03fy_nnlyst_rvsng_p_fy1_rnngs_30,number of analysts revising up FYEAR1 earnings: 30 days
+389,mdl26_rm03fy_nnlyst_rvsng_p_fy2_rnngs_30,number of analysts revising up FYEAR2 earnings: 30 days
+390,mdl26_rvsnclstr_flg_fq1_rnngs,revisioncluster(cluster of similar companies that are generally revised together) flag FQTR1 earnings
+391,mdl26_rvsnclstr_flg_fq2_rnngs,revisioncluster(cluster of similar companies that are generally revised together) flag FQTR2 earnings
+392,mdl26_rvsnclstr_flg_fq3_rnngs,revisioncluster(cluster of similar companies that are generally revised together) flag FQTR3 earnings
+393,mdl26_rvsnclstr_flg_fq4_rnngs,revisioncluster(cluster of similar companies that are generally revised together) flag FQTR4 earnings
+394,mdl26_rvsnclstr_flg_fy1_rnngs,revisioncluster(cluster of similar companies that are generally revised together) flag FYEAR1 earnings
+395,mdl26_rvsnclstr_flg_fy2_rnngs,revisioncluster(cluster of similar companies that are generally revised together) flag FYEAR2 earnings
+396,mdl26_rvsnclstr_vg_rvsn_fq1_rnngs,revisioncluster(cluster of similar companies that are generally revised together) avg revision FQTR1 earnings
+397,mdl26_rvsnclstr_vg_rvsn_fq2_rnngs,revisioncluster(cluster of similar companies that are generally revised together) avg revision FQTR2 earnings
+398,mdl26_rvsnclstr_vg_rvsn_fq2_rnngs_rt,revisioncluster(cluster of similar companies that are generally revised together) avg revision FQTR2 earnings ratio
+399,mdl26_rvsnclstr_vg_rvsn_fq3_rnngs,revisioncluster(cluster of similar companies that are generally revised together) avg revision FQTR3 earnings
+400,mdl26_rvsnclstr_vg_rvsn_fq3_rnngs_rt,revisioncluster(cluster of similar companies that are generally revised together) avg revision FQTR3 earnings ratio
+401,mdl26_rvsnclstr_vg_rvsn_fq4_rnngs,revisioncluster(cluster of similar companies that are generally revised together) avg revision FQTR4 earnings
+402,mdl26_rvsnclstr_vg_rvsn_fq4_rnngs_rt,revisioncluster(cluster of similar companies that are generally revised together) avg revision FQTR4 earnings ratio
+403,mdl26_rvsnclstr_vg_rvsn_fy1_rnngs,revisioncluster(cluster of similar companies that are generally revised together) avg revision FYEAR1 earnings
+404,mdl26_rvsnclstr_vg_rvsn_fy1_rnngs_rt,revisioncluster(cluster of similar companies that are generally revised together) avg revision FYEAR1 earnings ratio
+405,mdl26_rvsnclstr_vg_rvsn_fy2_rnngs,revisioncluster(cluster of similar companies that are generally revised together) avg revision FYEAR2 earnings
+406,mdl26_rvsnclstr_vg_rvsn_fy2_rnngs_rt,revisioncluster(cluster of similar companies that are generally revised together) avg revision FYEAR2 earnings ratio
+407,mdl26_rvsnclstr_vg_rvsn_pr_fq1_rnngs,revisioncluster(cluster of similar companies that are generally revised together) avg revision per FQTR1 earnings
+408,mdl26_score,score
+409,mdl26_secondary,secondary
+410,mdl26_sm_frwrd_p_stm_fy1,Model forward (Price/Earnings ratio) smartestimate FYEAR1
+411,mdl26_sm_mn_stmt_prc_rt_fy1_rnngs,Model mean estimate (Price/Earnings ratio) FYEAR1
+412,mdl26_sm_nlyst_rvsns_scr,Model analyst revisions score
+413,mdl26_sm_nnlyst_rvsng_dwn_fq1_rnngs_30,Model number of analysts revising down FQTR1 earnings: 30 days
+414,mdl26_sm_nnlyst_rvsng_dwn_fq2_rnngs_30,Model number of analysts revising down FQTR2 earnings: 30 days
+415,mdl26_sm_nnlyst_rvsng_dwn_fy1_rnngs_30,Model number of analysts revising down FYEAR1 earnings: 30 days
+416,mdl26_sm_nnlyst_rvsng_p_fq1_rnngs_30,Model number of analysts revising up FQTR1 earnings: 30 days
+417,mdl26_sm_nnlyst_rvsng_p_fq2_rnngs_30,Model number of analysts revising up FQTR2 earnings: 30 days
+418,mdl26_sm_nnlyst_rvsng_p_fy1_rnngs_30,Model number of analysts revising up FYEAR1 earnings: 30 days
+419,mdl26_sm_nnlyst_rvsng_p_fy2_rnngs_30,Model number of analysts revising up FYEAR2 earnings: 30 days
+420,mdl26_sm_rcmmndtn_mn_chng_30,Model recommendation mean change for days: 30
+421,mdl26_sm_rm_prfrrd_rnngs_cmpnnt,Model preferred earnings component i.e. portion of final score
+422,mdl26_sm_rm_rcmmndtns_cmpnnt,Model recommendations component i.e. portion of final score
+423,mdl26_sm_rm_rgn_rnk_dcml,Model region rank (i.e. relative score) decimal
+424,mdl26_sm_rm_scndry_rnngs_cmpnnt,Model secondary earnings component i.e. portion of final score
+425,mdl26_sm_smrtst_grwth_nxt_yrths_yr_rnngs,Model smartestimate earnings growth (next yr/this yr)
+426,mdl26_sm_smrtst_grwth_ths_yrlst_yr_rnngs,Model smartestimate earnings growth (this yr/last yr)
+427,mdl26_sm_stm_fq1_rnngs,Model smartestimate FQTR1 earnings
+428,mdl26_sm_stm_fq2_rnngs,Model smartestimate FQTR2 earnings
+429,mdl26_sm_stm_fy1_rnngs,Model smartestimate FYEAR1 earnings
+430,mdl26_sm_stm_fy2_rnngs,Model smartestimate FYEAR2 earnings
+431,mdl26_sm_stm_prc_rt_fy1_rnngs,Model smartestimate (Price/Earnings ratio) FYEAR1
+432,mdl26_sma_actual_last_q_earnings,Model actual last QTR earnings
+433,mdl26_sma_actual_last_y_earnings,Model actual last YEAR earnings
+434,mdl26_sma_arm_country_rank,Model country rank (i.e. relative score)
+435,mdl26_sma_arm_global_rank,Model global rank (i.e. relative score)
+436,mdl26_sma_arm_revenue_component,Model revenue component i.e. portion of final score
+437,mdl26_sma_arm_score_5,Model score avg for days: 5
+438,mdl26_sma_arm_score_change_30,Model score change for days: 30
+439,mdl26_sma_days_since_last_report,Model days since last report
+440,mdl26_sma_forward_pe_mean_fy1,Model forward (Price/Earnings ratio) mean FYEAR1
+441,mdl26_sma_last_fiscal_year_pe,Model last fiscal year (Price/Earnings ratio)
+442,mdl26_sma_num_downgrades_30,Model number of downgrades in 30 days
+443,mdl26_sma_num_upgrades_30,Model number of upgrades in 30 days
+444,mdl26_sma_prsprise_fq1_earnings,Model predicted surprise (actual value - predicted value) FQTR1 earnings
+445,mdl26_sma_prsprise_fq2_earnings,Model predicted surprise (actual value - predicted value) FQTR2 earnings
+446,mdl26_sma_prsprise_fy1_earnings,Model predicted surprise (actual value - predicted value) FYEAR1 earnings
+447,mdl26_sma_prsprise_fy2_earnings,Model predicted surprise (actual value - predicted value) FYEAR2 earnings
+448,mdl26_sma_trailing_4_quarter_pe,Model trailing 4 quarter (Price/Earnings ratio)
+449,mdl26_smartestimate_f12m_ebitda,smartestimate F-12MonthsRolling EBITDA
+450,mdl26_smartestimate_f12m_revenue,smartestimate F-12MonthsRolling revenue
+451,mdl26_smartestimate_fq1_earnings,smartestimate FQTR1 earnings
+452,mdl26_smartestimate_fq1_ebitda,smartestimate FQTR1 EBITDA
+453,mdl26_smartestimate_fq1_revenue,smartestimate FQTR1 revenue
+454,mdl26_smartestimate_fq2_ebitda,smartestimate FQTR2 EBITDA
+455,mdl26_smartestimate_fq2_revenue,smartestimate FQTR2 revenue
+456,mdl26_smartestimate_fq3_earnings,smartestimate FQTR3 earnings
+457,mdl26_smartestimate_fq4_earnings,smartestimate FQTR4 earnings
+458,mdl26_smartestimate_fy1_ebitda,smartestimate FYEAR1 EBITDA
+459,mdl26_smartestimate_fy1_revenue,smartestimate FYEAR1 revenue
+460,mdl26_smartestimate_fy2_ebitda,smartestimate FYEAR2 EBITDA
+461,mdl26_smartestimate_fy2_revenue,smartestimate FYEAR2 revenue
+462,mdl26_smrtst_grwth_f12mt12m_rnngs,smartestimate growth F-12MonthsRolling earnings
+463,mdl26_smrtst_grwth_f24mf12m_rnngs,smartestimate growth F-24MonthsRolling earnings
+464,mdl26_smrtst_grwth_nxt_yrths_yr_btd,smartestimate growth next yrthis yr EBITDA
+465,mdl26_smrtst_grwth_nxt_yrths_yr_rnngs,smartestimate earnings growth (next yr/this yr)
+466,mdl26_smrtst_grwth_nxt_yrths_yr_rvn,smartestimate growth next yrthis yr revenue
+467,mdl26_smrtst_grwth_ths_yrlst_yr_btd,smartestimate growth this yrlast yr EBITDA
+468,mdl26_smrtst_grwth_ths_yrlst_yr_rnngs,smartestimate earnings growth (this yr/last yr)
+469,mdl26_smrtst_grwth_ths_yrlst_yr_rvn,smartestimate growth this yrlast yr revenue
+470,mdl26_smrtst_pg_ndstry_prcntl_f12m,smartestimate (Price/Earnings-to-growth) industry percentile F-12MonthsRolling
+471,mdl26_smrtst_pg_sctr_prcntl_f12m,smartestimate (Price/Earnings-to-growth) sector percentile F-12MonthsRolling
+472,mdl26_srprs_pct_lst_q_rnngs,surprise (actual value - predicted value) percentage last QTR earnings
+473,mdl26_srprs_pct_lst_q_rvn,surprise (actual value - predicted value) percentage last QTR revenue
+474,mdl26_srprs_pct_lst_y_rnngs,surprise (actual value - predicted value) percentage last YEAR earnings
+475,mdl26_srprs_pct_lst_y_rvn,surprise (actual value - predicted value) percentage last YEAR revenue
+476,mdl26_stdv_rvsnclstr_nlysts_fq1_rnngs,Std. Deviation of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR1 earnings
+477,mdl26_stdv_rvsnclstr_nlysts_fq2_rnngs,Std. Deviation  of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR2 earnings
+478,mdl26_stdv_rvsnclstr_nlysts_fq3_rnngs,Std. Deviation  of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR3 earnings
+479,mdl26_stdv_rvsnclstr_nlysts_fq4_rnngs,Std. Deviation  of revisioncluster(cluster of similar companies that are generally revised together) analysts FQTR4 earnings
+480,mdl26_stdv_rvsnclstr_nlysts_fy1_rnngs,Std. Deviation  of revisioncluster(cluster of similar companies that are generally revised together) analysts FYEAR1 earnings
+481,mdl26_stdv_rvsnclstr_nlysts_fy2_rnngs,Std. Deviation  of revisioncluster(cluster of similar companies that are generally revised together) analysts FYEAR2 earnings
+482,mdl26_stdv_stm_nlysts_fq1_rnngs,Std. Deviation  of smartestimate analysts FQTR1 earnings
+483,mdl26_stdv_stm_nlysts_fq2_rnngs,Std. Deviation  of smartestimate analysts FQTR2 earnings
+484,mdl26_stdv_stm_nlysts_fq3_rnngs,Std. Deviation  of smartestimate analysts FQTR3 earnings
+485,mdl26_stdv_stm_nlysts_fq4_rnngs,Std. Deviation  of smartestimate analysts FQTR4 earnings
+486,mdl26_stdv_stm_nlysts_fy1_rnngs,Std. Deviation  of smartestimate analysts FYEAR1 earnings
+487,mdl26_stdv_stm_nlysts_fy2_rnngs,Std. Deviation  of smartestimate analysts FYEAR2 earnings
+488,mdl26_stm_chng_fq1_rnngs_30,smartestimate FQTR1 earnings change over days: 30
+489,mdl26_stm_chng_fq2_rnngs_30,smartestimate FQTR2 earnings change over days: 30
+490,mdl26_stm_chng_fq3_rnngs_30,smartestimate FQTR3 earnings change over days: 30
+491,mdl26_stm_chng_fq4_rnngs_30,smartestimate FQTR4 earnings change over days: 30
+492,mdl26_stm_chng_fy1_rnngs_30,smartestimate FYEAR1 earnings change over days: 30
+493,mdl26_stm_chng_fy2_rnngs_30,smartestimate FYEAR2 earnings change over days: 30
+494,mdl26_stm_f12m_rnngs,smartestimate F-12MonthsRolling earnings
+495,mdl26_stm_prc_rt_f12m_btd,smartestimate (Price/EBITDA ratio) F-12MonthsRolling
+496,mdl26_stm_prc_rt_f12m_rnngs,smartestimate (Price/Earnings ratio) F-12MonthsRolling
+497,mdl26_stm_prc_rt_f12m_rvn,smartestimate (Price/revenue ratio) F-12MonthsRolling
+498,mdl26_stm_prc_rt_fy1_btd,smartestimate (Price/EBITDA ratio) FYEAR1
+499,mdl26_stm_prc_rt_fy1_rnngs,smartestimate (Price/Earnings ratio) FYEAR1
+500,mdl26_stm_prc_rt_fy1_rvn,smartestimate (Price/revenue ratio) FYEAR1
+501,mdl26_stm_prc_rt_fy2_btd,smartestimate (Price/EBITDA ratio) FYEAR2
+502,mdl26_stm_prc_rt_fy2_rnngs,smartestimate (Price/Earnings ratio) FYEAR2
+503,mdl26_stm_prc_rt_fy2_rvn,smartestimate (Price/revenue ratio) FYEAR2
+504,mdl26_stm_prr_fq1_rnngs_7,smartestimate prior FQTR1 earnings: 7 days
+505,mdl26_stm_prr_fq2_rnngs_7,smartestimate prior FQTR2 earnings: 7 days
+506,mdl26_stm_prr_fq3_rnngs_7,smartestimate prior FQTR3 earnings: 7 days
+507,mdl26_stm_prr_fq4_rnngs_7,smartestimate prior FQTR4 earnings: 7 days
+508,mdl26_stm_prr_fy1_rnngs_7,smartestimate prior FYEAR1 earnings: 7 days
+509,mdl26_stm_prr_fy2_rnngs_7,smartestimate prior FYEAR2 earnings: 7 days
+510,mdl26_stmt_dffsn_fq1_rnngs_30,estimate diffusion FQTR1 earnings: 30 days
+511,mdl26_stmt_dffsn_fq2_rnngs_30,estimate diffusion FQTR2 earnings: 30 days
+512,mdl26_stmt_dffsn_fq3_rnngs_30,estimate diffusion FQTR3 earnings: 30 days
+513,mdl26_stmt_dffsn_fq4_rnngs_30,estimate diffusion FQTR4 earnings: 30 days
+514,mdl26_stmt_dffsn_fy1_rnngs_30,estimate diffusion FYEAR1 earnings: 30 days
+515,mdl26_stmt_dffsn_fy2_rnngs_30,estimate diffusion FYEAR2 earnings: 30 days
+516,mdl26_surprise_last_q_earnings,surprise (actual value - predicted value) last QTR earnings
+517,mdl26_surprise_last_y_earnings,surprise (actual value - predicted value) last YEAR earnings
+518,mdl26_surprise_pct_last_q_ebitda,surprise (actual value - predicted value) percentage last QTR EBITDA
+519,mdl26_surprise_pct_last_y_ebitda,surprise (actual value - predicted value) percentage last YEAR EBITDA
+520,mdl26_traded_volume,traded volume (in 1000s)
+521,mdl26_traded_volume_l,traded volume (in 1000s)-Local Currency
+522,mdl26_traded_volume_u,traded volume (in 1000s)-USD
+523,mdl26_trailing_4_quarter_pe,trailing 4 quarter (Price/Earnings ratio)
+524,mdl26_yld_ndstry_prcntl_fy1_rnngs,yield industry percentile FYEAR1 earnings
+525,mdl26_yld_sctr_prcntl_fy1_rnngs,yield sector percentile FYEAR1 earnings
+526,mdl26_yld_stm_fy1_rnngs,yield smartestimate FYEAR1 earnings
+527,star_arm_country_rank,country rank (i.e. relative score)
+528,star_arm_global_rank,global rank (i.e. relative score)
+529,star_arm_pref_earnings_score,preferred earnings component i.e. portion of final score
+530,star_arm_rec_change_flag,7day recommendation mean chg flag
+531,star_arm_rec_days_since_2lv_change,days since 2level recommdation rating change
+532,star_arm_rec_days_since_new,days since new recommendation
+533,star_arm_rec_days_since_newsell,days since new sell recommendation
+534,star_arm_rec_mean_change30,recommendation mean change for days: 30
+535,star_arm_rec_mean_prior7,recommendation mean prior 7
+536,star_arm_rec_ndown_30,number of downgrades in 30 days
+537,star_arm_rec_nup_30,number of upgrades in 30 days
+538,star_arm_recommendations_score,recommendations component i.e. portion of final score
+539,star_arm_region_rank_decimal,region rank (i.e. relative score) decimal
+540,star_arm_revenue_score,revenue component i.e. portion of final score
+541,star_arm_score,analyst revisions score
+542,star_arm_score_5,score for avg of days: 5
+543,star_arm_score_change_1m,score change for days: 30
+544,star_arm_secondary_earnings_score,secondary earnings component i.e. portion of final score

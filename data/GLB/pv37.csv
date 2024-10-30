@@ -1,0 +1,81 @@
+,id,description
+0,pv37_cap_13,Market cap
+1,pv37_cap_14,14-Day Market Capitalization
+2,pv37_cap_15,Market cap
+3,pv37_cap_global,Global Market Capitalization
+4,pv37_cap_global1h,Global Market Capitalization 1H
+5,pv37_cap_global2,Global Market Capitalization 2
+6,pv37_cap_global2h,Global Market Capitalization 2H
+7,pv37_cap_global30m,Global Market Capitalization 30M
+8,pv37_cap_global3h,Global Market Capitalization 3H
+9,pv37_cap_global4h,Global Market Capitalization 4H
+10,pv37_close_13,Close price
+11,pv37_close_14,14-Day Closing Price
+12,pv37_close_15,Close price
+13,pv37_close_global,Global Closing Price
+14,pv37_close_global1h,Global Closing Price 1H
+15,pv37_close_global2,Global Closing Price 2
+16,pv37_close_global2h,Global Closing Price 2H
+17,pv37_close_global30m,Global Closing Price 30M
+18,pv37_close_global3h,Global Closing Price 3H
+19,pv37_close_global4h,Global Closing Price 4H
+20,pv37_high_13,High price
+21,pv37_high_14,14-Day Highest Price
+22,pv37_high_15,High price
+23,pv37_high_global,Global Highest Price
+24,pv37_high_global1h,Global Highest Price 1H
+25,pv37_high_global2,Global Highest Price 2
+26,pv37_high_global2h,Global Highest Price 2H
+27,pv37_high_global30m,Global Highest Price 30M
+28,pv37_high_global3h,Global Highest Price 3H
+29,pv37_high_global4h,Global Highest Price 4H
+30,pv37_inth_mean,Intraday High Mean
+31,pv37_intl_mean,Intraday Low Mean
+32,pv37_intv_mean,Intraday Volume Mean
+33,pv37_ivwp_mean,Intraday VWAP Mean
+34,pv37_low_13,Low price
+35,pv37_low_14,14-Day Lowest Price
+36,pv37_low_15,Low price
+37,pv37_low_global,Global Lowest Price
+38,pv37_low_global1h,Global Lowest Price 1H
+39,pv37_low_global2,Global Lowest Price 2
+40,pv37_low_global2h,Global Lowest Price 2H
+41,pv37_low_global30m,Global Lowest Price 30M
+42,pv37_low_global3h,Global Lowest Price 3H
+43,pv37_low_global4h,Global Lowest Price 4H
+44,pv37_lstp_mean,Last Trade Price Mean
+45,pv37_open_13,Open price
+46,pv37_open_14,14-Day Opening Price
+47,pv37_open_15,Open price
+48,pv37_open_global,Global Opening Price
+49,pv37_open_global1h,Global Opening Price 1H
+50,pv37_open_global2,Global Opening Price 2
+51,pv37_open_global2h,Global Opening Price 2H
+52,pv37_open_global30m,Global Opening Price 30M
+53,pv37_open_global3h,Global Opening Price 3H
+54,pv37_open_global4h,Global Opening Price 4H
+55,pv37_quote_size_mean,Quote Size Mean
+56,pv37_taks_mean,Ask Side Mean
+57,pv37_task_mean,Bid Side Mean
+58,pv37_tbds_mean,Bid Depth Mean
+59,pv37_tbid_mean,Bid Mean
+60,pv37_volume_13,Trading volume
+61,pv37_volume_14,14-Day Trading Volume
+62,pv37_volume_15,Trading volume
+63,pv37_volume_global,Global Trading Volume
+64,pv37_volume_global1h,Global Trading Volume 1H
+65,pv37_volume_global2,Global Trading Volume 2
+66,pv37_volume_global2h,Global Trading Volume 2H
+67,pv37_volume_global30m,Global Trading Volume 30M
+68,pv37_volume_global3h,Global Trading Volume 3H
+69,pv37_volume_global4h,Global Trading Volume 4H
+70,pv37_vwap_13,VWAP
+71,pv37_vwap_14,14-Day VWAP
+72,pv37_vwap_15,VWAP
+73,pv37_vwap_global,Global VWAP
+74,pv37_vwap_global1h,Global VWAP 1H
+75,pv37_vwap_global2,Global VWAP 2
+76,pv37_vwap_global2h,Global VWAP 2H
+77,pv37_vwap_global30m,Global VWAP 30M
+78,pv37_vwap_global3h,Global VWAP 3H
+79,pv37_vwap_global4h,Global VWAP 4H

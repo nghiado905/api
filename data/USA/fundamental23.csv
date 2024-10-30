@@ -1,0 +1,876 @@
+,id,description
+0,fnd23_1spsd,Special DPS - Common Stock Primary Issue
+1,fnd23_54dls,Standardized Long Term Debt Maturing in Years 4 and 5
+2,fnd23_acc_payable,accounts payable
+3,fnd23_acra,Restricted Cash - Current not available for use immediately and due within a year
+4,fnd23_amae,Amortization of capitalized acquisition costs or goodwill
+5,fnd23_annfv1a_1dls,Long Term Debt Maturing within 1Year
+6,fnd23_annfv1a_1los,Operating Lease Payments Due in Year 1
+7,fnd23_annfv1a_1nstq,Treasury Shares - Common Stock Primary Issue
+8,fnd23_annfv1a_1oscq,"represents the number of common shares outstanding in a company. When a company has two or more different types of common shares outstanding, Shares Outstanding - Common Stock Primary Issue represents the primary issue, which is most actively traded in the market."
+9,fnd23_annfv1a_1spdd,common dividends per share for common stock primary issues.
+10,fnd23_annfv1a_2dls,Standardized Long Term Debt Maturing in Year 2
+11,fnd23_annfv1a_2los,Operating Lease Payments Due in Year 2
+12,fnd23_annfv1a_32dls,Standardized Long Term Debt Maturing in Years 2 and 3 represents the summation of Standardized Long Term Debt Maturing in Year 2 and Standardized Long Term Debt Maturing in Year 3.
+13,fnd23_annfv1a_32los,Standardized Operating Lease Payments Due in Years 2 and 3 represents the summation of Standardized Operating Lease Payments Due in Year 2 and Standardized Operating Lease Payments Due in Year 3.
+14,fnd23_annfv1a_3los,Standardized Operating Lease Payments Due in Year 3.
+15,fnd23_annfv1a_4los,Standardized Operating Lease Payments Due in Year 4.
+16,fnd23_annfv1a_54los,Standardized Operating Lease Payments Due in Years 4 and 5 represents the summation of Standardized Operating Lease Payments Due in Year 4 and Standardized Operating Lease Payments Due in Year 5.
+17,fnd23_annfv1a_5los,Standardized Operating Lease Payments Due in Year 5.
+18,fnd23_annfv1a_abpo,"represents changes in accounts payable and accrued expenses during the period when a company does not delineate the two components. An increase in accounts payable and accrued expenses has a positive impact on cash flow from operating activities, and vice versa."
+19,fnd23_annfv1a_acoa,other current assets.
+20,fnd23_annfv1a_acos,"Other Current Assets, Total."
+21,fnd23_annfv1a_acta,"total current assets. Sum of cash and short term investments, total receivables (net), total inventory, prepaid expenses, other current assets."
+22,fnd23_annfv1a_adbs,"Normalized Earnings before Interest, Taxes, Depreciation and Amortization"
+23,fnd23_annfv1a_adpa,represents provisions established for doubtful accounts receivable. Provision for doubtful accounts is usually established on the basis of maturities of receivables and the company's experience on collecting such receivables.
+24,fnd23_annfv1a_afsi,Sale of assets to be leased out under operating lease contracts.
+25,fnd23_annfv1a_agse,Selling/General/Administrative Expense.
+26,fnd23_annfv1a_agss,"Selling/General/Administrative Expenses, Total."
+27,fnd23_annfv1a_aiav,Accumulated Intangible Amortization represents accumulated amortization against intangible fixedassets.
+28,fnd23_annfv1a_aieo,"represents a reversal of non-cash earnings/losses from investments under the Equity Method. For such investments, undistributed earnings/losses of the investee are included in the net income computation of the investor. Since the earnings are non-cash, these are reversed out of cash flow from operations."
+29,fnd23_annfv1a_aiev,"Equity in Affiliates, Supplemental represents the total share of earnings/losses, net of taxes, that thecompany is entitled to from unconsolidated associated companies, affiliates or joint ventures, which havenot been distributed as dividends."
+30,fnd23_annfv1a_alos,"Other Long-Term Assets, Total."
+31,fnd23_annfv1a_artx,Extraordinary Item.
+32,fnd23_annfv1a_atcq,represents translation gains (losses) on financial statements of foreign subsidiaries. Such adjustments may be required when the currency of a subsidiary is different from the reporting currency of the reporting company.
+33,fnd23_annfv1a_atda,deferred income taxes - long term. These are credits being applied to income taxes that will be paid in future years.
+34,fnd23_annfv1a_b6los,"Standardized Operating Lease Payments Due in Year 6 and Beyond represents Total Operating Leases,Supplemental less Standardized Operating Lease Payments Due within 1 Year, StandardizedOperating Lease Payments Due in Year 2, Standardized Operating Lease Payments Due in Year 3, Standardized Operating Lease Payments Due in Year 4 and Standardized Operating LeasePayments Due in Year 5."
+35,fnd23_annfv1a_bcns,"Net Cash - Beginning Balance represents the beginning balance of cash and cash equivalents, asdefined by a company."
+36,fnd23_annfv1a_bfpv,Basic EPS After Stock-Based Compensation Expense represents Net Income After Stock-BasedCompensation Expense divided by Basic/Primary Weighted Average Shares.
+37,fnd23_annfv1a_bloo,other liabilities
+38,fnd23_annfv1a_bosi,Deconsolidation of a subsidiary classified as Sale of Business.
+39,fnd23_annfv1a_bpal,"Accrued interest expenses, interest payable in commercial banks."
+40,fnd23_annfv1a_bpao,"represents changes in accounts payable during the period. An increase inaccounts payable has a positive impact on cash flow from operating activities, and vice versa."
+41,fnd23_annfv1a_caic,Income Available to Common Excl. Extraordinary Items
+42,fnd23_annfv1a_caiv,"Normalized Income Available to Common represents the bottom-line net income available tocommon shareholders, excluding the effects of all non-recurring/unusual/one-off/extraordinary items, afterminority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all otheradjustments to net income."
+43,fnd23_annfv1a_cbpa,"represents the gross amount of buildings and their attachments, before being reduced by accumulated depreciation of the buildings."
+44,fnd23_annfv1a_ccns,Net Change in Cash
+45,fnd23_annfv1a_cdav,Deferred Revenue - Current
+46,fnd23_annfv1a_cema,"represents the acquisition cost of machinery and other equipment (including delivery equipment, office equipment, machinery, furniture and fixtures, furnishings, factory, equipment, tools, etc.) in a company, before being reduced by accumulated depreciation."
+47,fnd23_annfv1a_cets,Effect of Special Items on Income Taxes.
+48,fnd23_annfv1a_cila,"represents land and improvements on land at acquisition cost. Land is not depreciated, but land improvements are normally depreciated over time."
+49,fnd23_annfv1a_cinx,"Income Available to Common Stocks Incl. Extraordinary Items represents the bottom-line netincome available to common stockholders, including the effects of extraordinary items - adjusted byminority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all otheradjustments to net income."
+50,fnd23_annfv1a_cipq,represents capital contributed by shareholders in excess of par value of common stock in return for shares issued to them.
+51,fnd23_annfv1a_cisf,"represents cash inflow from the issuance of common stock. It also includes cash inflow from the sale of treasury shares. However, issuance of additional shares from a stock split is not included in Sale/Issuance of Common"
+52,fnd23_annfv1a_cnin,"Net income after taxes, adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment and extraordinary items, before preferred distributions and other adjustments to net income classified as Income Incl Extra Before Distributions"
+53,fnd23_annfv1a_cpdf,common cash dividends paid
+54,fnd23_annfv1a_croa,other receivables.
+55,fnd23_annfv1a_crrf,"Treasury Stock, when reported in the financing section of the cash flow statement, is henceforth classified as Sale/Issuance of Common or Repurchase/Retirement Common"
+56,fnd23_annfv1a_crta,total net receivables.
+57,fnd23_annfv1a_cstq,"represents the value of common stock owned by the issuing company or its consolidated subsidiaries. Treasury stock is recorded at purchase cost, which is inclusive of par value, additional paid-in capital and retained earnings."
+58,fnd23_annfv1a_ctcv,"Current Tax - Total reflects the sum of Current Tax - Domestic, Current Tax - Foreign, Current Tax - Local, Current Tax - Other and Current Tax - Total."
+59,fnd23_annfv1a_ctda,"represents deferred tax assets with a current maturity. When there is a timing difference between financial reporting and tax preparation practices, a companymight have credits or additional tax liabilities from the government. Such credits or additional tax liabilitiesmay be reported on a net basis, but if not, government credits may be reported as an asset and additionalliabilities may be reported as a liability. The current portion of such assets are generally reported in thecurrent assets section and classified as Deferred Income Tax - Current Asset [ADTC]."
+60,fnd23_annfv1a_ctpa,"gross property, plant & equipment."
+61,fnd23_annfv1a_dare,Research and development costs expensed directly in the income statement.
+62,fnd23_annfv1a_darv,"Research and development costs expensed directly in the income statement classified as Research & Development Expense, Supplemental"
+63,fnd23_annfv1a_deds,Depreciation/Depletion represents the sum of Depreciation and Depletion.
+64,fnd23_annfv1a_derq,"represents residual earnings from operations, not distributed to shareholders. It may represent accumulated deficit when a company incurs losses over time."
+65,fnd23_annfv1a_dfpv,Diluted EPS After Stock-Based Compensation Expense represents Net Income After Stock-BasedCompensation Expense plus the Dilution Adjustment divided by Diluted WeightedAverage Shares.
+66,fnd23_annfv1a_dgcd,gross dividends on common stock.
+67,fnd23_annfv1a_dlcl,Current Port. of LT Debt/Capital Leases.
+68,fnd23_annfv1a_dlts,Total Debt represents total interest-bearing debt outstanding.
+69,fnd23_annfv1a_dltv,"Total Long Term Debt, Supplemental reflects the sum of Long Term Debt Maturing within 1 through10 Years and Long Term Debt - Remaining Maturities."
+70,fnd23_annfv1a_drpc,represents the total amount of the current dividend requirement on issued preferred stock of a company (including its subsidiaries).
+71,fnd23_annfv1a_drpf,"If debt issuances and reductions are not delineated separately, the total is classified as Issuance (Retirement) of Debt, Net"
+72,fnd23_annfv1a_dtll,"represents interest-bearing debt with maturities beyond one year. Long-term debt may consist of long-term bank borrowings, bonds, convertible bonds, etc."
+73,fnd23_annfv1a_dtns,Net Debt Including Preferred Stock & Minority Interest.
+74,fnd23_annfv1a_dtsl,notes payable/short term debt.
+75,fnd23_annfv1a_dttl,"represents interest-bearing debt with maturities beyond one year. Long-term debt may consist of long-term bank borrowings, bonds, convertible bonds, etc."
+76,fnd23_annfv1a_eaca,cash & equivalents.
+77,fnd23_annfv1a_ecns,Net Cash - Ending Balance represents the sum of Net Change in Cash and Net Cash -Beginning Balance.
+78,fnd23_annfv1a_eefs,Foreign Exchange Effects represents the increase/decrease in cash and cash equivalents due to changes in exchange rates.
+79,fnd23_annfv1a_eiue,Acquisition costs/expenses.
+80,fnd23_annfv1a_eiuo,"is applicable only if Net Income/Starting Line [ONET] is income after gains/losses from unusual activities. Because the operating section of the cash flow pursues changes in cash flow from operating activities, any unusual gain/loss included in net income computation needs to be reversed."
+81,fnd23_annfv1a_eius,Unusual Expense (Income).
+82,fnd23_annfv1a_eltq,total equity.
+83,fnd23_annfv1a_eooe,"Depreciation of investment properties disclosed outside of the cost of goods sold, for companies reporting in the IFRS or in other standards that treat these as investments"
+84,fnd23_annfv1a_eoos,"Other Operating Expenses, Total."
+85,fnd23_annfv1a_eote,"represents total expenses that are operating in nature, including variable costs directly related to the volume of sales, indirect operating costs, depreciation or amortization, operating provisions and other expenses incurred from operating activities."
+86,fnd23_annfv1a_etoq,represents any residual value of shareholders' equity that belongs to shareholders.
+87,fnd23_annfv1a_etos,"Other Equity, Total."
+88,fnd23_annfv1a_fbbs,"represents the bottom-line earnings per shareavailable to common stockholders, excluding the effects of extraordinary items - adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+89,fnd23_annfv1a_fbds,"Diluted EPS Excluding Extraordinary Items represents the bottom-line earnings per share available to common stockholders, excluding extraordinary items, adjusted by the effects of dilution. This value is adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+90,fnd23_annfv1a_fcff,other financing cash flow
+91,fnd23_annfv1a_fcfs,"financing cash flow items represents sum of increase/decrease ind eposits, increase/decrease in federal funds sold or REPOs and FHLB plus other financing cash flow."
+92,fnd23_annfv1a_fcii,Cash used for discontinued operations classified as Other Investing Cash Flow
+93,fnd23_annfv1a_fcis,"Other Investing Cash Flow Items, Total represents all items reported within the investing activities in the cash flow statement, other than capital expenditures."
+94,fnd23_annfv1a_fcoo,"represents the impact of other operating cash flow items that cannot be classified as an adjustment item to net income, or an asset/liability as part of changes in non-cash working capital."
+95,fnd23_annfv1a_fcos,Changes in Working Capital
+96,fnd23_annfv1a_fltf,"cash from financing activities that is the sum of financing cash flow items, cash dividends paid, issuance of stock, net and issuance of debt, net."
+97,fnd23_annfv1a_gfia,represents inventories of unsold finished goods on hand. These goods may have been produced internally or purchased for resale.
+98,fnd23_annfv1a_gnia,"represents the gross purchase value of assets that lack physical existence, beforebeing reduced by accumulated impairment and intangible amortization."
+99,fnd23_annfv1a_graa,gross accounts receivable from sales of trading assets such as inventories or from services provided.
+100,fnd23_annfv1a_iabs,"represents the bottom-line earnings per share available to common stockholders, including the effects of extraordinary items - adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+101,fnd23_annfv1a_iads,"Diluted EPS Including Extraordinary Items represents the bottom-line earnings per share available to common stockholders, including extraordinary items, adjusted by the effects of dilution."
+102,fnd23_annfv1a_icno,other non cash items.
+103,fnd23_annfv1a_icns,non-cash items.
+104,fnd23_annfv1a_idlf,"represents cash inflow on the issuance of long-term debt instruments in a company. Long-term debt may include long-term bank borrowings, corporate bonds, convertible bonds, etc."
+105,fnd23_annfv1a_idsf,"represents cash inflow due to the issuance of short-term debt. If short-term debt issuances and reductions are not delineated separately, the total is classified as Short Term Debt, Net"
+106,fnd23_annfv1a_ifpv,Net Income After Stock-Based Compensation Expense
+107,fnd23_annfv1a_ilti,Cash from Investing Activities.
+108,fnd23_annfv1a_imao,"When the Indirect Method is utilized, and the company delineates amortization and depreciation separately, the amortization is classified as Amortization of Intangibles"
+109,fnd23_annfv1a_imav,Amortization.
+110,fnd23_annfv1a_inas,"total adjustments to net income represents sum of preferred dividend, general partners distributions, misc. earnings adjustments, pro forma adjustment and interest adjustments."
+111,fnd23_annfv1a_inds,"Diluted Net Income represents the bottom-line net income available to common shareholders, including extraordinary items, adjusted by the effects of dilution."
+112,fnd23_annfv1a_ipos,Operating Income.
+113,fnd23_annfv1a_iqea,"represents long-term investment in securities (loans, bonds,and equity) of affiliate companies, where the affiliation may be defined as associated companies, jointventures, and unconsolidated subsidiaries."
+114,fnd23_annfv1a_iscs,cash and short-term investments.
+115,fnd23_annfv1a_ists,Total Special Items represents the sum of all non-recurring/unusual/extraordinary/one-off/specialgains and losses that impact a company in any given period.
+116,fnd23_annfv1a_itla,represents long-term investments with maturities of one year or longer.
+117,fnd23_annfv1a_itpv,"Normalized Income Before Taxes represents net income before taxes, excluding the effects of all non-recurring/unusual/one-off/extraordinary items."
+118,fnd23_annfv1a_itsa,Short-Term Investments
+119,fnd23_annfv1a_iucs,Total Current Assets less Inventory represents Total Current Assets minus Total Inventory.
+120,fnd23_annfv1a_iwga,net goodwill.
+121,fnd23_annfv1a_ixts,Total Extraordinary Items
+122,fnd23_annfv1a_kcqs,Quick Ratio represents Total Current Assets less Inventory divided by Total Current Liabilities.
+123,fnd23_annfv1a_laoo,"represents the changes in the combined sum of assets and liabilities when a company reports these totals as a single line. If the value of the assets is greater than the value of the liabilities, the result has a negative impact on cash flow, and vice versa."
+124,fnd23_annfv1a_lcol,other current liabilities.
+125,fnd23_annfv1a_lcos,"Other Current Liabilities, Total."
+126,fnd23_annfv1a_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+127,fnd23_annfv1a_letq,sum of total liabilities and total equity.
+128,fnd23_annfv1a_lltl,total liabilities.
+129,fnd23_annfv1a_lltq,represents the sum of Total Equity and Equity Non-Controlling Interests.
+130,fnd23_annfv1a_lotv,"Total Operating Leases, Supplemental reflects the sum of Operating Leases Maturing within 1through 10 Years, Operating Leases - Remaining Maturities andOperating Leases - Interest Cost."
+131,fnd23_annfv1a_ltia,total inventory.
+132,fnd23_annfv1a_ltio,"represents changes in inventories during the period. An increase in inventories has a negative impact on cash flow from operating activities, and vice versa."
+133,fnd23_annfv1a_ltll,Long-term obligations from right-of-use contracts related to operating leases.
+134,fnd23_annfv1a_ltls,"Other Liabilities, Total"
+135,fnd23_annfv1a_mocq,other comprehensive income.
+136,fnd23_annfv1a_mpns,Net Profit Margin represents Income Available to Common Excluding Extraordinary Items divided by Total Revenue.
+137,fnd23_annfv1a_mria,annual inventories - raw material.
+138,fnd23_annfv1a_mtps,Pretax Margin.
+139,fnd23_annfv1a_ndlf,"If long-term debt issuances and reductions are not delineated separately, the total is classified as Long Term Debt, Net"
+140,fnd23_annfv1a_ndsf,"If short-term debt issuances and reductions are not delineated separately, the total is classified as Short Term Debt, Net"
+141,fnd23_annfv1a_nein,"represents interest expense on debt of non-financial service companies, including insurance companies."
+142,fnd23_annfv1a_neis,"Interest Expense, Net Non-Operating represents Interest Expense, Non-Operating, reduced by Interest Capitalized, Non-Operating, and is usually a negative value."
+143,fnd23_annfv1a_niin,"represents non-operating interest income, which is generated from non-operating investment securities such as certificates of deposit or bonds for non-financial service companies."
+144,fnd23_annfv1a_niis,"Interest/Investment Income, Non-Operating"
+145,fnd23_annfv1a_nimc,"represents the share of earnings/losses in subsidiaries that belongs to shareholders other than the parent company when the parent company owns less than 100%, but more than 50%, of a subsidiary. Since the subsidiary's financials are consolidated with the company, this value is a negative number to represent the amount the company does not own."
+146,fnd23_annfv1a_niml,represents accumulated interest for minority shareholders in subsidiaries that are less than 100 percent owned by the reporting parent company. The net worth of a subsidiary is assumed to be proportionally owned by parent company and other minority shareholders according to their respective ownership percentage.
+147,fnd23_annfv1a_nimv,"Minority Interest, Supplemental represents the share of earnings/losses in subsidiaries that belongsto shareholders other than the parent company when the parent company owns less than 100%, but morethan 50%, of a subsidiary."
+148,fnd23_annfv1a_nins,"Interest Expense (Income), Net- Non-Operating, Total"
+149,fnd23_annfv1a_nnin,Interest expense that is reduced by interest income.
+150,fnd23_annfv1a_nnis,"Net - Net Operating, Total"
+151,fnd23_annfv1a_nppa,"net property, plant and equipment."
+152,fnd23_annfv1a_nscf,"If the sale, issuance or repurchase of common stock is not separately delineated, then the total is classified as Common Stock, Net"
+153,fnd23_annfv1a_nspf,represents the sum of Sale/Issuance of Preferred and Repurchase/Retirement of Preferred.
+154,fnd23_annfv1a_ntiv,"Income Taxes Excluding Impact of Special Items represents total income taxes, adjusted by the taximpact of adding back non-recurring items, used in the computation of normalized"
+155,fnd23_annfv1a_nvii,"represents changes in investments in securities and other investments. Investment, Net is utilized when a company does not delineate the sale of investments and the purchase of investments on the cash flow statement."
+156,fnd23_annfv1a_octq,represents the number of primary common shares equivalent outstanding.
+157,fnd23_annfv1a_odio,is applicable only if Net Income/Starting Line is income after gains/losses from discontinued operations.
+158,fnd23_annfv1a_odix,Discontinued Operations.
+159,fnd23_annfv1a_olto,"includes diverse cash flows that are reported outside of the operating, investing and financing sections of the cash flow statement."
+160,fnd23_annfv1a_pacv,"Interest Capitalized,Supplemental"
+161,fnd23_annfv1a_pbts,"Tangible Book Value per Share, Common Equity."
+162,fnd23_annfv1a_pdcf,Total Cash Dividends Paid.
+163,fnd23_annfv1a_peda,aggregate of accumulated depreciation for each fixed asset.
+164,fnd23_annfv1a_pede,Depreciation of fixed assets reported outside of the cost of goods and services sold.
+165,fnd23_annfv1a_peds,depreciation.
+166,fnd23_annfv1a_pedv,Deprecation
+167,fnd23_annfv1a_pics,cash interest paid represents interest paid in cash during the period Cash Interest.
+168,fnd23_annfv1a_pnii,Acquisition of investment securities of a company (rather than the whole business unit) classified as Purchase of Investments
+169,fnd23_annfv1a_ppgs,Gross Margin  represents Gross Profit  divided by Revenue. Gross Margin is not available if either Gross Profit or Revenue is missing or if Revenue is negative.
+170,fnd23_annfv1a_ppos,Operating Margin.
+171,fnd23_annfv1a_prgs,Gross Profit represents a measure of a company's operating performance. Gross Profit states the profits earned from a company's revenues and direct costs.
+172,fnd23_annfv1a_ptcs,"cash taxes paid represents taxes paid in cash, net of tax refunds received, as reported by the company."
+173,fnd23_annfv1a_pwia,inventories that are WIP or work-in-progress.
+174,fnd23_annfv1a_pxrv,"Rental Expense, Supplemental represents the total value of rental expenses paid for offices, factories, machinery and equipment."
+175,fnd23_annfv1a_pxtl,"Income Taxes Payable represents income taxes payable to the government, where such tax liabilityis already confirmed in terms of amount and payable date."
+176,fnd23_annfv1a_pxto,"represents changes in taxes payable during the period. An increase in income taxes payable has a positive impact on cash flow from operating activities, and vice versa."
+177,fnd23_annfv1a_qabi,represents cash outflow for acquiring new businesses. Reporting the cash flow for acquiring new businesses is not consistent among companies.
+178,fnd23_annfv1a_rale,"Labor costs reported outside of the cost of goods sold, or not clearly labeled as part of the cost of goods sold, for businesses other than manufacturing and mining companies"
+179,fnd23_annfv1a_rcaa,accounts receivable value.
+180,fnd23_annfv1a_rcao,"represents changes in accounts receivable during the period. An increase in accounts receivable has a negative impact on cash flow from operating activities, and vice versa."
+181,fnd23_annfv1a_rdlf,represents cash outflow on the repayment of long-term debt in a company. Long-term debt obligations may be repaid upon maturity or replaced with new debt.
+182,fnd23_annfv1a_rdsf,"represents cash outflow due to the repayment of short-term debt. If short-term debt issuances and reductions are not delineated separately, the total is classified as Short Term Debt, Net"
+183,fnd23_annfv1a_rltr,"total revenue represents all items clearly presented as revenues, before the cost of goods sold and the gross profit."
+184,fnd23_annfv1a_roce,cost of revenue including labor coasts reported within cost of goods sold & that are not clearly labeled as cost of goods sold.
+185,fnd23_annfv1a_rocs,cost of revenue represents total costs that can be directly attributed to the goods and services produced/purchased and sold.
+186,fnd23_annfv1a_rpds,"Depreciation/amortization represents sum of depreciation, amortization of intangibles and amortization of acquisition costs."
+187,fnd23_annfv1a_rtes,Effective Tax Rate represents Provision for Income Taxes divided by Income Before Tax.
+188,fnd23_annfv1a_rtla,"represents long-term notes receivable, excluding the current portion of the long-term receivables. It also represents all other long term receivables reported in the Non-current Assets section."
+189,fnd23_annfv1a_rucs,Current Ratio represents Total Current Assets divided by Total Current Liabilities.
+190,fnd23_annfv1a_sabs,represents the weighted average common shares outstanding less the dilution of stock options for a given period. These shares are used to calculate Basic EPS.
+191,fnd23_annfv1a_saoa,non operational fixed assets that are long term.
+192,fnd23_annfv1a_saoo,Accrued interest income for companies other than financial service companies.
+193,fnd23_annfv1a_sebv,"Basic Normalized EPS represents the bottom-line earnings per share available to commonstockholders, excluding the effects of all non-recurring/unusual/one-off/extraordinary items, after minorityinterest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments toearnings per share."
+194,fnd23_annfv1a_sedv,Diluted Normalized EPS
+195,fnd23_annfv1a_sere,Restructuring Charge is an unusual or non-recurring item related to a significant rearrangement of a company's assets and/or liabilities.
+196,fnd23_annfv1a_smcq,"Common Stock represents the value of the most frequently issued class of stock; usually it provides a voting right, but is secondary to preferred stock in dividend and liquidation rights."
+197,fnd23_annfv1a_smcs,total common stock represets the combined value of common stock and limited partner.
+198,fnd23_annfv1a_snii,Deconsolidation of subsidiaries if ownership interest in a subsidiary is reduced classified as Sale/Maturity of Investment
+199,fnd23_annfv1a_srps,"Preferred Stock - Non-Redeemable, Total."
+200,fnd23_annfv1a_sspf,"If the sale, issuance or repurchase of common and preferred stock is not separately delineated, then the total is classified as Issuance (Retirement) of Stock, Net."
+201,fnd23_annfv1a_stnr,net sales.
+202,fnd23_annfv1a_swds,Diluted Weighted Average Shares represents the number of shares for Diluted EPS computation.
+203,fnd23_annfv1a_tait,NetIncome After Taxes
+204,fnd23_annfv1a_taiv,Normalized Income After Taxes.
+205,fnd23_annfv1a_tbie,"represents a company's total revenues reduced by total expenses, before taxes on net income and all after-tax adjustments."
+206,fnd23_annfv1a_tdbl,"represents income taxes estimated and expected to be paid within one year or an operating cycle, whichever is longer."
+207,fnd23_annfv1a_tdbo,Deferred Taxes for indirect Cash Flow
+208,fnd23_annfv1a_tdbs,represents the sum of Deferred Income Tax - Long Term Liability and Deferred Investment Tax Credit
+209,fnd23_annfv1a_teno,is the first line of a cash flow statement when a company employs the Indirect Method in the operating cash flow section.
+210,fnd23_annfv1a_tibs,Normalized Earnings before Interest and Taxes.
+211,fnd23_annfv1a_tmaa,accumulated intangible amortization.
+212,fnd23_annfv1a_tmas,"amortization representes sum of amortization of intangibles, amortization of acquisition costs, amortization of deferred policy costs."
+213,fnd23_annfv1a_tnia,"represents the net value of assets that lack physical existence, reduced by accumulated impairment and intangible amortization."
+214,fnd23_annfv1a_tnon,represents any non-operating income or expense item that a company reports before income taxes
+215,fnd23_annfv1a_tnos,other net income.
+216,fnd23_annfv1a_tota,total assets of the company.
+217,fnd23_annfv1a_ttiv,"Income Tax - Total reflects the sum of Domestic Tax - Other, Foreign Tax - Other,Local Tax - Other and Other Tax."
+218,fnd23_annfv1a_uaie,"form of an unusual item related to the impairment of longlived assets, certain identifiable intangibles, and goodwill related to those assets."
+219,fnd23_annfv1a_vacl,Advances/deposits from customers for the products to be sold or services to be rendered classified as Customer Advances.
+220,fnd23_annfv1a_vbts,"Tangible Book Value, Common Equity."
+221,fnd23_annfv1a_vdav,Advertising Expense - Supplemental represents the total cost of advertising incurred by thecompany.
+222,fnd23_annfv1a_veev,Pro Forma Stock Compensation Expense represents employee compensation paid in the form ofstock options that have not yet been exercised and are not disclosed on the income statement.
+223,fnd23_annfv1a_vers,"Revenue represents revenues from the sale of merchandise goods, manufactured products andservices, and the distribution of regulated energy resources, depending on a specific company's industry.The item is used for industrial and utility companies."
+224,fnd23_annfv1a_vnin,"represents income or losses, other than interest, from investment securities. Such income may include dividend income, gain/loss on sale of investment securities, unrealized investment income or loss, equity earnings in affiliates, unconsolidated subsidiaries or joint ventures (before taxes), or any other net investment income."
+225,fnd23_annfv1a_vnis,Long-Term Investments represents the sum of LT Investments - Affiliate Companies and LT Investments - Other.
+226,fnd23_annfv1a_xatt,Provision for Income Taxes.
+227,fnd23_annfv1a_xbin,"represents net income after taxes, adjusted by minority interest, equity in affiliates and the U.S. GAAP adjustment, before extraordinary items, preferred distributions and other adjustments to net income."
+228,fnd23_annfv1a_xeal,"represents operational expenses accrued, but not yet paid. As current liabilities, such expenses are expected to be paid within one year or one operating cycle, whichever is longer."
+229,fnd23_annfv1a_xeao,"represents changes in accrued expenses during the period. An increase in accrued expenses has a positive impact on cash flow from operating activities, and vice versa."
+230,fnd23_annfv1a_xeci,purchase of fixed assets.
+231,fnd23_annfv1a_xecs,capital expenditures.
+232,fnd23_annfv1a_xeiv,"Interest Expense, Supplemental."
+233,fnd23_annfv1a_xpof,"represents cash inflow due to stock options exercised, which results in an increase of common stock."
+234,fnd23_annfv1a_yppa,prepaid expenses.
+235,fnd23_annfv1a_yppo,"represents changes in prepaid expenses during the period. An increase in prepaid expenses has a negative impact on cash flow from operating activities, and vice versa."
+238,fnd23_annfvadjfieldsacctadj_cpoa,Other Properties/Plant/Equipment - Gross
+239,fnd23_annfvadjfieldsacctadj_ctpa,"gross property, plant & equipment."
+240,fnd23_annfvadjfieldsacctadj_dlo_cpoa,Other Properties/Plant/Equipment - Gross
+241,fnd23_annfvadjfieldsacctadj_dlo_ctpa,"gross property, plant & equipment."
+242,fnd23_annfvadjfieldsacctadj_dlo_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+243,fnd23_annfvadjfieldsacctadj_dlo_lltl,total liabilities.
+244,fnd23_annfvadjfieldsacctadj_dlo_ltll,Long-term obligations from right-of-use contracts related to operating leases.
+245,fnd23_annfvadjfieldsacctadj_dlo_ltls,"Other Liabilities, Total"
+246,fnd23_annfvadjfieldsacctadj_dlo_nppa,"net property, plant and equipment."
+247,fnd23_annfvadjfieldsacctadj_dlo_peda,aggregate of accumulated depreciation for each fixed asset.
+248,fnd23_annfvadjfieldsacctadj_dlo_tota,total assets of the company.
+249,fnd23_annfvadjfieldsacctadj_dlo_xeal,"represents operational expenses accrued, but not yet paid. As current liabilities, such expenses are expected to be paid within one year or one operating cycle, whichever is longer."
+250,fnd23_annfvadjfieldsacctadj_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+251,fnd23_annfvadjfieldsacctadj_lltl,total liabilities.
+252,fnd23_annfvadjfieldsacctadj_lolv,"Long-Term Operating Lease Liabilities, Supplemental"
+253,fnd23_annfvadjfieldsacctadj_ltll,Long-term obligations from right-of-use contracts related to operating leases.
+254,fnd23_annfvadjfieldsacctadj_ltls,"Other Liabilities, Total"
+255,fnd23_annfvadjfieldsacctadj_nouv,"Right-of-Use Assets - Operating Lease, Net - Supplemental"
+256,fnd23_annfvadjfieldsacctadj_nppa,"net property, plant and equipment."
+257,fnd23_annfvadjfieldsacctadj_peda,aggregate of accumulated depreciation for each fixed asset.
+258,fnd23_annfvadjfieldsacctadj_tota,total assets of the company.
+259,fnd23_annfvadjfieldsacctadj_xeal,"represents operational expenses accrued, but not yet paid. As current liabilities, such expenses are expected to be paid within one year or one operating cycle, whichever is longer."
+260,fnd23_annfvmfm_inds,"Diluted Net Income represents the bottom-line net income available to common shareholders, including extraordinary items, adjusted by the effects of dilution."
+261,fnd23_annfvmfm_olto,"includes diverse cash flows that are reported outside of the operating, investing and financing sections of the cash flow statement."
+262,fnd23_annfvmfm_rltr,"total revenue represents all items clearly presented as revenues, before the cost of goods sold and the gross profit."
+263,fnd23_annfvmfm_tota,total assets of the company.
+264,fnd23_aor,return on assets
+265,fnd23_apxv,Expected Return on Assets - Post-Retirement
+270,fnd23_ayfv,Actuarial Gains and Losses - Foreign
+271,fnd23_b6dls,Standardized Long Term Debt Maturing in Year 6 & Beyond
+272,fnd23_blsmvb_1dls,Long Term Debt Maturing within 1Year
+273,fnd23_blsmvb_1los,Operating Lease Payments Due in Year 1
+274,fnd23_blsmvb_2dls,Standardized Long Term Debt Maturing in Year 12
+275,fnd23_blsmvb_2los,Operating Lease Payments Due in Year 2
+276,fnd23_blsmvb_3dls,Long Term Debt Maturing in Year 3
+277,fnd23_blsmvb_3los,Standardized Operating Lease Payments Due in Year 3.
+278,fnd23_blsmvb_4dls,Long Term Debt Maturing in Year 4
+279,fnd23_blsmvb_4los,Standardized Operating Lease Payments Due in Year 4.
+280,fnd23_blsmvb_5dls,Standardized Long Term Debt Maturing in Year 5
+281,fnd23_blsmvb_5los,Standardized Operating Lease Payments Due in Year 5.
+282,fnd23_blsmvb_acoa,other current assets.
+283,fnd23_blsmvb_acos,"Other Current Assets, Total."
+284,fnd23_blsmvb_acta,"total current assets. Sum of cash and short term investments, total receivables (net), total inventory, prepaid expenses, other current assets."
+285,fnd23_blsmvb_adpa,represents provisions established for doubtful accounts receivable. Provision for doubtful accounts is usually established on the basis of maturities of receivables and the company's experience on collecting such receivables.
+286,fnd23_blsmvb_aiav,Accumulated Intangible Amortization represents accumulated amortization against intangible fixedassets.
+287,fnd23_blsmvb_alos,"Other Long-Term Assets, Total."
+288,fnd23_blsmvb_atda,deferred income taxes - long term. These are credits being applied to income taxes that will be paid in future years.
+289,fnd23_blsmvb_bpal,"Accrued interest expenses, interest payable in commercial banks."
+290,fnd23_blsmvb_cbpa,"represents the gross amount of buildings and their attachments, before being reduced by accumulated depreciation of the buildings."
+291,fnd23_blsmvb_cdav,Deferred Revenue - Current
+292,fnd23_blsmvb_cema,"represents the acquisition cost of machinery and other equipment (including delivery equipment, office equipment, machinery, furniture and fixtures, furnishings, factory, equipment, tools, etc.) in a company, before being reduced by accumulated depreciation."
+293,fnd23_blsmvb_cila,"represents land and improvements on land at acquisition cost. Land is not depreciated, but land improvements are normally depreciated over time."
+294,fnd23_blsmvb_cipq,represents capital contributed by shareholders in excess of par value of common stock in return for shares issued to them.
+295,fnd23_blsmvb_cpca,Construction in Progress - Gross represents the cost of construction in progress of fixed assets for acompany's own use. The cost of construction in progress is normally not depreciated until the fixed assetsare completed and placed in production.
+296,fnd23_blsmvb_croa,other receivables.
+297,fnd23_blsmvb_crta,total net receivables.
+298,fnd23_blsmvb_cstq,"represents the value of common stock owned by the issuing company or its consolidated subsidiaries. Treasury stock is recorded at purchase cost, which is inclusive of par value, additional paid-in capital and retained earnings."
+299,fnd23_blsmvb_ctda,"represents deferred tax assets with a current maturity. When there is a timing difference between financial reporting and tax preparation practices, a companymight have credits or additional tax liabilities from the government. Such credits or additional tax liabilitiesmay be reported on a net basis, but if not, government credits may be reported as an asset and additionalliabilities may be reported as a liability. The current portion of such assets are generally reported in thecurrent assets section and classified as Deferred Income Tax - Current Asset [ADTC]."
+300,fnd23_blsmvb_ctpa,"gross property, plant & equipment."
+301,fnd23_blsmvb_derq,"represents residual earnings from operations, not distributed to shareholders. It may represent accumulated deficit when a company incurs losses over time."
+302,fnd23_blsmvb_dlcl,Current Port. of LT Debt/Capital Leases.
+303,fnd23_blsmvb_dlts,Total Debt represents total interest-bearing debt outstanding.
+304,fnd23_blsmvb_dltv,"Total Long Term Debt, Supplemental reflects the sum of Long Term Debt Maturing within 1 through10 Years and Long Term Debt - Remaining Maturities."
+305,fnd23_blsmvb_dtll,"represents interest-bearing debt with maturities beyond one year. Long-term debt may consist of long-term bank borrowings, bonds, convertible bonds, etc."
+306,fnd23_blsmvb_dtns,Net Debt Including Preferred Stock & Minority Interest.
+307,fnd23_blsmvb_dtsl,notes payable/short term debt.
+308,fnd23_blsmvb_dttl,"represents interest-bearing debt with maturities beyond one year. Long-term debt may consist of long-term bank borrowings, bonds, convertible bonds, etc."
+309,fnd23_blsmvb_eaca,cash & equivalents.
+310,fnd23_blsmvb_eltq,total equity.
+311,fnd23_blsmvb_etos,"Other Equity, Total."
+312,fnd23_blsmvb_gfia,represents inventories of unsold finished goods on hand. These goods may have been produced internally or purchased for resale.
+313,fnd23_blsmvb_gnia,"represents the gross purchase value of assets that lack physical existence, beforebeing reduced by accumulated impairment and intangible amortization."
+314,fnd23_blsmvb_graa,gross accounts receivable from sales of trading assets such as inventories or from services provided.
+315,fnd23_blsmvb_ilos,Operating Leases - Interest Cost
+316,fnd23_blsmvb_iscs,cash and short-term investments.
+317,fnd23_blsmvb_itla,represents long-term investments with maturities of one year or longer.
+318,fnd23_blsmvb_itsa,Short-Term Investments
+319,fnd23_blsmvb_iucs,Total Current Assets less Inventory represents Total Current Assets minus Total Inventory.
+320,fnd23_blsmvb_iwga,net goodwill.
+321,fnd23_blsmvb_kcqs,Quick Ratio represents Total Current Assets less Inventory divided by Total Current Liabilities.
+322,fnd23_blsmvb_lcol,other current liabilities.
+323,fnd23_blsmvb_lcos,"Other Current Liabilities, Total."
+324,fnd23_blsmvb_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+325,fnd23_blsmvb_letq,sum of total liabilities and total equity.
+326,fnd23_blsmvb_lltl,total liabilities.
+327,fnd23_blsmvb_lolv,"Long-Term Operating Lease Liabilities, Supplemental"
+328,fnd23_blsmvb_lotv,"Total Operating Leases, Supplemental reflects the sum of Operating Leases Maturing within 1through 10 Years, Operating Leases - Remaining Maturities andOperating Leases - Interest Cost."
+329,fnd23_blsmvb_ltia,total inventory.
+330,fnd23_blsmvb_ltll,Long-term obligations from right-of-use contracts related to operating leases.
+331,fnd23_blsmvb_ltls,"Other Liabilities, Total"
+332,fnd23_blsmvb_mocq,other comprehensive income.
+333,fnd23_blsmvb_mria,annual inventories - raw material.
+334,fnd23_blsmvb_nouv,"Right-of-Use Assets - Operating Lease, Net - Supplemental"
+335,fnd23_blsmvb_nppa,"net property, plant and equipment."
+336,fnd23_blsmvb_octq,represents the number of primary common shares equivalent outstanding.
+337,fnd23_blsmvb_pbts,"Tangible Book Value per Share, Common Equity."
+338,fnd23_blsmvb_peda,aggregate of accumulated depreciation for each fixed asset.
+339,fnd23_blsmvb_pwia,inventories that are WIP or work-in-progress.
+340,fnd23_blsmvb_pxtl,"Income Taxes Payable represents income taxes payable to the government, where such tax liabilityis already confirmed in terms of amount and payable date."
+341,fnd23_blsmvb_rcaa,accounts receivable value.
+342,fnd23_blsmvb_rucs,Current Ratio represents Total Current Assets divided by Total Current Liabilities.
+343,fnd23_blsmvb_saoa,non operational fixed assets that are long term.
+344,fnd23_blsmvb_smcq,"Common Stock represents the value of the most frequently issued class of stock; usually it provides a voting right, but is secondary to preferred stock in dividend and liquidation rights."
+345,fnd23_blsmvb_smcs,total common stock represets the combined value of common stock and limited partner.
+346,fnd23_blsmvb_tdbl,"represents income taxes estimated and expected to be paid within one year or an operating cycle, whichever is longer."
+347,fnd23_blsmvb_tdbs,represents the sum of Deferred Income Tax - Long Term Liability and Deferred Investment Tax Credit
+348,fnd23_blsmvb_tmaa,accumulated intangible amortization.
+349,fnd23_blsmvb_tnia,"represents the net value of assets that lack physical existence, reduced by accumulated impairment and intangible amortization."
+350,fnd23_blsmvb_tota,total assets of the company.
+351,fnd23_blsmvb_vacl,Advances/deposits from customers for the products to be sold or services to be rendered classified as Customer Advances.
+352,fnd23_blsmvb_vbts,"Tangible Book Value, Common Equity."
+353,fnd23_blsmvb_vnis,Long-Term Investments represents the sum of LT Investments - Affiliate Companies and LT Investments - Other.
+354,fnd23_blsmvb_xeal,"represents operational expenses accrued, but not yet paid. As current liabilities, such expenses are expected to be paid within one year or one operating cycle, whichever is longer."
+355,fnd23_blsmvb_yppa,prepaid expenses.
+356,fnd23_capex,capital expenditure
+357,fnd23_cash_n_equivalents,cash equivalents
+358,fnd23_cf_mvb_afsi,Sale of assets to be leased out under operating lease contracts.
+359,fnd23_cf_mvb_bcns,"Net Cash - Beginning Balance represents the beginning balance of cash and cash equivalents, asdefined by a company."
+360,fnd23_cf_mvb_bloo,other liabilities
+361,fnd23_cf_mvb_bpao,"represents changes in accounts payable during the period. An increase inaccounts payable has a positive impact on cash flow from operating activities, and vice versa."
+362,fnd23_cf_mvb_ccns,Net Change in Cash
+363,fnd23_cf_mvb_cisf,"represents cash inflow from the issuance of common stock. It also includes cash inflow from the sale of treasury shares. However, issuance of additional shares from a stock split is not included in Sale/Issuance of Common"
+364,fnd23_cf_mvb_deds,Depreciation/Depletion represents the sum of Depreciation and Depletion.
+365,fnd23_cf_mvb_drpf,"If debt issuances and reductions are not delineated separately, the total is classified as Issuance (Retirement) of Debt, Net"
+366,fnd23_cf_mvb_ecns,Net Cash - Ending Balance represents the sum of Net Change in Cash and Net Cash -Beginning Balance.
+367,fnd23_cf_mvb_eiuo,"is applicable only if Net Income/Starting Line [ONET] is income after gains/losses from unusual activities. Because the operating section of the cash flow pursues changes in cash flow from operating activities, any unusual gain/loss included in net income computation needs to be reversed."
+368,fnd23_cf_mvb_fcff,other financing cash flow
+369,fnd23_cf_mvb_fcfs,"financing cash flow items represents sum of increase/decrease ind eposits, increase/decrease in federal funds sold or REPOs and FHLB plus other financing cash flow."
+370,fnd23_cf_mvb_fcii,Cash used for discontinued operations classified as Other Investing Cash Flow
+371,fnd23_cf_mvb_fcis,"Other Investing Cash Flow Items, Total represents all items reported within the investing activities in the cash flow statement, other than capital expenditures."
+372,fnd23_cf_mvb_fcos,Changes in Working Capital
+373,fnd23_cf_mvb_fltf,"cash from financing activities that is the sum of financing cash flow items, cash dividends paid, issuance of stock, net and issuance of debt, net."
+374,fnd23_cf_mvb_icno,other non cash items.
+375,fnd23_cf_mvb_icns,non-cash items.
+376,fnd23_cf_mvb_idlf,"represents cash inflow on the issuance of long-term debt instruments in a company. Long-term debt may include long-term bank borrowings, corporate bonds, convertible bonds, etc."
+377,fnd23_cf_mvb_ilti,Cash from Investing Activities.
+378,fnd23_cf_mvb_ltio,"represents changes in inventories during the period. An increase in inventories has a negative impact on cash flow from operating activities, and vice versa."
+379,fnd23_cf_mvb_ndlf,"If long-term debt issuances and reductions are not delineated separately, the total is classified as Long Term Debt, Net"
+380,fnd23_cf_mvb_nscf,"If the sale, issuance or repurchase of common stock is not separately delineated, then the total is classified as Common Stock, Net"
+381,fnd23_cf_mvb_olto,"includes diverse cash flows that are reported outside of the operating, investing and financing sections of the cash flow statement."
+382,fnd23_cf_mvb_pdcf,Total Cash Dividends Paid.
+383,fnd23_cf_mvb_peds,depreciation.
+384,fnd23_cf_mvb_pics,cash interest paid represents interest paid in cash during the period Cash Interest.
+385,fnd23_cf_mvb_ptcs,"cash taxes paid represents taxes paid in cash, net of tax refunds received, as reported by the company."
+386,fnd23_cf_mvb_rcao,"represents changes in accounts receivable during the period. An increase in accounts receivable has a negative impact on cash flow from operating activities, and vice versa."
+387,fnd23_cf_mvb_rdlf,represents cash outflow on the repayment of long-term debt in a company. Long-term debt obligations may be repaid upon maturity or replaced with new debt.
+388,fnd23_cf_mvb_saoo,Accrued interest income for companies other than financial service companies.
+389,fnd23_cf_mvb_sspf,"If the sale, issuance or repurchase of common and preferred stock is not separately delineated, then the total is classified as Issuance (Retirement) of Stock, Net."
+390,fnd23_cf_mvb_tdbo,Deferred Taxes for indirect Cash Flow
+391,fnd23_cf_mvb_teno,is the first line of a cash flow statement when a company employs the Indirect Method in the operating cash flow section.
+392,fnd23_cf_mvb_xeci,purchase of fixed assets.
+393,fnd23_cf_mvb_xecs,capital expenditures.
+394,fnd23_cifv,Interest Cost - Foreign
+395,fnd23_cogs,cost of goods sold
+396,fnd23_csfv,Service Cost
+397,fnd23_csxv,Prior Service Cost
+398,fnd23_ctxv,Transition Costs - Post-Retirement
+399,fnd23_curr_assets,current assets
+400,fnd23_curr_liabilities,current liabilities
+401,fnd23_debt_issuance,debt issuance
+403,fnd23_ebit,EBIT - Earnings before interest & tax
+404,fnd23_ebitda,"EBITDA - Interest before interest, taxes, depreciation & amortization"
+405,fnd23_efcf,free cash flow to equity.
+406,fnd23_eiuv,"Other Unusual Expense (Income), Supplemental"
+407,fnd23_epxv,"Other Post-Retirement, Net"
+409,fnd23_fcdv,Defined Contribution Expense - Foreign
+410,fnd23_fcpv,"Other Pension, Net - Foreign"
+411,fnd23_ffcf,free cash flow to the firm
+416,fnd23_icsm_mvb_adbs,"Normalized Earnings before Interest, Taxes, Depreciation and Amortization"
+417,fnd23_icsm_mvb_agse,Selling/General/Administrative Expense.
+418,fnd23_icsm_mvb_agss,"Selling/General/Administrative Expenses, Total."
+419,fnd23_icsm_mvb_caic,Income Available to Common Excl. Extraordinary Items
+420,fnd23_icsm_mvb_caiv,"Normalized Income Available to Common represents the bottom-line net income available tocommon shareholders, excluding the effects of all non-recurring/unusual/one-off/extraordinary items, afterminority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all otheradjustments to net income."
+421,fnd23_icsm_mvb_cets,Effect of Special Items on Income Taxes.
+422,fnd23_icsm_mvb_cinx,"Income Available to Common Stocks Incl. Extraordinary Items represents the bottom-line netincome available to common stockholders, including the effects of extraordinary items - adjusted byminority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all otheradjustments to net income."
+423,fnd23_icsm_mvb_cipv,Interest Cost - Post-Retirement
+424,fnd23_icsm_mvb_cnin,"Net income after taxes, adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment and extraordinary items, before preferred distributions and other adjustments to net income classified as Income Incl Extra Before Distributions"
+425,fnd23_icsm_mvb_ctcv,"Current Tax - Total reflects the sum of Current Tax - Domestic, Current Tax - Foreign, Current Tax - Local, Current Tax - Other and Current Tax - Total."
+426,fnd23_icsm_mvb_ctdv,Deferred Tax - Total
+427,fnd23_icsm_mvb_dare,Research and development costs expensed directly in the income statement.
+428,fnd23_icsm_mvb_darv,"Research and development costs expensed directly in the income statement classified as Research & Development Expense, Supplemental"
+429,fnd23_icsm_mvb_dcdv,Defined Contribution Expense - Domestic
+430,fnd23_icsm_mvb_dciv,Interest Cost - Domestic
+431,fnd23_icsm_mvb_dcsv,Service Cost - Domestic
+432,fnd23_icsm_mvb_ddrv,Discount Rate - Domestic
+433,fnd23_icsm_mvb_dfpv,Diluted EPS After Stock-Based Compensation Expense represents Net Income After Stock-BasedCompensation Expense plus the Dilution Adjustment divided by Diluted WeightedAverage Shares.
+434,fnd23_icsm_mvb_dgcd,gross dividends on common stock.
+435,fnd23_icsm_mvb_dpxv,Expected Return on Plan Assets - Domestic
+436,fnd23_icsm_mvb_dtcv,Current Tax - Domestic
+437,fnd23_icsm_mvb_dtdv,Deferred Tax - Domestic
+438,fnd23_icsm_mvb_dtrv,Compensation Rate - Domestic
+439,fnd23_icsm_mvb_eius,Unusual Expense (Income).
+440,fnd23_icsm_mvb_eoos,"Other Operating Expenses, Total."
+441,fnd23_icsm_mvb_eote,"represents total expenses that are operating in nature, including variable costs directly related to the volume of sales, indirect operating costs, depreciation or amortization, operating provisions and other expenses incurred from operating activities."
+442,fnd23_icsm_mvb_eprv,Post-Retirement Plan Expense
+443,fnd23_icsm_mvb_epts,Total Plan Expected Return
+444,fnd23_icsm_mvb_eptv,Total Pension Expense
+445,fnd23_icsm_mvb_fbbs,"represents the bottom-line earnings per shareavailable to common stockholders, excluding the effects of extraordinary items - adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+446,fnd23_icsm_mvb_fbds,"Diluted EPS Excluding Extraordinary Items represents the bottom-line earnings per share available to common stockholders, excluding extraordinary items, adjusted by the effects of dilution. This value is adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+447,fnd23_icsm_mvb_ftcv,Current Tax - Foreign
+448,fnd23_icsm_mvb_gaxv,Actuarial Gains and Losses - Domestic
+449,fnd23_icsm_mvb_iabs,"represents the bottom-line earnings per share available to common stockholders, including the effects of extraordinary items - adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+450,fnd23_icsm_mvb_iads,"Diluted EPS Including Extraordinary Items represents the bottom-line earnings per share available to common stockholders, including extraordinary items, adjusted by the effects of dilution."
+451,fnd23_icsm_mvb_ifpv,Net Income After Stock-Based Compensation Expense
+452,fnd23_icsm_mvb_imav,Amortization.
+453,fnd23_icsm_mvb_inds,"Diluted Net Income represents the bottom-line net income available to common shareholders, including extraordinary items, adjusted by the effects of dilution."
+454,fnd23_icsm_mvb_ipos,Operating Income.
+455,fnd23_icsm_mvb_ipts,Total Plan Interest Cost
+456,fnd23_icsm_mvb_ists,Total Special Items represents the sum of all non-recurring/unusual/extraordinary/one-off/specialgains and losses that impact a company in any given period.
+457,fnd23_icsm_mvb_itpv,"Normalized Income Before Taxes represents net income before taxes, excluding the effects of all non-recurring/unusual/one-off/extraordinary items."
+458,fnd23_icsm_mvb_ixts,Total Extraordinary Items
+459,fnd23_icsm_mvb_ltcv,Current Tax - Local
+460,fnd23_icsm_mvb_ltdv,Deferred Tax - Local
+461,fnd23_icsm_mvb_mpns,Net Profit Margin represents Income Available to Common Excluding Extraordinary Items divided by Total Revenue.
+462,fnd23_icsm_mvb_mtps,Pretax Margin.
+463,fnd23_icsm_mvb_nein,"represents interest expense on debt of non-financial service companies, including insurance companies."
+464,fnd23_icsm_mvb_neis,"Interest Expense, Net Non-Operating represents Interest Expense, Non-Operating, reduced by Interest Capitalized, Non-Operating, and is usually a negative value."
+465,fnd23_icsm_mvb_niin,"represents non-operating interest income, which is generated from non-operating investment securities such as certificates of deposit or bonds for non-financial service companies."
+466,fnd23_icsm_mvb_niis,"Interest/Investment Income, Non-Operating"
+467,fnd23_icsm_mvb_nimc,"represents the share of earnings/losses in subsidiaries that belongs to shareholders other than the parent company when the parent company owns less than 100%, but more than 50%, of a subsidiary. Since the subsidiary's financials are consolidated with the company, this value is a negative number to represent the amount the company does not own."
+468,fnd23_icsm_mvb_nimv,"Minority Interest, Supplemental represents the share of earnings/losses in subsidiaries that belongsto shareholders other than the parent company when the parent company owns less than 100%, but morethan 50%, of a subsidiary."
+469,fnd23_icsm_mvb_nins,"Interest Expense (Income), Net- Non-Operating, Total"
+470,fnd23_icsm_mvb_nnin,Interest expense that is reduced by interest income.
+471,fnd23_icsm_mvb_ntiv,"Income Taxes Excluding Impact of Special Items represents total income taxes, adjusted by the taximpact of adding back non-recurring items, used in the computation of normalized"
+472,fnd23_icsm_mvb_odrv,Expected Rate of Return - Domestic
+473,fnd23_icsm_mvb_pede,Depreciation of fixed assets reported outside of the cost of goods and services sold.
+474,fnd23_icsm_mvb_pedv,Deprecation
+475,fnd23_icsm_mvb_ppdv,Domestic Pension Plan Expense
+476,fnd23_icsm_mvb_ppgs,Gross Margin  represents Gross Profit  divided by Revenue. Gross Margin is not available if either Gross Profit or Revenue is missing or if Revenue is negative.
+477,fnd23_icsm_mvb_ppos,Operating Margin.
+478,fnd23_icsm_mvb_prgs,Gross Profit represents a measure of a company's operating performance. Gross Profit states the profits earned from a company's revenues and direct costs.
+479,fnd23_icsm_mvb_pxrv,"Rental Expense, Supplemental represents the total value of rental expenses paid for offices, factories, machinery and equipment."
+480,fnd23_icsm_mvb_rltr,"total revenue represents all items clearly presented as revenues, before the cost of goods sold and the gross profit."
+481,fnd23_icsm_mvb_roce,cost of revenue including labor coasts reported within cost of goods sold & that are not clearly labeled as cost of goods sold.
+482,fnd23_icsm_mvb_rocs,cost of revenue represents total costs that can be directly attributed to the goods and services produced/purchased and sold.
+483,fnd23_icsm_mvb_rpds,"Depreciation/amortization represents sum of depreciation, amortization of intangibles and amortization of acquisition costs."
+484,fnd23_icsm_mvb_rtes,Effective Tax Rate represents Provision for Income Taxes divided by Income Before Tax.
+485,fnd23_icsm_mvb_sabs,represents the weighted average common shares outstanding less the dilution of stock options for a given period. These shares are used to calculate Basic EPS.
+486,fnd23_icsm_mvb_sebv,"Basic Normalized EPS represents the bottom-line earnings per share available to commonstockholders, excluding the effects of all non-recurring/unusual/one-off/extraordinary items, after minorityinterest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments toearnings per share."
+487,fnd23_icsm_mvb_sedv,Diluted Normalized EPS
+488,fnd23_icsm_mvb_spts,Total Plan Service Cost
+489,fnd23_icsm_mvb_sptv,Prior Service Cost - Domestic
+490,fnd23_icsm_mvb_stnr,net sales.
+491,fnd23_icsm_mvb_swds,Diluted Weighted Average Shares represents the number of shares for Diluted EPS computation.
+492,fnd23_icsm_mvb_tait,NetIncome After Taxes
+493,fnd23_icsm_mvb_taiv,Normalized Income After Taxes.
+494,fnd23_icsm_mvb_tbie,"represents a company's total revenues reduced by total expenses, before taxes on net income and all after-tax adjustments."
+495,fnd23_icsm_mvb_tibs,Normalized Earnings before Interest and Taxes.
+496,fnd23_icsm_mvb_tnon,represents any non-operating income or expense item that a company reports before income taxes
+497,fnd23_icsm_mvb_tnos,other net income.
+498,fnd23_icsm_mvb_ttiv,"Income Tax - Total reflects the sum of Domestic Tax - Other, Foreign Tax - Other,Local Tax - Other and Other Tax."
+499,fnd23_icsm_mvb_uatv,Audit Fees
+500,fnd23_icsm_mvb_vdav,Advertising Expense - Supplemental represents the total cost of advertising incurred by thecompany.
+501,fnd23_icsm_mvb_vers,"Revenue represents revenues from the sale of merchandise goods, manufactured products andservices, and the distribution of regulated energy resources, depending on a specific company's industry.The item is used for industrial and utility companies."
+502,fnd23_icsm_mvb_vnin,"represents income or losses, other than interest, from investment securities. Such income may include dividend income, gain/loss on sale of investment securities, unrealized investment income or loss, equity earnings in affiliates, unconsolidated subsidiaries or joint ventures (before taxes), or any other net investment income."
+503,fnd23_icsm_mvb_xatt,Provision for Income Taxes.
+504,fnd23_icsm_mvb_xbin,"represents net income after taxes, adjusted by minority interest, equity in affiliates and the U.S. GAAP adjustment, before extraordinary items, preferred distributions and other adjustments to net income."
+505,fnd23_icsm_mvb_xeiv,"Interest Expense, Supplemental."
+508,fnd23_intfvadjfieldsacctadj_abpl,payable or accrued liabilities.
+509,fnd23_intfvadjfieldsacctadj_colv,"Current Portion of Long-Term Operating Leases,Supplemental"
+510,fnd23_intfvadjfieldsacctadj_cpoa,Other Properties/Plant/Equipment - Gross
+511,fnd23_intfvadjfieldsacctadj_ctpa,"gross property, plant & equipment."
+512,fnd23_intfvadjfieldsacctadj_dlo_abpl,payable or accrued liabilities.
+513,fnd23_intfvadjfieldsacctadj_dlo_cpoa,Other Properties/Plant/Equipment - Gross
+514,fnd23_intfvadjfieldsacctadj_dlo_ctpa,"gross property, plant & equipment."
+515,fnd23_intfvadjfieldsacctadj_dlo_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+516,fnd23_intfvadjfieldsacctadj_dlo_lltl,total liabilities.
+517,fnd23_intfvadjfieldsacctadj_dlo_ltll,Long-term obligations from right-of-use contracts related to operating leases.
+518,fnd23_intfvadjfieldsacctadj_dlo_ltls,"Other Liabilities, Total"
+519,fnd23_intfvadjfieldsacctadj_dlo_nppa,"net property, plant and equipment."
+520,fnd23_intfvadjfieldsacctadj_dlo_peda,aggregate of accumulated depreciation for each fixed asset.
+521,fnd23_intfvadjfieldsacctadj_dlo_tota,total assets of the company.
+522,fnd23_intfvadjfieldsacctadj_dlo_xeal,"represents operational expenses accrued, but not yet paid. As current liabilities, such expenses are expected to be paid within one year or one operating cycle, whichever is longer."
+523,fnd23_intfvadjfieldsacctadj_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+524,fnd23_intfvadjfieldsacctadj_lltl,total liabilities.
+525,fnd23_intfvadjfieldsacctadj_lolv,"Long-Term Operating Lease Liabilities, Supplemental"
+526,fnd23_intfvadjfieldsacctadj_ltll,Long-term obligations from right-of-use contracts related to operating leases.
+527,fnd23_intfvadjfieldsacctadj_ltls,"Other Liabilities, Total"
+528,fnd23_intfvadjfieldsacctadj_nouv,"Right-of-Use Assets - Operating Lease, Net - Supplemental"
+529,fnd23_intfvadjfieldsacctadj_nppa,"net property, plant and equipment."
+530,fnd23_intfvadjfieldsacctadj_peda,aggregate of accumulated depreciation for each fixed asset.
+531,fnd23_intfvadjfieldsacctadj_tota,total assets of the company.
+532,fnd23_intfvadjfieldsacctadj_xeal,"represents operational expenses accrued, but not yet paid. As current liabilities, such expenses are expected to be paid within one year or one operating cycle, whichever is longer."
+533,fnd23_intfvm2_3dls,Long Term Debt Maturing in Year 3
+534,fnd23_intfvm2_4dls,Long Term Debt Maturing in Year 4
+535,fnd23_intfvm2_5dls,Standardized Long Term Debt Maturing in Year 5
+536,fnd23_intfvm2_amav,"Amortization of Acquisition Costs, Supplemental"
+537,fnd23_intfvm2_artx,Extraordinary Item.
+538,fnd23_intfvm2_cclv,"Current Portion of Long-Term Capital Leases,Supplemental"
+539,fnd23_intfvm2_cipv,Interest Cost - Post-Retirement
+540,fnd23_intfvm2_colv,"Current Portion of Long-Term Operating Leases,Supplemental"
+541,fnd23_intfvm2_cpca,Construction in Progress - Gross represents the cost of construction in progress of fixed assets for acompany's own use. The cost of construction in progress is normally not depreciated until the fixed assetsare completed and placed in production.
+542,fnd23_intfvm2_cpoa,Other Properties/Plant/Equipment - Gross
+543,fnd23_intfvm2_cspv,Service Cost - Post-Retirement
+544,fnd23_intfvm2_ctdv,Deferred Tax - Total
+545,fnd23_intfvm2_dcdv,Defined Contribution Expense - Domestic
+546,fnd23_intfvm2_dciv,Interest Cost - Domestic
+547,fnd23_intfvm2_dcsv,Service Cost - Domestic
+548,fnd23_intfvm2_ddrv,Discount Rate - Domestic
+549,fnd23_intfvm2_dpxv,Expected Return on Plan Assets - Domestic
+550,fnd23_intfvm2_dtcv,Current Tax - Domestic
+551,fnd23_intfvm2_dtdv,Deferred Tax - Domestic
+552,fnd23_intfvm2_dtrv,Compensation Rate - Domestic
+553,fnd23_intfvm2_eprv,Post-Retirement Plan Expense
+554,fnd23_intfvm2_epts,Total Plan Expected Return
+555,fnd23_intfvm2_eptv,Total Pension Expense
+556,fnd23_intfvm2_ftcv,Current Tax - Foreign
+557,fnd23_intfvm2_gaxv,Actuarial Gains and Losses - Domestic
+558,fnd23_intfvm2_ilos,Operating Leases - Interest Cost
+559,fnd23_intfvm2_ipts,Total Plan Interest Cost
+560,fnd23_intfvm2_leiv,"Interest Expense on Lease Liabilities, Supplemental"
+561,fnd23_intfvm2_lolv,"Long-Term Operating Lease Liabilities, Supplemental"
+562,fnd23_intfvm2_ltcv,Current Tax - Local
+563,fnd23_intfvm2_ltdv,Deferred Tax - Local
+564,fnd23_intfvm2_nouv,"Right-of-Use Assets - Operating Lease, Net - Supplemental"
+565,fnd23_intfvm2_odrv,Expected Rate of Return - Domestic
+566,fnd23_intfvm2_ppdv,Domestic Pension Plan Expense
+567,fnd23_intfvm2_spts,Total Plan Service Cost
+568,fnd23_intfvm2_sptv,Prior Service Cost - Domestic
+569,fnd23_intfvm2_uatv,Audit Fees
+570,fnd23_intfvm2_urdv,"Depreciation of Right-of-Use Assets, Supplemental"
+571,fnd23_intfvm_1dls,Long Term Debt Maturing within 1Year
+572,fnd23_intfvm_1los,Operating Lease Payments Due in Year 1
+573,fnd23_intfvm_1nstq,Treasury Shares - Common Stock Primary Issue
+574,fnd23_intfvm_1oscq,"represents the number of common shares outstanding in a company. When a company has two or more different types of common shares outstanding, Shares Outstanding - Common Stock Primary Issue represents the primary issue, which is most actively traded in the market."
+575,fnd23_intfvm_1spdd,common dividends per share for common stock primary issues.
+576,fnd23_intfvm_2dls,Standardized Long Term Debt Maturing in Year 4
+577,fnd23_intfvm_2los,Operating Lease Payments Due in Year 2
+578,fnd23_intfvm_2spdd,common dividends per share for common stock issue 2.
+579,fnd23_intfvm_32dls,Standardized Long Term Debt Maturing in Years 2 and 3 represents the summation of Standardized Long Term Debt Maturing in Year 2 and Standardized Long Term Debt Maturing in Year 3.
+580,fnd23_intfvm_32los,Standardized Operating Lease Payments Due in Years 2 and 3 represents the summation of Standardized Operating Lease Payments Due in Year 2 and Standardized Operating Lease Payments Due in Year 3.
+581,fnd23_intfvm_3los,Standardized Operating Lease Payments Due in Year 3.
+582,fnd23_intfvm_4los,Standardized Operating Lease Payments Due in Year 4.
+583,fnd23_intfvm_54los,Standardized Operating Lease Payments Due in Years 4 and 5 represents the summation of Standardized Operating Lease Payments Due in Year 4 and Standardized Operating Lease Payments Due in Year 5.
+584,fnd23_intfvm_5los,Standardized Operating Lease Payments Due in Year 5.
+585,fnd23_intfvm_abpl,payable or accrued liabilities.
+586,fnd23_intfvm_abpo,"represents changes in accounts payable and accrued expenses during the period when a company does not delineate the two components. An increase in accounts payable and accrued expenses has a positive impact on cash flow from operating activities, and vice versa."
+587,fnd23_intfvm_acoa,other current assets.
+588,fnd23_intfvm_acos,"Other Current Assets, Total."
+589,fnd23_intfvm_acta,"total current assets. Sum of cash and short term investments, total receivables (net), total inventory, prepaid expenses, other current assets."
+590,fnd23_intfvm_adbs,"Normalized Earnings before Interest, Taxes, Depreciation and Amortization"
+591,fnd23_intfvm_adpa,represents provisions established for doubtful accounts receivable. Provision for doubtful accounts is usually established on the basis of maturities of receivables and the company's experience on collecting such receivables.
+592,fnd23_intfvm_aemc,miscellaneous earnings adjustment.
+593,fnd23_intfvm_afsi,Sale of assets to be leased out under operating lease contracts.
+594,fnd23_intfvm_agse,Selling/General/Administrative Expense.
+595,fnd23_intfvm_agss,"Selling/General/Administrative Expenses, Total."
+596,fnd23_intfvm_aiav,Accumulated Intangible Amortization represents accumulated amortization against intangible fixedassets.
+597,fnd23_intfvm_aiec,"This item represents the share of earnings/losses that the company is entitled to from unconsolidated affiliated companies, but that has not been distributed as dividends."
+598,fnd23_intfvm_aieo,"represents a reversal of non-cash earnings/losses from investments under the Equity Method. For such investments, undistributed earnings/losses of the investee are included in the net income computation of the investor. Since the earnings are non-cash, these are reversed out of cash flow from operations."
+599,fnd23_intfvm_aiev,"Equity in Affiliates, Supplemental represents the total share of earnings/losses, net of taxes, that thecompany is entitled to from unconsolidated associated companies, affiliates or joint ventures, which havenot been distributed as dividends."
+600,fnd23_intfvm_alge,loss/gain on sale of assets listed in the operating section.
+601,fnd23_intfvm_algn,Gain (Loss) on Sale of Assets.
+602,fnd23_intfvm_alos,"Other Long-Term Assets, Total."
+603,fnd23_intfvm_artx,Extraordinary Item.
+604,fnd23_intfvm_atcq,represents translation gains (losses) on financial statements of foreign subsidiaries. Such adjustments may be required when the currency of a subsidiary is different from the reporting currency of the reporting company.
+605,fnd23_intfvm_atda,deferred income taxes - long term. These are credits being applied to income taxes that will be paid in future years.
+606,fnd23_intfvm_b6los,"Standardized Operating Lease Payments Due in Year 6 and Beyond represents Total Operating Leases,Supplemental less Standardized Operating Lease Payments Due within 1 Year, StandardizedOperating Lease Payments Due in Year 2, Standardized Operating Lease Payments Due in Year 3, Standardized Operating Lease Payments Due in Year 4 and Standardized Operating LeasePayments Due in Year 5."
+607,fnd23_intfvm_bcns,"Net Cash - Beginning Balance represents the beginning balance of cash and cash equivalents, asdefined by a company."
+608,fnd23_intfvm_bfpv,Basic EPS After Stock-Based Compensation Expense represents Net Income After Stock-BasedCompensation Expense divided by Basic/Primary Weighted Average Shares.
+609,fnd23_intfvm_bloo,other liabilities
+610,fnd23_intfvm_bosi,Deconsolidation of a subsidiary classified as Sale of Business.
+611,fnd23_intfvm_bpal,"Accrued interest expenses, interest payable in commercial banks."
+612,fnd23_intfvm_bpao,"represents changes in accounts payable during the period. An increase inaccounts payable has a positive impact on cash flow from operating activities, and vice versa."
+613,fnd23_intfvm_caic,Income Available to Common Excl. Extraordinary Items
+614,fnd23_intfvm_caiv,"Normalized Income Available to Common represents the bottom-line net income available tocommon shareholders, excluding the effects of all non-recurring/unusual/one-off/extraordinary items, afterminority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all otheradjustments to net income."
+615,fnd23_intfvm_cbpa,"represents the gross amount of buildings and their attachments, before being reduced by accumulated depreciation of the buildings."
+616,fnd23_intfvm_ccns,Net Change in Cash
+617,fnd23_intfvm_cdav,Deferred Revenue - Current
+618,fnd23_intfvm_cema,"represents the acquisition cost of machinery and other equipment (including delivery equipment, office equipment, machinery, furniture and fixtures, furnishings, factory, equipment, tools, etc.) in a company, before being reduced by accumulated depreciation."
+619,fnd23_intfvm_cets,Effect of Special Items on Income Taxes.
+620,fnd23_intfvm_cila,"represents land and improvements on land at acquisition cost. Land is not depreciated, but land improvements are normally depreciated over time."
+621,fnd23_intfvm_cinx,"Income Available to Common Stocks Incl. Extraordinary Items represents the bottom-line netincome available to common stockholders, including the effects of extraordinary items - adjusted byminority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all otheradjustments to net income."
+622,fnd23_intfvm_cipq,represents capital contributed by shareholders in excess of par value of common stock in return for shares issued to them.
+623,fnd23_intfvm_cisf,"represents cash inflow from the issuance of common stock. It also includes cash inflow from the sale of treasury shares. However, issuance of additional shares from a stock split is not included in Sale/Issuance of Common"
+624,fnd23_intfvm_cnin,"Net income after taxes, adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment and extraordinary items, before preferred distributions and other adjustments to net income classified as Income Incl Extra Before Distributions"
+625,fnd23_intfvm_cpdf,common cash dividends paid
+626,fnd23_intfvm_croa,other receivables.
+627,fnd23_intfvm_crrf,"Treasury Stock, when reported in the financing section of the cash flow statement, is henceforth classified as Sale/Issuance of Common or Repurchase/Retirement Common"
+628,fnd23_intfvm_crta,total net receivables.
+629,fnd23_intfvm_cstq,"represents the value of common stock owned by the issuing company or its consolidated subsidiaries. Treasury stock is recorded at purchase cost, which is inclusive of par value, additional paid-in capital and retained earnings."
+630,fnd23_intfvm_ctcv,"Current Tax - Total reflects the sum of Current Tax - Domestic, Current Tax - Foreign, Current Tax - Local, Current Tax - Other and Current Tax - Total."
+631,fnd23_intfvm_ctda,"represents deferred tax assets with a current maturity. When there is a timing difference between financial reporting and tax preparation practices, a companymight have credits or additional tax liabilities from the government. Such credits or additional tax liabilitiesmay be reported on a net basis, but if not, government credits may be reported as an asset and additionalliabilities may be reported as a liability. The current portion of such assets are generally reported in thecurrent assets section and classified as Deferred Income Tax - Current Asset [ADTC]."
+632,fnd23_intfvm_ctpa,"gross property, plant & equipment."
+633,fnd23_intfvm_dare,Research and development costs expensed directly in the income statement.
+634,fnd23_intfvm_darv,"Research and development costs expensed directly in the income statement classified as Research & Development Expense, Supplemental"
+635,fnd23_intfvm_deds,Depreciation/Depletion represents the sum of Depreciation and Depletion.
+636,fnd23_intfvm_derq,"represents residual earnings from operations, not distributed to shareholders. It may represent accumulated deficit when a company incurs losses over time."
+637,fnd23_intfvm_dfpv,Diluted EPS After Stock-Based Compensation Expense represents Net Income After Stock-BasedCompensation Expense plus the Dilution Adjustment divided by Diluted WeightedAverage Shares.
+638,fnd23_intfvm_dgcd,gross dividends on common stock.
+639,fnd23_intfvm_dlcl,Current Port. of LT Debt/Capital Leases.
+640,fnd23_intfvm_dlts,Total Debt represents total interest-bearing debt outstanding.
+641,fnd23_intfvm_dltv,"Total Long Term Debt, Supplemental reflects the sum of Long Term Debt Maturing within 1 through10 Years and Long Term Debt - Remaining Maturities."
+642,fnd23_intfvm_drpc,represents the total amount of the current dividend requirement on issued preferred stock of a company (including its subsidiaries).
+643,fnd23_intfvm_drpf,"If debt issuances and reductions are not delineated separately, the total is classified as Issuance (Retirement) of Debt, Net"
+644,fnd23_intfvm_dtll,"represents interest-bearing debt with maturities beyond one year. Long-term debt may consist of long-term bank borrowings, bonds, convertible bonds, etc."
+645,fnd23_intfvm_dtns,Net Debt Including Preferred Stock & Minority Interest.
+646,fnd23_intfvm_dtsl,notes payable/short term debt.
+647,fnd23_intfvm_dttl,"represents interest-bearing debt with maturities beyond one year. Long-term debt may consist of long-term bank borrowings, bonds, convertible bonds, etc."
+648,fnd23_intfvm_eaca,cash & equivalents.
+649,fnd23_intfvm_ecns,Net Cash - Ending Balance represents the sum of Net Change in Cash and Net Cash -Beginning Balance.
+650,fnd23_intfvm_eefs,Foreign Exchange Effects represents the increase/decrease in cash and cash equivalents due to changes in exchange rates.
+651,fnd23_intfvm_eiue,Acquisition costs/expenses.
+652,fnd23_intfvm_eiuo,"is applicable only if Net Income/Starting Line [ONET] is income after gains/losses from unusual activities. Because the operating section of the cash flow pursues changes in cash flow from operating activities, any unusual gain/loss included in net income computation needs to be reversed."
+653,fnd23_intfvm_eius,Unusual Expense (Income).
+654,fnd23_intfvm_eltq,total equity.
+655,fnd23_intfvm_eooe,"Depreciation of investment properties disclosed outside of the cost of goods sold, for companies reporting in the IFRS or in other standards that treat these as investments"
+656,fnd23_intfvm_eoos,"Other Operating Expenses, Total."
+657,fnd23_intfvm_eote,"represents total expenses that are operating in nature, including variable costs directly related to the volume of sales, indirect operating costs, depreciation or amortization, operating provisions and other expenses incurred from operating activities."
+658,fnd23_intfvm_eror,other revenue.
+659,fnd23_intfvm_eros,"Other Revenue, Total."
+660,fnd23_intfvm_etoq,represents any residual value of shareholders' equity that belongs to shareholders.
+661,fnd23_intfvm_etos,"Other Equity, Total."
+662,fnd23_intfvm_fbbs,"represents the bottom-line earnings per shareavailable to common stockholders, excluding the effects of extraordinary items - adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+663,fnd23_intfvm_fbds,"Diluted EPS Excluding Extraordinary Items represents the bottom-line earnings per share available to common stockholders, excluding extraordinary items, adjusted by the effects of dilution. This value is adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+664,fnd23_intfvm_fcff,other financing cash flow
+665,fnd23_intfvm_fcfs,"financing cash flow items represents sum of increase/decrease ind eposits, increase/decrease in federal funds sold or REPOs and FHLB plus other financing cash flow."
+666,fnd23_intfvm_fcii,Cash used for discontinued operations classified as Other Investing Cash Flow
+667,fnd23_intfvm_fcis,"Other Investing Cash Flow Items, Total represents all items reported within the investing activities in the cash flow statement, other than capital expenditures."
+668,fnd23_intfvm_fcoo,"represents the impact of other operating cash flow items that cannot be classified as an adjustment item to net income, or an asset/liability as part of changes in non-cash working capital."
+669,fnd23_intfvm_fcos,Changes in Working Capital
+670,fnd23_intfvm_fltf,"cash from financing activities that is the sum of financing cash flow items, cash dividends paid, issuance of stock, net and issuance of debt, net."
+671,fnd23_intfvm_gfia,represents inventories of unsold finished goods on hand. These goods may have been produced internally or purchased for resale.
+672,fnd23_intfvm_gnia,"represents the gross purchase value of assets that lack physical existence, beforebeing reduced by accumulated impairment and intangible amortization."
+673,fnd23_intfvm_graa,gross accounts receivable from sales of trading assets such as inventories or from services provided.
+674,fnd23_intfvm_iabs,"represents the bottom-line earnings per share available to common stockholders, including the effects of extraordinary items - adjusted by minority interest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments to earnings per share."
+675,fnd23_intfvm_iads,"Diluted EPS Including Extraordinary Items represents the bottom-line earnings per share available to common stockholders, including extraordinary items, adjusted by the effects of dilution."
+676,fnd23_intfvm_icno,other non cash items.
+677,fnd23_intfvm_icns,non-cash items.
+678,fnd23_intfvm_idlf,"represents cash inflow on the issuance of long-term debt instruments in a company. Long-term debt may include long-term bank borrowings, corporate bonds, convertible bonds, etc."
+679,fnd23_intfvm_idsf,"represents cash inflow due to the issuance of short-term debt. If short-term debt issuances and reductions are not delineated separately, the total is classified as Short Term Debt, Net"
+680,fnd23_intfvm_ifpv,Net Income After Stock-Based Compensation Expense
+681,fnd23_intfvm_ilti,Cash from Investing Activities.
+682,fnd23_intfvm_imae,amortization of intangible assets reported outside the cost of goods and services sold
+683,fnd23_intfvm_imao,"When the Indirect Method is utilized, and the company delineates amortization and depreciation separately, the amortization is classified as Amortization of Intangibles"
+684,fnd23_intfvm_imav,Amortization.
+685,fnd23_intfvm_inas,"total adjustments to net income represents sum of preferred dividend, general partners distributions, misc. earnings adjustments, pro forma adjustment and interest adjustments."
+686,fnd23_intfvm_inds,"Diluted Net Income represents the bottom-line net income available to common shareholders, including extraordinary items, adjusted by the effects of dilution."
+687,fnd23_intfvm_ipos,Operating Income.
+688,fnd23_intfvm_iqea,"represents long-term investment in securities (loans, bonds,and equity) of affiliate companies, where the affiliation may be defined as associated companies, jointventures, and unconsolidated subsidiaries."
+689,fnd23_intfvm_iscs,cash and short-term investments.
+690,fnd23_intfvm_ists,Total Special Items represents the sum of all non-recurring/unusual/extraordinary/one-off/specialgains and losses that impact a company in any given period.
+691,fnd23_intfvm_itla,represents long-term investments with maturities of one year or longer.
+692,fnd23_intfvm_itpv,"Normalized Income Before Taxes represents net income before taxes, excluding the effects of all non-recurring/unusual/one-off/extraordinary items."
+693,fnd23_intfvm_itsa,Short-Term Investments
+694,fnd23_intfvm_iucs,Total Current Assets less Inventory represents Total Current Assets minus Total Inventory.
+695,fnd23_intfvm_iwga,net goodwill.
+696,fnd23_intfvm_ixts,Total Extraordinary Items
+697,fnd23_intfvm_kcqs,Quick Ratio represents Total Current Assets less Inventory divided by Total Current Liabilities.
+698,fnd23_intfvm_laoo,"represents the changes in the combined sum of assets and liabilities when a company reports these totals as a single line. If the value of the assets is greater than the value of the liabilities, the result has a negative impact on cash flow, and vice versa."
+699,fnd23_intfvm_lcol,other current liabilities.
+700,fnd23_intfvm_lcos,"Other Current Liabilities, Total."
+701,fnd23_intfvm_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+702,fnd23_intfvm_letq,sum of total liabilities and total equity.
+703,fnd23_intfvm_lltl,total liabilities.
+704,fnd23_intfvm_lltq,represents the sum of Total Equity and Equity Non-Controlling Interests.
+705,fnd23_intfvm_lotv,"Total Operating Leases, Supplemental reflects the sum of Operating Leases Maturing within 1through 10 Years, Operating Leases - Remaining Maturities andOperating Leases - Interest Cost."
+706,fnd23_intfvm_ltia,total inventory.
+707,fnd23_intfvm_ltio,"represents changes in inventories during the period. An increase in inventories has a negative impact on cash flow from operating activities, and vice versa."
+708,fnd23_intfvm_ltll,Long-term obligations from right-of-use contracts related to operating leases.
+709,fnd23_intfvm_ltls,"Other Liabilities, Total"
+710,fnd23_intfvm_mocq,other comprehensive income.
+711,fnd23_intfvm_mpns,Net Profit Margin represents Income Available to Common Excluding Extraordinary Items divided by Total Revenue.
+712,fnd23_intfvm_mria,annual inventories - raw material.
+713,fnd23_intfvm_mtps,Pretax Margin.
+714,fnd23_intfvm_ndlf,"If long-term debt issuances and reductions are not delineated separately, the total is classified as Long Term Debt, Net"
+715,fnd23_intfvm_ndsf,"If short-term debt issuances and reductions are not delineated separately, the total is classified as Short Term Debt, Net"
+716,fnd23_intfvm_nein,"represents interest expense on debt of non-financial service companies, including insurance companies."
+717,fnd23_intfvm_neis,"Interest Expense, Net Non-Operating represents Interest Expense, Non-Operating, reduced by Interest Capitalized, Non-Operating, and is usually a negative value."
+718,fnd23_intfvm_nicn,non operating interest capitalized.
+719,fnd23_intfvm_niie,interest income from operating section.
+720,fnd23_intfvm_niin,"represents non-operating interest income, which is generated from non-operating investment securities such as certificates of deposit or bonds for non-financial service companies."
+721,fnd23_intfvm_niis,"Interest/Investment Income, Non-Operating"
+722,fnd23_intfvm_nimc,"represents the share of earnings/losses in subsidiaries that belongs to shareholders other than the parent company when the parent company owns less than 100%, but more than 50%, of a subsidiary. Since the subsidiary's financials are consolidated with the company, this value is a negative number to represent the amount the company does not own."
+723,fnd23_intfvm_niml,represents accumulated interest for minority shareholders in subsidiaries that are less than 100 percent owned by the reporting parent company. The net worth of a subsidiary is assumed to be proportionally owned by parent company and other minority shareholders according to their respective ownership percentage.
+724,fnd23_intfvm_nimv,"Minority Interest, Supplemental represents the share of earnings/losses in subsidiaries that belongsto shareholders other than the parent company when the parent company owns less than 100%, but morethan 50%, of a subsidiary."
+725,fnd23_intfvm_nins,"Interest Expense (Income), Net- Non-Operating, Total"
+726,fnd23_intfvm_nnie,interest expense from net operating income.
+727,fnd23_intfvm_nnin,Interest expense that is reduced by interest income.
+728,fnd23_intfvm_nnis,"Net - Net Operating, Total"
+729,fnd23_intfvm_nppa,"net property, plant and equipment."
+730,fnd23_intfvm_nscf,"If the sale, issuance or repurchase of common stock is not separately delineated, then the total is classified as Common Stock, Net"
+731,fnd23_intfvm_nspf,represents the sum of Sale/Issuance of Preferred and Repurchase/Retirement of Preferred.
+732,fnd23_intfvm_ntiv,"Income Taxes Excluding Impact of Special Items represents total income taxes, adjusted by the taximpact of adding back non-recurring items, used in the computation of normalized"
+733,fnd23_intfvm_nvii,"represents changes in investments in securities and other investments. Investment, Net is utilized when a company does not delineate the sale of investments and the purchase of investments on the cash flow statement."
+734,fnd23_intfvm_octq,represents the number of primary common shares equivalent outstanding.
+735,fnd23_intfvm_odio,is applicable only if Net Income/Starting Line is income after gains/losses from discontinued operations.
+736,fnd23_intfvm_odix,Discontinued Operations.
+737,fnd23_intfvm_oeis,"Interest Expense, Net - Operating"
+738,fnd23_intfvm_oiis,Interest/Investment Income - Operating
+739,fnd23_intfvm_olto,"includes diverse cash flows that are reported outside of the operating, investing and financing sections of the cash flow statement."
+740,fnd23_intfvm_pacv,"Interest Capitalized,Supplemental"
+741,fnd23_intfvm_pbts,"Tangible Book Value per Share, Common Equity."
+742,fnd23_intfvm_pdcf,Total Cash Dividends Paid.
+743,fnd23_intfvm_peda,aggregate of accumulated depreciation for each fixed asset.
+744,fnd23_intfvm_pede,Depreciation of fixed assets reported outside of the cost of goods and services sold.
+745,fnd23_intfvm_peds,depreciation.
+746,fnd23_intfvm_pedv,Deprecation
+747,fnd23_intfvm_pics,cash interest paid represents interest paid in cash during the period Cash Interest.
+748,fnd23_intfvm_pnii,Acquisition of investment securities of a company (rather than the whole business unit) classified as Purchase of Investments
+749,fnd23_intfvm_ppgs,Gross Margin  represents Gross Profit  divided by Revenue. Gross Margin is not available if either Gross Profit or Revenue is missing or if Revenue is negative.
+750,fnd23_intfvm_ppos,Operating Margin.
+751,fnd23_intfvm_prgs,Gross Profit represents a measure of a company's operating performance. Gross Profit states the profits earned from a company's revenues and direct costs.
+752,fnd23_intfvm_ptcs,"cash taxes paid represents taxes paid in cash, net of tax refunds received, as reported by the company."
+753,fnd23_intfvm_pwia,inventories that are WIP or work-in-progress.
+754,fnd23_intfvm_pxrv,"Rental Expense, Supplemental represents the total value of rental expenses paid for offices, factories, machinery and equipment."
+755,fnd23_intfvm_pxtl,"Income Taxes Payable represents income taxes payable to the government, where such tax liabilityis already confirmed in terms of amount and payable date."
+756,fnd23_intfvm_pxto,"represents changes in taxes payable during the period. An increase in income taxes payable has a positive impact on cash flow from operating activities, and vice versa."
+757,fnd23_intfvm_qabi,represents cash outflow for acquiring new businesses. Reporting the cash flow for acquiring new businesses is not consistent among companies.
+758,fnd23_intfvm_qaii,Franchise acquired (classified as Purchase/Acquisition of Intangibles).
+759,fnd23_intfvm_rale,"Labor costs reported outside of the cost of goods sold, or not clearly labeled as part of the cost of goods sold, for businesses other than manufacturing and mining companies"
+760,fnd23_intfvm_rcaa,accounts receivable value.
+761,fnd23_intfvm_rcao,"represents changes in accounts receivable during the period. An increase in accounts receivable has a negative impact on cash flow from operating activities, and vice versa."
+762,fnd23_intfvm_rdlf,represents cash outflow on the repayment of long-term debt in a company. Long-term debt obligations may be repaid upon maturity or replaced with new debt.
+763,fnd23_intfvm_rdsf,"represents cash outflow due to the repayment of short-term debt. If short-term debt issuances and reductions are not delineated separately, the total is classified as Short Term Debt, Net"
+764,fnd23_intfvm_rltr,"total revenue represents all items clearly presented as revenues, before the cost of goods sold and the gross profit."
+765,fnd23_intfvm_roce,cost of revenue including labor coasts reported within cost of goods sold & that are not clearly labeled as cost of goods sold.
+766,fnd23_intfvm_rocs,cost of revenue represents total costs that can be directly attributed to the goods and services produced/purchased and sold.
+767,fnd23_intfvm_rpds,"Depreciation/amortization represents sum of depreciation, amortization of intangibles and amortization of acquisition costs."
+768,fnd23_intfvm_rtcv,Current Tax - Total
+769,fnd23_intfvm_rtes,Effective Tax Rate represents Provision for Income Taxes divided by Income Before Tax.
+770,fnd23_intfvm_rucs,Current Ratio represents Total Current Assets divided by Total Current Liabilities.
+771,fnd23_intfvm_sabs,represents the weighted average common shares outstanding less the dilution of stock options for a given period. These shares are used to calculate Basic EPS.
+772,fnd23_intfvm_saie,Impairment/write-down/write-off/revaluation of investment securities arising from an unusual event.
+773,fnd23_intfvm_saoa,non operational fixed assets that are long term.
+774,fnd23_intfvm_saoo,Accrued interest income for companies other than financial service companies.
+775,fnd23_intfvm_sebv,"Basic Normalized EPS represents the bottom-line earnings per share available to commonstockholders, excluding the effects of all non-recurring/unusual/one-off/extraordinary items, after minorityinterest, equity in affiliates, the U.S. GAAP adjustment, preferred distributions and all other adjustments toearnings per share."
+776,fnd23_intfvm_sedv,Diluted Normalized EPS
+777,fnd23_intfvm_sere,Restructuring Charge is an unusual or non-recurring item related to a significant rearrangement of a company's assets and/or liabilities.
+778,fnd23_intfvm_smcq,"Common Stock represents the value of the most frequently issued class of stock; usually it provides a voting right, but is secondary to preferred stock in dividend and liquidation rights."
+779,fnd23_intfvm_smcs,total common stock represets the combined value of common stock and limited partner.
+780,fnd23_intfvm_snii,Deconsolidation of subsidiaries if ownership interest in a subsidiary is reduced classified as Sale/Maturity of Investment
+781,fnd23_intfvm_srps,"Preferred Stock - Non-Redeemable, Total."
+782,fnd23_intfvm_sspf,"If the sale, issuance or repurchase of common and preferred stock is not separately delineated, then the total is classified as Issuance (Retirement) of Stock, Net."
+783,fnd23_intfvm_stnr,net sales.
+784,fnd23_intfvm_swds,Diluted Weighted Average Shares represents the number of shares for Diluted EPS computation.
+785,fnd23_intfvm_tait,NetIncome After Taxes
+786,fnd23_intfvm_taiv,Normalized Income After Taxes.
+787,fnd23_intfvm_tbie,"represents a company's total revenues reduced by total expenses, before taxes on net income and all after-tax adjustments."
+788,fnd23_intfvm_tdbl,"represents income taxes estimated and expected to be paid within one year or an operating cycle, whichever is longer."
+789,fnd23_intfvm_tdbo,Deferred Taxes for indirect Cash Flow
+790,fnd23_intfvm_tdbs,represents the sum of Deferred Income Tax - Long Term Liability and Deferred Investment Tax Credit
+791,fnd23_intfvm_teno,is the first line of a cash flow statement when a company employs the Indirect Method in the operating cash flow section.
+792,fnd23_intfvm_tibs,Normalized Earnings before Interest and Taxes.
+793,fnd23_intfvm_tile,litigation costs. These are non-recurring/unusual items reported within the cost of goods and services sold.
+794,fnd23_intfvm_tmaa,accumulated intangible amortization.
+795,fnd23_intfvm_tmas,"amortization representes sum of amortization of intangibles, amortization of acquisition costs, amortization of deferred policy costs."
+796,fnd23_intfvm_tnia,"represents the net value of assets that lack physical existence, reduced by accumulated impairment and intangible amortization."
+797,fnd23_intfvm_tnir,interest income.
+798,fnd23_intfvm_tnoe,Income from external grants received to cover research and development expenses.
+799,fnd23_intfvm_tnon,represents any non-operating income or expense item that a company reports before income taxes
+800,fnd23_intfvm_tnos,other net income.
+801,fnd23_intfvm_tota,total assets of the company.
+802,fnd23_intfvm_trsr,sales returns and allowances.
+803,fnd23_intfvm_ttiv,"Income Tax - Total reflects the sum of Domestic Tax - Other, Foreign Tax - Other,Local Tax - Other and Other Tax."
+804,fnd23_intfvm_txee,"Excise taxes payment including Sales taxes, value-added tax (VAT) and other excise taxes reported within the cost of goods sold"
+805,fnd23_intfvm_txer,"represents government-levied taxes on the manufacture, sale, or consumption of goods and services, which are included in the sale price, collected by the seller, and returned to the government."
+806,fnd23_intfvm_uaie,"form of an unusual item related to the impairment of longlived assets, certain identifiable intangibles, and goodwill related to those assets."
+807,fnd23_intfvm_vacl,Advances/deposits from customers for the products to be sold or services to be rendered classified as Customer Advances.
+808,fnd23_intfvm_vbts,"Tangible Book Value, Common Equity."
+809,fnd23_intfvm_vdae,advertising expense reported outside the cost of goods and services sold
+810,fnd23_intfvm_vdav,Advertising Expense - Supplemental represents the total cost of advertising incurred by thecompany.
+811,fnd23_intfvm_veev,Pro Forma Stock Compensation Expense represents employee compensation paid in the form ofstock options that have not yet been exercised and are not disclosed on the income statement.
+812,fnd23_intfvm_verr,gross revenue.
+813,fnd23_intfvm_vers,"Revenue represents revenues from the sale of merchandise goods, manufactured products andservices, and the distribution of regulated energy resources, depending on a specific company's industry.The item is used for industrial and utility companies."
+814,fnd23_intfvm_vnie,investing income from operating section.
+815,fnd23_intfvm_vnin,"represents income or losses, other than interest, from investment securities. Such income may include dividend income, gain/loss on sale of investment securities, unrealized investment income or loss, equity earnings in affiliates, unconsolidated subsidiaries or joint ventures (before taxes), or any other net investment income."
+816,fnd23_intfvm_vnis,Long-Term Investments represents the sum of LT Investments - Affiliate Companies and LT Investments - Other.
+817,fnd23_intfvm_wdre,"The portion of acquired in-process research and development costs (IPR&D) that was directly expensed in the income statement, or written off as a result of impairment testing"
+818,fnd23_intfvm_xatt,Provision for Income Taxes.
+819,fnd23_intfvm_xbin,"represents net income after taxes, adjusted by minority interest, equity in affiliates and the U.S. GAAP adjustment, before extraordinary items, preferred distributions and other adjustments to net income."
+820,fnd23_intfvm_xeal,"represents operational expenses accrued, but not yet paid. As current liabilities, such expenses are expected to be paid within one year or one operating cycle, whichever is longer."
+821,fnd23_intfvm_xeao,"represents changes in accrued expenses during the period. An increase in accrued expenses has a positive impact on cash flow from operating activities, and vice versa."
+822,fnd23_intfvm_xeci,purchase of fixed assets.
+823,fnd23_intfvm_xecs,capital expenditures.
+824,fnd23_intfvm_xeie,interest expense.
+825,fnd23_intfvm_xeiv,"Interest Expense, Supplemental."
+826,fnd23_intfvm_xpof,"represents cash inflow due to stock options exercised, which results in an increase of common stock."
+827,fnd23_intfvm_yppa,prepaid expenses.
+828,fnd23_intfvm_yppo,"represents changes in prepaid expenses during the period. An increase in prepaid expenses has a negative impact on cash flow from operating activities, and vice versa."
+829,fnd23_intfvmfm_dttl,"represents interest-bearing debt with maturities beyond one year. Long-term debt may consist of long-term bank borrowings, bonds, convertible bonds, etc."
+830,fnd23_intfvmfm_eltq,total equity.
+831,fnd23_intfvmfm_inds,"Diluted Net Income represents the bottom-line net income available to common shareholders, including extraordinary items, adjusted by the effects of dilution."
+832,fnd23_intfvmfm_lctl,represents current liabilities for industrial and utility companies. Current liabilities are liabilities that are incurred from operating activities and expected to be due within one year or an operating cycle of the company.
+833,fnd23_intfvmfm_olto,"includes diverse cash flows that are reported outside of the operating, investing and financing sections of the cash flow statement."
+834,fnd23_intfvmfm_rltr,"total revenue represents all items clearly presented as revenues, before the cost of goods sold and the gross profit."
+835,fnd23_intfvmfm_srps,"Preferred Stock - Non-Redeemable, Total."
+836,fnd23_intfvmfm_tota,total assets of the company.
+838,fnd23_iwgv,Goodwill - Net
+839,fnd23_laxv,Actuarial Gains and Losses - Post-Retirement
+840,fnd23_lt_debt,long term debt.
+841,fnd23_net_debt,net debt
+842,fnd23_net_income,net income
+843,fnd23_net_reveivables,net receivables.
+844,fnd23_nppv,Other Property/Plant/Equipment - Net
+845,fnd23_ofc,cash flow from operating activities.
+846,fnd23_opxv,"Other Pension, Net - Domestic"
+847,fnd23_pcsv,"Stock-Based Compensation, Supplemental"
+848,fnd23_ppfv,Foreign Pension Plan Expense
+849,fnd23_ptfv,Prior Service Cost - Foreign
+850,fnd23_qftm,Retail Sales represents the total value of sales at retail locations (physical stores) during the period.
+851,fnd23_rcdv,Defined Contribution Expense Post-Retirement
+852,fnd23_repnotickermap,maps each rep to a ticker on a given day.
+853,fnd23_rnd_expense,R&D expenses.
+854,fnd23_roe,return on equity
+855,fnd23_rpts,Total Plan Other Expense represents the total amount of other expenses on all of a company'spension and post-retirement plans.
+856,fnd23_rtdv,Deferred Tax - Total
+857,fnd23_rtxv,Transition Costs - Domestic
+858,fnd23_rxfv,Expected Return on Assets - Foreign
+859,fnd23_saiv,"Impairment-Assets Held for Sale, Supplemental"
+860,fnd23_scxv,Curtailments & Settlements - Post-Retirement
+861,fnd23_serv,"Restructuring Charge, Supplemental"
+864,fnd23_spd,dividend per share
+865,fnd23_supercalendar_interval,time interval for which value is given.
+867,fnd23_tangible_bvps,tangible book value per share.
+868,fnd23_tcxv,Curtailments and Settlements - Domestic
+869,fnd23_tius,"Non-Recurring Items, Total"
+873,fnd23_tot_assets,total assets.
+874,fnd23_tot_inventory,total inventory.
+875,fnd23_tot_revenue,total revenue.
+877,fnd23_uaiv,"Impairment-Assets Held for Use,Supplemental"
+878,fnd23_vb_apts,Total Plan Assets
+879,fnd23_vb_dapv,Plan Assets - Domestic
+880,fnd23_vb_dcrv,Compensation Rate - Domestic
+881,fnd23_vb_dlav,Accrued Liabilities - Domestic
+882,fnd23_vb_dpav,Pension Obligation - Domestic
+883,fnd23_vb_dppv,Funded Status - Domestic
+884,fnd23_vb_drdv,Discount Rate - Domestic
+885,fnd23_vb_fotv,All Other Fees Paid to Auditor
+886,fnd23_vb_ftdv,Deferred Tax - Foreign
+887,fnd23_vb_fttv,Tax Fees
+888,fnd23_vb_ltem,Full-Time Employees
+889,fnd23_vb_opts,Total Plan Obligations
+890,fnd23_vb_pppv,Funded Status - Post-Retirement
+891,fnd23_vb_ratv,Audit-Related Fees
+892,fnd23_vb_rpav,Post-Retirement Obligation
+893,fnd23_vb_sonm,Number of Common Shareholders
+894,fnd23_vb_ssfv,Total Funded Status
+895,fnd23_ve,enterprise value
+901,fnd23_wqrearncal_interval,time interval for which value is given.

@@ -1,0 +1,11 @@
+,id,description
+0,mdl43_averagedailyvolume,Average daily volume
+1,mdl43_consensus,Indicator of presence (1) or absence (0) of consensus in buying or selling
+2,mdl43_insiderrole,Indicator of significant (1) or non-significant (0) role level insiders
+3,mdl43_marketcap,Current market capitalization
+4,mdl43_overallscore,The current company score from the model
+5,mdl43_previousscore,Previous week model score
+6,mdl43_provensellscore,"Comparative performance ranking for each seller, from least predictive (1) to most predictive (100)"
+7,mdl43_sectorcode,A code identifying the business sector in which the company primarily operates
+8,mdl43_statusindicator,"A status flag indicating whether the current score has been (R)evised, (N)ot Changed, or (D)ecayed from the previous score"
+9,mdl43_volume,Indicates the presence (1) or absence (0) of a large volume level associated with the transaction for the company score

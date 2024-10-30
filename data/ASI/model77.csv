@@ -1,0 +1,278 @@
+,id,description
+0,mdl77_6351_rp,15/36 Week Stock Price Ratio  : It is defined as the moving average of a stock's prices in last 15-week divided by the moving average of its prices in last 36-week.
+1,mdl77_actrtn12m,12-Month Active Return with 1-month Lag : It is defined as the percent change in price for a stock from month t-13 to month t-1.
+2,mdl77_actrtn18m,18-Month Active Return with 1-Month Lag : It is defined as the percent change in price for a stock from month t-19 to month t-1.
+3,mdl77_actrtn1m,1-Month Active Return : It is defined as the percent change in price for a stock from month t-1 to month t.
+4,mdl77_actrtn24m,24-Month Active Return with 1-Month Lag  : It is defined as the percent change in price for a stock from month t-25 to month t-1.
+5,mdl77_actrtn2m,2-Month Active Return : It is defined as the percent change in price for a stock from month t-2 to month t.
+6,mdl77_actrtn36m,36-Month Active Return with 1-Month Lag : It is defined as the percent change in price for a stock from month t-37 to month t-1.
+7,mdl77_actrtn3m,3-Month Active Return : It is defined as the percent change in price for a stock from month t-3 to month t.
+8,mdl77_actrtn60m,60-Month Active Return with 1-Month Lag : It is defined as the percent change in price for a stock from month t-61 to month t-1.
+9,mdl77_actrtn6m,6-Month Active Return with 1-Month Lag  : It is defined the percent change in price for a stock from month t-7 to month t-1.
+10,mdl77_actrtn9m,9-Month Active Return with 1-Month Lag : It is defined as a stock's price percent change from month t-10 to month t-1.
+11,mdl77_ad,Total Debt to Total Assets : It is defined as the most recently reported total debt divided by total assets.
+12,mdl77_ags,"SG&A Expenses-to-Sales : It is defined as the trailing 12-month selling, general management, and administration expenses divided by the trailing 12-month sales."
+13,mdl77_alpha60m,60-Month Alpha : It is defined as the intercept of the regression line which best fits a stock's monthly price return against the S&P 500 index monthly return over last 60-month period.
+14,mdl77_aoer,Retained Earnings-to-Total Assets : It is defined as the reported cumulative retained earnings from the most recent quarter deflated by reported total assets from the most recent quarter.
+15,mdl77_aor,Return on Assets : It is defined as the trailing 12-month income before extra items divided by the average of total assets in the same period.
+16,mdl77_apemtt,An indicator that standardizes and compares relative share price between time periods and among companies.
+17,mdl77_apsales,Asia-Pacific Sales Exposure : It is defined as the annual aggregate sales for Asia-Pacific as reported by the company divided by total annual sales
+18,mdl77_aspanratio,Stock's quarterly operating assets minus its operating liabilities deflated by the lagged total assets
+19,mdl77_astcomp,Asset Composition : It is defined as the total current assets from the most recent quarter divided by the total assets from the most recent quarter.
+20,mdl77_astto,Assets Turnover Ratio : It is defined as the trailing 12-month sales divided by the most recently reported quarterly assets.
+21,mdl77_beta,60-Month Beta : It is defined as 0.67 times the 60-month beta plus 0.33Beta is the covariance between a stock's monthly return and the monthly S&P 500 index return in the prior 60-month period divided by the variance of the monthly S&P 500 index return in the same period.
+22,mdl77_betasigma,Product of Beta and Sigma : It is defined as the product of the adjusted 60-month Beta and 60-month Sigma (standard deviation of monthly price returns).
+23,mdl77_bmpo,Operating Profit Margin : It is defined as the most recently reported quarterly operating income divided by the corresponding quarterly sales.
+24,mdl77_booklev,Book Leverage : It is defined as the most recently reported quarterly total assets divided by the book equity.
+25,mdl77_bpemtt,The company's performance in trailing 1-year before taking into account of non-recurring gain or loss.stock divided by its month-end trading price.
+26,mdl77_capacq,Capital Acquisition Ratio : It is defined as the trailing 12-month operating cash flow less than the trailing 12-month cash dividends and then divided by the total expenditures in the same period.
+27,mdl77_capexast,Capital Expenditure-to-Total Assets : It is defined as trailing 12-month capital expenditures divided by the total assets from most recent quarter
+28,mdl77_capexsale,TTM Capital Expenditures-to-Sales : It is defined as trailing 12-month capital expenditures divided by trailing 12-month sales.
+29,mdl77_cashburnrate,Cash Burn Rate : It is defined as: -(Cash From Operations + Cash from Investments)/(Cash + Short-term Investments).
+30,mdl77_cashc,Cash Cycle : It is defined as the average inventory days plus the average collection days minus the average payable days.
+31,mdl77_cashp,Cash-to-Price : It is defined as the most recently reported cash and equivalents per share of a company divided by trading price.
+32,mdl77_cashratio,Cash & Equivalents-to-Current Liabilities : It is defined as the most recently reported quarterly cash & equivalents divided by current liabilities.
+33,mdl77_cashsale,The mean value of company's assets in the trailing 1-year divided by the trailing 1-year revenues.
+34,mdl77_cashsev,Cash to Enterprise Value : It is defined as the total cash & equivalents dividd by the sum of the market value of common equity and book value of long-term debt.
+35,mdl77_ccacw,Working Capital Accruals : It equals to: Increase in Accounts Receivables + Increase in Inventory + Decrease in Accounts Payable and Accrued Liabilities + Decrease in Accrued Income Taxes + Increase (Decrease) in Asssets (Liabilities).
+36,mdl77_ceroe,The trailing 12-month funds from operations divided by the average of current and previous year
+37,mdl77_cfita,TTM Cash Flow from Investment to Total Assets : It is defined as the trailing 12-month cash flow from the investing portion of the cash flow statement divided by the last 4 quarters average total assets
+38,mdl77_cfleverage,Cash Flow Leverage : It is defined as the total liabilities divided by the trailing 12-month operating cash flow.
+39,mdl77_cfroi,"Cash Flow Return on Invested Capital : It is defined as the trailing 12-month cash flow divided by the average invested capital in the same periodInvested capital equals the sum of common equity,long-term debt,minority interest and preferred stock."
+40,mdl77_cg3ysales,The geometric growth rate of the trailing 12-month sales per share in the last 12 quarters.
+41,mdl77_chg3ycfast,3-yr Change in Assets-adj TTM Cash Flow : It is defined as the most recently reported trailing 12-month operating cash flow minus 12-quarter ago comparable trailing 12-month cash flow scaled by the average total assets in the same period.
+42,mdl77_chg3yepsast,3-yr Change in Assets-adj TTM EPS : It is defined as the the trailing 12-month earnings per share before extra items (EPS) minus the EPS 12-quarters ago deflated by the average total assets per share.
+43,mdl77_chg3yepsp,The difference between the the trailing 12-month earnings per share and that of 12-quarters ago for a stock divided by its month-end trading price.
+44,mdl77_chg3yfcfast,3-yr Chg in Assets-adj TTM Free Cash Flow : It is defined as the the trailing 12-month free cash flow minus 12-quarters ago trailing 12-month free cash flow divided by the average total assets.
+45,mdl77_chg3yocfast,3-yr Change in Assets-adj TTM Oper Cash Flow : It is defined as the most recently reported trailing 12-month operating cash flow (OCF) minus the OCF 12-quarters ago deflated by the average total assets.
+46,mdl77_chg6malpha18m,"6-Month Nominal Change in 18-Month Alpha : It is defined as the 6-month change in a stock's 18-month alpha, which equals the intercept from the regression of a stock price's monthly return against the S&P 500 index monthly return over last 18-month period."
+47,mdl77_chgalpha12m,"6-Month Nominal Change in 12-Month Alpha : It is defined as the 6-month change in a stock's 12-month alpha, which equals the intercept from the regression of a stock price's monthly return against the S&P 500 index monthly return over last 12-month period."
+48,mdl77_chgalpha36m,"6-Month Nominal Change in 36-Month Alpha : It is defined as the 6-month change in a stock's 36-month alpha, which equals the intercept from the regression of a stock price's monthly return against the S&P 500 index monthly return over last 36-month period."
+49,mdl77_chgars,1-yr Chg in Acct Receivable as % of Sales : It is defined as the change between the last reported accounts receivable as a percentage of trailing 12-month sales and that percentage 4 quarters ago.
+50,mdl77_chgnoa,"Change in Net Operating Assets : It is defined as the year-over-year change of net operating assets to total assets, where net operating assets equal most recent quarterly short-term debt plus long-term debt + preferred equity plus common equity minus cash"
+51,mdl77_chgollev,"Change in Operating Liability Leverage : It is defined as the current quarter operating liability leverage less the operating liability leverage 4 quarters ago, where operating liability leverage equals 1 minus the ratio of (short-term debt + long-term debt + common equity + preferred equity - cash) to (total assets - cash)"
+52,mdl77_chgreccast,YOY Chg in Acct Receivable to Current Assets : It is defined as the percent change in the most recent quarterly reported accounts receivable to current assets ratio from the ratio for the same quarter one year ago.
+53,mdl77_chgsgasale,"Change in QTR SG&A Expenses vsSales : It is defined as the difference between the yearly change in quarterly Selling, General and Administrative expenses and yearly change in quarterly sales."
+54,mdl77_chgshare,Percent Change in Shares Outstanding  : It is defined as the percent change in a company's current number of outstanding shares as compared to the number of shares outstanding one year ago.
+55,mdl77_chgvolpre4y,4-Year Change in the Average Trading Volume : It is defined as the change in the most recent 6-month moving average of monthly turnover ratio (average monthly trading volume/total shares outstanding) as compared to the 12-month moving average of monthly turnover ratio 4 years ago.
+56,mdl77_cogsinvt,Change in TTM COGS vsInventory Level : It is defined as the absolute value of the difference between the yearly percent change in trailing 12-month cost of goods sold and the yearly percent change in inventory level.
+57,mdl77_covol,60-Month Trading Volume Trend : It is defined as the slope of the least squares regression line of the last 60 months of monthly trading volume against time
+58,mdl77_curindbp_,Industry Relative Book-to-Market : It is defined as a stock's current book-to-price ratio (BP) less the average of the BPs of all stocks in the same industry deflated by the standard deviation of the BPs of all stocks in the same relative universe
+59,mdl77_curindcfp_,Industry Relative TTM Cash Flow-to-Price : It is defined as a stock's trailing 12-month cash flow-to-price ratio (CFP) less the average of the CFPs of all stocks in the same industry deflated by the standard deviation of the CFPs of all stocks in the same relative universe
+60,mdl77_curinddivp_,Industry Relative TTM Dividend Yield : It is defined as a stock's trailing 12-month dividend yield (DivYield) less the average of the DivYields of all stocks in the same industry deflated by the standard deviation of the DivYields of all stocks in the same relative universe
+61,mdl77_curindebitdap_,Industry Relative TTM EBITDA-to-Price : It is defined as a stock's trailing 12-month EBITDA-to-price ratio (EBITDAP) less the average of the EBITDAPs of all stocks in the same industry deflated by the standard deviation of the EBITDAPs of all stocks in the same relative universe
+62,mdl77_curindep_,Industry Relative TTM EPS-to-Price : It is defined as a stock's trailing 12-month earnings per share before extra items-to-price ratio (EP) less the average of the EPs of all stocks in the same industry deflated by the standard deviation of these EPs
+63,mdl77_curindfcfp_,Industry Relative TTM Free Cash Flow-to-Price : It is defined as a stock's trailing 12-month free cash flow-to-price ratio (FCFP) less the average of the FCFPs of all stocks in the same industry deflated by the standard deviation of the FCFPs of all stocks in the same relative universe
+64,mdl77_curindocfp_,Industry Relative TTM Oper Cash Flow-to-Price : It is defined as a stock's trailing 12-month operating cash flow-to-price ratio (OCFP) less the average of the OCFPs of all stocks in the same industry deflated by the standard deviation of the OCFPs of all stocks in the same relative universe.
+65,mdl77_curindocfta_,Industry Relative TTM Oper Cash Flow-to-Total Assets : It is defined as a stock's trailing 12-month operating cash flow-to-total assets ratio (OCFTA) less the average of the OCFTA of all stocks in the same industry deflated by the standard deviation of the OCFTAs of all stocks in the same relative universe.
+66,mdl77_curindsp_,Industry Relative TTM Sales-to-Price : It is defined as a stock's trailing 12-month sales-to-price ratio (SP) less the average of the SPs of all stocks in the same industry deflated by the standard deviation of the SPs of all stocks in the same relative universe
+67,mdl77_curratio,Current Ratio : It is defined as the reported current assets from most recent quarter divided by the current liabilities from most recent quarter.
+68,mdl77_cvvolp20d,20-Day Volume Volatility to Price Volatility : It is defined as the coefficient of variation of the last 20 days of closing prices divided by the coefficient of variation of daily trading volume for the same time period.
+69,mdl77_cws,Working Capital-to-Trailing 12-Month Sales : It is defined as the average of working capital for the trailing 12 months divided by the total sales in the same periodWorking capital equals the inventory plus accounts receivable minus accounts payable on the balance sheet.
+70,mdl77_dcc,Current Cash Flow Debt Coverage Ratio : It is defined as the most recently reported quarterly cash flow from operations less the cash dividends divided by the current interest-bearing debt
+71,mdl77_debtcf,The sum of the most recent reported long term debt and short-term interesting bearing debt divided by the trailing 12-month cash flow.
+72,mdl77_devpacificshortsentimentfactor_act_util,Account Utility
+73,mdl77_devpacificshortsentimentfactor_benchmark_fee,Benchmark fee
+74,mdl77_devpacificshortsentimentfactor_conc_ratio,Concentration ratio
+75,mdl77_devpacificshortsentimentfactor_days_to_cover,Days to Cover
+76,mdl77_devpacificshortsentimentfactor_dmd_conc,Deman concentration
+77,mdl77_devpacificshortsentimentfactor_inv_conc,Inventory concentraion
+78,mdl77_devpacificshortsentimentfactor_lend_supply,Lend supply
+79,mdl77_devpacificshortsentimentfactor_onloan_conc,On loan concentration
+80,mdl77_devpacificshortsentimentfactor_tni_ths,Short Interest Ratio
+81,mdl77_devpacificshortsentimentfactor_util,Utility
+82,mdl77_div5yg,5-Year Dividend Growth Rate : It is defined as the 5-year growth in dividends
+83,mdl77_divcf,Dividends- to-Cash Flow : It is defined as the trailing 12-month cash dividends divided by the trailing 12-month cash flowCash dividends represent the total amount of cash dividends paid for both common and preferred stock.
+84,mdl77_divcov,Company's trailing 1-year profits sacled by its annual dividends.
+85,mdl77_divyield,TTM Dividend Yield  : It is defined as the trailing 12-month dividends per share for a stock divided by its month-end trading price.
+86,mdl77_dpcapex,Change in TTM Depreciation vsCapEx : It is defined as the absolute value of the difference between the yearly percent change in trailing 12-month depreciation expense and the yearly percent change in trailing 12-month capital expenditure.
+87,mdl77_dsu,The beta coefficient estimated by a multiple regression of returns on several macroeconomic aspects over 60 months.
+88,mdl77_ebitdaev,"TTM EBITDA-to-Enterprise Value : It is defined as the trailing 12-month earnings before interest,taxes,depreciation and amortization for a stock deflated by its enterprise value (EV)EV= Equity Market Value + Long-term Debt + Short-term Debt + Preferred Stock + Minority Interest -Cash."
+89,mdl77_ebitdap,"TTM EBITDA-to-Price : It is defined as the trailing 12-month earnings before interest, taxes, depreciation and amortization for a company divided by its month-end trading price."
+90,mdl77_ed,Long-term Debt-to-Equity : It is defined as the most recently reported total long-term debt divided by total book equity.
+91,mdl77_emeasales,EMEA Sales Exposure : It is defined as the annual aggregate sales for EMEA as reported by the company divided by total annual sales.
+92,mdl77_epschgetr,EPS from Change in Effective Tax Rate : It is defined as the trailing 12-month pre-tax income per share times the difference between most recent trailing 12-month effective tax rate and that of 4 quarters ago.The effective tax rate is defined as total tax expense divided by pre-tax income.
+93,mdl77_equityto,The trailing 12-month sales divided by the average of trailing 12-month reported book equity.
+94,mdl77_fc_curindfwdep_,Industry Relative Leading 4-QTRs EPS to Price : It is defined as a stock's next 4-quarter's analysts consensus earnings estimates-to-price ratio (FwdEP) less the average of the FwdEPs of all stocks in the same industry deflated by the standard deviation of the these FwdEPs
+95,mdl77_fc_dypeg,Reciprocal of Dividend Yield-adjusted PEG  : It is defined as the reciprocal of a stock's forward 12-month P/E ratio divided by the total growth rateThe total growth rate is the sum of the forecasted long-term growth rate and the indicated dividend yield.
+96,mdl77_fc_ebop,Stock's valuation based on a model deflated its month-end trading price. The model measures a firm's intrinsic value by comparing generated earnings to the cost of capital.
+97,mdl77_fc_estep,Leading 12-Month Median Earnings Yield : It is defined as the next fiscal year median consensus earnings estimate divided by trading price.
+98,mdl77_fc_fcfroey1p,Product of TTM FCF Yield and Forward ROE : It is defined as the trailing 12-month free cash flow per share multiplied by the next 4-quarter consensus earnings forecasts divided by the most recently reported book value per share scaled by its trading price.
+99,mdl77_fc_fwdroe,Forward Return on Equity  : It is defined as a stock's analysts earnings estimates for next four quarters divided by its most recent reported common equity per share.
+100,mdl77_fc_numest,The number of analysts earnings estimates for fiscal year 1 for a stock.
+101,mdl77_fc_numrevy1,"Net # of Revisions for Fiscal Year 1 : It is defined as the weighted average of the number of FY1 analyst earnings forecasts raised less the number lowered within a month, divided by the total number of analyst forecasts."
+102,mdl77_fc_rel5yfwdep,5-yr Relative Leading 12-Month Earnings Yield : It is defined as a stock's current next 4-quarter's consensus analyst earnings forecasts-to-price ratio (FwdEP) minus the average of the FwdEPs ratio in the last 60-month scaled by the standard deviation of the FwdEPs over the same period.
+103,mdl77_fc_rev3y1,"The change in the analysts' projection on company's performance for fiscal year 1 less that of three months ago, deflated by its price."
+104,mdl77_fc_rev3y2,"3-M Revision in FY2 EPS Forecasts : It is defined as the change in the current mean consensus earnings estimate for fiscal year 2 less that of three months ago, deflated by its trading price."
+105,mdl77_fc_rev6,"Averaged Last 6-M EPS Revisions for FY1 : It is defined as a the average of prior 6-month monthly changes in a stock's consensus analysts earnings forecasts for fiscal year 1, scaled by previous month-end trading price."
+106,mdl77_fc_stdevfy1epsp,Std Dev of FY1 EPS Estimates-to-Price : It is defined as the standard deviation of analyst forecasts for fiscal year 1 earnings scaled by closing price.
+107,mdl77_fc_stdevfy2epsp,Std Dev of FY2 EPS Estimates-to-Price : It is defined as the standard deviation of analyst forecasts for fiscal year 2 earnings scaled by closing price.
+108,mdl77_fcfequity,TTM Free Cash Flow to Equity : It is defined as the trailing 12-month free cash flow divided by the average book equity value in the same period.
+109,mdl77_fcfghc,1-yr Chg in Assets-adj TTM Free Cash Flow : It is defined as the the trailing 12-month free cash flow minus 4 quarter ago trailing 12-month free cash flow divided by the average total assets.
+110,mdl77_fcfroi,"Free Cash Flow Return on Invested Capital : It is defined as the trailing 12-month free cash flow divided by the average invested capital in the same periodInvested capital equals the sum of common equity,long-term debt,minority interest and preferred stock."
+111,mdl77_fcfsale,TTM Free Cash Flow-to-TTM Sales  : It is defined as the trailing 12-month free cash flow divided by the trailing 12-month sales.
+112,mdl77_fcghc,1-yr Change in Assets-adj TTM Cash Flow : It is defined as the the trailing 12-month cash flow minus comparable trailing 12-month cash flow from 4-quarters ago scaled by the average total assets.
+113,mdl77_fcoghc,1-yr Chg in Assets-adj TTM Oper Cash Flow  : It is defined as the most recently reported trailing 12-month operating cash flow minus 4 quarter ago trailing 12-month operating cash flow divided by the average total assets.
+114,mdl77_fixastto,The trailing 12-month sales divided by the average of the total fixed assets in the same period.
+115,mdl77_flowratio,Flow Ratio : It is defined as the difference between current Assets and cash & equivalents divided by the difference between current liabilties and short-term debtAll items are from the most recent quarter.
+116,mdl77_gear,Capital Gearing Ratio : It is defined as the long-term debt divided by the difference between total assets and current liability.
+117,mdl77_globaldevpacificshortsentimentfactor_dmd_supply,Demand Supply
+118,mdl77_gspea2y_cf,"2-Year Ahead EPS Growth : It is defined as the most recent consensus earnings forecast for fiscal year 2 minus the consensus earnings forecast for fiscal year 1, divided by trading price."
+119,mdl77_gtl,Long-Term Growth Rate Estimates : It is defined as the consensus long term growth forecast.It generally represents an expected annual increase in operating earnings over the company's next full business cycle.
+120,mdl77_gtlm6ghc,6-M Change in Long-term Growth Estimates : It is defined as the percent change in the most recent mean consensus long-term growth forecast as compared to those of 6 months ago.
+121,mdl77_high52w,52-Week High : It is defined as the month-end price divided by the highest monthly closing price in the past 12-month.
+122,mdl77_ica,Abnormal Capital Investment : It is defined as the change in a firm's most recent trailing 12-month capital investment intensity compared to the average of its prior 3-year investment intensity.
+123,mdl77_idb,Basic Defensive Interval : It measures how many days that a company can cover its daily operating expenses (cost of goods sold and SG&A) by only using its cash and receivables on its balance sheet.
+124,mdl77_indrelcroe_,Stock's lagged quarterly return on equity (ROE) minus the average of the ROEs of all stocks in the same industry deflated by the standard deviation of these ROEs.
+125,mdl77_indrelrecd_,Industry-adjusted Doubtful Account Receivables : It is defined as a stock's asset-adjusted annual doubtful receivables minus the average of the receivables of all stocks in the same industry deflated by the standard deviation of these receivables.
+126,mdl77_indrelrtn4w_,4-week Industry Relative Return : It is defined as a stock's return in last 4-weeks minus the average of the comparable returns of all stocks in the same industry deflated by the standard deviation of these returns.
+127,mdl77_indrelrtn5d_,"Stock's return in the last 5 days minus the average of the comparable returns of all stocks in the same industry, then deflated by the standard deviation of these returns."
+128,mdl77_inflation,The beta coefficient estimated by a multiple regression of returns on several macroeconomic aspects over 60 months.
+129,mdl77_invast,The current inventory level deflated by the total assets from most recent quarter.
+130,mdl77_iqa,Asset Quality Index : It is defined as the year-over-year change of 1 minus the ratio of current assets plus PP&E divided by total assets
+131,mdl77_lagegp,"Lagged Inverse of PEG Ratio : It is defined as the trailing 12-month earnings per share before extraordinary items times the change in yearly trailing 12-month sales per share growth rate, divided by trading price."
+132,mdl77_lasales,Latin America Sales Exposure : It is defined as the annual aggregate sales for Latin America as reported by the company divided by total annual sales.
+133,mdl77_lfd,The sum of the trailing 12-month pretax income and the trailing 12-month interest expense divided by the trailing 12-month pretax income.
+134,mdl77_liqcoeff,Liquidity Coefficient : It is the slope of the regression between the monthly stock trading turnover ratio (X) and the contemporary monthly stock price returns (Y).
+135,mdl77_lumqca,Acquisition Multiple : It is defined as the most recent quarterly reported invested capital divided by the trailing 12-month EBITDA.
+136,mdl77_m42rav,24-Month Value at Risk : It is defined as the minimum of a stock's monthly price return in last 20-month period.
+137,mdl77_m6dn2ntr,Second Preceding 6-month Return : It is defined as the percent change in a stock's price from month t-12 to month t-7.
+138,mdl77_milliq,Stock Illiquidity : It is defined as the monthly average of the daily absolute return to the daily dollar trading volume ratio.
+139,mdl77_mktcappera,Stock's current market cap divided by the number of analysts providing Fiscal Year 1 earnings estimates.
+140,mdl77_mktlev,Stock's total market value plus the most recent reported quarterly book debt then divided by the market value.
+141,mdl77_mpn,Net Profit Margin  : It is defined as the most recently reported quarterly net income after tax divided by the corresponding quarterly sales.
+142,mdl77_mpnghc,1-Yr Change in Net Profit Margin : It is defined as the most recent quarterly net profit margin (NPM) minus the NPM 4 quarters agoNet profit margin is net income divided by total sales.
+143,mdl77_mpoghc,1-yr Change in Operating Profit Margin : It is defined as the most recent quarterly operating profit margin minus that of 4 quarters agoOperating profit margin is income from operations divided by total sales.
+144,mdl77_mrspe_cf,The 3-month change in analysts' median earnings forecast for a stock's fiscal 1 scaled by the current mean estimate.
+145,mdl77_nasales,North America Sales Exposure  : It is defined as the annual aggregate sales for North America as reported by the company divided by total annual sales
+146,mdl77_netcashp,Net Cash to Equity : It is defined as most recently reported quarterly cash & equivalents less the long-term debt and current debt for a stock divided by its current market value.
+147,mdl77_netdebt,"Net Debt Ratio : It is defined as the net debt divided by the sum of the net debt, preferred stock and common stock, where net debt equals the long-term debt plus short-term debt minus cash &equivalents All items are from most recent quarter."
+148,mdl77_nfaldebt,Net Fixed Assets to Long-term Debt : It is defined as the most recent quarterly reported net fixed assets divided by the total long-term debt.
+149,mdl77_niper,Net Income per Employee : It is defined as the income after taxes for the trailing 12-months divided by the number of employees at the end of the last reported fiscal year.
+150,mdl77_nlassets,Natural Logarithm of Total Assets : It is defined as the natural logarithm of the most recent quarterly reported total assets.
+151,mdl77_nlmktcap,Natural Logarithm of Market Capitalization : It is defined as the natural logarithm of the cubic of a stock's total market value.
+152,mdl77_nlprice,Natural Logarithm of Closing Price : It is defined as the natural logarithm of the cubic of a stock's unadjusted closing price.
+153,mdl77_nlsales,Natural Logarithm of TTM Sales : It is defined as the natural logarithm of the cubic of a company's trailing 12-month sales.
+154,mdl77_nlvolcap,The natural logarithm of the quotient of the trailing 1-year average of the monthly volume to the trailing1-year average of monthly market value of outstanding shares.
+155,mdl77_nnastp,Net Current Assets-to-Price : It is defined as the current assets per share minus total liabilites per share divided by the price.
+156,mdl77_noato,"Net Operating Asset Turnover : It is defined as trailing-12-month sales divided by the last 4-quarters average net operating assets, which equals short-term debt + long-term debt + preferred equity + common equity - cash"
+157,mdl77_nopatmargin,NOPAT Margin : It is defined as: (Net Income + Interest Expense*(1-Effective Tax Rate))/Net Sales.All items are for trailing 12-month Effective tax rate equals income taxes for the trailing twelve months divided by the trailing twelve months' income before taxes.
+158,mdl77_ntrm01ff,Fama-French Momentum : It is defined as the percent change in a stock's price from month t-12 to month t-2.
+159,mdl77_ocfast,Operating Cash Flow to Assets : It is defined as the trailing 12-month net cash flow from operations divided by the average total assets.
+160,mdl77_ocfmargin,Operating Cash Flow Profit Margin  : It is defined as the trailing 12-month cash flow from operations scaled by the trailing 12-month sales.
+161,mdl77_ocfratio,Operating Cash Flow Ratio : It is defined as a stock's most recently reported quarterly cash flow from operations divided by its current liabilities.
+162,mdl77_ocfroi,"Oper Cash Flow Return on Invested Capital : It is defined as the trailing 12-month operating cash flow divided by the average invested capital in the same periodInvested capital equals the sum of common equity,long-term debt,minority interest and preferred stock."
+163,mdl77_oilprice,The beta coefficient estimated by a multiple regression of returns on several macroeconomic aspects over 60 months.
+164,mdl77_ollev,Operating Liability Leverage  : It is defined as 1 minus the ratio of (short-term debt + long-term debt + common equity + preferred equity - cash) to (total assets - cash) in the current quarter
+165,mdl77_opincltd,Change in TTM Oper Income vsLT Debt : It is defined as the difference between the yearly percent change in operating income and the yearly percent change in long-term debt.
+166,mdl77_oplev,Operating Leverage : It is defined as the percent change in the trailing 12-month operating income from previous quarter divided by the percent change in trailing 12-month sales from previous quarter.
+167,mdl77_otvni,Inventory Turnover Ratio : It is defined as the trailing 12-month cost of goods sold divided by the average of inventory in the same period.
+168,mdl77_p50_200ratio,50-200 Day Stock Price Ratio  : It is defined as the moving average of a stock's prices in last 50 days divided by the moving average of its prices in last 200 days.
+169,mdl77_past,Price-to-Total Assets  : It is defined as a stock's month-end trading price divided most recent quarterly reported total assets per share.
+170,mdl77_pau,Unexpected Change in Accounts Payable : It is defined as the difference between current accounts payable and the expected level of accounts payable (multiplying the prior year's closing account balance by the growth in costs of goods sold in the trailing 12-months) scaled by the total assets.
+171,mdl77_pb,Book-to-Market  : It is defined as the most recently reported book value per share for a stock deflated by its month-end trading price.
+172,mdl77_pca,Average Collection Period : It is defined as the average of the trailing 12-month reported accounts receivable times 365 and then divided by the trailing 12-month sales.
+173,mdl77_pctabv260low,Price Above Last 260-day Lowest Trading Price : It is defined as a stock's current closing price divided by its lowest daily low price in last 260 trading days.
+174,mdl77_pctchg3ycf,The percent change in a stock's most recent trailing 12-month cash flow per share as compared to itself 12 quarters ago.
+175,mdl77_pctchg3yeps,The percent change in a stock's most recent trailing 12-month earnings per share as compared to itself 12 quarters ago.
+176,mdl77_pctchg3yfcf,3-yr Growth in TTM Free Cash Flow : It is defined as the percent change in a stock's most recent trailing 12-month free cash flow per share (FCF) as compared to its FCF 12 quarters ago.
+177,mdl77_pctchg3yocf,3-yr Growth in TTM Oper Cash Flow : It is defined as the percent change in a stock's most recent trailing 12-month operating cash flow per share (OCF) as compared to its OCF 12 quarters ago.
+178,mdl77_pctchgastto,1-yr Change in Asset Turnover Ratio : It is defined as the percent change in the most recent asset turnover ratio as compared to that of 4 quarters agoAsset turnover ratio is the trailing 12-month sales divided by the average total assets in the same period.
+179,mdl77_pctchgcf,1-yr Growth in TTM Cash Flow : It is defined as the percent change in a stock's most recent trailing 12-month cash flow per share (CF) as compared to the CF 4 quarters ago.
+180,mdl77_pctchgeps,The percent change in a stock's most recent trailing 12-month earnings per share before extra items as compared to itself 4 quarters ago.
+181,mdl77_pctchgfcf,1-yr Growth in TTM Free Cash Flow : It is defined as the percent change in a stock's most recent trailing 12-month free cash flow per share (FCF) as compared to the FCF 4 quarters ago.
+182,mdl77_pctchgocf,1-yr Growth in TTM Oper Cash Flow : It is defined as the percent change of a stock's most recent trailing 12-month operating cash flow per share (OCF) as compared to the OCF 4 quarters ago.
+183,mdl77_pctchgqtrast,1-yr Change in Total Assets : It is defined as the growth in the most recent reported quarterly total assets per share as compared to that of four quarters ago.
+184,mdl77_pctchgqtrsales,1-yr Change in Sales : It is defined as the growth in most recent reported quarterly sales per share as compared to 4 quarters ago.
+185,mdl77_pcurlia,Current Liabilities-to-Price : It is defined as a stock's most recently reported quarterly current liabilities per share divided by its closing price.
+186,mdl77_pd09erpvc,CV of Prior 90-Day Closing Prices : It is defined as the standard deviation of a stock's last 90 days closing prices divided by the mean of these prices.
+187,mdl77_pe_wt,Time Weighted Earnings Yield  : This factor uses a time-weighted combination of FY1 and FY2 earnings estimates to create a twelve-month forward earnings forecastThis earnings factor is a unique compliment to the wide variety of earnings-related metrics available to determine a company's fair value.
+188,mdl77_pedu,Unexpected Change in Depreciation : It is defined as the difference between the trailing 12-month depreciation expenses and the expected level of depreciation expenses (multiplying the prior year's closing account balance by the growth in total fixed assets) scaled by the total assets.
+189,mdl77_pedwf_cf,Leading 12-Month Mean Earnings Yield : It is defined as the next 4-quarter's mean consensus earnings estimate divided by the price.
+190,mdl77_pelh_cf,"Street Revision Confidence : It is defined as the sum of the 3-month change in the highest and lowest FY1 earnings estimate, scaled by month-end trading price."
+191,mdl77_perg,"Risk-adjusted PEG Ratio : It is defined as the stock price divided by the leading 12-month consensus earnings forecast, scaled by the average long-term growth rate estimate, and multiplied by the stock's 36-month beta."
+192,mdl77_pfcf_cf,"Forward Free Cash Flow-to-Price : It is defined as the .next 4-quarter's mean consensus earnings estimate plus trailing 12-month depreciation expense per share minus corresponding capital expenditures, divided by trading price."
+193,mdl77_pfcfghc,The difference between the the trailing 12-month free cash flow per share and that of 4 quarters ago for a stock divided by its trading price.
+194,mdl77_pfcfmtt,TTM Free Cash Flow-to-Price  : It is defined as the trailing 12-month free cash flow per share for a stock divided by its month-end trading price Free cash flow equals operating cash flow minus capital expenditures and cash dividends.
+195,mdl77_pfcfy3ghc,3-yr Change in Price-adj TTM FCF  : It is defined as the difference between the most recently reported trailing 12-month free cash flow per share and that of 12-quarters ago for a stock divided by its month-end trading price.
+196,mdl77_pfcghc,The difference between the the trailing 12-month cash flow per share and that of 12 quarters ago for a stock divided by its trading price.
+197,mdl77_pfcmtt,TTM Cash Flow-to-Price : It is defined as the trailing 12-month cash flows per share for a stock scaled by its trading priceCash flow is defined as the reported net income plus depreciation.
+198,mdl77_pfcoghc,The difference between the most recently reported trailing 12-month operating cash flow per share and that of 4 quarters ago for a stock divided by its trading price.
+199,mdl77_pfcomtt,TTM Operating Cash Flow-to-Price : It is defined as the trailing 12-month operating cash flow per share for a stock divided by its trading price.
+200,mdl77_pfcoy3ghc,The difference between the the trailing 12-month operating cash flow per share and that of 12-quarters ago for a stock divided by its trading price.
+201,mdl77_pfcy3ghc,The difference between the the trailing 12-month cash flow per share and that of 12-quarter ago comparable trailing 12-month cash flow for a stock divided by its trading price.
+202,mdl77_pfgmtt,TTM Growth Flow-to-Price  : It is defined as the sum of trailing 12-month growth flow value per share for a stock divided by its month-end trading price. Growth flow is the sum of Research & Development expenses and reported net income.
+203,mdl77_pge_cf,Estimates on the next 1 year average earnings scaled by company's propsects on growth and its stock price.
+204,mdl77_pi,"Industrial Production Sensitivity : It is defined as the beta coefficient to Change in Industrial Production, which is estimated by a 60 month multiple regression of returns on several macroeconomic factors."
+205,mdl77_pinoa,Pretax Return on Net Operating Assets : It is defined as the trailing 12-month operating income after depreciation divided by the average net operating assets.
+206,mdl77_ppa,Average Payable Period : It is defined as the average of the trailing 12-month accounts payable times 365 divided by the trailing 12-month cost of goods sold.
+207,mdl77_pqipmtt,The most recent trailing 12-month operating and nonoperating income per share before provisions for income taxes and minority interest for a stock delfated by its the trading price.
+208,mdl77_prc,"Credit Risk Premium Sensitivity : It is defined as the beta coefficient to Change in Credit Risk Premium, which is estimated by a 60 month multiple regression of returns on several macroeconomic factors."
+209,mdl77_psmtt,TTM Sales-to-Price  : It is defined as the most recently reported trailing 12-month sales per share for a stock deflated by its month-end trading price.
+210,mdl77_pspeghc,The difference between the most recently reported trailing 12-month earnings per share and that of 4 quarters ago for a stock deflated by its month-end trading price.
+211,mdl77_pvan,"Net Asset Value to Price : It is defined as the most recent book value of net assets per share (NAV) by the closing priceNAV is calculated in general form by taking the total assets of a company and subtracting the value of the company's intangible assets (goodwill, patents,etc.) minus current and long-term liabilities."
+212,mdl77_rationalalpha,Rational Decay Alpha  : It evaluates stocks based on their historical 12-month market (S&P 500) adjusted excess return (the Y intercept from an OLS regression equation) using a proprietary rational decay function
+213,mdl77_ratrev6m,Street Rating Revision  : It is defined as the 6-month average of the change in the average analyst recommendation tracked by
+214,mdl77_rau,Unexpected Change in Accounts Receivable : It is defined as the difference between current accounts receivable and the expected level of accounts receivable (multiplying the prior year's closing account balance by the growth in sales in the trailing 12-months) scaled by the total assets.
+215,mdl77_rdsale,R&D Intensity : It is defined as the average of the research & development expenses in the trailing 12-months deflated by the sum of total sales in the same period.
+216,mdl77_reinrate,Reinvestment Rate : It is defined as the trailing 12-month earnings per share before extra items less the trailing 12-month dividends per share by ex-date divided by the average book equity per share in the same period.
+217,mdl77_rel5ybp,5-yr Relative Book-to-Market : It is defined as a stock's current book-to-market ratio (BP) minus the average of the BPs in the last 60-month scaled by the standard deviation of the BPs over the same period.
+218,mdl77_rel5ycfp,5-yr Relative TTM Cash Flow-to-Price : It is defined as a stock's current trailing 12-month cash flow-to-price ratio (CFP) minus the average of the CFPs in the last 60-month scaled by the standard deviation of the CFPs over the same period.
+219,mdl77_rel5ydivp,5-yr Relative TTM Dividend Yield : It is defined as a stock's current dividend yield (DivYield) minus the average of the DivYields in the last 60-month scaled by the standard deviation of the DivYields over the same period.
+220,mdl77_rel5yebitdap,5-yr Relative TTM EBITDA-to-Price : It is defined as a stock's current trailing 12-month EBITDA per share-to-price ratio (EBITDAP) minus the average of the EBITDAPs in the last 60-month scaled by the standard deviation of the EBITDAPs over the same period.
+221,mdl77_rel5yep,5-yr Relative TTM Earnings-to-Price : It is defined as a stock's current trailing 12-month earnings per share before extra items-to-price ratio (EP) minus the average of the EPs in the last 60-month scaled by the standard deviation of the EPs over the same period.
+222,mdl77_rel5yfcfp,5-yr Relative TTM Free Cash Flow-to-Price : It is defined as a stock's current trailing 12-month free cash flow-to-price ratio (FCFP) minus the average of the FCFPs in the last 60-month scaled by the standard deviation of the FCFPs over the same period.
+223,mdl77_rel5yocfp,5-yr Relative TTM Oper Cash Flow-to-Price : It is defined as a stock's current trailing 12-month operating cash flow-to-price ratio (OCFP) minus the average of the OCFPs in the last 60-month scaled by the standard deviation of the OCFPs over the same period.
+224,mdl77_rel5ysp,5-yr Relative TTM Sales-to-Price : It is defined as a stock's current trailing 12-month sales-to-price ratio (SP) minus the average of the SPs in the last 60-month scaled by the standard deviation of the SPs over the same period.
+225,mdl77_relpricestrength_,Industry-adjusted 12-month Relative Price Strength : It is defined as a stock's 12-month relative price-stength (PS) minus the PSs of all stocks in the same industry deflated by the standard deviation of these PSs.
+226,mdl77_rerror60m,Regression Error of 60-Month CAPM : It is defined as the standard error of the slope of the least squares regression line for a stock's last 60-month monthly returns against the S&P 500 Index returns.
+227,mdl77_revper,Revenue per Employee : It is defined as the trailing 12-month total sales divided by the number of employees at the end of the last reported fiscal year.
+228,mdl77_roe,Return on Equity  : It is defined as the trailing 12-month income before extra items divided by the average of common equity in the same period.
+229,mdl77_roic,"Return on Invested Capital : It is defined as the trailing 12-month net income and interest expenses divided by the average reported invested capital, which equals the sum of common equity,long-term debt,minority interest and preferred stock."
+230,mdl77_rq,Quick Ratio : It is defined as the current assets less inventories from most recent quarter divided by the total current liabilities from most recent quarter.
+231,mdl77_saleeps,Change in TTM Sales vsEPS : It is defined as the absolute value of the difference between the yearly percent change in trailing 12-month sales per share and the yearly percent change in trailing 12-month diluted earnings per share before extraordinary items.
+232,mdl77_saleg5y,5-yr Sales Growth : It is defined as the difference between the trailing 12-month sales per share (SALE) and the SALE 20 quarters ago and then deflated by the average of the SALEs in the prior 20 quarters
+233,mdl77_salegpm,Change in QTR Sales vsGross Margin : It is defined as the difference between the yearly change in most recent reported quarterly sales and the yearly change in the quarterly gross profit margin.
+234,mdl77_salerec,Change in TTM Sales vsAccounts Receivable : It is defined as the difference between the yearly percent change in trailing 12-month sales and the yearly percent change in accounts receivable.
+235,mdl77_sh,"Housing Starts Sensitivity : It is defined as the beta coefficient to Change in Housing Starts, which is estimated by a 60 month multiple regression of returns on several macroeconomic factors."
+236,mdl77_sighc,1-yr Chg in QTR Inventory as % of Sales : It is defined as the most recently reported inventory as a percentage of trailing 12-month sales minus that percentage 4 quarters ago.
+237,mdl77_sigma,Stock Return Volatility : It is defined as the standard deviation of a stock's monthly returns in the prior 60 months.
+238,mdl77_skew90cortn,Skewness of 90-Day Stock Daily Excess Returns : It is defined as the skewness of the distribution of a stock's daily excess (compared to the S&P 500 index) price returns in last 90 daysSkewness = 3*(Mean-Median])/Standard Deviation.
+239,mdl77_skew90drtn,Skewness of 90-Day Stock Daily Returns : It is defined as the skewness (measure of lack of symmetry) of the distribution of a stock's daily price returns in last 90 daysSkewness = 3*(Mean-Median])/Standard Deviation.
+240,mdl77_slope52wp,Slope of 52 Week Price Trend Line  : It is defined as the 4-week lagged slope coefficient of the least squares regression line of the last 52-week weekly stock's closing price against the corresponding weekly dates.
+241,mdl77_slope66wp,Slope of 66 Week Price Trend Line  : It is defined as the 4-week lagged slope coefficient of the least squares regression line of the last 66-week weekly stock's closing price against the corresponding weekly dates.
+242,mdl77_spe1yfvc_cf,FY1 EPS Estimates Dispersion : It is defined as the standard deviation of analyst earnings estimates for fiscal year 1 divided by the mean consensus forecast.
+243,mdl77_spe2yfvc_cf,FY2 EPS Forecast Dispersion : It is defined as the standard deviation of analyst earnings estimates for fiscal year 2 divided by the mean consensus forecast.
+244,mdl77_spefcn,Change in TTM EPS vsOper Cash Flows : It is defined as the absolute value of the difference between the yearly percent change in trailing 12-month operating cash flow per share and the yearly percent change in trailing 12-month diluted EPS before extraordinary items.
+245,mdl77_speghc,1-yr Change in Assets-adj TTM EPS  : It is defined as the the trailing 12-month earnings per share before extra items (EPS) minus 4 quarter ago EPS deflated by the average total assets per share.
+246,mdl77_stockrating,Street Consensus Rating : It is defined as the consensus recommendation for a company.
+247,mdl77_surp,"Real Earnings Surprise : It is defined as the difference between the actual earnings per share and consensus forecasts prior to the announcement date, scaled by price at the end of the quarter."
+248,mdl77_susgrowth,The maximum growth rate a firm can sustain without having to increase financial leverage.
+249,mdl77_tobinq,"Tobin q : It is defined as the market value of equity (E) plus debt (D) divided by assets (A), or (E + D)/A D is measured using book values."
+250,mdl77_totalcov,Total Coverage : It equals (Cash Flow from Operations + Interest Paid + Tax Paid)/ (Interest + Principal Paid).
+251,mdl77_totalsaleg,Yearly TTM Total Sales Growth Rate : It is defined as the percent change in a company's trailing 12-month total sales (TOTSALE) as compared to the TOTSALE one year ago.
+252,mdl77_tstalp,1-Year Price Momentum Indicator : It is defined as: (CORREL*(260-2)^.5)/(1-CORREL^2)^.5 CORREL is the correlation coefficient between the natural logarithm of stock daily closing price and the corresponding daily dates in last 260 days
+253,mdl77_ttmaccu,Accounting Accruals  : It is defined as the difference between the trailing 12-month net income and the trailing 12-month operating cash flow scaled by the beginning total assets.
+254,mdl77_ttmcapexp,TTM Capital Expenditures-to-Price : It is defined as the trailing 12-month capital expenditures per share for a stock divided by its trading price.
+255,mdl77_ttmsaleev,TTM Sales-to-Enterprise Value : It is defined as the trailing 12-month sales for a stock divided by the most recent enterprise value (EV)EV = Equity Market Value + Long-term Debt + Short-term Debt + Preferred Stock + Minority Interest - Cash& Cash Equivalents.
+256,mdl77_varresirtn,24-Month Residual Return Variance : It is defined as the variance of a stock's monthly residual return in last 24-month. The monthly residual return equals the stock's monthly return minus the product of the multiplication of a stock's proprietary 60-month Beta by the S&P 500 index monthly return.
+257,mdl77_vefcfmtt,TTM Free Cash Flow-to-Enterprise Value : It is defined as the trailing 12-month free cash flow (FCF) for a stock scaled by its enterprise value (EV) EV = Equity Market Value + Long-term Debt + Short-term Debt + Preferred Stock + Minority Interest - Cash.
+258,mdl77_vesspem21f_cf,Forward 12-M EPS-to-Enterprise Value  : It is defined as the consensus forward 12-month earnings per share forecast divided by the sum of market value of common equity per share and book value of long-term debt per share.
+259,mdl77_visiratio,The Visibility Ratio : It equals to a stock's most recent daily trading volume divided by the average daily trading volume in previous 50 trading days.
+260,mdl77_vnicw,Working Capital to Inventory : It is defined as the most recent quarterly reported working capital divided by the inventoryWorking capital is the difference between current assets and current liabilities.
+261,mdl77_vniu,The difference of inventory between present and expected levels.
+262,mdl77_voctni,Interest Coverage : It is defined as the most recently reported quarterly operating income before depreciation divided by the quarterly long-term debt interest expenses.
+263,mdl77_volpre6m,The 6 month moving average of average monthly turnover ratio.
+264,mdl77_volto,Trading Turnover Ratio : It is defined as the monthly total trading volume divided by the most recently reported total outstanding shares.
+265,mdl77_w57w03_rp,30-75 Week Stock Price Ratio  : It is defined as the moving average of a stock's prices in last 30 weeks divided by the moving average of its prices in last 75 weeks.
+266,mdl77_w62isr,26-Week Relative Price Strength  : It is defined as a stock's most recent weekly closing price divided by its weekly closing price 26 weeks ago.
+267,mdl77_w93ntr,39-Week Return with 4-week Lag : It is defined as a stock's price change from week t-43 to week t-4.
+268,mdl77_wcast,Working Capital-to-Total Assets : It is defined as the average working capital in the trailing 12-months divided by the average total assets in the same period.
+269,mdl77_xiv,"Market Volatility Sensitivity : It is defined as the beta coefficient to Change in Market Volatility, which is estimated by a 60 month multiple regression of returns on several macroeconomic factors"
+270,mdl77_ydp_cf,Predicted Dividend Yield : It is defined as an assumed payout ratio multiplied by the next 4-quarter consensus earnings estimate divided by trading price. The payout ratio assumption is 10%+84%*Payout Ratio in last Year - 38%*consensus long-term earnings growth rate.
+271,mdl77_yieldsprd,"Yield Curve Slope Sensitivity : It is defined as the beta coefficient to Change in Slope of Term Structure, which is estimated by a 60 month multiple regression of returns on several macroeconomic factors"
+272,mdl77_yoychgaa,"Change in Accruals to Assets : It is defined as the trailing 12-month income before extra items less the trailing 12-month operating cash flow, then scaled by the average total assets, then minus the scaled difference for the same quarter one year ago."
+273,mdl77_yoychgcr,Year-over-year Change in Current Ratio : It is defined as the most recent reported quarterly current ratio and the current ratio for the same quarter one year agoCurrent ratio equals to current assets divided by current liabiities.
+274,mdl77_yoychgda,Year-over-year Change in Leverage : It is defined as the difference between the most recent reported quarterly total liabilities as a percentage of the reported total assets and the percentage for the same quarter one year ago.
+275,mdl77_yoychggpm,Yearly Change In Gross Profit Margin : It is defined as the most recent quarterly reported gross profit margin minus the margin for the same quarter one year agoGross profit margin equals the difference between sales and cost of goods sold then scaled by the sales.
+276,mdl77_yoychgroa,Yearly Change in Return on Assets : It is defined as the most recent trailing 12-month income before extra items as a percentage of total assets minus the percentage for the same quarter one year ago

@@ -1,0 +1,11 @@
+,id,description
+0,oth510_8q,composite score of 8-k filing
+1,oth510_creation_dfo_off_balancesheet,score of section Creation of a Direct FinancialObligation or an Off-BalanceSheet
+2,oth510_departure_election_directors,score of section Departure of Directors or CertainOfficers; Election of Directors;
+3,oth510_fd_disclosure,score of section Regulation FD Disclosure
+4,oth510_financials_and_exhibits,score of section Creation of a Direct FinancialObligation or an Off-BalanceSheet
+5,oth510_material_definitive_agreement,score of section Entry into a Material DefinitiveAgreement
+6,oth510_matters_to_vote,score of section Submission of Matters to a Voteof Security Holders
+7,oth510_mktcap,market cap
+8,oth510_other_events,score of other events in the 8-k filing
+9,oth510_results_operations,score of section Results of Operations andFinancial Condition

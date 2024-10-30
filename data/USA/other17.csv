@@ -1,0 +1,5 @@
+,id,description
+0,oth17_fmdscore1,Short-term strength of flows into a ticker (< 1 week ).
+1,oth17_fmdscore2,Medium-term strength of flows into a ticker (1 to 2 weeks).
+2,oth17_fmdscore3,Long-term strength of flows into a ticker (3 weeks).
+3,oth17_valid_asof,The time at which the field was created by the vendor.

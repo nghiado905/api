@@ -1,0 +1,102 @@
+,id,description
+0,mdl192_altmanz_di,Altman Z Score
+1,mdl192_benchmark_fee_di,Implied Loan Rate
+2,mdl192_booklev_di,Book Leverage
+3,mdl192_cashburnrate_di,Cash Burn Rate
+4,mdl192_cashc_di,Cash Cycle
+5,mdl192_cashratio_di,Cash & Equivalents-to-Current Liabilities
+6,mdl192_cds_1mvol_di,1-month CDS Spread Change Volatility (Tenor=5Y)
+7,mdl192_cds_1ybeta_di,1-year CDS Spread Change Beta (Tenor=5Y)
+8,mdl192_cds_beta_di,60-month CDS Spread Change Beta (Tenor=5Y)
+9,mdl192_cds_canbeta_di,Sovereign Sensitivity - Canada
+10,mdl192_cds_eurusd_di,Exchange Rate Sensitivity - EUR/USD
+11,mdl192_cds_frabeta_di,Sovereign Sensitivity - France
+12,mdl192_cds_gerbeta_di,Sovereign Sensitivity - Germany
+13,mdl192_cds_gnd_di,DTCC Gross Notional Volumes to Total Debt
+14,mdl192_cds_gnvol5wavg_di,5-week Moving Average of DTCC Weekly Gross Notional Volumes
+15,mdl192_cds_gnvol5wchg_di,5-week Change in DTCC Weekly Gross Notional Volumes
+16,mdl192_cds_itabeta_di,Sovereign Sensitivity - Italy
+17,mdl192_cds_japbeta_di,Sovereign Sensitivity - Japan
+18,mdl192_cds_op_di,Oil Price Sensitivity
+19,mdl192_cds_pd1y_di,Probability of Default (Tenor=1Y)
+20,mdl192_cds_pd5y_di,Probability of Default (Tenor=5Y)
+21,mdl192_cds_porbeta_di,Sovereign Sensitivity - Portugal
+22,mdl192_cds_ps_rank1m_di,1-month Momentum Divergence
+23,mdl192_cds_ps_rank5d_di,5-day Momentum Divergence
+24,mdl192_cds_ps_reg3_di,Value Divergence
+25,mdl192_cds_spabeta_di,Sovereign Sensitivity - Spain
+26,mdl192_cds_tier_di,CDS Tier
+27,mdl192_cds_ukbeta_di,Sovereign Sensitivity - United Kingdom
+28,mdl192_cds_usbeta_di,Sovereign Sensitivity - United States
+29,mdl192_cfleverage_di,Cash Flow Leverage
+30,mdl192_chg12mtotdebt_di,12 Month Change in Total Debt
+31,mdl192_chg3ycfast_di,3-yr Change in Assets-adj TTM Cash Flow
+32,mdl192_chgshare_di,Percent Change in Shares Outstanding
+33,mdl192_curratio_di,Current Ratio
+34,mdl192_days_to_cover_di,Days to Cover
+35,mdl192_div5yg_di,5-Year Dividend Growth Rate
+36,mdl192_dmd_supply_di,Demand Supply Ratio
+37,mdl192_earnshortfall_di,Earnings Shortfall
+38,mdl192_ebitdadebt_di,EBITDA-to-Debt
+39,mdl192_ebitdadebtchg_di,Year-over-Year Change in EBITDA-to-Debt
+40,mdl192_ebitdaev_di,TTM EBITDA-to-Enterprise Value
+41,mdl192_fc_fqsurstd_di,Most Recent Earnings Surprise
+42,mdl192_fc_numrevy1_di,Net # of Revisions for Fiscal Year 1
+43,mdl192_gear_di,Capital Gearing Ratio
+44,mdl192_id_2adpmoc_sdc,Relative Value - Comprehensive Debt to Total Assets
+45,mdl192_id_2vd_adpmoc_sdc,Deep Value - Comprehensive Debt to Total Assets
+46,mdl192_id_2vd_voctni_sdc,Deep Value - Interest Coverage
+47,mdl192_id_2voctni_sdc,Relative Value - Interest Coverage
+48,mdl192_id_ad,Total Debt to Total Assets
+49,mdl192_id_adpmoc,Comprehensive Debt to Total Assets
+50,mdl192_id_aoer,Retained Earnings-to-Total Assets
+51,mdl192_id_aor,Return on Assets
+52,mdl192_id_dcc,Current Cash Flow Debt Coverage Ratio
+53,mdl192_id_dtsm1_rd,1-Month Realized Stock Return Volatility
+54,mdl192_id_dtsm1_rd_sdc,Relative Value - 1-Month Realized Stock Return Volatility
+55,mdl192_id_ed,Long-term Debt-to-Equity
+56,mdl192_id_fcghc,1-yr Change in Assets-adj TTM Cash Flow
+57,mdl192_id_gtl,Long-Term Growth Rate Estimates
+58,mdl192_id_htrgm1ng_sdc,1-month Growth in DTCC Gross Notional Volumes
+59,mdl192_id_htrgy1ng_sdc,1-year Growth in DTCC Gross Notional Volumes
+60,mdl192_id_idb,Basic Defensive Interval
+61,mdl192_id_irl_sdc,Leading Risk Indicator
+62,mdl192_id_md,<too_fill>
+63,mdl192_id_md_sdc,Relative Value - Distress Measure
+64,mdl192_id_mrspe_cf,Street Revision Magnitude
+65,mdl192_id_ox_sdc,Index Return Sensitivity - Markit iTraxx Crossover
+66,mdl192_id_pu,Unexpected Profitability
+67,mdl192_id_rp,Profitability Ratio
+68,mdl192_id_rq,Quick Ratio
+69,mdl192_id_spe1yfvc_cf,FY1 EPS Estimates Dispersion
+70,mdl192_id_spefcn,Change in TTM EPS vs. Oper Cash Flows
+71,mdl192_id_tni_ths,Short Interest
+72,mdl192_id_tqe_sdc,Equity Price Sensitivity
+73,mdl192_id_voctni,Interest Coverage
+74,mdl192_id_xiv_sdc,Market Volatility Sensitivity
+75,mdl192_id_y1dpghcd1_sdc,1-day Change in Probability of Default (Tenor=1Y)
+76,mdl192_id_y1dpghcd5_sdc,5-day Change in Probability of Default (Tenor=1Y)
+77,mdl192_id_y1dpghcm1_sdc,1-month Change in Probability of Default (Tenor=1Y)
+78,mdl192_id_y5dpghcd1_sdc,1-day Change in Probability of Default (Tenor=5Y)
+79,mdl192_id_y5dpghcd5_sdc,5-day Change in Probability of Default (Tenor=5Y)
+80,mdl192_id_y5dpghcm1_sdc,1-month Change in Probability of Default (Tenor=5Y)
+81,mdl192_indrelcroe_di,Industry-adjusted Quarterly Return on Equity
+82,mdl192_indrelrtn4w_di,4-week Industry Relative Return
+83,mdl192_indrelrtn5d_di,5-day Industry Relative Return
+84,mdl192_netdebt_di,Net Debt Ratio
+85,mdl192_nopatmargin_di,NOPAT Margin
+86,mdl192_ocfratio_di,Operating Cash Flow Ratio
+87,mdl192_ohlsonscore_di,Ohlson Bankruptcy Score
+88,mdl192_ollev_di,Operating Liability Leverage
+89,mdl192_opincltd_di,Change in TTM Oper Income vs. LT Debt
+90,mdl192_oplev_di,Operating Leverage
+91,mdl192_ratrev6m_di,Street Rating Revision
+92,mdl192_reinrate_di,Reinvestment Rate
+93,mdl192_rev3my2std_di,3-M Revision in FY2 EPS Forecasts: Dispersion Relative
+94,mdl192_roic_di,Return on Invested Capital
+95,mdl192_stockrating_di,Street Consensus Rating
+96,mdl192_ticker_di,Ticker
+97,mdl192_totalcov_di,Total Coverage
+98,mdl192_visiratio_di,The Visibility Ratio
+99,mdl192_yoychgcr_di,Year-over-year Change in Current Ratio
+100,mdl192_yoychgda_di,Year-over-year Change in Leverage

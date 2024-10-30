@@ -1,0 +1,623 @@
+,id,description
+0,pv37_001vda,Value-driven algorithm.
+1,pv37_01vda,01 Volume Day Ahead
+2,pv37_03vda,Value-driven algorithm.
+3,pv37_06vda,"Custom field, possibly related to a specific data point or metric"
+4,pv37_081vda,Value-driven algorithm.
+5,pv37_0d_tpds,0-Day Trade Price Downside
+6,pv37_1vda,Value-driven algorithm.
+7,pv37_36vda,36 Volume Day Ahead
+8,pv37_4vda,Value-driven algorithm.
+9,pv37_5vda,Value-driven algorithm.
+10,pv37_6vda,Value-driven algorithm.
+11,pv37_adr_ticker_di,ADR Ticker Direct Indicator
+12,pv37_all_1dls,Total assessment of Sale of Loan Debt 23.
+13,pv37_all_1nstq,Quality assessment of Service Network 1.
+14,pv37_all_1oscq,Quality cash pledge spread.
+15,pv37_all_adbs,Assessment of Sale of Business Debt Assets.
+16,pv37_all_agss,Total assessment of Sale of Strategic Goals Achieved.
+17,pv37_all_aieo,Operating deposit pledge liabilities.
+18,pv37_all_algn,Net gain loss assets.
+19,pv37_all_atcq,Quality assessment of total current assets.
+20,pv37_all_bcns,Total assessment of Sale of Non-Corporate Credit.
+21,pv37_all_ccns,Total assessment of Sale of Non-Corporate Energy.
+22,pv37_all_cdav,Total assessment of Value Added Debt Capital.
+23,pv37_all_cinx,Total x-non-incorporated certificate traded volume.
+24,pv37_all_cstq,Quality assessment of transaction security.
+25,pv37_all_ctcv,Total assessment of Value Certificate Transaction Capital.
+26,pv37_all_dlts,Total assessment of Sale of Transaction Loan Debt.
+27,pv37_all_dltv,Total long-term debt volume.
+28,pv37_all_dtns,Assessment of Sale of Operating Asset Transactions.
+29,pv37_all_ecns,Total assessment of Sale of Non-Corporate Investments.
+30,pv37_all_eiuo,Operating transaction expense.
+31,pv37_all_eoos,Total assessment of Sale of Operating Pipeline Investments.
+32,pv37_all_etoq,Quality assessment of various other equity types.
+33,pv37_all_fbbs,Assessment of Sale of Business Banking Finance.
+34,pv37_all_fbds,Total assessment of Sale of Debt Business Finance.
+35,pv37_all_fcfs,Total assessment of Sale of Finance Equity Expense.
+36,pv37_all_fcoo,Operating open asset spread.
+37,pv37_all_iabs,Assessment of Sale of Business Asset Insurance.
+38,pv37_all_iads,Total assessment of Sale of Debt Asset Investments.
+39,pv37_all_icno,Operating loan spread.
+40,pv37_all_icns,Assessment of Sale of Non-Investment Energy.
+41,pv37_all_ists,Total assessment of Sale of Transaction Security Investments.
+42,pv37_all_itpv,Total assessment of Value in Transactional Interest.
+43,pv37_all_iucs,Total assessment of Sale of Corporate Utility Investments.
+44,pv37_all_kcqs,Total assessment of Sale of Quality Check Kit.
+45,pv37_all_letq,Quality assessment of telecommunications equity.
+46,pv37_all_lltq,Quality assessment of long-term telecommunications liability.
+47,pv37_all_ltls,Assessment of Sale of Market Pipeline Goods.
+48,pv37_all_mocq,Quality cash management spread.
+49,pv37_all_mpns,Total assessment of Sale of Non-Trade Debt.
+50,pv37_all_mtps,Total assessment of Sale of Operating Team Management.
+51,pv37_all_nein,Net income earnings.
+52,pv37_all_nibx,Net income before extra.
+53,pv37_all_niin,Net income interest.
+54,pv37_all_niis,Total assessment of Sale of Insurance Investment Operations.
+55,pv37_all_nins,Assessment of Sale of Non-Market Kit.
+56,pv37_all_nont,Net operating expense.
+57,pv37_all_ntiv,Total assessment of Value in International Transactions.
+58,pv37_all_oiis,Total assessment of Sale of Insurance Net Network.
+59,pv37_all_pbts,Total assessment of Sale of Transaction Banking Products.
+60,pv37_all_pedv,Total assessment of Value Debt Expense.
+61,pv37_all_pics,Total assessment of Sale of Corporate Investment Plans.
+62,pv37_all_ppgs,Total assessment of Sale of Gas Resource Projects.
+63,pv37_all_prgs,Assessment of Sale of Insurance Asset Projects.
+64,pv37_all_ptcs,Total assessment of Sale of Corporate Transaction Plans.
+65,pv37_all_qpic,Quality assessment of Paid-In Capital.
+66,pv37_all_qred,Quality assessment of redemption processes.
+67,pv37_all_rpds,Total assessment of Sale of Debt Water Services.
+68,pv37_all_sbas,Assessment of Sale of Business Asset Services.
+69,pv37_all_sbit,Total assessment of Sale of Business Information Technology.
+70,pv37_all_scur,Total assessment of Sale of Corporate Utility Revenue.
+71,pv37_all_sedv,Total assessment of Value Debt Securities.
+72,pv37_all_setr,Total assessment of Sale of Finance Cash Flow.
+73,pv37_all_sfee,Total assessment of Sale of Gas Pipeline Projects.
+74,pv37_all_sicf,Total assessment of Sale of Insurance Energy Network.
+75,pv37_all_sien,Total assessment of Sale of Insurance Energy Operations.
+76,pv37_all_sinn,Total assessment of Sale of Insurance Net Value.
+77,pv37_all_sinv,Assessment of Sale of Loan Banking Assets.
+78,pv37_all_smcq,Quality asset management liquidity.
+79,pv37_all_smcs,Total assessment of Sale of Corporate Management Services.
+80,pv37_all_soca,Assessment of Sale of Operating Cash Flow.
+81,pv37_all_socl,Assessment of Sale of Operating Debt Goods.
+82,pv37_all_sola,Assessment of Sale of Operating Loan Kit.
+83,pv37_all_sont,Total assessment of Sale of Operating Other Equity.
+84,pv37_all_sopi,Total assessment of Sale of Operating Pipeline Operations.
+85,pv37_all_sopp,Assessment of Sale of Operating Real Estate.
+86,pv37_all_sote,Assessment of Sale of Operating Debt.
+87,pv37_all_srev,Total assessment of Sale of Revenue.
+88,pv37_all_stec,Total assessment of Sale of Transaction Equity Capital.
+89,pv37_all_stnr,Assessment of Real Net Transaction Services.
+90,pv37_all_suie,Total assessment of Sale of Unincorporated Equity.
+91,pv37_all_swds,Total assessment of Sale of Equity Transaction Revenue.
+92,pv37_all_tait,Total assessment of Transaction Interest Asset Transactions.
+93,pv37_all_tdbs,Total assessment of Sale of Business Debt Transactions.
+94,pv37_all_ttax,Total assessment of Transaction Tax.
+95,pv37_all_ttiv,Total assessment of Value in Total Transactions.
+96,pv37_all_vaia,Total assessment of Value Added Insurance Asset.
+97,pv37_all_vbes,Total assessment of Value Based Equity Securities.
+98,pv37_all_vbts,Total assessment of Sale of Transaction Banking Value.
+99,pv37_all_veia,Assessment of Value Equity Payment Securities.
+100,pv37_all_viac,Total assessment of Value in Accounting Changes.
+101,pv37_all_viat,Total assessment of Value in Asset Transactions.
+102,pv37_all_viex,Total assessment of Value in Exchange Transactions.
+103,pv37_all_vmin,Total assessment of Value in Mining Transactions.
+104,pv37_all_vnin,Net income notifications.
+105,pv37_all_vrad,Total assessment of Value in Radio Assets.
+106,pv37_analyst_revisn,Analyst Revision
+107,pv37_analyst_revisn_di,Analyst Revision Direct Indicator
+108,pv37_analyst_uncertainty,Analyst Uncertainty
+109,pv37_analyst_uncertainty_di,Analyst Uncertainty Direct Indicator
+110,pv37_annfv_mfm2_acta,Annualized MFM2 for ATCA.
+111,pv37_annfv_mfm2_atot,Annualized MFM2 for ATOT.
+112,pv37_annfv_mfm2_bloo,Annualized MFM2 for BLOO.
+113,pv37_annfv_mfm2_bpao,Annualized MFM2 for BPAO.
+114,pv37_annfv_mfm2_cnin,Annualized MFM2 for CNIN.
+115,pv37_annfv_mfm2_deds,Annualized MFM2 for DEDS.
+116,pv37_annfv_mfm2_dlcl,Annualized MFM2 for DLCL.
+117,pv37_annfv_mfm2_dtsl,Annualized MFM2 for DTSL.
+118,pv37_annfv_mfm2_dttl,Annualized MFM2 for DTTL.
+119,pv37_annfv_mfm2_eltq,Annualized MFM2 for ELTQ.
+120,pv37_annfv_mfm2_inds,Annualized MFM2 for INDS.
+121,pv37_annfv_mfm2_iscs,Annualized MFM2 for ISCS.
+122,pv37_annfv_mfm2_lctl,Annualized MFM2 for LCTL.
+123,pv37_annfv_mfm2_lltl,Annualized MFM2 for LLTL.
+124,pv37_annfv_mfm2_ltio,Annualized MFM2 for LTIO.
+125,pv37_annfv_mfm2_octq,Annualized MFM2 for OCTQ.
+126,pv37_annfv_mfm2_olto,Annualized MFM2 for OLTO.
+127,pv37_annfv_mfm2_onet,Annualized MFM2 for ONET.
+128,pv37_annfv_mfm2_peds,Annualized MFM2 for PEDS.
+129,pv37_annfv_mfm2_rcao,Annualized MFM2 for RCAO.
+130,pv37_annfv_mfm2_rltr,Annualized MFM2 for RLTR.
+131,pv37_annfv_mfm2_saoo,Annualized MFM2 for SAOO.
+132,pv37_annfv_mfm2_scor,Annualized MFM2 for SCOR.
+133,pv37_annfv_mfm2_socf,Annualized MFM2 for SOCF.
+134,pv37_annfv_mfm2_vami,Annualized MFM2 for VAMI.
+135,pv37_annfv_mfm2_xecs,Annualized MFM2 for XECS.
+136,pv37_average_daily_trading_volume,Average Daily Trading Volume
+137,pv37_average_daily_trading_volume_di,Average Daily Trading Volume Direct Indicator
+208,pv37_beta_vs_acwi_ex_us,Beta versus ACWI ex US
+209,pv37_beta_vs_acwi_ex_us_di,Beta versus ACWI ex US Direct Indicator
+210,pv37_beta_vs_country,Beta versus Country
+211,pv37_beta_vs_country_di,Beta versus Country Direct Indicator
+212,pv37_bs_accrued_income_taxes,Accrued Income Taxes on the Balance Sheet
+213,pv37_bs_acct_note_rcv,Account Notes Receivable on the Balance Sheet
+214,pv37_bs_acct_payable,Accounts Payable on the Balance Sheet
+215,pv37_bs_accts_rec_excl_notes_rec,Accounts Receivable Excluding Notes Receivable on the Balance Sheet
+216,pv37_bs_accum_depr,Accumulated Depreciation on the Balance Sheet
+217,pv37_bs_allow_doubtful_acc_rec,Allowance for Doubtful Accounts Receivable on the Balance Sheet
+218,pv37_bs_amt_of_tsy_stock,Amount of Treasury Stock on the Balance Sheet
+219,pv37_bs_capital_reserve,Capital Reserve on the Balance Sheet
+220,pv37_bs_cash_near_cash_item,Cash and Near Cash Items on the Balance Sheet
+221,pv37_bs_common_stock,Common Stock on the Balance Sheet
+222,pv37_bs_cur_asset_report,Current Asset Report on the Balance Sheet
+223,pv37_bs_cur_liab,Current Liabilities on the Balance Sheet
+224,pv37_bs_def_tax_liab,Deferred Tax Liability on the Balance Sheet
+225,pv37_bs_disclosed_intangibles,Disclosed Intangibles on the Balance Sheet
+226,pv37_bs_goodwill,Goodwill on the Balance Sheet
+227,pv37_bs_gross_fix_asset,Gross Fixed Assets on the Balance Sheet
+228,pv37_bs_inventories,Inventories on the Balance Sheet
+229,pv37_bs_invest_in_assoc_co,Investment in Associate Company on the Balance Sheet
+230,pv37_bs_lt_borrow,Long-Term Borrowings on the Balance Sheet
+231,pv37_bs_lt_invest,Long-Term Investments on the Balance Sheet
+232,pv37_bs_mkt_sec_other_st_invest,Market securities and other short-term investments
+233,pv37_bs_net_fix_asset,Net value of fixed assets after depreciation
+234,pv37_bs_non_depr_decomm_fund,Non-depreciable decommissioning fund assets
+235,pv37_bs_num_of_shareholders,Number of shareholders
+236,pv37_bs_other_asset_def_chng_other,Other asset deferred changes
+237,pv37_bs_other_cur_asset,Total other current assets
+238,pv37_bs_other_cur_asset_less_prepay,Other current assets less prepayments
+239,pv37_bs_other_lt_liabilities,Other long-term liabilities
+240,pv37_bs_other_st_liab,Other short-term liabilities
+241,pv37_bs_par_val,Par value of shares
+242,pv37_bs_pension_rsrv,Pension reserves
+243,pv37_bs_prepay,Prepayments
+244,pv37_bs_pure_retained_earnings,Pure retained earnings
+245,pv37_bs_q_announcement_dt,The announcement date for quarterly balance sheet data
+246,pv37_bs_q_fundamental_entry_dt,Fundamental entry date
+247,pv37_bs_q_latest_period_end_dt_full_record,Latest period end date full record
+248,pv37_bs_retain_earn,Retained earnings
+249,pv37_bs_sh_cap_and_apic,Share capital and additional paid-in capital
+250,pv37_bs_sh_out,Shares outstanding
+251,pv37_bs_st_borrow,Short-term borrowings
+252,pv37_bs_st_portion_of_lt_debt,Short-term portion of long-term debt
+253,pv37_bs_tot_asset,Total assets
+254,pv37_bs_tot_eqy,Total equity
+255,pv37_bs_tot_liab_eqy,Total liabilities and equity
+256,pv37_cap_10,10-Day Market Capitalization
+257,pv37_cap_110000,Capital at 11:00.
+258,pv37_cap_12,Market cap
+259,pv37_cap_130000,Capital at 13:00.
+260,pv37_cap_14,14-Day Market Capitalization
+261,pv37_cap_140000,Capital at 14:00.
+262,pv37_cap_1430,Capital at 14:30.
+263,pv37_cap_163000,Market capitalization at 16:30
+264,pv37_capital_inv,Capital Investment
+265,pv37_capital_inv_di,Capital Investment Direct Indicator
+266,pv37_cashflow_delay1_nugget,Cash Flow Delay 1 Nugget
+267,pv37_cfps_best_crncy_iso,Best currency ISO for CFPS.
+268,pv37_cfps_best_cur_fiscal_qtr_period,Best current fiscal quarter period for CFPS.
+269,pv37_cfps_best_cur_fiscal_semi_year_period,Best current fiscal semi-year period for CFPS.
+270,pv37_cfps_best_cur_fiscal_year_period,Best current fiscal year period for CFPS. (Cash Flow Per Share)
+271,pv37_cfps_best_eeps_cur_yr,Best estimated EPS current year for CFPS. (Cash Flow Per Share)
+272,pv37_cfps_best_eeps_nxt_yr,Best estimated EPS next year for CFPS.
+275,pv37_close_10,10-Day Closing Price
+276,pv37_close_110000,Close price at 11:00.
+277,pv37_close_12,Close price
+278,pv37_close_130000,Close price at 13:00.
+279,pv37_close_14,14-Day Closing Price
+280,pv37_close_140000,Close price at 14:00.
+281,pv37_close_1430,Close price at 14:30.
+282,pv37_close_163000,Closing price at 16:30
+283,pv37_cn_analyst_revisn,CN Analyst Revision
+284,pv37_cn_analyst_revisn_di,CN Analyst Revision Direct Indicator
+285,pv37_cn_analyst_uncertainty,CN Analyst Uncertainty
+286,pv37_cn_analyst_uncertainty_di,CN Analyst Uncertainty Direct Indicator
+287,pv37_cn_capital_inv,CN Capital Investment
+288,pv37_cn_capital_inv_di,CN Capital Investment Direct Indicator
+289,pv37_cn_earn_qual,CN Earnings Quality
+290,pv37_cn_earn_qual_di,CN Earnings Quality Direct Indicator
+291,pv37_cn_earn_valu,CN Earnings Value
+292,pv37_cn_earn_valu_di,CN Earnings Value Direct Indicator
+293,pv37_cn_entrpris_valu,CN Enterprise Value
+294,pv37_cn_entrpris_valu_di,CN Enterprise Value Direct Indicator
+295,pv37_cn_ext_finance,CN External Finance
+296,pv37_cn_ext_finance_di,CN External Finance Direct Indicator
+297,pv37_cn_fcf_valu,CN FCF Value
+298,pv37_cn_fcf_valu_di,CN FCF Value Direct Indicator
+299,pv37_cn_fund_gth,CN Fundamental Growth
+300,pv37_cn_fund_gth_di,CN Fundamental Growth Direct Indicator
+301,pv37_cn_fund_stab,CN Fundamental Stability
+302,pv37_cn_fund_stab_di,CN Fundamental Stability Direct Indicator
+303,pv37_cn_leverage,CN Leverage
+304,pv37_cn_leverage_di,CN Leverage Direct Indicator
+305,pv37_cn_profitabil_cons,CN Profitability Consensus
+306,pv37_cn_profitabil_cons_di,CN Profitability Consensus Direct Indicator
+307,pv37_cn_profitability,CN Profitability
+308,pv37_cn_profitability_di,CN Profitability Direct Indicator
+309,pv37_cn_stk_pric_mom,CN Stock Price Momentum
+310,pv37_cn_stk_pric_mom_di,CN Stock Price Momentum Direct Indicator
+311,pv37_cn_stk_pric_volatil,CN Stock Price Volatility
+312,pv37_cn_stk_pric_volatil_di,CN Stock Price Volatility Direct Indicator
+313,pv37_cni_tni_si,Consolidated net interest income special items.
+314,pv37_company_name,Company Name
+315,pv37_company_name_di,Company Name Direct Indicator
+316,pv37_crco,Operating cash pledge.
+317,pv37_ctdv,Assessment of Value Debt Transaction Debt.
+318,pv37_cur_profit_japan,Current profit in Japan
+319,pv37_debt_to_equity_di,Debt to Equity Direct Indicator
+320,pv37_dividend_yield,Dividend Yield
+321,pv37_dividend_yield_di,Dividend Yield Direct Indicator
+322,pv37_dividend_yield_f,Dividend Yield Forecast
+323,pv37_dividend_yield_f_di,Dividend Yield Forecast Direct Indicator
+324,pv37_dly_rdlhrhs,Direct indicator for the momentum of the company's stock price
+325,pv37_dly_rdlhrhs_nc,Daily RDLHRHS NC
+326,pv37_dpco,Operating bid engagement.
+327,pv37_drai_decile,DRAI Decile
+328,pv37_drai_decile_di,DRAI Decile Direct Indicator
+329,pv37_drai_decile_within_country,DRAI Decile Within Country
+330,pv37_drai_decile_within_country_di,DRAI Decile Within Country Direct Indicator
+331,pv37_drai_decile_within_sector,DRAI Decile Within Sector
+332,pv37_drai_decile_within_sector_di,DRAI Decile Within Sector Direct Indicator
+333,pv37_drai_score,DRAI Score
+334,pv37_drai_score_chg_13w,DRAI Score Change 13W
+335,pv37_drai_score_chg_13w_di,DRAI Score Change 13W Direct Indicator
+336,pv37_drai_score_chg_1w,DRAI Score Change 1W
+337,pv37_drai_score_chg_1w_di,DRAI Score Change 1W Direct Indicator
+338,pv37_drai_score_di,DRAI Score Direct Indicator
+339,pv37_earn_for_common,Earnings for common
+340,pv37_earn_qual,Earnings Quality
+341,pv37_earn_qual_di,Earnings Quality Direct Indicator
+342,pv37_earn_valu,Earnings Value
+343,pv37_earn_valu_di,Earnings Value Direct Indicator
+344,pv37_ebit,EBIT.
+345,pv37_ebitda,EBITDA.
+346,pv37_ebitda_best_crncy_iso,Best currency ISO for EBITDA.
+347,pv37_ebitda_best_cur_fiscal_qtr_period,Best current fiscal quarter period for EBITDA.
+348,pv37_ebitda_best_cur_fiscal_semi_year_period,Best current fiscal semi-year period for EBITDA.
+349,pv37_ebitda_best_cur_fiscal_year_period,Best current fiscal year period for EBITDA.
+350,pv37_ebitda_best_eeps_cur_yr,Best estimated EBITDA current year.
+351,pv37_ebitda_best_eeps_nxt_yr,Best estimated EBITDA next year.
+354,pv37_ebitdar,EBITDAR.
+355,pv37_eff_int_rate,Effective interest rate.
+356,pv37_entrpris_valu,Enterprise Value
+357,pv37_entrpris_valu_di,Enterprise Value Direct Indicator
+358,pv37_eps_growth_forecast_5year_di,Direct indicator for the forecasted growth in earnings per share over the next five years
+359,pv37_exchange_country_di,Direct indicator for the country in which the stock exchange is located
+360,pv37_ext_finance,"Funds raised through external sources, such as debt or equity financing"
+361,pv37_ext_finance_di,Direct indicator for external financing activities
+362,pv37_fcf_valu,The valuation of a company based on its free cash flows
+363,pv37_fcf_valu_di,Direct indicator for the valuation based on free cash flow
+364,pv37_ffops_best_crncy_iso,Best currency ISO for FFOPS.
+365,pv37_ffops_best_cur_fiscal_qtr_period,Best current fiscal quarter period for FFOPS.
+366,pv37_ffops_best_cur_fiscal_semi_year_period,Best current fiscal semi-year period for FFOPS.
+367,pv37_ffops_best_cur_fiscal_year_period,Best current fiscal year period for FFOPS.
+368,pv37_ffops_best_eeps_cur_yr,Best estimated EPS current year for FFOPS.
+369,pv37_ffops_best_eeps_nxt_yr,Best estimated EPS next year for FFOPS.
+370,pv37_fund_gth,The intrinsic growth of the company based on fundamental analysis
+371,pv37_fund_gth_di,Direct indicator for fundamental growth metrics
+372,pv37_fund_stab,The consistency and reliability of a company's fundamental financial metrics
+373,pv37_fund_stab_di,Direct indicator for the stability of the company's fundamentals
+374,pv37_fx_conversion,Foreign Exchange Conversion
+375,pv37_fx_conversion_return,Foreign Exchange Conversion Return
+376,pv37_geographic_region,The main geographic area where the company operates
+377,pv37_geographic_region_di,Direct indicator for the geographic region of operation
+378,pv37_gics_industry_group_name,The name of the industry group assigned to the company according to the Global Industry Classification Standard
+379,pv37_gics_industry_group_name_di,Direct indicator for the name of the industry group according to GICS
+380,pv37_gics_industry_group_number,The number assigned to the industry group of the company according to the Global Industry Classification Standard
+381,pv37_gics_industry_group_number_di,Direct indicator for the industry group number according to GICS
+382,pv37_gics_industry_name,The name of the industry assigned to the company according to the Global Industry Classification Standard
+383,pv37_gics_industry_name_di,Direct indicator for the industry name according to GICS
+384,pv37_gics_industry_number,The number assigned to the industry of the company according to the Global Industry Classification Standard
+385,pv37_gics_industry_number_di,Direct indicator for the industry number according to GICS
+386,pv37_gics_industry_number_i,The number assigned to the industry of the company according to the Global Industry Classification Standard
+387,pv37_gics_industry_number_i_di,An alternative industry number assigned to the company according to the Global Industry Classification Standard
+388,pv37_gics_sector_name,The name of the sector assigned to the company according to the Global Industry Classification Standard
+389,pv37_gics_sector_name_di,Direct indicator for the sector name according to GICS
+390,pv37_gics_sector_number,The number assigned to the sector of the company according to the Global Industry Classification Standard
+391,pv37_gics_sector_number_di,Direct indicator for the sector number according to GICS
+392,pv37_high_10,10-Day Highest Price
+393,pv37_high_110000,High price at 11:00.
+394,pv37_high_12,High price
+395,pv37_high_130000,High price at 13:00.
+396,pv37_high_14,14-Day Highest Price
+397,pv37_high_140000,High price at 14:00.
+398,pv37_high_1430,High price at 14:30.
+399,pv37_high_163000,Highest price at 16:30
+400,pv37_id_dly_rdlhrhs,"Daily record of high, low, return, hold, sell, and buy signals"
+401,pv37_id_dly_rdlhrhs_nc,ID Daily RDLHRHS NC
+402,pv37_intfv_all_1spdd,Adjusted dividends gross cost development
+403,pv37_intfv_all_aamt,Adjusted annual maintenance total
+404,pv37_intfv_all_acoa,Adjusted other asset totals
+405,pv37_intfv_all_acta,Adjusted total asset accounts
+406,pv37_intfv_all_adep,Adjusted depreciation expense
+407,pv37_intfv_all_adpa,Adjusted property building operations
+408,pv37_intfv_all_afsi,"Adjusted investment savings direct position, calculated on an interim basis."
+409,pv37_intfv_all_agse,Adjusted earnings savings gross assets
+410,pv37_intfv_all_aing,Adjusted net income gains
+411,pv37_intfv_all_aint,Adjusted net interest
+412,pv37_intfv_all_airm,Adjusted interest rate margins
+413,pv37_intfv_all_aitl,Adjusted total interest liabilities
+414,pv37_intfv_all_alti,Adjusted total liabilities
+415,pv37_intfv_all_altr,Adjusted long-term reserves
+416,pv37_intfv_all_amec,Adjusted liabilities total reserves
+417,pv37_intfv_all_aorc,Adjusted other property costs
+418,pv37_intfv_all_aptc,Adjusted property real estate
+419,pv37_intfv_all_asti,Adjusted savings home mortgages
+420,pv37_intfv_all_astr,Adjusted savings total investments
+421,pv37_intfv_all_atda,Adjusted total assets annual
+422,pv37_intfv_all_atot,Adjusted total gross liabilities
+423,pv37_intfv_all_bloo,Operating open cash flow.
+424,pv37_intfv_all_bpao,Operating asset management income.
+425,pv37_intfv_all_bpdl,"Adjusted liabilities direct operations liabilities, calculated on an interim basis."
+426,pv37_intfv_all_caic,Adjusted cost gross product development
+427,pv37_intfv_all_cbpa,Adjusted other total investments
+428,pv37_intfv_all_cfda,Adjusted cost financing deferred annual
+429,pv37_intfv_all_cmin,Adjusted cost mechanical equipment assets
+430,pv37_intfv_all_cnin,Net income non-current.
+431,pv37_intfv_all_cpca,Adjusted claims policy cumulative annual
+432,pv37_intfv_all_cpdf,Adjusted financial deposit product costs
+433,pv37_intfv_all_cpoa,Adjusted other earnings assets
+434,pv37_intfv_all_crta,Adjusted total other transactions
+435,pv37_intfv_all_deds,Assessment of Sale of Debt Expense.
+436,pv37_intfv_all_dgcd,Tracking date of adjusted cost gross product development
+437,pv37_intfv_all_dlcl,"Adjusted liabilities bond direct total, calculated on an interim basis."
+438,pv37_intfv_all_drpf,"Adjusted financial liabilities from direct reinvestment, calculated on an interim basis."
+439,pv37_intfv_all_dtll,"Adjusted long-term liabilities data, calculated on an interim basis."
+440,pv37_intfv_all_dtsl,"Adjusted savings total deposit data, calculated on an interim basis."
+441,pv37_intfv_all_dttl,"Adjusted long-term total deposit data, calculated on an interim basis."
+442,pv37_intfv_all_eaca,Adjusted earnings cumulative annual
+443,pv37_intfv_all_ecor,Adjusted earnings capital
+444,pv37_intfv_all_einn,Adjusted earnings interest income net
+445,pv37_intfv_all_eiue,Adjusted earnings underwriting insurance expenses
+446,pv37_intfv_all_elar,Adjusted earnings liabilities asset ratio
+447,pv37_intfv_all_eltq,Quality assessment of telecommunications liability.
+448,pv37_intfv_all_eont,Adjusted earnings other net transactions
+449,pv37_intfv_all_eooe,Adjusted earnings other operating expenses
+450,pv37_intfv_all_erad,Adjusted earnings reserve asset development
+451,pv37_intfv_all_etoe,Adjusted earnings total other expenses
+452,pv37_intfv_all_fcff,Adjusted financial free cash flow
+453,pv37_intfv_all_fcii,"Adjusted investment income annual net, calculated on an interim basis."
+454,pv37_intfv_all_fltf,"Adjusted financial total direct investments, calculated on an interim basis."
+455,pv37_intfv_all_gfia,Adjusted investment funding gains
+456,pv37_intfv_all_graa,Adjusted growth revenue annual average
+457,pv37_intfv_all_hsca,Adjusted holdings cash annual
+458,pv37_intfv_all_ibaq,"Adjusted financial working capital value, calculated on an interim basis."
+459,pv37_intfv_all_icex,"Adjusted hedge fund financial operations, calculated on an interim basis."
+460,pv37_intfv_all_idlf,"Adjusted earnings from underwriting insurance expenses, calculated on an interim basis."
+461,pv37_intfv_all_idtf,"Adjusted financial savings in insurance capital, calculated on an interim basis."
+462,pv37_intfv_all_ilti,"Adjusted investment savings total liabilities, calculated on an interim basis."
+463,pv37_intfv_all_inds,Total assessment of Sale of Debt Property.
+464,pv37_intfv_all_iqea,Adjusted investment equity annual
+465,pv37_intfv_all_iscs,Assessment of Sale of Corporate Security Investments.
+466,pv37_intfv_all_isob,"Adjusted investment savings key investment, calculated on an interim basis."
+467,pv37_intfv_all_iwga,Adjusted gross working investments
+468,pv37_intfv_all_lapb,"Adjusted liabilities account capital, calculated on an interim basis."
+469,pv37_intfv_all_lbpl,"Adjusted payable bonds liabilities data, calculated on an interim basis."
+470,pv37_intfv_all_lcol,"Adjusted other current liabilities data, calculated on an interim basis."
+471,pv37_intfv_all_lctl,"Adjusted long-term capital liabilities data, calculated on an interim basis."
+472,pv37_intfv_all_lltl,"Adjusted long-term liabilities total data, calculated on an interim basis."
+473,pv37_intfv_all_lmin,"Adjusted mining investments data, calculated on an interim basis."
+474,pv37_intfv_all_lopb,"Adjusted other payable bonds data, calculated on an interim basis."
+475,pv37_intfv_all_ltio,Operating income value.
+476,pv37_intfv_all_ltll,"Adjusted long-term liabilities to assets ratio, calculated on an interim basis."
+477,pv37_intfv_all_metl,"Adjusted market hedge assets data, calculated on an interim basis."
+478,pv37_intfv_all_ndlf,"Adjusted financial cost for holding deposit positions, calculated on an interim basis."
+479,pv37_intfv_all_ndsf,"Adjusted financial savings capital position, calculated on an interim basis."
+480,pv37_intfv_all_nppa,Adjusted property lease contracts
+481,pv37_intfv_all_nscf,Adjusted financial cost savings net
+482,pv37_intfv_all_nvii,"Adjusted investment income savings direct, calculated on an interim basis."
+483,pv37_intfv_all_octq,Quality assessment of transaction costs.
+484,pv37_intfv_all_olto,Operating sale operating liabilities.
+485,pv37_intfv_all_onet,Operating net cash income.
+486,pv37_intfv_all_pdcf,Adjusted financial cost deposit position
+487,pv37_intfv_all_pede,Adjusted earnings core
+488,pv37_intfv_all_peds,Assessment of Sale of Debt Net Income.
+489,pv37_intfv_all_pnii,"Adjusted investment income job level, calculated on an interim basis."
+490,pv37_intfv_all_pwia,Adjusted interest with protection
+491,pv37_intfv_all_pxtl,"Adjusted long-term tax payable data, calculated on an interim basis."
+492,pv37_intfv_all_rcaa,Adjusted cost annual average
+493,pv37_intfv_all_rcao,Operating asset cash gain.
+494,pv37_intfv_all_rdlf,"Adjusted financial liabilities from direct investments, calculated on an interim basis."
+495,pv37_intfv_all_rdtf,"Adjusted financial savings in insurance products, calculated on an interim basis."
+496,pv37_intfv_all_rltr,Assessment of Real Total Liability.
+497,pv37_intfv_all_saoa,Adjusted net total liabilities
+498,pv37_intfv_all_scor,Assessment of Sale of Corporate Operations.
+499,pv37_intfv_all_snii,"Adjusted investment income job reserve, calculated on an interim basis."
+500,pv37_intfv_all_socf,Total assessment of Sale of Operating Cash Liability.
+501,pv37_intfv_all_sonm,Minimum open spread for all instruments.
+502,pv37_intfv_all_sspf,"Adjusted financial product development costs, calculated on an interim basis."
+503,pv37_intfv_all_tbie,Adjusted earnings insurance underwriting
+504,pv37_intfv_all_tdbl,"Adjusted liabilities account external, calculated on an interim basis."
+505,pv37_intfv_all_toia,Adjusted total other income
+506,pv37_intfv_all_txee,Adjusted earnings direct operating expenses
+507,pv37_intfv_all_uaie,Adjusted earnings insurance asset savings
+508,pv37_intfv_all_vacl,"Adjusted liabilities account position bond, calculated on an interim basis."
+509,pv37_intfv_all_vami,Assessment of Value Added Market Insurance.
+510,pv37_intfv_all_vnie,Adjusted earnings net non-operating
+511,pv37_intfv_all_xeal,"Adjusted investment work key reserve, calculated on an interim basis."
+512,pv37_intfv_all_xecs,Assessment of Sale of Cash Exchange.
+513,pv37_intfv_all_yppa,Adjusted property net position
+514,pv37_intfv_mfm_atot,A metric representing the total assets.
+515,pv37_intfv_mfm_dttl,A metric representing the total long-term debt
+516,pv37_intfv_mfm_eltq,A metric that could represent equity or earnings at the end of a quarter
+517,pv37_intfv_mfm_inds,A metric representing industry standards or an index value
+518,pv37_intfv_mfm_lctl,A metric representing long-term liabilities
+519,pv37_intfv_mfm_olto,A metric representing other long-term obligations
+520,pv37_intfv_mfm_rltr,A metric that could represent return or a specific ratio over the long term
+521,pv37_invtry_finished_goods,Inventory of finished goods
+522,pv37_invtry_in_progress,Inventory in progress
+523,pv37_invtry_raw_materials,Inventory of raw materials
+524,pv37_is_a3_announcement_dt,The announcement date for a specific financial event or metric
+525,pv37_is_a3_fundamental_entry_dt,The entry date for fundamental financial data
+526,pv37_is_a3_latest_period_end_dt_full_record,The full record date for the end of the latest financial period
+527,pv37_is_a_announcement_dt,Announcement date
+528,pv37_is_a_fundamental_entry_dt,Fundamental entry date.
+529,pv37_is_a_latest_period_end_dt_full_record,Latest period end date for full record.
+530,pv37_is_abnormal_item,Abnormal item.
+531,pv37_is_adjusted_eps_as_reported,Adjusted EPS as reported.
+532,pv37_is_avg_num_sh_for_eps,Average Number of Shares for EPS Calculation.
+533,pv37_is_basic_eps_cont_ops,Basic earnings per share from continuing operations.
+534,pv37_is_cogs_to_fe_and_pp_and_g,"Cost of goods sold to fuel, electricity, and power and gas."
+535,pv37_is_comprehensive_income,Comprehensive income.
+536,pv37_is_dil_eps_cont_ops,Diluted earnings per share from continuing operations.
+537,pv37_is_diluted_eps,Diluted earnings per share.
+538,pv37_is_div_per_shr,Dividends per share.
+539,pv37_is_earn_bef_xo_items_per_sh,Earnings before extraordinary items per share.
+540,pv37_is_eqy_earn_from_invest_assoc,Equity earnings from investments in associates.
+541,pv37_is_foreign_crncy_trans_adj,Foreign currency translation adjustments.
+542,pv37_is_foreign_exch_loss,Foreign exchange loss.
+543,pv37_is_inc_bef_xo_item,Income before extraordinary items.
+544,pv37_is_inc_tax_exp,Income tax expense.
+545,pv37_is_int_expense,Interest expense.
+546,pv37_is_interest_inc,Interest income
+547,pv37_is_invest_income,Investment income.
+548,pv37_is_net_inc_avail_com_shrhldrs,Net income available to common shareholders.
+549,pv37_is_net_non_oper_loss,Net non-operating loss.
+550,pv37_is_oper_inc,Operating income.
+551,pv37_is_other_adj_comp_inc,Other adjustments to comprehensive income.
+552,pv37_is_personnel_exp,Personnel expenses.
+553,pv37_is_rd_expend,Research and development expenditures.
+554,pv37_is_sga_other_op_depr_op_maint,"SG&A, other operating, depreciation, operating, and maintenance expenses."
+555,pv37_is_sh_for_diluted_eps,Shares for diluted EPS calculation.
+556,pv37_is_tax_eff_on_abnormal_item,Tax effect on abnormal items.
+557,pv37_is_tot_cash_com_dvd,Total cash dividends for common stock.
+558,pv37_is_trading_acct_prof,Trading account profit.
+559,pv37_iwgv,Assessment of Value Growth with Innovation.
+560,pv37_koreahalftradingtax_nugget,Korea half trading tax nugget.
+561,pv37_ldav,Assessment of Value Added Debt Loan.
+562,pv37_leverage,The use of debt to acquire additional assets
+563,pv37_leverage_di,Direct indicator for the company's financial leverage
+564,pv37_lguq,Quality assessment of Underlying Gross Liability.
+565,pv37_low_10,10-Day Lowest Price
+566,pv37_low_110000,Low price at 11:00
+567,pv37_low_12,Low price
+568,pv37_low_130000,Low price at 13:00.
+569,pv37_low_14,14-Day Lowest Price
+570,pv37_low_140000,Low price at 14:00.
+571,pv37_low_1430,Low price at 14:30.
+572,pv37_low_163000,Lowest price at 16:30
+573,pv37_market_cap,The total value of all a company's shares of stock
+574,pv37_market_cap_di,Direct indicator for the total market value of a company's outstanding shares
+575,pv37_min_noncontrol_interest_credits,Minimum noncontrolling interest credits.
+576,pv37_minority_noncontrolling_interest,Minority non-controlling interest
+577,pv37_most_recent_qrt_eps_surprise_di,Direct indicator for the most recent quarterly earnings per share surprise
+578,pv37_msci_acwi_member,Indicates whether the company is part of the MSCI All Country World Index
+579,pv37_msci_acwi_member_di,Direct indicator for membership in the MSCI ACWI
+580,pv37_msci_eafe_member_di,Direct indicator for membership in the MSCI EAFE
+581,pv37_nav_best_crncy_iso,Best currency ISO for NAV.
+582,pv37_nav_best_cur_fiscal_qtr_period,Best current fiscal quarter period for NAV.
+583,pv37_nav_best_cur_fiscal_semi_year_period,Best current fiscal semi-year period for NAV.
+584,pv37_nav_best_cur_fiscal_year_period,Best current fiscal year period for NAV.
+585,pv37_nav_best_eeps_cur_yr,Best estimated EPS current year for NAV.
+586,pv37_nav_best_eeps_nxt_yr,Best estimated EPS next year for NAV.
+589,pv37_net_income,Net income.
+590,pv37_net_income_bef_mi,Net income before minority interest
+591,pv37_net_non_oper_loss,Net non-operating loss
+592,pv37_netprofit_gaap_best_crncy_iso,Best currency ISO for net profit GAAP.
+593,pv37_netprofit_gaap_best_cur_fiscal_qtr_period,Best current fiscal quarter period for net profit GAAP.
+594,pv37_netprofit_gaap_best_cur_fiscal_semi_year_period,Best current fiscal semi-year period for net profit GAAP.
+595,pv37_netprofit_gaap_best_cur_fiscal_year_period,Best current fiscal year period for net profit GAAP.
+596,pv37_netprofit_gaap_best_eeps_cur_yr,Best estimated EPS current year for net profit GAAP.
+597,pv37_netprofit_gaap_best_eeps_nxt_yr,Best estimated EPS next year for net profit GAAP.
+602,pv37_notes_receivable,Notes receivable
+603,pv37_nppv,Assessment of Value in Payment Plan Network.
+604,pv37_num_of_analysts_fy1_forecasts,The number of financial analysts providing earnings forecasts for the company's fiscal year 1
+605,pv37_num_of_analysts_fy1_forecasts_di,Direct indicator for the number of analysts providing forecasts for fiscal year 1
+606,pv37_open_10,10-Day Opening Price
+607,pv37_open_110000,Open price at 11:00
+608,pv37_open_12,Open price
+609,pv37_open_130000,Open price at 13:00.
+610,pv37_open_14,14-Day Opening Price
+611,pv37_open_140000,Open price at 14:00.
+612,pv37_open_1430,Open price at 14:30.
+613,pv37_open_163000,Opening price at 16:30
+614,pv37_operatingprofit_best_crncy_iso,Best currency ISO for operating profit.
+615,pv37_operatingprofit_best_cur_fiscal_qtr_period,Best current fiscal quarter period for operating profit.
+616,pv37_operatingprofit_best_cur_fiscal_semi_year_period,Best current fiscal semi-year period for operating profit.
+617,pv37_operatingprofit_best_cur_fiscal_year_period,Best current fiscal year period for operating profit.
+618,pv37_operatingprofit_best_eeps_cur_yr,Best estimated EPS current year for operating profit.
+619,pv37_operatingprofit_best_eeps_nxt_yr,Best estimated EPS next year for operating profit.
+622,pv37_ox_feb_spe_lid_si,Operating expense for February special items.
+623,pv37_periods,The specific periods for which financial reports are prepared
+624,pv37_periods_di,Direct indicator for the financial reporting periods
+625,pv37_pretax_inc,Pre-tax income
+626,pv37_pric_volatil,The degree of variation in the price of the company's stock over time
+627,pv37_pric_volatil_di,Direct indicator for the volatility of the company's stock price
+628,pv37_profitabil_cons,The general agreement among financial analysts regarding the profitability of the company
+629,pv37_profitabil_cons_di,Direct indicator for the consensus among analysts on the company's profitability
+630,pv37_profitability,The ability of the company to generate earnings as compared to its expenses and other relevant costs
+631,pv37_profitability_di,Direct indicator for the company's profitability metrics
+632,pv37_pxe_rped_si,Expense related to research and development special items.
+633,pv37_return_on_equity,A measure of the profitability of a business in relation to the equity
+634,pv37_return_on_equity_di,A measure of the profitability of a business
+635,pv37_returns15,Returns over 15 days.
+636,pv37_returns15_t,Returns over 15 days (adjusted).
+637,pv37_returns180,Returns over 180 days.
+638,pv37_returns180_t,Returns over 180 days (adjusted).
+639,pv37_returns200,200-day returns
+640,pv37_returns200_t,200-day returns adjusted
+641,pv37_returns25,Returns over 25 days.
+642,pv37_returns25_t,Returns over 25 days (adjusted).
+643,pv37_returns30,30-Day Returns
+644,pv37_returns30_t,30-Day Returns Transformed
+645,pv37_returns40,Returns over 40 days.
+646,pv37_returns40_t,Returns over 40 days (adjusted).
+647,pv37_returns5,Returns over 5 days.
+648,pv37_returns50,50-day returns
+649,pv37_returns50_t,50-day returns adjusted
+650,pv37_returns5_t,Returns over 5 days (adjusted).
+651,pv37_returns70,Returns over 70 days.
+652,pv37_returns70_t,Returns over 70 days (adjusted).
+653,pv37_returns75,Returns over 75 days.
+654,pv37_returns75_t,Returns over 75 days (adjusted).
+655,pv37_returns90,Returns over 90 days.
+656,pv37_returns90_t,Returns over 90 days (adjusted).
+657,pv37_rnmv,Assessment of Value in Minor Revenue Transactions.
+658,pv37_roa_best_crncy_iso,ROA best currency ISO
+659,pv37_roa_best_cur_fiscal_qtr_period,ROA best current fiscal quarter period
+660,pv37_roa_best_cur_fiscal_semi_year_period,ROA best current fiscal semi-year period
+661,pv37_roa_best_cur_fiscal_year_period,ROA best current fiscal year period
+662,pv37_roa_best_eeps_cur_yr,ROA best estimate EPS current year
+663,pv37_roa_best_eeps_nxt_yr,ROA best estimate EPS next year
+666,pv37_rtdv,Assessment of Value Debt Value Loan.
+667,pv37_sales_rev_turn,Sales revenue turnover.
+668,pv37_sedol,A unique identifier assigned to securities in the United Kingdom
+669,pv37_sedol_di,Direct indicator for the SEDOL code
+670,pv37_spe_si,Special items.
+671,pv37_statutory_capital,Statutory capital
+672,pv37_stk_pric_mom,Direct indicator for the volatility of the stock price
+673,pv37_stk_pric_mom_di,The rate of acceleration of a security's price or volume
+674,pv37_stk_pric_volatil,Direct indicator for the change in stock price over the last six months
+675,pv37_stk_pric_volatil_di,The rate at which the price of the stock increases or decreases for a given set of returns
+676,pv37_stock_price,Direct indicator for the company's ticker symbol
+677,pv37_stock_price_change_6month,Direct indicator for the current stock price
+678,pv37_stock_price_change_6month_di,The percentage change in the company's stock price over the past six months
+679,pv37_stock_price_di,The current price at which a particular stock can be bought or sold
+680,pv37_ticker,Direct indicator for the trailing price-to-earnings ratio
+681,pv37_ticker_di,The unique series of letters assigned to a security for trading purposes
+682,pv37_tot_int_exp,Total interest expense
+683,pv37_tpds,Trade Price Downside
+684,pv37_trailing_price_to_earnings,A specific financial metric or calculation
+685,pv37_trailing_price_to_earnings_di,The price-to-earnings ratio based on the previous 12 months of earnings
+686,pv37_trailing_price_to_earnings_f,The data date for the specific financial metric or calculation
+687,pv37_trailing_price_to_earnings_f_di,The estimated price-to-earnings ratio based on forecasted earnings
+688,pv37_vint,Assessment of Value in Interest Transactions.
+689,pv37_vlar,Assessment of Value in Large Asset Revenue.
+690,pv37_volume_10,10-Day Trading Volume
+691,pv37_volume_110000,Volume at 11:00.
+692,pv37_volume_12,Trading volume
+693,pv37_volume_130000,Volume at 13:00.
+694,pv37_volume_14,14-Day Trading Volume
+695,pv37_volume_140000,Volume at 14:00.
+696,pv37_volume_1430,Volume at 14:30.
+697,pv37_volume_163000,Trading volume at 16:30
+698,pv37_vwap_10,10-Day VWAP
+699,pv37_vwap_110000,VWAP at 11:00
+700,pv37_vwap_12,VWAP
+701,pv37_vwap_130000,VWAP at 13:00.
+702,pv37_vwap_14,14-Day VWAP
+703,pv37_vwap_140000,VWAP at 14:00.
+704,pv37_vwap_1430,VWAP at 14:30.
+705,pv37_vwap_163000,Volume-weighted average price at 16:30

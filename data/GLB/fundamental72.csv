@@ -1,0 +1,196 @@
+,id,description
+0,fnd72_1_bs_gross_fix_asset,Gross Fixed Assets
+1,fnd72_1_bs_net_fix_asset,Net Fixed Assets
+4,fnd72_bs_gross_fix_asset,Gross Fixed Assets
+5,fnd72_bs_net_fix_asset,Net Fixed Assets
+10,fnd72_cf_disp_fix_asset,Disposal of Fixed Assets
+334,fnd72_s_pit_or_bs_q_1_announcement_dt,Indicates the latest earnings announcement date for which full fundamental information is available
+335,fnd72_s_pit_or_bs_q_1_bs_acct_note_rcv,This field includes trade receivables directly related with operating activities
+336,fnd72_s_pit_or_bs_q_1_bs_acct_payable,Accounts Payable
+337,fnd72_s_pit_or_bs_q_1_bs_accum_depr,Accumulated Depreciation
+338,fnd72_s_pit_or_bs_q_1_bs_amt_of_tsy_stock,Amount of Treasury Shares
+339,fnd72_s_pit_or_bs_q_1_bs_cash_near_cash_item,Cash & Near Cash Items
+340,fnd72_s_pit_or_bs_q_1_bs_cur_asset_report,Current Assets Reported
+341,fnd72_s_pit_or_bs_q_1_bs_cur_liab,Current Liabilities
+342,fnd72_s_pit_or_bs_q_1_bs_def_tax_liab,Long term deferred tax liabilities net of long term deferred tax assets
+343,fnd72_s_pit_or_bs_q_1_bs_inventories,Inventories
+344,fnd72_s_pit_or_bs_q_1_bs_invest_in_assoc_co,Investments in Associated Companies
+345,fnd72_s_pit_or_bs_q_1_bs_lt_borrow,All interest-bearing financial obligations that are not due within a year
+346,fnd72_s_pit_or_bs_q_1_bs_lt_invest,LT Investments
+347,fnd72_s_pit_or_bs_q_1_bs_mkt_sec_other_st_invest,Marketable Securities & Other ST Investments
+348,fnd72_s_pit_or_bs_q_1_bs_non_depr_decomm_fund,"Non-Depreciable Fixed Assets Includes land, construction in progress and other non-depreciable fixed assets for general administration as well as plants"
+349,fnd72_s_pit_or_bs_q_1_bs_other_asset_def_chng_other,Other Assets/Def Chg
+350,fnd72_s_pit_or_bs_q_1_bs_other_cur_asset,Other Current Assets
+351,fnd72_s_pit_or_bs_q_1_bs_other_lt_liabilities,Other LT Liabilities
+352,fnd72_s_pit_or_bs_q_1_bs_other_st_liab,Other ST Liabilities
+353,fnd72_s_pit_or_bs_q_1_bs_par_val,Par Value: This field returns the historical par value of the ordinary shares in units of the currency
+354,fnd72_s_pit_or_bs_q_1_bs_pension_rsrv,Pension and Post-Retirement Reserve
+355,fnd72_s_pit_or_bs_q_1_bs_retain_earn,Retained Earnings
+356,fnd72_s_pit_or_bs_q_1_bs_sh_cap_and_apic,Share Capital & APIC
+357,fnd72_s_pit_or_bs_q_1_bs_sh_out,"All the shares of a corporation that have been authorized, issued, purchased, and held by investors as of period end date"
+358,fnd72_s_pit_or_bs_q_1_bs_st_borrow,"Includes bank overdrafts, short-term debts and borrowings, repurchase agreements   and reverse repos, short-term portion of long-term borrowings, current obligations under capital  leases, current portion of hire purchase creditors, trust receipts, bills payable, bills of exchange, bankers acceptances, interest bearing loans, and short term mandatory redeemable preferred stock"
+359,fnd72_s_pit_or_bs_q_1_bs_st_portion_of_lt_debt,ST Portion of LT Debt
+360,fnd72_s_pit_or_bs_q_1_bs_tot_asset,Total Assets
+361,fnd72_s_pit_or_bs_q_1_bs_tot_eqy,Total Equity/Partnership Capital
+362,fnd72_s_pit_or_bs_q_1_bs_tot_liab_eqy,Total Liabilities & Equity
+363,fnd72_s_pit_or_bs_q_1_fundamental_entry_dt,Date when the fundamental record for this period is created
+364,fnd72_s_pit_or_bs_q_1_hs_yst_fo_mun_sb,Number of treasury shares in primary equivalents at period end
+365,fnd72_s_pit_or_bs_q_1_latest_period_end_dt_full_record,This field displays the latest available period end date from full financial records
+366,fnd72_s_pit_or_bs_q_1_minority_noncontrolling_interest,Minority Interest
+367,fnd72_s_pit_or_bs_q_2_announcement_dt,Indicates the latest earnings announcement date for which full fundamental information is available
+368,fnd72_s_pit_or_bs_q_2_bs_accrual,"Miscellaneous accruals other than accrued income taxes, accrued interest and dividends"
+369,fnd72_s_pit_or_bs_q_2_bs_accrued_income_taxes,This field includes all taxes payable as disclosed under the company's current liabilities
+370,fnd72_s_pit_or_bs_q_2_bs_accts_rec_excl_notes_rec,Accounts receivable with maturities of less than one year directly relating to operating activities
+371,fnd72_s_pit_or_bs_q_2_bs_add_paid_in_cap,Additional Paid in Capital
+372,fnd72_s_pit_or_bs_q_2_bs_allow_doubtful_acc_rec,A contra asset account that is subtracted from trade and notes receivables on the balance sheet
+373,fnd72_s_pit_or_bs_q_2_bs_capital_reserve,"Includes accmulative comprehensive income reserve, merger reserve, as well as all other reserves and equities not included in Retained Earnings"
+374,fnd72_s_pit_or_bs_q_2_bs_capital_stock,"Capital Stock: When a company issues shares with par value for cash, a part of the proceeds are recorded as capital stock"
+375,fnd72_s_pit_or_bs_q_2_bs_common_stock,Common Stocks
+376,fnd72_s_pit_or_bs_q_2_bs_disclosed_intangibles,Disclosed Intangibles
+377,fnd72_s_pit_or_bs_q_2_bs_future_min_oper_lease_oblig,Total of the Future Minimum Operating Lease Commitments
+378,fnd72_s_pit_or_bs_q_2_bs_goodwill,Goodwill: The excess price paid over the fair market value of assets in an acquisition accounted for by the purchase method
+379,fnd72_s_pit_or_bs_q_2_bs_options_outstanding,Options Outstanding End of Period
+380,fnd72_s_pit_or_bs_q_2_bs_other_cur_asset_less_prepay,"Other assets which are not account and notes receivable, inventory, derivative assets, deferred tax assets, prepaid expenses, assets for held for sales, income taxes receivable, and assets of discontinued operations"
+381,fnd72_s_pit_or_bs_q_2_bs_other_cur_liab,"Includes customer deposits, short-term deferred income tax liabilities, refunds due customers and other current liabilities"
+382,fnd72_s_pit_or_bs_q_2_bs_pure_retained_earnings,"Accumulated earnings, earned surplus, or unappropriated profit that has been retained by the company"
+383,fnd72_s_pit_or_bs_q_2_bs_rental_exp_year_1,Operating Lease Commitments for the next year
+384,fnd72_s_pit_or_bs_q_2_bs_total_avail_line_of_credit,Total remaining amount of the lines of credit
+385,fnd72_s_pit_or_bs_q_2_bs_total_line_of_credit,This is the total of all the Lines of Credit that the company has access to; also referred to as Revolving Credit Facilities
+386,fnd72_s_pit_or_bs_q_2_contingent_liabilities,Liabilities shown on the balance sheet and described specifically as contingencies or events contingent on a probable and estimatable outcome
+387,fnd72_s_pit_or_bs_q_2_fundamental_entry_dt,Date when the fundamental record for this period is created
+388,fnd72_s_pit_or_bs_q_2_invtry_finished_goods,Inventory Finished Goods
+389,fnd72_s_pit_or_bs_q_2_invtry_in_progress,Work In Progress
+390,fnd72_s_pit_or_bs_q_2_invtry_raw_materials,Inventory Raw Materials
+391,fnd72_s_pit_or_bs_q_2_latest_period_end_dt_full_record,This field displays the latest available period end date from full financial records
+392,fnd72_s_pit_or_bs_q_announcement_dt,Indicates the latest earnings announcement date for which full fundamental information is available
+393,fnd72_s_pit_or_bs_q_bs_accrual,"Miscellaneous accruals other than accrued income taxes, accrued interest and dividends"
+394,fnd72_s_pit_or_bs_q_bs_accrued_income_taxes,This field includes all taxes payable as disclosed under the company's current liabilities
+395,fnd72_s_pit_or_bs_q_bs_acct_note_rcv,This field includes trade receivables directly related with operating activities
+396,fnd72_s_pit_or_bs_q_bs_acct_payable,Accounts Payable
+397,fnd72_s_pit_or_bs_q_bs_accts_rec_excl_notes_rec,Accounts receivable with maturities of less than one year directly relating to operating activities
+398,fnd72_s_pit_or_bs_q_bs_accum_depr,Accumulated Depreciation
+399,fnd72_s_pit_or_bs_q_bs_add_paid_in_cap,Additional Paid in Capital
+400,fnd72_s_pit_or_bs_q_bs_allow_doubtful_acc_rec,A contra asset account that is subtracted from trade and notes receivables on the balance sheet
+401,fnd72_s_pit_or_bs_q_bs_amt_of_tsy_stock,Amount of Treasury Shares
+402,fnd72_s_pit_or_bs_q_bs_capital_reserve,"Includes accmulative comprehensive income reserve, merger reserve, as well as all other reserves and equities not included in Retained Earnings"
+403,fnd72_s_pit_or_bs_q_bs_capital_stock,"Capital Stock: When a company issues shares with par value for cash, a part of the proceeds are recorded as capital stock"
+404,fnd72_s_pit_or_bs_q_bs_cash_near_cash_item,Cash & Near Cash Items
+405,fnd72_s_pit_or_bs_q_bs_common_stock,Common Stocks
+406,fnd72_s_pit_or_bs_q_bs_cur_asset_report,Current Assets Reported
+407,fnd72_s_pit_or_bs_q_bs_cur_liab,Current Liabilities
+408,fnd72_s_pit_or_bs_q_bs_def_tax_liab,Long term deferred tax liabilities net of long term deferred tax assets
+409,fnd72_s_pit_or_bs_q_bs_disclosed_intangibles,Disclosed Intangibles
+410,fnd72_s_pit_or_bs_q_bs_future_min_oper_lease_oblig,Total of the Future Minimum Operating Lease Commitments
+411,fnd72_s_pit_or_bs_q_bs_goodwill,Goodwill: The excess price paid over the fair market value of assets in an acquisition accounted for by the purchase method
+412,fnd72_s_pit_or_bs_q_bs_inventories,Inventories
+413,fnd72_s_pit_or_bs_q_bs_invest_in_assoc_co,Investments in Associated Companies
+414,fnd72_s_pit_or_bs_q_bs_lt_borrow,All interest-bearing financial obligations that are not due within a year
+415,fnd72_s_pit_or_bs_q_bs_lt_invest,LT Investments
+416,fnd72_s_pit_or_bs_q_bs_mkt_sec_other_st_invest,Marketable Securities & Other ST Investments
+417,fnd72_s_pit_or_bs_q_bs_non_depr_decomm_fund,"Non-Depreciable Fixed Assets Includes land, construction in progress and other non-depreciable fixed assets for general administration as well as plants"
+418,fnd72_s_pit_or_bs_q_bs_options_outstanding,Options Outstanding End of Period
+419,fnd72_s_pit_or_bs_q_bs_other_asset_def_chng_other,Other Assets/Def Chg
+420,fnd72_s_pit_or_bs_q_bs_other_cur_asset,Other Current Assets
+421,fnd72_s_pit_or_bs_q_bs_other_cur_asset_less_prepay,"Other assets which are not account and notes receivable, inventory, derivative assets, deferred tax assets, prepaid expenses, assets for held for sales, income taxes receivable, and assets of discontinued operations"
+422,fnd72_s_pit_or_bs_q_bs_other_cur_liab,"Includes customer deposits, short-term deferred income tax liabilities, refunds due customers and other current liabilities"
+423,fnd72_s_pit_or_bs_q_bs_other_lt_liabilities,Other LT Liabilities
+424,fnd72_s_pit_or_bs_q_bs_other_st_liab,Other ST Liabilities
+425,fnd72_s_pit_or_bs_q_bs_par_val,Par Value: This field returns the historical par value of the ordinary shares in units of the currency
+426,fnd72_s_pit_or_bs_q_bs_pension_rsrv,Pension and Post-Retirement Reserve
+427,fnd72_s_pit_or_bs_q_bs_pure_retained_earnings,"Accumulated earnings, earned surplus, or unappropriated profit that has been retained by the company"
+428,fnd72_s_pit_or_bs_q_bs_rental_exp_year_1,Operating Lease Commitments for the next year
+429,fnd72_s_pit_or_bs_q_bs_retain_earn,Retained Earnings
+430,fnd72_s_pit_or_bs_q_bs_sh_cap_and_apic,Share Capital & APIC
+431,fnd72_s_pit_or_bs_q_bs_sh_out,"All the shares of a corporation that have been authorized, issued, purchased, and held by investors as of period end date"
+432,fnd72_s_pit_or_bs_q_bs_st_borrow,"Includes bank overdrafts, short-term debts and borrowings, repurchase agreements   and reverse repos, short-term portion of long-term borrowings, current obligations under capital  leases, current portion of hire purchase creditors, trust receipts, bills payable, bills of exchange, bankers acceptances, interest bearing loans, and short term mandatory redeemable preferred stock"
+433,fnd72_s_pit_or_bs_q_bs_st_portion_of_lt_debt,ST Portion of LT Debt
+434,fnd72_s_pit_or_bs_q_bs_tot_asset,Total Assets
+435,fnd72_s_pit_or_bs_q_bs_tot_eqy,Total Equity/Partnership Capital
+436,fnd72_s_pit_or_bs_q_bs_tot_liab_eqy,Total Liabilities & Equity
+437,fnd72_s_pit_or_bs_q_bs_total_avail_line_of_credit,Total remaining amount of the lines of credit
+438,fnd72_s_pit_or_bs_q_bs_total_line_of_credit,This is the total of all the Lines of Credit that the company has access to; also referred to as Revolving Credit Facilities
+439,fnd72_s_pit_or_bs_q_contingent_liabilities,Liabilities shown on the balance sheet and described specifically as contingencies or events contingent on a probable and estimatable outcome
+440,fnd72_s_pit_or_bs_q_fundamental_entry_dt,Date when the fundamental record for this period is created
+441,fnd72_s_pit_or_bs_q_hs_yst_fo_mun_sb,Number of treasury shares in primary equivalents at period end
+442,fnd72_s_pit_or_bs_q_invtry_finished_goods,Inventory Finished Goods
+443,fnd72_s_pit_or_bs_q_invtry_in_progress,Work In Progress
+444,fnd72_s_pit_or_bs_q_invtry_raw_materials,Inventory Raw Materials
+445,fnd72_s_pit_or_bs_q_latest_period_end_dt_full_record,This field displays the latest available period end date from full financial records
+446,fnd72_s_pit_or_bs_q_minority_noncontrolling_interest,Minority Interest
+447,fnd72_s_pit_or_cf_q_announcement_dt,Indicates the latest earnings announcement date for which full fundamental information is available
+448,fnd72_s_pit_or_cf_q_cf_acct_rcv_unbilled_rev,Represents the change in trade accounts and notes receivable from the cash flow statement
+449,fnd72_s_pit_or_cf_q_cf_act_cash_paid_for_int_debt,Cash Paid for Interest
+450,fnd72_s_pit_or_cf_q_cf_cap_expend_prpty_add,Capital Expenditures/Property Additions
+451,fnd72_s_pit_or_cf_q_cf_cash_from_fnc_act,Cash from Financing Activities
+452,fnd72_s_pit_or_cf_q_cf_cash_from_inv_act,Cash From Investing Activities
+453,fnd72_s_pit_or_cf_q_cf_cash_from_oper,Total amount of cash a company generates from its operation
+454,fnd72_s_pit_or_cf_q_cf_cash_paid_for_tax,Cash Paid for Taxes
+455,fnd72_s_pit_or_cf_q_cf_change_in_inventories,Change in Inventories
+456,fnd72_s_pit_or_cf_q_cf_chng_non_cash_work_cap,Changes in Non-Cash Working Capital
+457,fnd72_s_pit_or_cf_q_cf_decr_cap_stock,"Always negative. Repurchase   of common stock, common stock warrants, or other common stock equivalents. Includes redemption of preferred share capital. Includes purchase of treasury stock. Index"
+458,fnd72_s_pit_or_cf_q_cf_def_inc_tax,Returns the change in deferred income taxes as disclosed in the statement of cash flows
+459,fnd72_s_pit_or_cf_q_cf_def_of_fund,No longer supported
+460,fnd72_s_pit_or_cf_q_cf_depr_amort,Depreciation & Amortization
+461,fnd72_s_pit_or_cf_q_cf_form_of_statement,No longer supported
+462,fnd72_s_pit_or_cf_q_cf_incr_cap_stock,Increase in Capital Stocks
+463,fnd72_s_pit_or_cf_q_cf_incr_lt_borrow,Increase in LT Borrowings
+464,fnd72_s_pit_or_cf_q_cf_incr_st_borrow,Inc  in ST Borrowings
+465,fnd72_s_pit_or_cf_q_cf_issue_com_stock,Issuance of common stock warrants or other common stock equivalents
+466,fnd72_s_pit_or_cf_q_cf_net_chng_cash,Net Changes in Cash
+467,fnd72_s_pit_or_cf_q_cf_net_inc,Net Income
+468,fnd72_s_pit_or_cf_q_cf_other_fnc_act,Other Financing Activities
+469,fnd72_s_pit_or_cf_q_cf_other_inv_act,Other Investing Activities
+470,fnd72_s_pit_or_cf_q_cf_other_non_cash_adj_less,Other Non-Cash Adjustments
+471,fnd72_s_pit_or_cf_q_cf_other_non_cash_adjust,Other Non-Cash Adjustments
+472,fnd72_s_pit_or_cf_q_cf_reimb_lt_borrow,Reimbursement of LT Borrowings
+473,fnd72_s_pit_or_cf_q_fundamental_entry_dt,Date when the fundamental record for this period is created
+474,fnd72_s_pit_or_cf_q_latest_period_end_dt_full_record,This field displays the latest available period end date from full financial records
+475,fnd72_s_pit_or_is_q_announcement_dt,Indicates the latest earnings announcement date for which full fundamental information is available
+476,fnd72_s_pit_or_is_q_cni_tni_si,Interest Income
+477,fnd72_s_pit_or_is_q_cur_profit_japan,Current Profit
+478,fnd72_s_pit_or_is_q_earn_for_common,Net Income Available To Common Shareholders
+479,fnd72_s_pit_or_is_q_ebit,Earnings before interest expenses and income taxes
+480,fnd72_s_pit_or_is_q_ebitda,"Indicator of a company's financial performance which is essentially net income with interest, taxes, depreciation, and amortization added back to it, and can be used to analyze and compare profitability between companies and industries because it eliminates the effects of financing and accounting decisions"
+481,fnd72_s_pit_or_is_q_eff_int_rate,Percentage of total interest incurred over the average of total debt during the period
+482,fnd72_s_pit_or_is_q_fundamental_entry_dt,Date when the fundamental record for this period is created
+483,fnd72_s_pit_or_is_q_inc_bef_xo_less_min_int_pref_dvd,"Returns income before extraodinary items and discontinued operation but after minority interest, preferred dividend, and other adjustments"
+484,fnd72_s_pit_or_is_q_is_abnormal_item,Abnormal Items
+485,fnd72_s_pit_or_is_q_is_avg_num_sh_for_eps,Average # of Shares for EPS
+486,fnd72_s_pit_or_is_q_is_basic_eps_cont_ops,Tax Effects on Abnormal Items
+487,fnd72_s_pit_or_is_q_is_cogs_to_fe_and_pp_and_g,Cost of Goods Sold/Fuel Expense & Purchased Power & Gas
+488,fnd72_s_pit_or_is_q_is_comprehensive_income,Comprehensive Income
+489,fnd72_s_pit_or_is_q_is_comprehensive_income_per_shr,Comprehensive Income per share
+490,fnd72_s_pit_or_is_q_is_dil_eps_cont_ops,Also known as Diluted EPS from Continuing Operations or Adjusted EPS
+491,fnd72_s_pit_or_is_q_is_diluted_eps,Diluted EPS
+492,fnd72_s_pit_or_is_q_is_div_per_shr,Comprehensive Income per share
+493,fnd72_s_pit_or_is_q_is_earn_bef_xo_items_per_sh,Diluted EPS
+494,fnd72_s_pit_or_is_q_is_eqy_earn_from_invest_assoc,"Earnings from investments in associated companies, joint ventures, unconsolidated subsidiaries that are valued according to the equity method"
+495,fnd72_s_pit_or_is_q_is_expense_stock_based_comp,The expense for stock-based compensation
+496,fnd72_s_pit_or_is_q_is_foreign_crncy_trans_adj,Foreign Currency Translation Adjustment
+497,fnd72_s_pit_or_is_q_is_inc_bef_xo_item,Income   before Extraordinary Items
+498,fnd72_s_pit_or_is_q_is_inc_tax_exp,Income Tax Expenses
+499,fnd72_s_pit_or_is_q_is_int_expense,Interest Expense
+500,fnd72_s_pit_or_is_q_is_interest_inc,Interest Income
+501,fnd72_s_pit_or_is_q_is_invest_income,Investment Income
+502,fnd72_s_pit_or_is_q_is_net_inc_avail_com_shrhldrs,Net Income Available To Common Shareholders
+503,fnd72_s_pit_or_is_q_is_net_interest_expense,Interest expense minus interest income
+504,fnd72_s_pit_or_is_q_is_net_non_oper_loss,Net Non-Operating Losses
+505,fnd72_s_pit_or_is_q_is_oper_inc,Operating Income
+506,fnd72_s_pit_or_is_q_is_other_adj_comp_inc,Other Adjustments - Other Comprehensive Income
+507,fnd72_s_pit_or_is_q_is_rd_expend,Total research and development expenditures incurred which includes R&D in profit and loss account and capitalized R&D during the period
+508,fnd72_s_pit_or_is_q_is_sga_other_op_depr_op_maint,Includes selling & administrative expenses   and other operating expenses after cost of goods sold
+509,fnd72_s_pit_or_is_q_is_sh_for_diluted_eps,Weighted average number of shares used to calculate Diluted EPS
+510,fnd72_s_pit_or_is_q_is_tax_eff_on_abnormal_item,Tax Effects on Abnormal Items
+511,fnd72_s_pit_or_is_q_is_tot_cash_com_dvd,Dividends paid to common shareholders from the profits of the company
+512,fnd72_s_pit_or_is_q_is_total_operating_revenue_jp,"The Net Sales, sometimes including Other Operating Income, as reported in the summary of company earnings report"
+513,fnd72_s_pit_or_is_q_is_unrealized_gain_loss_comp_inc,Disclosed as a component in the calculation of Comprehensive Income
+514,fnd72_s_pit_or_is_q_latest_period_end_dt_full_record,This field displays the latest available period end date from full financial records
+515,fnd72_s_pit_or_is_q_min_noncontrol_interest_credits,Minority Interests
+516,fnd72_s_pit_or_is_q_net_income,Net Income
+517,fnd72_s_pit_or_is_q_net_income_bef_mi,Net Income of the company before deducting the portion attributable to minority interest
+518,fnd72_s_pit_or_is_q_net_non_oper_loss,Net non operating loss or gain as a percentage of net shares
+519,fnd72_s_pit_or_is_q_ox_feb_spe_lid_si,Diluted EPS Before Extraordinary Items
+520,fnd72_s_pit_or_is_q_pretax_inc,Gross income before income taxes are withheld
+521,fnd72_s_pit_or_is_q_sales_rev_turn,Sales/Revenue/Turnover
+522,fnd72_s_pit_or_is_q_spe_si,Earnings Per Share
+523,fnd72_s_pit_or_is_q_tot_int_exp,Total interest incurred during the period which includes interest charged to income statement and interest capitalized

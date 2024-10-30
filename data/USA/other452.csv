@@ -1,0 +1,47 @@
+,id,description
+0,oth452_accruals_d1_current_t,Accruals d1 current t
+1,oth452_accruals_d1_dts,Accruals d1 dts
+2,oth452_accruals_d1_length,Accruals d1 length
+3,oth452_accruals_d1_max,Accruals d1 max
+4,oth452_accruals_d1_mean,Accruals d1 mean
+5,oth452_accruals_d1_min,Accruals d1 min
+6,oth452_accrualsratio_d1_asset_change,Accruals ratio d1 asset change
+7,oth452_deferred_tax_expense_11,Deferred tax expense
+8,oth452_deferred_tax_expense_12,Deferred tax expense
+9,oth452_deferred_tax_expense_21,Deferred tax expense
+10,oth452_deferred_tax_expense_22,Deferred tax expense
+11,oth452_deferred_tax_expense_31,Deferred tax expense
+12,oth452_deferred_tax_expense_41,Deferred tax expense
+13,oth452_deferred_tax_expense_51,Deferred tax expense
+14,oth452_deferred_tax_liability_11,Deferred tax liability
+15,oth452_deferred_tax_liability_12,Deferred tax liability
+16,oth452_deferred_tax_liability_13,Deferred tax liability
+17,oth452_deferred_tax_liability_21,Deferred tax liability
+18,oth452_deferred_tax_liability_22,Deferred tax liability
+19,oth452_deferred_tax_liability_23,Deferred tax liability
+20,oth452_deferred_tax_liability_31,Deferred tax liability
+21,oth452_deferred_tax_liability_41,Deferred tax liability
+22,oth452_deferred_tax_liability_51,Deferred tax liability
+23,oth452_expense_d1_asset_change,Expense d1 asset change
+24,oth452_expense_d1_current_t,Expense d1 current t
+25,oth452_expense_d1_dts,Expense d1 dts
+26,oth452_expense_d1_length,Expense d1 length
+27,oth452_expense_d1_max,Expense d1 max
+28,oth452_expense_d1_mean,Expense d1 mean
+29,oth452_expense_d1_min,Expense d1 min
+30,oth452_liability_d1_asset_change,Liability d1 asset change
+31,oth452_liability_d1_current_t,Liability d1 current t
+32,oth452_liability_d1_dts,Liability d1 distributions
+33,oth452_liability_d1_length,Liability d1 length
+34,oth452_liability_d1_max,Liability d1 max
+35,oth452_liability_d1_mean,Liability d1 mean
+36,oth452_liability_d1_min,Liability d1 min
+37,oth452_tax_accruals_11,Tax accruals
+38,oth452_tax_accruals_12,Tax accruals
+39,oth452_tax_accruals_13,Tax accruals
+40,oth452_tax_accruals_21,Tax accruals
+41,oth452_tax_accruals_22,Tax accruals
+42,oth452_tax_accruals_23,Tax accruals
+43,oth452_tax_accruals_31,Tax accruals
+44,oth452_tax_accruals_41,Tax accruals
+45,oth452_tax_accruals_51,Tax accruals

@@ -1,0 +1,2210 @@
+,id,description
+0,fnd28_18100_value_18100q,value of quarterly field: Enterprise Value
+1,fnd28_anaut_value_08136a,value of annual field: Inventory Turnover
+2,fnd28_anaut_value_08140a,value of annual field: Inventory Turnover - 5 Yr Avg
+3,fnd28_anaut_value_08141a,value of annual field: Net Sales % Working Capital
+4,fnd28_anaut_value_08145a,value of annual field: Net Sales %Working Capital - 5 Yr Avg
+5,fnd28_anaut_value_08401a,value of annual field: Total Asset Turnover
+6,fnd28_anaut_value_08405a,value of annual field: Total Asset Turnover - 5 Yr Avg  Leverage  Annual Statistics
+7,fnd28_anaut_value_08406a,value of annual field: Assets per Employee
+8,fnd28_anaut_value_08410a,value of annual field: Assets per Employee
+9,fnd28_anaut_value_08411a,value of annual field: Capital Expenditure % Gross Fixed Assets
+10,fnd28_anaut_value_08415a,value of annual field: Capital Expenditure % Gross Fixed Assets
+11,fnd28_anaut_value_08416a,value of annual field: Capital Expenditure % Total Assets
+12,fnd28_anaut_value_08420a,value of annual field: Capital Expenditure % Total Assets - 5 Year Average
+13,fnd28_anaut_value_08421a,value of annual field: Capital Expenditure % Sales
+14,fnd28_anaut_value_08425a,value of annual field: Capital Expenditure % Total Sales - 5 Year Average
+15,fnd28_anaut_value_08426a,value of annual field: Accumulated Depreciation % Gross Fixed Assets
+16,fnd28_anaut_value_08430a,value of annual field: Accumulated Depreciation % Gross Fixed Assets-5 Yr Avg  Leverage  Annual Statistics
+17,fnd28_anaut_value_08431a,value of annual field: Net Sales to Gross Fixed Asset
+18,fnd28_anaut_value_08435a,value of annual field: Net Sales To Gross Fixed Assets - 5 Yr Avg
+19,fnd28_anlev_value_08201a,value of annual field: Equity % Total Capital
+20,fnd28_anlev_value_08205a,value of annual field: Equity % Total Capital - 5 Yr Avg
+21,fnd28_anlev_value_08210a,value of annual field: Preferred Stock % Total Capital - 5 Yr Avg
+22,fnd28_anlev_value_08211a,value of annual field: Minority Interest % Total Capital
+23,fnd28_anlev_value_08215a,value of annual field: Minority Interest % Total Capital - 5 Yr Avg
+24,fnd28_anlev_value_08216a,value of annual field: Long Term Debt % Total Capital
+25,fnd28_anlev_value_08220a,value of annual field: Long Term Debt % Total Capital - 5 Yr Avg
+26,fnd28_anlev_value_08221a,value of annual field: Total Debt % Total Capital
+27,fnd28_anlev_value_08225a,value of annual field: Total Debt % Total Capital - 5 Yr Avg
+28,fnd28_anlev_value_08226a,value of annual field: Long Term Debt % Common Equity
+29,fnd28_anlev_value_08230a,value of annual field: Long Term Debt % Common Equity - 5 Yr Avg
+30,fnd28_anlev_value_08231a,value of annual field: Total Debt % Common Equity
+31,fnd28_anlev_value_08235a,value of annual field: Total Debt % Common Equity - 5 Yr Avg
+32,fnd28_anlev_value_08236a,value of annual field: Total Debt % Total Assets
+33,fnd28_anlev_value_08240a,value of annual field: Total Debt % Total Assets - 5 Yr Avg
+34,fnd28_anlev_value_08241a,value of annual field: Common Equity % Total Assets
+35,fnd28_anlev_value_08245a,value of annual field: Common Equity % Total Assets - 5 Yr Avg
+36,fnd28_anlev_value_08246a,value of annual field: Cash Dividend Coverage Ratio
+37,fnd28_anlev_value_08250a,value of annual field: Cash Dividend Coverage Ratio
+38,fnd28_anlev_value_08251a,value of annual field: Fixed Charge Coverage Ratio
+39,fnd28_anlev_value_08255a,value of annual field: Fixed Charge Coverage Ratio - 5 Yr Avg
+40,fnd28_anlev_value_08256a,value of annual field: Dividend Payout (% Earnings)
+41,fnd28_anlev_value_08260a,value of annual field: Dividend Payout (% Earnings) - Total Dollar - 5 Yr Avg
+42,fnd28_anlev_value_08261a,value of annual field: Operating Cash/Fixed Charges
+43,fnd28_anlev_value_08265a,value of annual field: Operating Cash/Fixed Charges - 5 Yr Avg
+44,fnd28_anlev_value_08266a,value of annual field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+45,fnd28_anlev_value_08270a,value of annual field: Fixed Assets % Common Equity - 5 Yr Avg
+46,fnd28_anlev_value_08271a,value of annual field: Working Capital % Total Capital  Five Year Averages
+47,fnd28_anlev_value_08275a,value of annual field: Working Capital % Total Capital - 5 Yr Avg  Liquidity  Annual Statistics
+48,fnd28_anlev_value_08287a,value of annual field: Total Assets / Common Equity Ratio
+49,fnd28_anlev_value_08291a,value of annual field: EBIT / Total Interest Expense Ratio
+50,fnd28_anlev_value_08906a,value of annual field: Cash Dividends % Cash Flow
+51,fnd28_anlev_value_08910a,value of annual field: Cash Dividends/Cash Flow - 5 Yr Avg
+52,fnd28_anlev_value_15121a,value of annual field: Total Capital % Total Assets
+53,fnd28_anlev_value_15124a,value of annual field: Total Capital % Total Assets
+54,fnd28_anliq_value_08101a,value of annual field: Quick Ratio
+55,fnd28_anliq_value_08105a,value of annual field: Quick Ratio - 5 Yr Avg
+56,fnd28_anliq_value_08106a,value of annual field: Current Ratio
+57,fnd28_anliq_value_08110a,value of annual field: Current Ratio - 5 Yr Avg
+58,fnd28_anliq_value_08111a,value of annual field: Cash & Equivalents % Total Current Assets  Company Specific Accounting Practices
+59,fnd28_anliq_value_08115a,value of annual field: Cash & Equivalents % Total Current Assets - 5 Yr Avg
+60,fnd28_anliq_value_08116a,value of annual field: Inventories % Total Current Assets
+61,fnd28_anliq_value_08120a,value of annual field: Inventories % Total Current Assets - 5 Yr Avg
+62,fnd28_anliq_value_08121a,value of annual field: Receivables % Total Current Assets
+63,fnd28_anliq_value_08125a,value of annual field: Receivables % Total Current Assets - 5 Yr Avg
+64,fnd28_anliq_value_08126a,value of annual field: Inventories - Days Held  Five Year Averages
+65,fnd28_anliq_value_08130a,value of annual field: Inventories - Days Held - 5 Yr Avg
+66,fnd28_anliq_value_08131a,value of annual field: Accounts Receivables Days
+67,fnd28_anliq_value_08135a,value of annual field: Accounts Receivables Days - 5 Yr Avg  Company Specific Accounting Practices
+68,fnd28_anliqq_value_08106q,value of quarterly field: Current Ratio
+69,fnd28_anliqq_value_08111q,value of quarterly field: Cash & Equivalents % Total Current Assets  Company Specific Accounting Practices
+70,fnd28_annq_value_08231q,value of quarterly field: Total Debt % Common Equity
+71,fnd28_annq_value_09104q,value of quarterly field: Price/Earnings Ratio  Close
+72,fnd28_annq_value_09604q,value of quarterly field: Price/Cash Flow Ratio
+73,fnd28_annsttc_value_05001a,value of annual field: Market Price - Year End
+74,fnd28_annsttc_value_05002a,value of annual field: Market Price - High
+75,fnd28_annsttc_value_05003a,value of annual field: Market Price - Low
+76,fnd28_annsttc_value_05004a,value of annual field: Market Price - 5 Yr Avg-High
+77,fnd28_annsttc_value_05005a,value of annual field: Market Price - 5 Yr Avg-High
+78,fnd28_annsttc_value_05101a,value of annual field: Dividends per Share
+79,fnd28_annsttc_value_05102a,value of annual field: Dividends per Share - Gross
+80,fnd28_annsttc_value_05110a,value of annual field: Dividends per Share - Fiscal
+81,fnd28_annsttc_value_05140a,value of annual field: Dividends Per Share - 5 Yr Avg
+82,fnd28_annsttc_value_05191a,value of annual field: Common Shares Used to Calculate EPS
+83,fnd28_annsttc_value_05192a,value of annual field: Common Shares Used to Calculate Basic EPS
+84,fnd28_annsttc_value_05194a,value of annual field: Common Shares Used to Calculate Fully Diluted EPS Balance Sheet Assets
+85,fnd28_annsttc_value_05201a,value of annual field: Earnings per Share (Supported for Non U.S. only)
+86,fnd28_annsttc_value_05202a,value of annual field: Earnings per Share  Fiscal Period End
+87,fnd28_annsttc_value_05210a,value of annual field: Earnings per Share  Basic  Year
+88,fnd28_annsttc_value_05225a,value of annual field: Includes Extraordinary Credit/Charge per
+89,fnd28_annsttc_value_05226a,value of annual field: Extraordinary Credit/Charge per Share
+90,fnd28_annsttc_value_05227a,value of annual field: Includes Pre-tax Extraordinary Credit/Charge per Share
+91,fnd28_annsttc_value_05228a,value of annual field: Discontinued Operations per Share
+92,fnd28_annsttc_value_05230a,value of annual field: Earnings per Share after Extraordinary Items
+93,fnd28_annsttc_value_05260a,value of annual field: Earnings Per Share - 5 Yr Avg
+94,fnd28_annsttc_value_05290a,value of annual field: Fully Diluted Earnings per Share
+95,fnd28_annsttc_value_05301a,value of annual field: Common Shares Outstanding
+96,fnd28_annsttc_value_05303a,value of annual field: Treasury Shares
+97,fnd28_annsttc_value_05309a,value of annual field: Par Value
+98,fnd28_annsttc_value_05326a,value of annual field: Number of Shares Authorized
+99,fnd28_annsttc_value_05475a,value of annual field: Closely Held Shares
+100,fnd28_annsttc_value_05476a,value of annual field: Book Value per Share
+101,fnd28_annsttc_value_05486a,value of annual field: Tangible Book Value per Share
+102,fnd28_annsttc_value_05491a,value of annual field: Book Value  Outstanding Shares - Fiscal
+103,fnd28_annsttc_value_05501a,value of annual field: Cash Flow per Share
+104,fnd28_annsttc_value_05502a,value of annual field: Cash Flow per Share  Fiscal Period
+105,fnd28_annsttc_value_05503a,value of annual field: Long Term Liabilities per Share
+106,fnd28_annsttc_value_05505a,value of annual field: Capital Expenditure per Share
+107,fnd28_annsttc_value_05506a,value of annual field: Working Capital per Share
+108,fnd28_annsttc_value_05507a,value of annual field: Free Cash Flow per Share
+109,fnd28_annsttc_value_05508a,value of annual field: Sales per Share
+110,fnd28_annsttc_value_05509a,value of annual field: Operating Profit per Share
+111,fnd28_annsttc_value_05575a,value of annual field: Stock Split/Dividend Ratio - Fiscal  Weekly Time Series
+112,fnd28_annsttc_value_05576a,value of annual field: Stock Split/Dividend Ratio
+113,fnd28_annsttc_value_05651a,value of annual field: Common Shares Traded - Annual #
+114,fnd28_annsttc_value_08001a,value of annual field: Market Capitalization
+115,fnd28_annsttc_value_08004a,value of annual field: Market Capitalization - Public
+116,fnd28_annsttc_value_08006a,value of annual field: Trading Volume ($ Amount)
+117,fnd28_annsttc_value_08010a,value of annual field: Trading Volume - Weekly Average
+118,fnd28_annsttc_value_08011a,value of annual field: Turnover Rate
+119,fnd28_annsttc_value_08021a,value of annual field: Closely Held Shares %
+120,fnd28_annsttc_value_18100a,value of annual field: Enterprise Value
+121,fnd28_annsttc_value_18208a,value of annual field: Earnings per Share  Continuing Operations
+122,fnd28_annsttc_value_18211a,value of annual field: Restructuring Expense per Share - Pre-tax
+123,fnd28_annualforeign_value_07101a,value of annual field: International Sales
+124,fnd28_annualforeign_value_07126a,value of annual field: International Operating Income
+125,fnd28_annualforeign_value_07151a,value of annual field: International Assets
+126,fnd28_annualforeign_value_08701a,value of annual field: Foreign Income Margin
+127,fnd28_annualforeign_value_08705a,value of annual field: Foreign Income Margin
+128,fnd28_annualforeign_value_08706a,value of annual field: Foreign Asset Turnover
+129,fnd28_annualforeign_value_08710a,value of annual field: Foreign Asset Turnover
+130,fnd28_annualforeign_value_08711a,value of annual field: Foreign Return on Assets
+131,fnd28_annualforeign_value_08715a,value of annual field: Foreign Return on Assets
+132,fnd28_annualforeign_value_08716a,value of annual field: Foreign Assets Growth
+133,fnd28_annualforeign_value_08720a,value of annual field: Foreign Assets Growth
+134,fnd28_annualforeign_value_08721a,value of annual field: Foreign Sales Growth
+135,fnd28_annualforeign_value_08725a,value of annual field: Foreign Sales Growth
+136,fnd28_annualforeign_value_08726a,value of annual field: Foreign Income Growth
+137,fnd28_annualforeign_value_08730a,value of annual field: Foreign Income Growth
+138,fnd28_annualforeign_value_08731a,value of annual field: Foreign Sales % Tot Sales
+139,fnd28_annualforeign_value_08735a,value of annual field: Foreign Sales % Total Sales
+140,fnd28_annualforeign_value_08736a,value of annual field: Foreign Assets % Tot Assets
+141,fnd28_annualforeign_value_08740a,value of annual field: Foreign Assets % Total Assets
+142,fnd28_annualforeign_value_08741a,value of annual field: Foreign Income % Total Income Five Year Averages
+143,fnd28_annualforeign_value_08745a,value of annual field: Foreign Income % Total Income Other Fields
+144,fnd28_annualgrowth_value_08579a,value of annual field: Market Capitalization Growth (year ago) Profitability
+145,fnd28_annualgrowth_value_08581a,value of annual field: Market Capitalization - 3 Year Growth
+146,fnd28_annualgrowth_value_08601a,value of annual field: Earnings per Share Growth
+147,fnd28_annualgrowth_value_08604a,value of annual field: Earnings Per Share - 3 Yr Annual Growth  Five Year Averages
+148,fnd28_annualgrowth_value_08605a,value of annual field: Earnings per Share Growth
+149,fnd28_annualgrowth_value_08606a,value of annual field: Book Value per Share Growth (year ago)
+150,fnd28_annualgrowth_value_08610a,value of annual field: Book Value Per Share - 5 Yr Annual Growth  Profitability  Annual Statistics
+151,fnd28_annualgrowth_value_08611a,value of annual field: Dividends per Share Growth
+152,fnd28_annualgrowth_value_08615a,value of annual field: Dividends Per Share - 5 Yr Annual Growth
+153,fnd28_annualgrowth_value_08616a,value of annual field: Equity Growth (year ago)
+154,fnd28_annualgrowth_value_08620a,value of annual field: Equity - 5 Yr Annual Growth
+155,fnd28_annualgrowth_value_08621a,value of annual field: Total Assets Growth (year ago)
+156,fnd28_annualgrowth_value_08625a,value of annual field: Total Assets - 5 Yr Annual Growth
+157,fnd28_annualgrowth_value_08626a,value of annual field: Employees Growth
+158,fnd28_annualgrowth_value_08630a,value of annual field: Employees - 5 Yr Annual Growth
+159,fnd28_annualgrowth_value_08631a,value of annual field: Net Sales/Revenues Growth
+160,fnd28_annualgrowth_value_08635a,value of annual field: Net Sales / Revenues - 5 Yr Annual Growth
+161,fnd28_annualgrowth_value_08636a,value of annual field: Net Income Growth
+162,fnd28_annualgrowth_value_08640a,value of annual field: Net Income Growth
+163,fnd28_annualgrowth_value_08646a,value of annual field: Operating Income Growth
+164,fnd28_annualgrowth_value_08650a,value of annual field: Operating Income - 5 Yr Annual Growth
+165,fnd28_annualgrowth_value_08676a,value of annual field: Net Margin Growth
+166,fnd28_annualgrowth_value_08680a,value of annual field: Net Margin Growth  Profitability Annual Statistics
+167,fnd28_annualgrowth_value_08816a,value of annual field: Earnings Per Share - Fiscal - 1 Yr Annual Growth
+168,fnd28_annualgrowth_value_08821a,value of annual field: Book Value Per Share - Fiscal - 1 Yr Growth Rate  Three Year Averages
+169,fnd28_annualgrowthq_value_08579q,value of quarterly field: Market Capitalization Growth (year ago) Profitability
+170,fnd28_annualgrowthq_value_08601q,value of quarterly field: Earnings per Share Growth
+171,fnd28_annualgrowthq_value_08606q,value of quarterly field: Book Value per Share Growth (year ago)
+172,fnd28_annualgrowthq_value_08611q,value of quarterly field: Dividends per Share Growth
+173,fnd28_annualgrowthq_value_08616q,value of quarterly field: Equity Growth (year ago)
+174,fnd28_annualgrowthq_value_08621q,value of quarterly field: Total Assets Growth (year ago)
+175,fnd28_annualgrowthq_value_08631q,value of quarterly field: Net Sales/Revenues Growth
+176,fnd28_annualgrowthq_value_08636q,value of quarterly field: Net Income Growth
+177,fnd28_annualgrowthq_value_08676q,value of quarterly field: Net Margin Growth
+178,fnd28_annualperf_value_08801a,value of annual field: Total Investment Return  year ago Growth Rates
+179,fnd28_annualperf_value_08805a,value of annual field: Total Investment Return - 5 Yr Annual Return
+180,fnd28_annualperf_value_08806a,value of annual field: Price Volatility
+181,fnd28_annualperf_value_09100a,value of annual field: Price/Earnings Ratio - High
+182,fnd28_annualperf_value_09101a,value of annual field: Price/Earnings Ratio - Low
+183,fnd28_annualperf_value_09104a,value of annual field: Price/Earnings Ratio  Close
+184,fnd28_annualperf_value_09106a,value of annual field: Price/Earnings Ratio - Avg High-Low
+185,fnd28_annualperf_value_09111a,value of annual field: Price/Earnings Ratio - 5 Yr Avg High
+186,fnd28_annualperf_value_09116a,value of annual field: Price/Earnings Ratio - 5 Yr Avg Low
+187,fnd28_annualperf_value_09121a,value of annual field: Price/Earnings Ratio - 5 Yr Avg - Close
+188,fnd28_annualperf_value_09126a,value of annual field: Price/Earnings Ratio - 5 Yr Avg High-Low
+189,fnd28_annualperf_value_09200a,value of annual field: Earnings Yield - High
+190,fnd28_annualperf_value_09201a,value of annual field: Earnings Yield - Low
+191,fnd28_annualperf_value_09204a,value of annual field: Earnings Yield - Close
+192,fnd28_annualperf_value_09206a,value of annual field: Earnings Yield - Avg High-Low
+193,fnd28_annualperf_value_09211a,value of annual field: Earnings Yield - 5 Yr Avg High
+194,fnd28_annualperf_value_09216a,value of annual field: Earnings Yield - 5 Yr Avg Low
+195,fnd28_annualperf_value_09221a,value of annual field: Earnings Yield - 5 Yr Avg - Close
+196,fnd28_annualperf_value_09226a,value of annual field: Earnings Yield - 5 Yr Avg High-L0w
+197,fnd28_annualperf_value_09300a,value of annual field: Price/Book Value Ratio - High
+198,fnd28_annualperf_value_09301a,value of annual field: Price/Book Value Ratio - Low
+199,fnd28_annualperf_value_09304a,value of annual field: Price/Book Value Ratio - Close
+200,fnd28_annualperf_value_09306a,value of annual field: Price/Book Value Ratio - Avg High-Low
+201,fnd28_annualperf_value_09311a,value of annual field: Price/Book Value Ratio - 5 Yr Avg High
+202,fnd28_annualperf_value_09316a,value of annual field: Price/Book Value Ratio - 5 Yr Avg Low
+203,fnd28_annualperf_value_09321a,value of annual field: Price/Book Value Ratio - 5 Yr Avg - Close
+204,fnd28_annualperf_value_09326a,value of annual field: Price/Book Value Ratio - 5 Yr Avg High-Low
+205,fnd28_annualperf_value_09400a,value of annual field: Dividend Yield - High
+206,fnd28_annualperf_value_09401a,value of annual field: Dividend Yield - Low
+207,fnd28_annualperf_value_09404a,value of annual field: Dividend Yield - Close
+208,fnd28_annualperf_value_09406a,value of annual field: Dividend Yield - Avg High-Low
+209,fnd28_annualperf_value_09411a,value of annual field: Dividend Yield - 5 Yr Avg High
+210,fnd28_annualperf_value_09416a,value of annual field: Dividend Yield - 5 Yr Avg Low
+211,fnd28_annualperf_value_09421a,value of annual field: Dividend Yield - 5 Yr Avg - Close
+212,fnd28_annualperf_value_09426a,value of annual field: Dividend Yield - 5 Yr Avg High-Low
+213,fnd28_annualperf_value_09504a,value of annual field: Dividend Payout per Share
+214,fnd28_annualperf_value_09521a,value of annual field: Dividend Payout Per Share - 5 Yr Avg
+215,fnd28_annualperf_value_09604a,value of annual field: Price/Cash Flow Ratio
+216,fnd28_annualperf_value_09621a,value of annual field: Price/Cash Flow Ratio - 5 Yr Avg
+217,fnd28_annualperf_value_09704a,value of annual field: Market Capitalization to Common Equity
+218,fnd28_annualperf_value_09721a,value of annual field: Market Capitalization/Common Equity - 5 Yr Average  Growth Rates  Annual Statistics
+219,fnd28_annualperf_value_09904a,value of annual field: Price/Sales per Share Ratio
+220,fnd28_annualprof_value_08301a,value of annual field: Return on Equity  Total (%)
+221,fnd28_annualprof_value_08302a,value of annual field: Return On Equity Per Share (Fiscal)
+222,fnd28_annualprof_value_08305a,value of annual field: Return On Equity - Total (%)- 5 Yr Avg
+223,fnd28_annualprof_value_08306a,value of annual field: Gross Profit Margin
+224,fnd28_annualprof_value_08310a,value of annual field: Gross Profit Margin - 5 Yr Avg
+225,fnd28_annualprof_value_08311a,value of annual field: Cash Flow/Sales
+226,fnd28_annualprof_value_08315a,value of annual field: Cash Flow/Sales - 5 Yr Avg
+227,fnd28_annualprof_value_08316a,value of annual field: Operating Profit Margin
+228,fnd28_annualprof_value_08320a,value of annual field: Operating Profit Margin - 5 Yr Avg
+229,fnd28_annualprof_value_08321a,value of annual field: Pre-tax Margin
+230,fnd28_annualprof_value_08325a,value of annual field: Pretax Margin - 5 Yr Avg
+231,fnd28_annualprof_value_08326a,value of annual field: Return on Assets
+232,fnd28_annualprof_value_08330a,value of annual field: Return On Assets - 5 Yr Avg
+233,fnd28_annualprof_value_08331a,value of annual field: Cost of Goods Sold / Sales
+234,fnd28_annualprof_value_08335a,value of annual field: Cost Of Goods Sold/Sales - 5 Yr Avg
+235,fnd28_annualprof_value_08336a,"value of annual field: Selling, General & Administrative Expenses / Sales"
+236,fnd28_annualprof_value_08340a,"value of annual field: Selling, General & Administrative Exp/Sales - 5 Yr Avg"
+237,fnd28_annualprof_value_08341a,value of annual field: Research & Development Expense / Sales
+238,fnd28_annualprof_value_08345a,value of annual field: Research & Development/Sales
+239,fnd28_annualprof_value_08346a,value of annual field:  Tax Rate
+240,fnd28_annualprof_value_08350a,value of annual field: Tax Rate
+241,fnd28_annualprof_value_08351a,value of annual field: Sales per Employee  Five Year Averages
+242,fnd28_annualprof_value_08355a,value of annual field: Sales per Employee Loan Loss Ratios Annual Statistics
+243,fnd28_annualprof_value_08356a,value of annual field: Interest Rate - Estimated Average
+244,fnd28_annualprof_value_08360a,value of annual field: Interest Rate - Estimated Average - 5 Yr Avg
+245,fnd28_annualprof_value_08361a,value of annual field: Operating Income Return on Total Capital
+246,fnd28_annualprof_value_08365a,value of annual field: Operating Income/Total Capital - 5 Yr Avg
+247,fnd28_annualprof_value_08366a,value of annual field: Net Margin
+248,fnd28_annualprof_value_08370a,value of annual field: Net Margin - 5 Yr Avg  Asset Utilization  Annual Statistics
+249,fnd28_annualprof_value_08371a,value of annual field: Return on Equity - per Share
+250,fnd28_annualprof_value_08375a,value of annual field: Return On Equity - Per Share - 5 Yr Avg
+251,fnd28_annualprof_value_08376a,value of annual field: Return on Invested Capital
+252,fnd28_annualprof_value_08380a,value of annual field: Return On Invested Capital - 5 Yr Avg
+253,fnd28_annualprof_value_08381a,value of annual field: Cash Earnings Return on Equity
+254,fnd28_annualprof_value_08385a,value of annual field: Cash Earnings Return On Equity - 5 Yr Avg
+255,fnd28_annualprof_value_08651a,value of annual field: Reinvestment Rate - per Share
+256,fnd28_annualprof_value_08653a,value of annual field: Reinvestment Rate Per Share (Fiscal)
+257,fnd28_annualprof_value_08655a,value of annual field: Reinvestment Rate - Per Share - 5 Yr Avg
+258,fnd28_annualprof_value_08656a,value of annual field: Reinvestment Rate - Total
+259,fnd28_annualprof_value_08660a,value of annual field: Reinvestment Rate - Total $ - 5 Yr Avg
+260,fnd28_annualprof_value_08901a,value of annual field: Accounts Payable % Sales
+261,fnd28_annualprof_value_08905a,value of annual field: Accounts Payable/Sales - 5 Yr Avg
+262,fnd28_annualprof_value_08911a,value of annual field: Retained Earnings % Equity
+263,fnd28_annualprof_value_08915a,value of annual field: Retained Earnings % Equity
+264,fnd28_annualprofq_value_08301q,value of quarterly field: Return on Equity  Total (%)
+265,fnd28_annualprofq_value_08306q,value of quarterly field: Gross Profit Margin
+266,fnd28_annualprofq_value_08311q,value of quarterly field: Cash Flow/Sales
+267,fnd28_annualprofq_value_08316q,value of quarterly field: Operating Profit Margin
+268,fnd28_annualprofq_value_08321q,value of quarterly field: Pre-tax Margin
+269,fnd28_annualprofq_value_08326q,value of quarterly field: Return on Assets
+270,fnd28_annualprofq_value_08381q,value of quarterly field: Cash Earnings Return on Equity
+271,fnd28_annualq_value_08326q,value of quarterly field: Return on Assets
+272,fnd28_annualq_value_08371q,value of quarterly field: Return on Equity - per Share
+273,fnd28_anstaq_value_05301q,value of quarterly field: Common Shares Outstanding
+274,fnd28_anstaq_value_05486q,value of quarterly field: Tangible Book Value per Share
+275,fnd28_anstaq_value_08311q,value of quarterly field: Cash Flow/Sales
+276,fnd28_anstaq_value_18191q,value of quarterly field: Earnings before Interest and Taxes (EBIT)
+277,fnd28_anstaq_value_18198q,"value of quarterly field: Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)"
+278,fnd28_anstaq_value_18263q,value of quarterly field: Trailing Twelve Months Net Profit
+279,fnd28_astut_value_08136a,value of annual field: Inventory Turnover
+280,fnd28_astut_value_08141a,value of annual field: Net Sales % Working Capital
+281,fnd28_astut_value_08401a,value of annual field: Total Asset Turnover
+282,fnd28_astut_value_08406a,value of annual field: Assets per Employee
+283,fnd28_astut_value_08411a,value of annual field: Capital Expenditure % Gross Fixed Assets
+284,fnd28_astut_value_08416a,value of annual field: Capital Expenditure % Total Assets
+285,fnd28_astut_value_08421a,value of annual field: Capital Expenditure % Sales
+286,fnd28_astut_value_08426a,value of annual field: Accumulated Depreciation % Gross Fixed Assets
+287,fnd28_astut_value_08431a,value of annual field: Net Sales to Gross Fixed Asset
+288,fnd28_bdea_value_03069a,value of annual field: Other Accrued Expenses
+289,fnd28_bdea_value_03506a,value of annual field: Fully Diluted Equity
+290,fnd28_bdea_value_18854a,value of annual field: Comprehensive Income  Other
+291,fnd28_bsassetq_value_02005q,value of quarterly field: Cash & Equivalents  Generic
+292,fnd28_bsassetq_value_02300q,value of quarterly field: Total Assets - As Reported
+293,fnd28_bsassetq_value_02654q,value of quarterly field: Total Intangible Other Assets - Gross
+294,fnd28_bsassetq_value_02655q,value of quarterly field: Total Intangible Other Assets  Accumulated Amortization
+295,fnd28_bsassetq_value_18165q,value of quarterly field: Deferred Tax Asset - Current
+296,fnd28_bsassetq_value_18382q,value of quarterly field: Computer Software And Equipment
+297,fnd28_bsassetq_value_18390q,value of quarterly field: Construction Work in Progress
+298,fnd28_bsassetspmnt_value_02005a,value of annual field: Cash & Equivalents  Generic
+299,fnd28_bsassetspmnt_value_02300a,value of annual field: Total Assets - As Reported
+300,fnd28_cf2q_value_04052q,value of quarterly field: Dividends
+301,fnd28_cf2q_value_04054q,value of quarterly field: Discontinued Operations
+302,fnd28_cf2q_value_04055q,value of quarterly field: Minority Interest
+303,fnd28_cf2q_value_04056q,value of quarterly field: Equity In Earnings
+304,fnd28_cf2q_value_04058q,value of quarterly field: Unrealized Gains/Losses From Fair Value Adjustment Of Financial Assets
+305,fnd28_cf2q_value_04870q,value of quarterly field: Net Cash Flow  Investing
+306,fnd28_cfothera_value_04053a,value of annual field: Asset Disposal
+307,fnd28_cfothera_value_04055a,value of annual field: Minority Interest
+308,fnd28_cfothera_value_04056a,value of annual field: Equity In Earnings
+309,fnd28_cfothera_value_04057a,value of annual field: Other Cash Flow (Supplementary to Other Cash Flow Total -04051)
+310,fnd28_cfothera_value_04058a,value of annual field: Unrealized Gains/Losses From Fair Value Adjustment Of Financial Assets
+311,fnd28_cfothera_value_04148a,value of annual field: Interest Paid (Cash Flow)
+312,fnd28_cfothera_value_04150a,value of annual field: Taxation (Cash Flow)
+313,fnd28_cfothera_value_04500a,value of annual field: External Financing
+314,fnd28_cfothera_value_04900a,value of annual field: Increase/Decrease in Working Capital
+315,fnd28_cfq_value_04053q,value of quarterly field: Asset Disposal
+316,fnd28_cfq_value_04057q,value of quarterly field: Other Cash Flow (Supplementary to Other Cash Flow Total -04051)
+317,fnd28_cfq_value_04148q,value of quarterly field: Interest Paid (Cash Flow)
+318,fnd28_cfq_value_04150q,value of quarterly field: Taxation (Cash Flow)
+319,fnd28_cfsourceusea_value_05376a,value of annual field: Common Dividends (Cash)
+320,fnd28_dvfq1_value_05116q,value of quarterly field: Dividends per Share (Interim)
+321,fnd28_dvfq1_value_05191q,value of quarterly field: Common Shares Used to Calculate EPS
+322,fnd28_dvfq1_value_05491q,value of quarterly field: Book Value  Outstanding Shares - Fiscal
+323,fnd28_dvfq1_value_07210q,value of quarterly field: Market Capitalization (U.S.$)
+324,fnd28_dvfq1_value_07220q,value of quarterly field: Common Equity (U.S.$)
+325,fnd28_dvfq1_value_07230q,value of quarterly field: Total Assets (U.S.$)
+326,fnd28_dvfq1_value_07270q,value of quarterly field: Trailing Twelve Months Net Sales/Revenue (U.S. $)
+327,fnd28_dvfq1_value_08001q,value of quarterly field: Market Capitalization
+328,fnd28_dvfq1_value_08401q,value of quarterly field: Total Asset Turnover
+329,fnd28_dvfq1_value_09905q,value of quarterly field: Market Capitalization to Trailing Twelve Months Revenue Ratio
+330,fnd28_dvfq1_value_18100q,value of quarterly field: Enterprise Value
+331,fnd28_dvfq1_value_18198q,"value of quarterly field: Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)"
+332,fnd28_dvfq1_value_18262q,value of quarterly field: Trailing Twelve Months Net Sales/Revenues
+333,fnd28_dvfq1_value_18264q,value of quarterly field: Trailing Twelve Months Earnings per Share
+334,fnd28_dvfq1_value_18265q,value of quarterly field: Trailing Twelve Months Cash Flow per Share
+335,fnd28_dvfq1_value_18266q,value of quarterly field: Trailing Twelve Months Dividends
+336,fnd28_dvfq1_value_18268q,value of quarterly field: Trailing Twelve Months Net Margin Asset Utilization
+337,fnd28_dvfq1_value_18271q,value of quarterly field: Trailing Twelve Months Pre Tax Income
+338,fnd28_dvfq1_value_18304q,value of quarterly field: Trailing Twelve Months Pre-tax Margin
+339,fnd28_dvfq1_value_18305q,value of quarterly field: Trailing Twelve Months Operating Profit
+340,fnd28_dvfq1_value_18308q,value of quarterly field: Trailing Twelve Months EBIT
+341,fnd28_dvfq1_value_18309q,value of quarterly field: Trailing Twelve Months EBITDA
+342,fnd28_dvfq1_value_18310q,value of quarterly field: Trailing Twelve Months Net Cash Flow  Operating Activities
+343,fnd28_dvfq1_value_18311q,value of quarterly field: Trailing Twelve Months Capital Expenditures
+344,fnd28_dvfq1_value_18313q,"value of quarterly field: Trailing Twelve Months Depreciation, Depletion & Amortization"
+345,fnd28_dvfq1_value_18318q,value of quarterly field: Trailing Twelve Months Cash Dividends Paid
+346,fnd28_dvfq2_value_02300q,value of quarterly field: Total Assets - As Reported
+347,fnd28_dvfq2_value_05085q,value of quarterly field: Period Close Price
+348,fnd28_dvfq2_value_05192q,value of quarterly field: Common Shares Used to Calculate Basic EPS
+349,fnd28_dvfq2_value_05194q,value of quarterly field: Common Shares Used to Calculate Fully Diluted EPS Balance Sheet Assets
+350,fnd28_dvfq2_value_05301q,value of quarterly field: Common Shares Outstanding
+351,fnd28_dvfq2_value_18420q,value of quarterly field: Earnings per Share  Fiscal Period  Basic
+352,fnd28_dvfq2_value_18470q,value of quarterly field: Earnings per Share  Fiscal Period  Fully Diluted  Revised
+353,fnd28_forbiza_value_07101a,value of annual field: International Sales
+354,fnd28_forbiza_value_07126a,value of annual field: International Operating Income
+355,fnd28_forbiza_value_07151a,value of annual field: International Assets
+356,fnd28_forbiza_value_08701a,value of annual field: Foreign Income Margin
+357,fnd28_forbiza_value_08706a,value of annual field: Foreign Asset Turnover
+358,fnd28_forbiza_value_08711a,value of annual field: Foreign Return on Assets
+359,fnd28_forbiza_value_08716a,value of annual field: Foreign Assets Growth
+360,fnd28_forbiza_value_08721a,value of annual field: Foreign Sales Growth
+361,fnd28_forbiza_value_08726a,value of annual field: Foreign Income Growth
+362,fnd28_forbiza_value_08731a,value of annual field: Foreign Sales % Tot Sales
+363,fnd28_forbiza_value_08736a,value of annual field: Foreign Assets % Tot Assets
+364,fnd28_forbiza_value_08741a,value of annual field: Foreign Income % Total Income Five Year Averages
+365,fnd28_fsa1_value_01084a,value of annual field: Staff Costs
+366,fnd28_fsa1_value_01201a,value of annual field: Research and Development Expense
+367,fnd28_fsa1_value_04870a,value of annual field: Net Cash Flow  Investing
+368,fnd28_fsa1_value_18150a,value of annual field: Income From Continuing Operations
+369,fnd28_fsa1_value_18227a,value of annual field: Restructuring Expense
+370,fnd28_fsq1_value_04870q,value of quarterly field: Net Cash Flow  Investing
+371,fnd28_fsq1_value_18150q,value of quarterly field: Income From Continuing Operations
+372,fnd28_fsq1nbf_value_04870q,value of quarterly field: Net Cash Flow  Investing
+373,fnd28_fsq1nbf_value_18150q,value of quarterly field: Income From Continuing Operations
+374,fnd28_growthratesa_value_08579a,value of annual field: Market Capitalization Growth (year ago) Profitability
+375,fnd28_growthratesa_value_08581a,value of annual field: Market Capitalization - 3 Year Growth
+376,fnd28_growthratesa_value_08601a,value of annual field: Earnings per Share Growth
+377,fnd28_growthratesa_value_08604a,value of annual field: Earnings Per Share - 3 Yr Annual Growth  Five Year Averages
+378,fnd28_growthratesa_value_08605a,value of annual field: Earnings per Share Growth
+379,fnd28_growthratesa_value_08606a,value of annual field: Book Value per Share Growth (year ago)
+380,fnd28_growthratesa_value_08610a,value of annual field: Book Value Per Share - 5 Yr Annual Growth  Profitability  Annual Statistics
+381,fnd28_growthratesa_value_08611a,value of annual field: Dividends per Share Growth
+382,fnd28_growthratesa_value_08615a,value of annual field: Dividends Per Share - 5 Yr Annual Growth
+383,fnd28_growthratesa_value_08616a,value of annual field: Equity Growth (year ago)
+384,fnd28_growthratesa_value_08620a,value of annual field: Equity - 5 Yr Annual Growth
+385,fnd28_growthratesa_value_08621a,value of annual field: Total Assets Growth (year ago)
+386,fnd28_growthratesa_value_08625a,value of annual field: Total Assets - 5 Yr Annual Growth
+387,fnd28_growthratesa_value_08626a,value of annual field: Employees Growth
+388,fnd28_growthratesa_value_08630a,value of annual field: Employees - 5 Yr Annual Growth
+389,fnd28_growthratesa_value_08631a,value of annual field: Net Sales/Revenues Growth
+390,fnd28_growthratesa_value_08635a,value of annual field: Net Sales / Revenues - 5 Yr Annual Growth
+391,fnd28_growthratesa_value_08636a,value of annual field: Net Income Growth
+392,fnd28_growthratesa_value_08640a,value of annual field: Net Income Growth
+393,fnd28_growthratesa_value_08646a,value of annual field: Operating Income Growth
+394,fnd28_growthratesa_value_08650a,value of annual field: Operating Income - 5 Yr Annual Growth
+395,fnd28_growthratesa_value_08676a,value of annual field: Net Margin Growth
+396,fnd28_growthratesa_value_08680a,value of annual field: Net Margin Growth  Profitability Annual Statistics
+397,fnd28_growthratesa_value_08816a,value of annual field: Earnings Per Share - Fiscal - 1 Yr Annual Growth
+398,fnd28_growthratesa_value_08821a,value of annual field: Book Value Per Share - Fiscal - 1 Yr Growth Rate  Three Year Averages
+399,fnd28_isht2q_value_01204q,value of quarterly field: Taxes Other Than Income Taxes
+400,fnd28_isht2q_value_01306q,value of quarterly field: Gain/Loss On Disposal of Assets
+401,fnd28_ishta_value_01201a,value of annual field: Research and Development Expense
+402,fnd28_ishta_value_01751a,value of annual field: Net Income Used to Calculate Earnings per Share
+403,fnd28_ishta_value_18191a,value of annual field: Earnings before Interest and Taxes (EBIT)
+404,fnd28_ishtq_value_01705q,value of quarterly field: Net Income Used to Calculate Fully Diluted Earnings per Share
+405,fnd28_ishtq_value_18150q,value of quarterly field: Income From Continuing Operations
+406,fnd28_ishtq_value_18155q,value of quarterly field: Operating Income before Depreciation/Amortization (Operating EBITDA)
+407,fnd28_ishtq_value_18191q,value of quarterly field: Earnings before Interest and Taxes (EBIT)
+408,fnd28_ishtq_value_18198q,"value of quarterly field: Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)"
+409,fnd28_ishtq_value_18274q,"value of quarterly field: Impairment of Property, Plant & Equipment"
+410,fnd28_ishtspmnt_value_01084a,value of annual field: Staff Costs
+411,fnd28_ishtspmnt_value_01651a,value of annual field: Net Income - Bottom Line
+412,fnd28_ishtspmnt_value_18150a,value of annual field: Income From Continuing Operations
+413,fnd28_ishtspmnt_value_18155a,value of annual field: Operating Income before Depreciation/Amortization (Operating EBITDA)
+414,fnd28_ishtspmnt_value_18198a,"value of annual field: Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)"
+415,fnd28_ishtspmnt_value_18227a,value of annual field: Restructuring Expense
+416,fnd28_keyfinancials_value_07210a,value of annual field: Market Capitalization (U.S.$)
+417,fnd28_keyfinancials_value_07220a,value of annual field: Common Equity (U.S.$)
+418,fnd28_keyfinancials_value_07230a,value of annual field: Total Assets (U.S.$)
+419,fnd28_keyfinancials_value_07240a,value of annual field: Net Sales or Revenues (U.S.$)
+420,fnd28_keyfinancials_value_07250a,value of annual field: Net Income (U.S.$)
+421,fnd28_levliqa_value_08101a,value of annual field: Quick Ratio
+422,fnd28_levliqa_value_08106a,value of annual field: Current Ratio
+423,fnd28_levliqa_value_08111a,value of annual field: Cash & Equivalents % Total Current Assets  Company Specific Accounting Practices
+424,fnd28_levliqa_value_08116a,value of annual field: Inventories % Total Current Assets
+425,fnd28_levliqa_value_08121a,value of annual field: Receivables % Total Current Assets
+426,fnd28_levliqa_value_08126a,value of annual field: Inventories - Days Held  Five Year Averages
+427,fnd28_levliqa_value_08131a,value of annual field: Accounts Receivables Days
+428,fnd28_levliqa_value_08201a,value of annual field: Equity % Total Capital
+429,fnd28_levliqa_value_08211a,value of annual field: Minority Interest % Total Capital
+430,fnd28_levliqa_value_08216a,value of annual field: Long Term Debt % Total Capital
+431,fnd28_levliqa_value_08221a,value of annual field: Total Debt % Total Capital
+432,fnd28_levliqa_value_08226a,value of annual field: Long Term Debt % Common Equity
+433,fnd28_levliqa_value_08231a,value of annual field: Total Debt % Common Equity
+434,fnd28_levliqa_value_08236a,value of annual field: Total Debt % Total Assets
+435,fnd28_levliqa_value_08241a,value of annual field: Common Equity % Total Assets
+436,fnd28_levliqa_value_08246a,value of annual field: Cash Dividend Coverage Ratio
+437,fnd28_levliqa_value_08251a,value of annual field: Fixed Charge Coverage Ratio
+438,fnd28_levliqa_value_08256a,value of annual field: Dividend Payout (% Earnings)
+439,fnd28_levliqa_value_08261a,value of annual field: Operating Cash/Fixed Charges
+440,fnd28_levliqa_value_08266a,value of annual field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+441,fnd28_levliqa_value_08271a,value of annual field: Working Capital % Total Capital  Five Year Averages
+442,fnd28_levliqa_value_08287a,value of annual field: Total Assets / Common Equity Ratio
+443,fnd28_levliqa_value_08291a,value of annual field: EBIT / Total Interest Expense Ratio
+444,fnd28_levliqa_value_08906a,value of annual field: Cash Dividends % Cash Flow
+445,fnd28_levliqa_value_15121a,value of annual field: Total Capital % Total Assets
+446,fnd28_ndda1adj_value_02300a,value of annual field: Total Assets - As Reported
+447,fnd28_ndda1adj_value_03069a,value of annual field: Other Accrued Expenses
+448,fnd28_ndda2_value_03506a,value of annual field: Fully Diluted Equity
+449,fnd28_ndda2_value_04053a,value of annual field: Asset Disposal
+450,fnd28_ndda2_value_04055a,value of annual field: Minority Interest
+451,fnd28_ndda2_value_04056a,value of annual field: Equity In Earnings
+452,fnd28_ndda2_value_04057a,value of annual field: Other Cash Flow (Supplementary to Other Cash Flow Total -04051)
+453,fnd28_ndda2_value_04058a,value of annual field: Unrealized Gains/Losses From Fair Value Adjustment Of Financial Assets
+454,fnd28_ndda2_value_04148a,value of annual field: Interest Paid (Cash Flow)
+455,fnd28_ndda2_value_04150a,value of annual field: Taxation (Cash Flow)
+456,fnd28_ndda2_value_04870a,value of annual field: Net Cash Flow  Investing
+457,fnd28_ndda2_value_05001a,value of annual field: Market Price - Year End
+458,fnd28_ndda2_value_05002a,value of annual field: Market Price - High
+459,fnd28_ndda2_value_05003a,value of annual field: Market Price - Low
+460,fnd28_ndda2_value_05110a,value of annual field: Dividends per Share - Fiscal
+461,fnd28_ndda2_value_05192a,value of annual field: Common Shares Used to Calculate Basic EPS
+462,fnd28_ndda2_value_05194a,value of annual field: Common Shares Used to Calculate Fully Diluted EPS Balance Sheet Assets
+463,fnd28_ndda2_value_05202a,value of annual field: Earnings per Share  Fiscal Period End
+464,fnd28_ndda2_value_05210a,value of annual field: Earnings per Share  Basic  Year
+465,fnd28_ndda2_value_05228a,value of annual field: Discontinued Operations per Share
+466,fnd28_ndda2_value_05301a,value of annual field: Common Shares Outstanding
+467,fnd28_ndda2_value_05303a,value of annual field: Treasury Shares
+468,fnd28_ndda2_value_05309a,value of annual field: Par Value
+469,fnd28_ndda2_value_05326a,value of annual field: Number of Shares Authorized
+470,fnd28_ndda2_value_05376a,value of annual field: Common Dividends (Cash)
+471,fnd28_ndda2_value_05475a,value of annual field: Closely Held Shares
+472,fnd28_ndda2_value_07101a,value of annual field: International Sales
+473,fnd28_ndda2_value_07126a,value of annual field: International Operating Income
+474,fnd28_ndda2_value_07151a,value of annual field: International Assets
+475,fnd28_ndda3_value_18854a,value of annual field: Comprehensive Income  Other
+476,fnd28_nddq1_value_01204q,value of quarterly field: Taxes Other Than Income Taxes
+477,fnd28_nddq1_value_01306q,value of quarterly field: Gain/Loss On Disposal of Assets
+478,fnd28_nddq1_value_01705q,value of quarterly field: Net Income Used to Calculate Fully Diluted Earnings per Share
+479,fnd28_nddq1_value_02300q,value of quarterly field: Total Assets - As Reported
+480,fnd28_nddq1_value_02654q,value of quarterly field: Total Intangible Other Assets - Gross
+481,fnd28_nddq1_value_02655q,value of quarterly field: Total Intangible Other Assets  Accumulated Amortization
+482,fnd28_nddq1_value_04052q,value of quarterly field: Dividends
+483,fnd28_nddq1_value_04053q,value of quarterly field: Asset Disposal
+484,fnd28_nddq1_value_04054q,value of quarterly field: Discontinued Operations
+485,fnd28_nddq1_value_04055q,value of quarterly field: Minority Interest
+486,fnd28_nddq1_value_04056q,value of quarterly field: Equity In Earnings
+487,fnd28_nddq1_value_04057q,value of quarterly field: Other Cash Flow (Supplementary to Other Cash Flow Total -04051)
+488,fnd28_nddq1_value_04058q,value of quarterly field: Unrealized Gains/Losses From Fair Value Adjustment Of Financial Assets
+489,fnd28_nddq1_value_04148q,value of quarterly field: Interest Paid (Cash Flow)
+490,fnd28_nddq1_value_04150q,value of quarterly field: Taxation (Cash Flow)
+491,fnd28_nddq1_value_04870q,value of quarterly field: Net Cash Flow  Investing
+492,fnd28_nddq1_value_05085q,value of quarterly field: Period Close Price
+493,fnd28_nddq1_value_05192q,value of quarterly field: Common Shares Used to Calculate Basic EPS
+494,fnd28_nddq1_value_05194q,value of quarterly field: Common Shares Used to Calculate Fully Diluted EPS Balance Sheet Assets
+495,fnd28_nddq1_value_05301q,value of quarterly field: Common Shares Outstanding
+496,fnd28_nddq1_value_05303q,value of quarterly field: Treasury Shares
+497,fnd28_nddq1_value_05309q,value of quarterly field: Par Value
+498,fnd28_nddq1adj_value_02300q,value of quarterly field: Total Assets - As Reported
+499,fnd28_nddq2_value_18150q,value of quarterly field: Income From Continuing Operations
+500,fnd28_nddq2_value_18165q,value of quarterly field: Deferred Tax Asset - Current
+501,fnd28_nddq2_value_18208q,value of quarterly field: Earnings per Share  Continuing Operations
+502,fnd28_nddq2_value_18274q,"value of quarterly field: Impairment of Property, Plant & Equipment"
+503,fnd28_nddq2_value_18382q,value of quarterly field: Computer Software And Equipment
+504,fnd28_nddq2_value_18390q,value of quarterly field: Construction Work in Progress
+505,fnd28_nddq2_value_18420q,value of quarterly field: Earnings per Share  Fiscal Period  Basic
+506,fnd28_nddq2_value_18470q,value of quarterly field: Earnings per Share  Fiscal Period  Fully Diluted  Revised
+507,fnd28_newa1_value_01651a,value of annual field: Net Income - Bottom Line
+508,fnd28_newa1_value_01751a,value of annual field: Net Income Used to Calculate Earnings per Share
+509,fnd28_newa1_value_02005a,value of annual field: Cash & Equivalents  Generic
+510,fnd28_newa1_value_04500a,value of annual field: External Financing
+511,fnd28_newa1_value_04900a,value of annual field: Increase/Decrease in Working Capital
+512,fnd28_newa1_value_05004a,value of annual field: Market Price - 5 Yr Avg-High
+513,fnd28_newa1_value_05005a,value of annual field: Market Price - 5 Yr Avg-High
+514,fnd28_newa1_value_05140a,value of annual field: Dividends Per Share - 5 Yr Avg
+515,fnd28_newa1_value_05191a,value of annual field: Common Shares Used to Calculate EPS
+516,fnd28_newa1_value_05201a,value of annual field: Earnings per Share (Supported for Non U.S. only)
+517,fnd28_newa1_value_05230a,value of annual field: Earnings per Share after Extraordinary Items
+518,fnd28_newa1_value_05260a,value of annual field: Earnings Per Share - 5 Yr Avg
+519,fnd28_newa1_value_05486a,value of annual field: Tangible Book Value per Share
+520,fnd28_newa1_value_05491a,value of annual field: Book Value  Outstanding Shares - Fiscal
+521,fnd28_newa1_value_05501a,value of annual field: Cash Flow per Share
+522,fnd28_newa1_value_05502a,value of annual field: Cash Flow per Share  Fiscal Period
+523,fnd28_newa1_value_05503a,value of annual field: Long Term Liabilities per Share
+524,fnd28_newa1_value_05505a,value of annual field: Capital Expenditure per Share
+525,fnd28_newa1_value_05506a,value of annual field: Working Capital per Share
+526,fnd28_newa1_value_05507a,value of annual field: Free Cash Flow per Share
+527,fnd28_newa1_value_05508a,value of annual field: Sales per Share
+528,fnd28_newa1_value_05509a,value of annual field: Operating Profit per Share
+529,fnd28_newa1_value_05575a,value of annual field: Stock Split/Dividend Ratio - Fiscal  Weekly Time Series
+530,fnd28_newa1_value_05651a,value of annual field: Common Shares Traded - Annual #
+531,fnd28_newa1_value_07210a,value of annual field: Market Capitalization (U.S.$)
+532,fnd28_newa1_value_07220a,value of annual field: Common Equity (U.S.$)
+533,fnd28_newa1_value_07230a,value of annual field: Total Assets (U.S.$)
+534,fnd28_newa1_value_07240a,value of annual field: Net Sales or Revenues (U.S.$)
+535,fnd28_newa1_value_07250a,value of annual field: Net Income (U.S.$)
+536,fnd28_newa1_value_08001a,value of annual field: Market Capitalization
+537,fnd28_newa1_value_08004a,value of annual field: Market Capitalization - Public
+538,fnd28_newa1_value_08006a,value of annual field: Trading Volume ($ Amount)
+539,fnd28_newa1_value_08010a,value of annual field: Trading Volume - Weekly Average
+540,fnd28_newa1_value_08011a,value of annual field: Turnover Rate
+541,fnd28_newa1_value_08021a,value of annual field: Closely Held Shares %
+542,fnd28_newa1_value_08101a,value of annual field: Quick Ratio
+543,fnd28_newa1_value_08105a,value of annual field: Quick Ratio - 5 Yr Avg
+544,fnd28_newa1_value_08106a,value of annual field: Current Ratio
+545,fnd28_newa1_value_08110a,value of annual field: Current Ratio - 5 Yr Avg
+546,fnd28_newa1_value_08111a,value of annual field: Cash & Equivalents % Total Current Assets  Company Specific Accounting Practices
+547,fnd28_newa1_value_08115a,value of annual field: Cash & Equivalents % Total Current Assets - 5 Yr Avg
+548,fnd28_newa1_value_08116a,value of annual field: Inventories % Total Current Assets
+549,fnd28_newa1_value_08120a,value of annual field: Inventories % Total Current Assets - 5 Yr Avg
+550,fnd28_newa1_value_08121a,value of annual field: Receivables % Total Current Assets
+551,fnd28_newa1_value_08125a,value of annual field: Receivables % Total Current Assets - 5 Yr Avg
+552,fnd28_newa1_value_08126a,value of annual field: Inventories - Days Held  Five Year Averages
+553,fnd28_newa1_value_08130a,value of annual field: Inventories - Days Held - 5 Yr Avg
+554,fnd28_newa1_value_08131a,value of annual field: Accounts Receivables Days
+555,fnd28_newa1_value_08135a,value of annual field: Accounts Receivables Days - 5 Yr Avg  Company Specific Accounting Practices
+556,fnd28_newa1_value_08136a,value of annual field: Inventory Turnover
+557,fnd28_newa1_value_08140a,value of annual field: Inventory Turnover - 5 Yr Avg
+558,fnd28_newa1_value_08141a,value of annual field: Net Sales % Working Capital
+559,fnd28_newa1_value_08145a,value of annual field: Net Sales %Working Capital - 5 Yr Avg
+560,fnd28_newa1_value_08201a,value of annual field: Equity % Total Capital
+561,fnd28_newa1_value_08205a,value of annual field: Equity % Total Capital - 5 Yr Avg
+562,fnd28_newa1_value_08210a,value of annual field: Preferred Stock % Total Capital - 5 Yr Avg
+563,fnd28_newa1_value_08211a,value of annual field: Minority Interest % Total Capital
+564,fnd28_newa1_value_08215a,value of annual field: Minority Interest % Total Capital - 5 Yr Avg
+565,fnd28_newa1_value_08216a,value of annual field: Long Term Debt % Total Capital
+566,fnd28_newa1_value_08220a,value of annual field: Long Term Debt % Total Capital - 5 Yr Avg
+567,fnd28_newa1_value_08221a,value of annual field: Total Debt % Total Capital
+568,fnd28_newa1_value_08225a,value of annual field: Total Debt % Total Capital - 5 Yr Avg
+569,fnd28_newa1_value_08226a,value of annual field: Long Term Debt % Common Equity
+570,fnd28_newa1_value_08230a,value of annual field: Long Term Debt % Common Equity - 5 Yr Avg
+571,fnd28_newa1_value_08231a,value of annual field: Total Debt % Common Equity
+572,fnd28_newa1_value_08235a,value of annual field: Total Debt % Common Equity - 5 Yr Avg
+573,fnd28_newa1_value_08236a,value of annual field: Total Debt % Total Assets
+574,fnd28_newa1_value_08240a,value of annual field: Total Debt % Total Assets - 5 Yr Avg
+575,fnd28_newa1_value_08241a,value of annual field: Common Equity % Total Assets
+576,fnd28_newa1_value_08245a,value of annual field: Common Equity % Total Assets - 5 Yr Avg
+577,fnd28_newa1_value_08246a,value of annual field: Cash Dividend Coverage Ratio
+578,fnd28_newa1_value_08250a,value of annual field: Cash Dividend Coverage Ratio
+579,fnd28_newa1_value_08251a,value of annual field: Fixed Charge Coverage Ratio
+580,fnd28_newa1_value_08255a,value of annual field: Fixed Charge Coverage Ratio - 5 Yr Avg
+581,fnd28_newa1_value_08256a,value of annual field: Dividend Payout (% Earnings)
+582,fnd28_newa1_value_08260a,value of annual field: Dividend Payout (% Earnings) - Total Dollar - 5 Yr Avg
+583,fnd28_newa1_value_08261a,value of annual field: Operating Cash/Fixed Charges
+584,fnd28_newa1_value_08265a,value of annual field: Operating Cash/Fixed Charges - 5 Yr Avg
+585,fnd28_newa1_value_08266a,value of annual field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+586,fnd28_newa1_value_08270a,value of annual field: Fixed Assets % Common Equity - 5 Yr Avg
+587,fnd28_newa1_value_08271a,value of annual field: Working Capital % Total Capital  Five Year Averages
+588,fnd28_newa1_value_08275a,value of annual field: Working Capital % Total Capital - 5 Yr Avg  Liquidity  Annual Statistics
+589,fnd28_newa1_value_08287a,value of annual field: Total Assets / Common Equity Ratio
+590,fnd28_newa1_value_08291a,value of annual field: EBIT / Total Interest Expense Ratio
+591,fnd28_newa1_value_08301a,value of annual field: Return on Equity  Total (%)
+592,fnd28_newa1_value_08302a,value of annual field: Return On Equity Per Share (Fiscal)
+593,fnd28_newa1_value_08305a,value of annual field: Return On Equity - Total (%)- 5 Yr Avg
+594,fnd28_newa1_value_08306a,value of annual field: Gross Profit Margin
+595,fnd28_newa1_value_08310a,value of annual field: Gross Profit Margin - 5 Yr Avg
+596,fnd28_newa1_value_08311a,value of annual field: Cash Flow/Sales
+597,fnd28_newa1_value_08315a,value of annual field: Cash Flow/Sales - 5 Yr Avg
+598,fnd28_newa1_value_08316a,value of annual field: Operating Profit Margin
+599,fnd28_newa1_value_08320a,value of annual field: Operating Profit Margin - 5 Yr Avg
+600,fnd28_newa1_value_08321a,value of annual field: Pre-tax Margin
+601,fnd28_newa1_value_08325a,value of annual field: Pretax Margin - 5 Yr Avg
+602,fnd28_newa1_value_08326a,value of annual field: Return on Assets
+603,fnd28_newa1_value_08330a,value of annual field: Return On Assets - 5 Yr Avg
+604,fnd28_newa1_value_08331a,value of annual field: Cost of Goods Sold / Sales
+605,fnd28_newa1_value_08335a,value of annual field: Cost Of Goods Sold/Sales - 5 Yr Avg
+606,fnd28_newa1_value_08336a,"value of annual field: Selling, General & Administrative Expenses / Sales"
+607,fnd28_newa1_value_08340a,"value of annual field: Selling, General & Administrative Exp/Sales - 5 Yr Avg"
+608,fnd28_newa1_value_08341a,value of annual field: Research & Development Expense / Sales
+609,fnd28_newa1_value_08345a,value of annual field: Research & Development/Sales
+610,fnd28_newa1_value_08346a,value of annual field:  Tax Rate
+611,fnd28_newa1_value_08350a,value of annual field: Tax Rate
+612,fnd28_newa1_value_08351a,value of annual field: Sales per Employee  Five Year Averages
+613,fnd28_newa1_value_08355a,value of annual field: Sales per Employee Loan Loss Ratios Annual Statistics
+614,fnd28_newa1_value_08356a,value of annual field: Interest Rate - Estimated Average
+615,fnd28_newa1_value_08360a,value of annual field: Interest Rate - Estimated Average - 5 Yr Avg
+616,fnd28_newa1_value_08361a,value of annual field: Operating Income Return on Total Capital
+617,fnd28_newa1_value_08365a,value of annual field: Operating Income/Total Capital - 5 Yr Avg
+618,fnd28_newa1_value_08366a,value of annual field: Net Margin
+619,fnd28_newa1_value_08370a,value of annual field: Net Margin - 5 Yr Avg  Asset Utilization  Annual Statistics
+620,fnd28_newa1_value_08371a,value of annual field: Return on Equity - per Share
+621,fnd28_newa1_value_08375a,value of annual field: Return On Equity - Per Share - 5 Yr Avg
+622,fnd28_newa1_value_08376a,value of annual field: Return on Invested Capital
+623,fnd28_newa1_value_08380a,value of annual field: Return On Invested Capital - 5 Yr Avg
+624,fnd28_newa1_value_08381a,value of annual field: Cash Earnings Return on Equity
+625,fnd28_newa1_value_08385a,value of annual field: Cash Earnings Return On Equity - 5 Yr Avg
+626,fnd28_newa1_value_08401a,value of annual field: Total Asset Turnover
+627,fnd28_newa1_value_08405a,value of annual field: Total Asset Turnover - 5 Yr Avg  Leverage  Annual Statistics
+628,fnd28_newa1_value_08406a,value of annual field: Assets per Employee
+629,fnd28_newa1_value_08410a,value of annual field: Assets per Employee
+630,fnd28_newa1_value_08411a,value of annual field: Capital Expenditure % Gross Fixed Assets
+631,fnd28_newa1_value_08415a,value of annual field: Capital Expenditure % Gross Fixed Assets
+632,fnd28_newa1_value_08416a,value of annual field: Capital Expenditure % Total Assets
+633,fnd28_newa1_value_08420a,value of annual field: Capital Expenditure % Total Assets - 5 Year Average
+634,fnd28_newa1_value_08421a,value of annual field: Capital Expenditure % Sales
+635,fnd28_newa1_value_08425a,value of annual field: Capital Expenditure % Total Sales - 5 Year Average
+636,fnd28_newa1_value_08426a,value of annual field: Accumulated Depreciation % Gross Fixed Assets
+637,fnd28_newa1_value_08430a,value of annual field: Accumulated Depreciation % Gross Fixed Assets-5 Yr Avg  Leverage  Annual Statistics
+638,fnd28_newa1_value_08431a,value of annual field: Net Sales to Gross Fixed Asset
+639,fnd28_newa1_value_08435a,value of annual field: Net Sales To Gross Fixed Assets - 5 Yr Avg
+640,fnd28_newa1_value_08579a,value of annual field: Market Capitalization Growth (year ago) Profitability
+641,fnd28_newa1_value_08581a,value of annual field: Market Capitalization - 3 Year Growth
+642,fnd28_newa1adj_value_08101a,value of annual field: Quick Ratio
+643,fnd28_newa1adj_value_08106a,value of annual field: Current Ratio
+644,fnd28_newa1adj_value_08141a,value of annual field: Net Sales % Working Capital
+645,fnd28_newa1adj_value_08236a,value of annual field: Total Debt % Total Assets
+646,fnd28_newa1adj_value_08241a,value of annual field: Common Equity % Total Assets
+647,fnd28_newa1adj_value_08266a,value of annual field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+648,fnd28_newa1adj_value_08271a,value of annual field: Working Capital % Total Capital  Five Year Averages
+649,fnd28_newa1adj_value_08287a,value of annual field: Total Assets / Common Equity Ratio
+650,fnd28_newa1adj_value_08326a,value of annual field: Return on Assets
+651,fnd28_newa1adj_value_08406a,value of annual field: Assets per Employee
+652,fnd28_newa1adj_value_08416a,value of annual field: Capital Expenditure % Total Assets
+653,fnd28_newa2_value_08601a,value of annual field: Earnings per Share Growth
+654,fnd28_newa2_value_08604a,value of annual field: Earnings Per Share - 3 Yr Annual Growth  Five Year Averages
+655,fnd28_newa2_value_08605a,value of annual field: Earnings per Share Growth
+656,fnd28_newa2_value_08606a,value of annual field: Book Value per Share Growth (year ago)
+657,fnd28_newa2_value_08610a,value of annual field: Book Value Per Share - 5 Yr Annual Growth  Profitability  Annual Statistics
+658,fnd28_newa2_value_08611a,value of annual field: Dividends per Share Growth
+659,fnd28_newa2_value_08615a,value of annual field: Dividends Per Share - 5 Yr Annual Growth
+660,fnd28_newa2_value_08616a,value of annual field: Equity Growth (year ago)
+661,fnd28_newa2_value_08620a,value of annual field: Equity - 5 Yr Annual Growth
+662,fnd28_newa2_value_08621a,value of annual field: Total Assets Growth (year ago)
+663,fnd28_newa2_value_08625a,value of annual field: Total Assets - 5 Yr Annual Growth
+664,fnd28_newa2_value_08626a,value of annual field: Employees Growth
+665,fnd28_newa2_value_08630a,value of annual field: Employees - 5 Yr Annual Growth
+666,fnd28_newa2_value_08631a,value of annual field: Net Sales/Revenues Growth
+667,fnd28_newa2_value_08635a,value of annual field: Net Sales / Revenues - 5 Yr Annual Growth
+668,fnd28_newa2_value_08636a,value of annual field: Net Income Growth
+669,fnd28_newa2_value_08640a,value of annual field: Net Income Growth
+670,fnd28_newa2_value_08646a,value of annual field: Operating Income Growth
+671,fnd28_newa2_value_08650a,value of annual field: Operating Income - 5 Yr Annual Growth
+672,fnd28_newa2_value_08651a,value of annual field: Reinvestment Rate - per Share
+673,fnd28_newa2_value_08653a,value of annual field: Reinvestment Rate Per Share (Fiscal)
+674,fnd28_newa2_value_08655a,value of annual field: Reinvestment Rate - Per Share - 5 Yr Avg
+675,fnd28_newa2_value_08656a,value of annual field: Reinvestment Rate - Total
+676,fnd28_newa2_value_08660a,value of annual field: Reinvestment Rate - Total $ - 5 Yr Avg
+677,fnd28_newa2_value_08676a,value of annual field: Net Margin Growth
+678,fnd28_newa2_value_08680a,value of annual field: Net Margin Growth  Profitability Annual Statistics
+679,fnd28_newa2_value_08701a,value of annual field: Foreign Income Margin
+680,fnd28_newa2_value_08705a,value of annual field: Foreign Income Margin
+681,fnd28_newa2_value_08706a,value of annual field: Foreign Asset Turnover
+682,fnd28_newa2_value_08710a,value of annual field: Foreign Asset Turnover
+683,fnd28_newa2_value_08711a,value of annual field: Foreign Return on Assets
+684,fnd28_newa2_value_08715a,value of annual field: Foreign Return on Assets
+685,fnd28_newa2_value_08716a,value of annual field: Foreign Assets Growth
+686,fnd28_newa2_value_08720a,value of annual field: Foreign Assets Growth
+687,fnd28_newa2_value_08721a,value of annual field: Foreign Sales Growth
+688,fnd28_newa2_value_08725a,value of annual field: Foreign Sales Growth
+689,fnd28_newa2_value_08726a,value of annual field: Foreign Income Growth
+690,fnd28_newa2_value_08730a,value of annual field: Foreign Income Growth
+691,fnd28_newa2_value_08731a,value of annual field: Foreign Sales % Tot Sales
+692,fnd28_newa2_value_08735a,value of annual field: Foreign Sales % Total Sales
+693,fnd28_newa2_value_08736a,value of annual field: Foreign Assets % Tot Assets
+694,fnd28_newa2_value_08740a,value of annual field: Foreign Assets % Total Assets
+695,fnd28_newa2_value_08741a,value of annual field: Foreign Income % Total Income Five Year Averages
+696,fnd28_newa2_value_08745a,value of annual field: Foreign Income % Total Income Other Fields
+697,fnd28_newa2_value_08801a,value of annual field: Total Investment Return  year ago Growth Rates
+698,fnd28_newa2_value_08803a,value of annual field: Total Investment Return - 3 Yr Annual Return  Five Year Averages
+699,fnd28_newa2_value_08805a,value of annual field: Total Investment Return - 5 Yr Annual Return
+700,fnd28_newa2_value_08806a,value of annual field: Price Volatility
+701,fnd28_newa2_value_08816a,value of annual field: Earnings Per Share - Fiscal - 1 Yr Annual Growth
+702,fnd28_newa2_value_08821a,value of annual field: Book Value Per Share - Fiscal - 1 Yr Growth Rate  Three Year Averages
+703,fnd28_newa2_value_08901a,value of annual field: Accounts Payable % Sales
+704,fnd28_newa2_value_08905a,value of annual field: Accounts Payable/Sales - 5 Yr Avg
+705,fnd28_newa2_value_08906a,value of annual field: Cash Dividends % Cash Flow
+706,fnd28_newa2_value_08910a,value of annual field: Cash Dividends/Cash Flow - 5 Yr Avg
+707,fnd28_newa2_value_08911a,value of annual field: Retained Earnings % Equity
+708,fnd28_newa2_value_08915a,value of annual field: Retained Earnings % Equity
+709,fnd28_newa2_value_09100a,value of annual field: Price/Earnings Ratio - High
+710,fnd28_newa2_value_09101a,value of annual field: Price/Earnings Ratio - Low
+711,fnd28_newa2_value_09104a,value of annual field: Price/Earnings Ratio  Close
+712,fnd28_newa2_value_09106a,value of annual field: Price/Earnings Ratio - Avg High-Low
+713,fnd28_newa2_value_09111a,value of annual field: Price/Earnings Ratio - 5 Yr Avg High
+714,fnd28_newa2_value_09116a,value of annual field: Price/Earnings Ratio - 5 Yr Avg Low
+715,fnd28_newa2_value_09121a,value of annual field: Price/Earnings Ratio - 5 Yr Avg - Close
+716,fnd28_newa2_value_09126a,value of annual field: Price/Earnings Ratio - 5 Yr Avg High-Low
+717,fnd28_newa2_value_09200a,value of annual field: Earnings Yield - High
+718,fnd28_newa2_value_09201a,value of annual field: Earnings Yield - Low
+719,fnd28_newa2_value_09204a,value of annual field: Earnings Yield - Close
+720,fnd28_newa2_value_09206a,value of annual field: Earnings Yield - Avg High-Low
+721,fnd28_newa2_value_09211a,value of annual field: Earnings Yield - 5 Yr Avg High
+722,fnd28_newa2_value_09216a,value of annual field: Earnings Yield - 5 Yr Avg Low
+723,fnd28_newa2_value_09221a,value of annual field: Earnings Yield - 5 Yr Avg - Close
+724,fnd28_newa2_value_09226a,value of annual field: Earnings Yield - 5 Yr Avg High-L0w
+725,fnd28_newa2_value_09300a,value of annual field: Price/Book Value Ratio - High
+726,fnd28_newa2_value_09301a,value of annual field: Price/Book Value Ratio - Low
+727,fnd28_newa2_value_09304a,value of annual field: Price/Book Value Ratio - Close
+728,fnd28_newa2_value_09306a,value of annual field: Price/Book Value Ratio - Avg High-Low
+729,fnd28_newa2_value_09311a,value of annual field: Price/Book Value Ratio - 5 Yr Avg High
+730,fnd28_newa2_value_09316a,value of annual field: Price/Book Value Ratio - 5 Yr Avg Low
+731,fnd28_newa2_value_09321a,value of annual field: Price/Book Value Ratio - 5 Yr Avg - Close
+732,fnd28_newa2_value_09326a,value of annual field: Price/Book Value Ratio - 5 Yr Avg High-Low
+733,fnd28_newa2_value_09400a,value of annual field: Dividend Yield - High
+734,fnd28_newa2_value_09401a,value of annual field: Dividend Yield - Low
+735,fnd28_newa2_value_09404a,value of annual field: Dividend Yield - Close
+736,fnd28_newa2_value_09406a,value of annual field: Dividend Yield - Avg High-Low
+737,fnd28_newa2_value_09411a,value of annual field: Dividend Yield - 5 Yr Avg High
+738,fnd28_newa2_value_09416a,value of annual field: Dividend Yield - 5 Yr Avg Low
+739,fnd28_newa2_value_09421a,value of annual field: Dividend Yield - 5 Yr Avg - Close
+740,fnd28_newa2_value_09426a,value of annual field: Dividend Yield - 5 Yr Avg High-Low
+741,fnd28_newa2_value_09504a,value of annual field: Dividend Payout per Share
+742,fnd28_newa2_value_09521a,value of annual field: Dividend Payout Per Share - 5 Yr Avg
+743,fnd28_newa2_value_09604a,value of annual field: Price/Cash Flow Ratio
+744,fnd28_newa2_value_09621a,value of annual field: Price/Cash Flow Ratio - 5 Yr Avg
+745,fnd28_newa2_value_09704a,value of annual field: Market Capitalization to Common Equity
+746,fnd28_newa2_value_09721a,value of annual field: Market Capitalization/Common Equity - 5 Yr Average  Growth Rates  Annual Statistics
+747,fnd28_newa2_value_09904a,value of annual field: Price/Sales per Share Ratio
+748,fnd28_newa3_value_15121a,value of annual field: Total Capital % Total Assets
+749,fnd28_newa3_value_15124a,value of annual field: Total Capital % Total Assets
+750,fnd28_newa3_value_18100a,value of annual field: Enterprise Value
+751,fnd28_newa3_value_18155a,value of annual field: Operating Income before Depreciation/Amortization (Operating EBITDA)
+752,fnd28_newa3_value_18191a,value of annual field: Earnings before Interest and Taxes (EBIT)
+753,fnd28_newa3_value_18198a,"value of annual field: Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)"
+754,fnd28_newa3_value_18211a,value of annual field: Restructuring Expense per Share - Pre-tax
+755,fnd28_newa3acctadj_value_15121a,value of annual field: Total Capital % Total Assets
+756,fnd28_newq_value_02005q,value of quarterly field: Cash & Equivalents  Generic
+757,fnd28_newq_value_05116q,value of quarterly field: Dividends per Share (Interim)
+758,fnd28_newq_value_05191q,value of quarterly field: Common Shares Used to Calculate EPS
+759,fnd28_newq_value_05486q,value of quarterly field: Tangible Book Value per Share
+760,fnd28_newq_value_05491q,value of quarterly field: Book Value  Outstanding Shares - Fiscal
+761,fnd28_newq_value_05502q,value of quarterly field: Cash Flow per Share  Fiscal Period
+762,fnd28_newq_value_07210q,value of quarterly field: Market Capitalization (U.S.$)
+763,fnd28_newq_value_07220q,value of quarterly field: Common Equity (U.S.$)
+764,fnd28_newq_value_07230q,value of quarterly field: Total Assets (U.S.$)
+765,fnd28_newq_value_07270q,value of quarterly field: Trailing Twelve Months Net Sales/Revenue (U.S. $)
+766,fnd28_newq_value_08001q,value of quarterly field: Market Capitalization
+767,fnd28_newq_value_08106q,value of quarterly field: Current Ratio
+768,fnd28_newq_value_08111q,value of quarterly field: Cash & Equivalents % Total Current Assets  Company Specific Accounting Practices
+769,fnd28_newq_value_08301q,value of quarterly field: Return on Equity  Total (%)
+770,fnd28_newq_value_08306q,value of quarterly field: Gross Profit Margin
+771,fnd28_newq_value_08311q,value of quarterly field: Cash Flow/Sales
+772,fnd28_newq_value_08316q,value of quarterly field: Operating Profit Margin
+773,fnd28_newq_value_08321q,value of quarterly field: Pre-tax Margin
+774,fnd28_newq_value_08326q,value of quarterly field: Return on Assets
+775,fnd28_newq_value_08346q,value of quarterly field:  Tax Rate
+776,fnd28_newq_value_08366q,value of quarterly field: Net Margin
+777,fnd28_newq_value_08371q,value of quarterly field: Return on Equity - per Share
+778,fnd28_newq_value_08381q,value of quarterly field: Cash Earnings Return on Equity
+779,fnd28_newq_value_08401q,value of quarterly field: Total Asset Turnover
+780,fnd28_newq_value_08416q,value of quarterly field: Capital Expenditure % Total Assets
+781,fnd28_newq_value_08421q,value of quarterly field: Capital Expenditure % Sales
+782,fnd28_newq_value_08579q,value of quarterly field: Market Capitalization Growth (year ago) Profitability
+783,fnd28_newq_value_08601q,value of quarterly field: Earnings per Share Growth
+784,fnd28_newq_value_08606q,value of quarterly field: Book Value per Share Growth (year ago)
+785,fnd28_newq_value_08611q,value of quarterly field: Dividends per Share Growth
+786,fnd28_newq_value_08616q,value of quarterly field: Equity Growth (year ago)
+787,fnd28_newq_value_08621q,value of quarterly field: Total Assets Growth (year ago)
+788,fnd28_newq_value_08631q,value of quarterly field: Net Sales/Revenues Growth
+789,fnd28_newq_value_08636q,value of quarterly field: Net Income Growth
+790,fnd28_newq_value_08651q,value of quarterly field: Reinvestment Rate - per Share
+791,fnd28_newq_value_08676q,value of quarterly field: Net Margin Growth
+792,fnd28_newq_value_09905q,value of quarterly field: Market Capitalization to Trailing Twelve Months Revenue Ratio
+793,fnd28_newq_value_18100q,value of quarterly field: Enterprise Value
+794,fnd28_newq_value_18155q,value of quarterly field: Operating Income before Depreciation/Amortization (Operating EBITDA)
+795,fnd28_newq_value_18191q,value of quarterly field: Earnings before Interest and Taxes (EBIT)
+796,fnd28_newq_value_18198q,"value of quarterly field: Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)"
+797,fnd28_newq_value_18262q,value of quarterly field: Trailing Twelve Months Net Sales/Revenues
+798,fnd28_newq_value_18263q,value of quarterly field: Trailing Twelve Months Net Profit
+799,fnd28_newq_value_18264q,value of quarterly field: Trailing Twelve Months Earnings per Share
+800,fnd28_newq_value_18265q,value of quarterly field: Trailing Twelve Months Cash Flow per Share
+801,fnd28_newq_value_18266q,value of quarterly field: Trailing Twelve Months Dividends
+802,fnd28_newq_value_18268q,value of quarterly field: Trailing Twelve Months Net Margin Asset Utilization
+803,fnd28_newq_value_18271q,value of quarterly field: Trailing Twelve Months Pre Tax Income
+804,fnd28_newq_value_18304q,value of quarterly field: Trailing Twelve Months Pre-tax Margin
+805,fnd28_newq_value_18305q,value of quarterly field: Trailing Twelve Months Operating Profit
+806,fnd28_newq_value_18308q,value of quarterly field: Trailing Twelve Months EBIT
+807,fnd28_newq_value_18309q,value of quarterly field: Trailing Twelve Months EBITDA
+808,fnd28_newq_value_18310q,value of quarterly field: Trailing Twelve Months Net Cash Flow  Operating Activities
+809,fnd28_newq_value_18311q,value of quarterly field: Trailing Twelve Months Capital Expenditures
+810,fnd28_newq_value_18313q,"value of quarterly field: Trailing Twelve Months Depreciation, Depletion & Amortization"
+811,fnd28_newq_value_18318q,value of quarterly field: Trailing Twelve Months Cash Dividends Paid
+812,fnd28_newqacctadj_value_08106q,value of quarterly field: Current Ratio
+813,fnd28_newqacctadj_value_08326q,value of quarterly field: Return on Assets
+814,fnd28_newqacctadj_value_08416q,value of quarterly field: Capital Expenditure % Total Assets
+815,fnd28_pftlta_value_08301a,value of annual field: Return on Equity  Total (%)
+816,fnd28_pftlta_value_08302a,value of annual field: Return On Equity Per Share (Fiscal)
+817,fnd28_pftlta_value_08305a,value of annual field: Return On Equity - Total (%)- 5 Yr Avg
+818,fnd28_pftlta_value_08306a,value of annual field: Gross Profit Margin
+819,fnd28_pftlta_value_08310a,value of annual field: Gross Profit Margin - 5 Yr Avg
+820,fnd28_pftlta_value_08311a,value of annual field: Cash Flow/Sales
+821,fnd28_pftlta_value_08315a,value of annual field: Cash Flow/Sales - 5 Yr Avg
+822,fnd28_pftlta_value_08316a,value of annual field: Operating Profit Margin
+823,fnd28_pftlta_value_08320a,value of annual field: Operating Profit Margin - 5 Yr Avg
+824,fnd28_pftlta_value_08321a,value of annual field: Pre-tax Margin
+825,fnd28_pftlta_value_08325a,value of annual field: Pretax Margin - 5 Yr Avg
+826,fnd28_pftlta_value_08326a,value of annual field: Return on Assets
+827,fnd28_pftlta_value_08330a,value of annual field: Return On Assets - 5 Yr Avg
+828,fnd28_pftlta_value_08331a,value of annual field: Cost of Goods Sold / Sales
+829,fnd28_pftlta_value_08335a,value of annual field: Cost Of Goods Sold/Sales - 5 Yr Avg
+830,fnd28_pftlta_value_08336a,"value of annual field: Selling, General & Administrative Expenses / Sales"
+831,fnd28_pftlta_value_08340a,"value of annual field: Selling, General & Administrative Exp/Sales - 5 Yr Avg"
+832,fnd28_pftlta_value_08341a,value of annual field: Research & Development Expense / Sales
+833,fnd28_pftlta_value_08345a,value of annual field: Research & Development/Sales
+834,fnd28_pftlta_value_08346a,value of annual field:  Tax Rate
+835,fnd28_pftlta_value_08350a,value of annual field: Tax Rate
+836,fnd28_pftlta_value_08351a,value of annual field: Sales per Employee  Five Year Averages
+837,fnd28_pftlta_value_08355a,value of annual field: Sales per Employee Loan Loss Ratios Annual Statistics
+838,fnd28_pftlta_value_08356a,value of annual field: Interest Rate - Estimated Average
+839,fnd28_pftlta_value_08360a,value of annual field: Interest Rate - Estimated Average - 5 Yr Avg
+840,fnd28_pftlta_value_08361a,value of annual field: Operating Income Return on Total Capital
+841,fnd28_pftlta_value_08365a,value of annual field: Operating Income/Total Capital - 5 Yr Avg
+842,fnd28_pftlta_value_08366a,value of annual field: Net Margin
+843,fnd28_pftlta_value_08370a,value of annual field: Net Margin - 5 Yr Avg  Asset Utilization  Annual Statistics
+844,fnd28_pftlta_value_08371a,value of annual field: Return on Equity - per Share
+845,fnd28_pftlta_value_08375a,value of annual field: Return On Equity - Per Share - 5 Yr Avg
+846,fnd28_pftlta_value_08376a,value of annual field: Return on Invested Capital
+847,fnd28_pftlta_value_08380a,value of annual field: Return On Invested Capital - 5 Yr Avg
+848,fnd28_pftlta_value_08381a,value of annual field: Cash Earnings Return on Equity
+849,fnd28_pftlta_value_08385a,value of annual field: Cash Earnings Return On Equity - 5 Yr Avg
+850,fnd28_pftlta_value_08651a,value of annual field: Reinvestment Rate - per Share
+851,fnd28_pftlta_value_08653a,value of annual field: Reinvestment Rate Per Share (Fiscal)
+852,fnd28_pftlta_value_08655a,value of annual field: Reinvestment Rate - Per Share - 5 Yr Avg
+853,fnd28_pftlta_value_08656a,value of annual field: Reinvestment Rate - Total
+854,fnd28_pftlta_value_08660a,value of annual field: Reinvestment Rate - Total $ - 5 Yr Avg
+855,fnd28_pftlta_value_08901a,value of annual field: Accounts Payable % Sales
+856,fnd28_pftlta_value_08905a,value of annual field: Accounts Payable/Sales - 5 Yr Avg
+857,fnd28_pftlta_value_08911a,value of annual field: Retained Earnings % Equity
+858,fnd28_pftlta_value_08915a,value of annual field: Retained Earnings % Equity
+859,fnd28_ratesq90_value_08106q,value of quarterly field: Current Ratio
+860,fnd28_ratesq90_value_08111q,value of quarterly field: Cash & Equivalents % Total Current Assets  Company Specific Accounting Practices
+861,fnd28_ratesq90_value_08421q,value of quarterly field: Capital Expenditure % Sales
+862,fnd28_ratesq_value_08106q,value of quarterly field: Current Ratio
+863,fnd28_ratesq_value_08111q,value of quarterly field: Cash & Equivalents % Total Current Assets  Company Specific Accounting Practices
+864,fnd28_ratesq_value_08301q,value of quarterly field: Return on Equity  Total (%)
+865,fnd28_ratesq_value_08306q,value of quarterly field: Gross Profit Margin
+866,fnd28_ratesq_value_08311q,value of quarterly field: Cash Flow/Sales
+867,fnd28_ratesq_value_08316q,value of quarterly field: Operating Profit Margin
+868,fnd28_ratesq_value_08321q,value of quarterly field: Pre-tax Margin
+869,fnd28_ratesq_value_08326q,value of quarterly field: Return on Assets
+870,fnd28_ratesq_value_08346q,value of quarterly field:  Tax Rate
+871,fnd28_ratesq_value_08366q,value of quarterly field: Net Margin
+872,fnd28_ratesq_value_08371q,value of quarterly field: Return on Equity - per Share
+873,fnd28_ratesq_value_08381q,value of quarterly field: Cash Earnings Return on Equity
+874,fnd28_ratesq_value_08401q,value of quarterly field: Total Asset Turnover
+875,fnd28_ratesq_value_08416q,value of quarterly field: Capital Expenditure % Total Assets
+876,fnd28_ratesq_value_08421q,value of quarterly field: Capital Expenditure % Sales
+877,fnd28_ratesq_value_08579q,value of quarterly field: Market Capitalization Growth (year ago) Profitability
+878,fnd28_ratesq_value_08601q,value of quarterly field: Earnings per Share Growth
+879,fnd28_ratesq_value_08606q,value of quarterly field: Book Value per Share Growth (year ago)
+880,fnd28_ratesq_value_08611q,value of quarterly field: Dividends per Share Growth
+881,fnd28_ratesq_value_08616q,value of quarterly field: Equity Growth (year ago)
+882,fnd28_ratesq_value_08621q,value of quarterly field: Total Assets Growth (year ago)
+883,fnd28_ratesq_value_08631q,value of quarterly field: Net Sales/Revenues Growth
+884,fnd28_ratesq_value_08636q,value of quarterly field: Net Income Growth
+885,fnd28_ratesq_value_08651q,value of quarterly field: Reinvestment Rate - per Share
+886,fnd28_ratesq_value_08676q,value of quarterly field: Net Margin Growth
+887,fnd28_statisticsa_value_05101a,value of annual field: Dividends per Share
+888,fnd28_statisticsa_value_05140a,value of annual field: Dividends Per Share - 5 Yr Avg
+889,fnd28_statisticsa_value_05201a,value of annual field: Earnings per Share (Supported for Non U.S. only)
+890,fnd28_statisticsa_value_05210a,value of annual field: Earnings per Share  Basic  Year
+891,fnd28_statisticsa_value_05228a,value of annual field: Discontinued Operations per Share
+892,fnd28_statisticsa_value_05230a,value of annual field: Earnings per Share after Extraordinary Items
+893,fnd28_statisticsa_value_05260a,value of annual field: Earnings Per Share - 5 Yr Avg
+894,fnd28_statisticsa_value_05290a,value of annual field: Fully Diluted Earnings per Share
+895,fnd28_statisticsa_value_05301a,value of annual field: Common Shares Outstanding
+896,fnd28_statisticsa_value_05303a,value of annual field: Treasury Shares
+897,fnd28_statisticsa_value_05309a,value of annual field: Par Value
+898,fnd28_statisticsa_value_05326a,value of annual field: Number of Shares Authorized
+899,fnd28_statisticsa_value_05476a,value of annual field: Book Value per Share
+900,fnd28_statisticsa_value_05486a,value of annual field: Tangible Book Value per Share
+901,fnd28_statisticsa_value_05501a,value of annual field: Cash Flow per Share
+902,fnd28_statisticsa_value_05502a,value of annual field: Cash Flow per Share  Fiscal Period
+903,fnd28_statisticsa_value_05503a,value of annual field: Long Term Liabilities per Share
+904,fnd28_statisticsa_value_05505a,value of annual field: Capital Expenditure per Share
+905,fnd28_statisticsa_value_05506a,value of annual field: Working Capital per Share
+906,fnd28_statisticsa_value_05507a,value of annual field: Free Cash Flow per Share
+907,fnd28_statisticsa_value_05508a,value of annual field: Sales per Share
+908,fnd28_statisticsa_value_05509a,value of annual field: Operating Profit per Share
+909,fnd28_statisticsa_value_07230a,value of annual field: Total Assets (U.S.$)
+910,fnd28_statisticsa_value_07240a,value of annual field: Net Sales or Revenues (U.S.$)
+911,fnd28_statisticsa_value_07250a,value of annual field: Net Income (U.S.$)
+912,fnd28_statisticsa_value_18100a,value of annual field: Enterprise Value
+913,fnd28_statisticsa_value_18208a,value of annual field: Earnings per Share  Continuing Operations
+914,fnd28_statisticsq_value_05301q,value of quarterly field: Common Shares Outstanding
+915,fnd28_statisticsq_value_05303q,value of quarterly field: Treasury Shares
+916,fnd28_statisticsq_value_05309q,value of quarterly field: Par Value
+917,fnd28_statisticsq_value_05486q,value of quarterly field: Tangible Book Value per Share
+918,fnd28_statisticsq_value_05502q,value of quarterly field: Cash Flow per Share  Fiscal Period
+919,fnd28_statisticsq_value_07230q,value of quarterly field: Total Assets (U.S.$)
+920,fnd28_statisticsq_value_18208q,value of quarterly field: Earnings per Share  Continuing Operations
+921,fnd28_stockdata_value_18264q,value of quarterly field: Trailing Twelve Months Earnings per Share
+922,fnd28_stockdata_value_18265q,value of quarterly field: Trailing Twelve Months Cash Flow per Share
+923,fnd28_stockdata_value_18266q,value of quarterly field: Trailing Twelve Months Dividends
+924,fnd28_stpera_value_08801a,value of annual field: Total Investment Return  year ago Growth Rates
+925,fnd28_stpera_value_08803a,value of annual field: Total Investment Return - 3 Yr Annual Return  Five Year Averages
+926,fnd28_stpera_value_08805a,value of annual field: Total Investment Return - 5 Yr Annual Return
+927,fnd28_stpera_value_08806a,value of annual field: Price Volatility
+928,fnd28_stpera_value_09111a,value of annual field: Price/Earnings Ratio - 5 Yr Avg High
+929,fnd28_stpera_value_09116a,value of annual field: Price/Earnings Ratio - 5 Yr Avg Low
+930,fnd28_stpera_value_09121a,value of annual field: Price/Earnings Ratio - 5 Yr Avg - Close
+931,fnd28_stpera_value_09126a,value of annual field: Price/Earnings Ratio - 5 Yr Avg High-Low
+932,fnd28_stpera_value_09211a,value of annual field: Earnings Yield - 5 Yr Avg High
+933,fnd28_stpera_value_09216a,value of annual field: Earnings Yield - 5 Yr Avg Low
+934,fnd28_stpera_value_09221a,value of annual field: Earnings Yield - 5 Yr Avg - Close
+935,fnd28_stpera_value_09226a,value of annual field: Earnings Yield - 5 Yr Avg High-L0w
+936,fnd28_stpera_value_09311a,value of annual field: Price/Book Value Ratio - 5 Yr Avg High
+937,fnd28_stpera_value_09316a,value of annual field: Price/Book Value Ratio - 5 Yr Avg Low
+938,fnd28_stpera_value_09321a,value of annual field: Price/Book Value Ratio - 5 Yr Avg - Close
+939,fnd28_stpera_value_09326a,value of annual field: Price/Book Value Ratio - 5 Yr Avg High-Low
+940,fnd28_stpera_value_09411a,value of annual field: Dividend Yield - 5 Yr Avg High
+941,fnd28_stpera_value_09416a,value of annual field: Dividend Yield - 5 Yr Avg Low
+942,fnd28_stpera_value_09421a,value of annual field: Dividend Yield - 5 Yr Avg - Close
+943,fnd28_stpera_value_09426a,value of annual field: Dividend Yield - 5 Yr Avg High-Low
+944,fnd28_stpera_value_09521a,value of annual field: Dividend Payout Per Share - 5 Yr Avg
+945,fnd28_stpera_value_09621a,value of annual field: Price/Cash Flow Ratio - 5 Yr Avg
+946,fnd28_stpera_value_09721a,value of annual field: Market Capitalization/Common Equity - 5 Yr Average  Growth Rates  Annual Statistics
+947,fnd28_stpera_value_09904a,value of annual field: Price/Sales per Share Ratio
+948,fnd28_stt10010_value_10010q,value of quarterly field: Earnings per Share  Basic  Fiscal
+949,fnd28_value_01155a,value of annual field: Amortization of Other Intangibles
+950,fnd28_value_01306a,value of annual field: Gain/Loss On Disposal of Assets
+951,fnd28_value_01351q,value of quarterly field: Foreign Currency Translation Gain/Loss
+952,fnd28_value_01352a,value of annual field: Foreign Exchange Transactions
+953,fnd28_value_01352q,value of quarterly field: Foreign Exchange Transactions
+954,fnd28_value_01705a,value of annual field: Net Income Used to Calculate Fully Diluted Earnings per Share
+955,fnd28_value_02508a,"value of annual field: Brands, Patents - Accumulated Amortization"
+956,fnd28_value_02509a,"value of annual field: Brands, Patents - Gross"
+957,fnd28_value_02514a,value of annual field: Other Intangible Assets - Gross
+958,fnd28_value_02515a,value of annual field: Other Intangible Assets - Accumulated Amortization
+959,fnd28_value_02654a,value of annual field: Total Intangible Other Assets - Gross
+960,fnd28_value_02655a,value of annual field: Total Intangible Other Assets  Accumulated Amortization
+961,fnd28_value_03062a,value of annual field: Interest Payable
+962,fnd28_value_03261a,value of annual field: Pension/Post Retirement Benefits
+963,fnd28_value_03491a,value of annual field: Goodwill Written Off
+964,fnd28_value_03494a,value of annual field: Unappropriated (Free) Reserves
+965,fnd28_value_04052a,value of annual field: Dividends
+966,fnd28_value_04054a,value of annual field: Discontinued Operations
+967,fnd28_value_05006,value of field: Market Price - Current
+968,fnd28_value_05007,value of field: Market Price - Year to Date - High
+969,fnd28_value_05008,value of field: Market Price - Year to Date - Low
+970,fnd28_value_05015a,value of annual field: January End Market Price
+971,fnd28_value_05016a,value of annual field: January High Price
+972,fnd28_value_05017a,value of annual field: January Low Price
+973,fnd28_value_05020a,value of annual field: February End Market Price
+974,fnd28_value_05021a,value of annual field: February High Price
+975,fnd28_value_05022a,value of annual field: February Low Price
+976,fnd28_value_05025a,value of annual field: March End Market Price
+977,fnd28_value_05026a,value of annual field: March High Price
+978,fnd28_value_05027a,value of annual field: March Low Price
+979,fnd28_value_05030a,value of annual field: April End Market Price
+980,fnd28_value_05031a,value of annual field: April High Price
+981,fnd28_value_05032a,value of annual field: April Low Price
+982,fnd28_value_05035a,value of annual field: May End Market Price
+983,fnd28_value_05036a,value of annual field: May High Price
+984,fnd28_value_05037a,value of annual field: May Low Price
+985,fnd28_value_05040a,value of annual field: June End Market Price
+986,fnd28_value_05041a,value of annual field: June High Price
+987,fnd28_value_05042a,value of annual field: June Low Price
+988,fnd28_value_05045a,value of annual field: July End Market Price
+989,fnd28_value_05046a,value of annual field: July High Price
+990,fnd28_value_05047a,value of annual field: July Low Price
+991,fnd28_value_05050a,value of annual field: August End Market Price
+992,fnd28_value_05051a,value of annual field: August High Price
+993,fnd28_value_05052a,value of annual field: August Low Price
+994,fnd28_value_05055a,value of annual field: September End Market Price
+995,fnd28_value_05056a,value of annual field: September High Price
+996,fnd28_value_05057a,value of annual field: September Low Price
+997,fnd28_value_05060a,value of annual field: October End Market Price
+998,fnd28_value_05061a,value of annual field: October High Price
+999,fnd28_value_05062a,value of annual field: October Low Price
+1000,fnd28_value_05065a,value of annual field: November End Market Price
+1001,fnd28_value_05066a,value of annual field: November High Price
+1002,fnd28_value_05067a,value of annual field: November Low Price
+1003,fnd28_value_05070a,value of annual field: December End Market Price
+1004,fnd28_value_05071a,value of annual field: December High Price
+1005,fnd28_value_05072a,value of annual field: December Low Price
+1006,fnd28_value_05085a,value of annual field: Period Close Price
+1007,fnd28_value_05091,value of field: Market Price  52 Week High
+1008,fnd28_value_05092,value of field: Market Price  52 Week Low
+1009,fnd28_value_05121a,value of annual field: Dividends per Share Qtr1
+1010,fnd28_value_05122a,value of annual field: Dividends per Share Qtr2
+1011,fnd28_value_05123a,value of annual field: Dividends per Share Qtr3
+1012,fnd28_value_05124a,value of annual field: Dividends per Share Qtr4
+1013,fnd28_value_05125a,value of annual field: DPS Gross Qtr1
+1014,fnd28_value_05126a,value of annual field: DPS Gross Qtr2
+1015,fnd28_value_05127a,value of annual field: DPS Gross Qtr3
+1016,fnd28_value_05128a,value of annual field: DPS Gross Qtr4
+1017,fnd28_value_05131a,value of annual field: DPS - 12 Months Qtr1
+1018,fnd28_value_05132a,value of annual field: DPS - 12 Months Qtr2
+1019,fnd28_value_05133a,value of annual field: DPS - 12 Months Qtr3
+1020,fnd28_value_05134a,value of annual field: DPS - 12 Months Qtr4
+1021,fnd28_value_05141a,value of annual field: DPS - 5 yr avg Qtr1
+1022,fnd28_value_05142a,value of annual field: DPS - 5 yr avg Qtr2
+1023,fnd28_value_05143a,value of annual field: DPS - 5 yr avg Qtr3
+1024,fnd28_value_05144a,value of annual field: DPS - 5 yr avg Qtr4
+1025,fnd28_value_05145,value of field: Dividends per Share - Last 12 Months
+1026,fnd28_value_05190,value of field: Indicated Dividend Rate
+1027,fnd28_value_05202q,value of quarterly field: Earnings per Share  Fiscal Period End
+1028,fnd28_value_05211a,value of annual field: Earnings per Share-Basic Qtr1
+1029,fnd28_value_05212a,value of annual field: Earnings per Share-Basic Qtr2
+1030,fnd28_value_05213a,value of annual field: Earnings per Share-Basic Qtr3
+1031,fnd28_value_05214a,value of annual field: Earnings per Share-Basic Qtr4
+1032,fnd28_value_05223a,value of annual field: Earnings per Share Qtr3
+1033,fnd28_value_05251a,value of annual field: EPS - 12 Months Qtr1
+1034,fnd28_value_05252a,value of annual field: EPS - 12 Months Qtr2
+1035,fnd28_value_05253a,value of annual field: EPS - 12 Months Qtr3
+1036,fnd28_value_05254a,value of annual field: EPS - 12 Months Qtr4
+1037,fnd28_value_05255,value of field: Earnings per Share - Last 12 Months
+1038,fnd28_value_05261a,value of annual field: EPS - 5 yr avg Qtr1
+1039,fnd28_value_05262a,value of annual field: EPS - 5 yr avg Qtr2
+1040,fnd28_value_05263a,value of annual field: EPS - 5 yr avg Qtr3
+1041,fnd28_value_05264a,value of annual field: EPS - 5 yr avg Qtr4
+1042,fnd28_value_05291a,value of annual field: Fully Diluted EPS Qtr1
+1043,fnd28_value_05292a,value of annual field: Fully Diluted EPS Qtr2
+1044,fnd28_value_05293a,value of annual field: Fully Diluted EPS Qtr3
+1045,fnd28_value_05294a,value of annual field: Fully Diluted EPS Qtr4
+1046,fnd28_value_05302,value of field: Common Shares Outstanding - Current
+1047,fnd28_value_05351a,value of annual field: Length of Fiscal Period
+1048,fnd28_value_05351q,value of quarterly field: Length of Fiscal Period
+1049,fnd28_value_05450,value of field: Common/Ordinary Shareholders
+1050,fnd28_value_05480,value of field: Book Value per Share - Current
+1051,fnd28_value_05510,value of field: Cash Flow per Share - Current  Annual Statistics
+1052,fnd28_value_05575q,value of quarterly field: Stock Split/Dividend Ratio - Fiscal  Weekly Time Series
+1053,fnd28_value_07011a,value of annual field: Employees
+1054,fnd28_value_07260q,value of quarterly field: Trailing Twelve Months Net Profit (U.S. $)
+1055,fnd28_value_08002a,value of annual field: Market Capitalization  Fiscal Period End
+1056,fnd28_value_08003,value of field: Market Capitalization (Public) - Current
+1057,fnd28_value_08005,value of field: Market Capitalization - Current
+1058,fnd28_value_08372,value of field: Return on Equity - per Share - Current
+1059,fnd28_value_08614a,value of annual field: Dividends per Share Growth
+1060,fnd28_value_08633a,value of annual field: Net Sales/Revenues Growth
+1061,fnd28_value_08638a,value of annual field: Net Income Growth
+1062,fnd28_value_08652,value of field: Reinvestment Rate - per Share - Current
+1063,fnd28_value_08698q,value of quarterly field: Net Sales/Revenue Growth (period vs. year ago)
+1064,fnd28_value_08699q,value of quarterly field: Earnings per Share Growth (Period vs. Year Ago)
+1065,fnd28_value_09001,value of field: Price Trend - Last Week
+1066,fnd28_value_09005,value of field: Price Trend - Four Week
+1067,fnd28_value_09006,value of field: Price Trend - 13 Weeks
+1068,fnd28_value_09007,value of field: Price Trend  26 Weeks
+1069,fnd28_value_09011,value of field: Price Trend - Quarter to Date
+1070,fnd28_value_09016,value of field: Price Trend - Previous Quarter
+1071,fnd28_value_09021,value of field: Price Trend - Year to Date
+1072,fnd28_value_09026,value of field: Price Trend - 52 Weeks
+1073,fnd28_value_09102,value of field: Price/Earnings Ratio - Current
+1074,fnd28_value_09103,value of field: Price/Earnings Ratio - Current High
+1075,fnd28_value_09104,value of field: Price/Earnings Ratio  Close
+1076,fnd28_value_09105,value of field: Price/Earnings Ratio - Current Low
+1077,fnd28_value_09121,value of field: Price/Earnings Ratio - 5 Yr Avg - Close
+1078,fnd28_value_09202,value of field: Earnings Yield - Current
+1079,fnd28_value_09203,value of field: Earnings Yield - Current High
+1080,fnd28_value_09205,value of field: Earnings Yield - Current Low
+1081,fnd28_value_09302,value of field: Price/Book Value Ratio - Current
+1082,fnd28_value_09304,value of field: Price/Book Value Ratio - Close
+1083,fnd28_value_09321,value of field: Price/Book Value Ratio - 5 Yr Avg - Close
+1084,fnd28_value_09402,value of field: Dividend Yield - Current
+1085,fnd28_value_09421,value of field: Dividend Yield - 5 Yr Avg - Close
+1086,fnd28_value_09502,value of field: Dividend Payout per Share - Current
+1087,fnd28_value_09602,value of field: Price/Cash Flow - Current
+1088,fnd28_value_09802,value of field: Beta
+1089,fnd28_value_09803,value of field: Alpha  Annual Statistics
+1090,fnd28_value_10010a,value of annual field: Earnings per Share  Basic  Fiscal
+1091,fnd28_value_10030a,value of annual field: Earnings per Share  Fully Diluted  Fiscal
+1092,fnd28_value_18140a,value of annual field: Rental/Operating Lease Expense
+1093,fnd28_value_18141a,value of annual field: Lease Commitments - Year 1
+1094,fnd28_value_18165a,value of annual field: Deferred Tax Asset - Current
+1095,fnd28_value_18166q,value of quarterly field: Deferred Tax Liability  Current
+1096,fnd28_value_18167q,value of quarterly field: Other Mandatory Redeemable Instruments
+1097,fnd28_value_18168q,value of quarterly field: Mandatorily Redeemable Trust Preferred Securities
+1098,fnd28_value_18192a,value of annual field: Dividends Provided for or Paid  Common
+1099,fnd28_value_18193a,value of annual field: Earnings per Share - As Reported
+1100,fnd28_value_18193q,value of quarterly field: Earnings per Share - As Reported
+1101,fnd28_value_18200q,value of quarterly field: Discontinued Operations (Total)
+1102,fnd28_value_18202a,value of annual field: Cumulative Effect of Accounting per Share
+1103,fnd28_value_18205a,value of annual field: Discontinued Operations  Total  per Share
+1104,fnd28_value_18205q,value of quarterly field: Discontinued Operations  Total  per Share
+1105,fnd28_value_18209a,value of annual field: EPS Fiscal Period Generic after Extra Items
+1106,fnd28_value_18209q,value of quarterly field: EPS Fiscal Period Generic after Extra Items
+1107,fnd28_value_18224a,value of annual field: Amortization and Impairment of Goodwill
+1108,fnd28_value_18224q,value of quarterly field: Amortization and Impairment of Goodwill
+1109,fnd28_value_18232a,value of annual field: Current Portion of Long Term Debt
+1110,fnd28_value_18259q,value of quarterly field: Includes Extraordinary Credit/Charge Per Share - Fiscal
+1111,fnd28_value_18260q,value of quarterly field: Excludes Pre-tax Extraordinary Credit/Charge per Share - Fiscal
+1112,fnd28_value_18261q,value of quarterly field: Includes Pre-tax Extraordinary Credit/Charge per Share - Fiscal
+1113,fnd28_value_18267q,value of quarterly field: Trailing Twelve Months Gross Margin
+1114,fnd28_value_18269q,value of quarterly field: Trailing Twelve Months Interest Expense
+1115,fnd28_value_18270q,value of quarterly field: Trailing Twelve Months Income Taxes
+1116,fnd28_value_18274a,"value of annual field: Impairment of Property, Plant & Equipment"
+1117,fnd28_value_18275a,value of annual field: Impairment of Financial Fixed Assets
+1118,fnd28_value_18275q,value of quarterly field: Impairment of Financial Fixed Assets
+1119,fnd28_value_18286q,value of quarterly field: Derivative Liabilities  Non-Current
+1120,fnd28_value_18287q,value of quarterly field: Derivative Liabilities  Current
+1121,fnd28_value_18293q,value of quarterly field: Restricted Cash  Current
+1122,fnd28_value_18297a,value of annual field: Trade Receivables - Net
+1123,fnd28_value_18297q,value of quarterly field: Trade Receivables - Net
+1124,fnd28_value_18298a,value of annual field: Provision for Bad Debt
+1125,fnd28_value_18306q,value of quarterly field: Trailing Twelve Months Operating Margin
+1126,fnd28_value_18312q,value of quarterly field: Trailing Twelve Months Cost of Goods Sold
+1127,fnd28_value_18321a,"value of annual field: Stock Option Compensation Expense, Net of Tax"
+1128,fnd28_value_18322a,"value of annual field: Stock Option Compensation Expense Adjustment to Net Income, Net of Tax"
+1129,fnd28_value_18324q,value of quarterly field: Unrealized Valuation Gains/Losses - Total
+1130,fnd28_value_18352a,value of annual field: Unfunded Pension Liabilities
+1131,fnd28_value_18382a,value of annual field: Computer Software And Equipment
+1132,fnd28_value_18390a,value of annual field: Construction Work in Progress
+1133,fnd28_value_18408q,value of quarterly field: Derivative Assets  Non-Current
+1134,fnd28_value_18426q,value of quarterly field: Earnings Per Share (EPS) Included Extra Cr/Chg After Tax Basic
+1135,fnd28_value_18428q,value of quarterly field: Earnings per Share  Included Extra Pre-tax Cr/Chg  Basic
+1136,fnd28_value_18446q,value of quarterly field: Earnings Per Share (EPS) Included Extra Cr/Chg After Tax Fully Diluted
+1137,fnd28_value_18448q,value of quarterly field: Earnings per Share  Included Extra Pre-tax Cr/Chg  Fully Diluted
+1138,fnd28_value_18453q,value of quarterly field: Earnings per Share  Included Extra Cr/Chg After Tax  Basic - Revised
+1139,fnd28_value_18454q,value of quarterly field: Earnings per Share  Included Extra Cr/Chg After Tax  Fully Diluted - Revised
+1140,fnd28_value_18457q,value of quarterly field: Earnings per Share  Included Extra Pre-tax Cr/Chg  Basic  Revised
+1141,fnd28_value_18458q,value of quarterly field: Earnings per Share  Included Extra Pre-tax Cr/Chg  Fully Diluted - Revised
+1142,fnd28_value_18469q,value of quarterly field: Earnings per Share  Fiscal Period  Basic  Revised
+1143,fnd28_value_18574q,value of quarterly field: Unrealized Valuation Gains/Losses  Hedges/Derivatives
+1144,fnd28_value_18839a,value of annual field: Healthcare Data - Interest Cost
+1145,fnd28_value_18841a,value of annual field: Healthcare Data - Other Net Periodic Pension (Income)/Expense
+1146,fnd28_value_18851a,value of annual field: Comprehensive Income  Pension Liability
+1147,fnd28_value_18851q,value of quarterly field: Comprehensive Income  Pension Liability
+1148,fnd28_value_18852a,value of annual field: Comprehensive Income  Hedging Gain/Loss
+1149,fnd28_value_18852q,value of quarterly field: Comprehensive Income  Hedging Gain/Loss
+1150,fnd28_value_18862q,value of quarterly field: Trailing Twelve Months Funds From Operations Other Fields
+1151,fnd28_value_19101a,value of annual field: Interim Sales Qtr1
+1152,fnd28_value_19102a,value of annual field: Interim Sales Qtr2
+1153,fnd28_value_19103a,value of annual field: Interim Sales Qtr3
+1154,fnd28_value_19104a,value of annual field: Interim Sales Qtr4
+1155,fnd28_value_19105a,value of annual field: Interim Pre-tax Income Qtr1
+1156,fnd28_value_19106a,value of annual field: Interim Pre-tax Income Qtr1
+1157,fnd28_value_19107a,value of annual field: Interim Pre-tax Income Qtr1 Qtr3
+1158,fnd28_value_19108a,value of annual field: Interim Pre-tax Income Qtr1 Qtr4
+1159,fnd28_value_19109a,value of annual field: Interim Net Profit Qtr1
+1160,fnd28_value_19110a,value of annual field: Interim Net Profit Qtr2
+1161,fnd28_value_19111a,value of annual field: Interim Net Profit Qtr3
+1162,fnd28_value_19112a,value of annual field: Interim Net Profit Qtr4
+1163,fnd28_value_19501,value of field: Product Segment 1 - Sales
+1164,fnd28_value_19501a,value of annual field: Product Segment 1 - Sales
+1165,fnd28_value_19502,value of field: Product Segment 1 - Operating Income
+1166,fnd28_value_19502a,value of annual field: Product Segment 1 - Operating Income
+1167,fnd28_value_19503,value of field: Product Segment 1 - Assets
+1168,fnd28_value_19503a,value of annual field: Product Segment 1 - Assets
+1169,fnd28_value_19504,value of field: Product Segment 1 - Capital Expenditures
+1170,fnd28_value_19504a,value of annual field: Product Segment 1 - Capital Expenditures
+1171,fnd28_value_19505,value of field: Product Segment 1 - Depreciation
+1172,fnd28_value_19505a,value of annual field: Product Segment 1 - Depreciation
+1173,fnd28_value_19511,value of field: Product Segment 2 - Sales
+1174,fnd28_value_19511a,value of annual field: Product Segment 2 - Sales
+1175,fnd28_value_19512,value of field: Product Segment 2 - Operating Income
+1176,fnd28_value_19512a,value of annual field: Product Segment 2 - Operating Income
+1177,fnd28_value_19513,value of field: Product Segment 2 - Assets
+1178,fnd28_value_19513a,value of annual field: Product Segment 2 - Assets
+1179,fnd28_value_19514,value of field: Product Segment 2 - Capital Expenditures
+1180,fnd28_value_19514a,value of annual field: Product Segment 2 - Capital Expenditures
+1181,fnd28_value_19515,value of field: Product Segment 2 - Depreciation
+1182,fnd28_value_19515a,value of annual field: Product Segment 2 - Depreciation
+1183,fnd28_value_19521,value of field: Product Segment 3 - Sales
+1184,fnd28_value_19521a,value of annual field: Product Segment 3 - Sales
+1185,fnd28_value_19522,value of field: Product Segment 3 - Operating Income
+1186,fnd28_value_19522a,value of annual field: Product Segment 3 - Operating Income
+1187,fnd28_value_19523,value of field: Product Segment 3 - Assets
+1188,fnd28_value_19523a,value of annual field: Product Segment 3 - Assets
+1189,fnd28_value_19524,value of field: Product Segment 3 - Capital Expenditures
+1190,fnd28_value_19524a,value of annual field: Product Segment 3 - Capital Expenditures
+1191,fnd28_value_19525,value of field: Product Segment 3 - Depreciation
+1192,fnd28_value_19525a,value of annual field: Product Segment 3 - Depreciation
+1193,fnd28_value_19531,value of field: Product Segment 4 - Sales
+1194,fnd28_value_19531a,value of annual field: Product Segment 4 - Sales
+1195,fnd28_value_19532,value of field: Product Segment 4 - Operating Income
+1196,fnd28_value_19532a,value of annual field: Product Segment 4 - Operating Income
+1197,fnd28_value_19533,value of field: Product Segment 4 - Assets
+1198,fnd28_value_19533a,value of annual field: Product Segment 4 - Assets
+1199,fnd28_value_19534a,value of annual field: Product Segment 4 - Capital Expenditures
+1200,fnd28_value_19535,value of field: Product Segment 4 - Depreciation
+1201,fnd28_value_19535a,value of annual field: Product Segment 4 - Depreciation
+1202,fnd28_value_19541,value of field: Product Segment 5 - Sales
+1203,fnd28_value_19541a,value of annual field: Product Segment 5 - Sales
+1204,fnd28_value_19601a,value of annual field: Geographic Segment 1 - Sales
+1205,fnd28_value_19602a,value of annual field: Geographic Segment 1 - Operating Income
+1206,fnd28_value_19603a,value of annual field: Geographic Segment 1 - Assets
+1207,fnd28_value_19604a,value of annual field: Geographic Segment 1 - Capital Expenditures
+1208,fnd28_value_19605a,value of annual field: Geographic Segment 1 - Depreciation
+1209,fnd28_value_19611a,value of annual field: Geographic Segment 2 - Sales
+1210,fnd28_value_19612a,value of annual field: Geographic Segment 2 - Operating Income
+1211,fnd28_value_19613a,value of annual field: Geographic Segment 2 - Assets
+1212,fnd28_value_19621a,value of annual field: Geographic Segment 3 - Sales
+1213,fnd28_value_19623a,value of annual field: Geographic Segment 3 - Assets
+1214,fnd28_value_19631a,value of annual field: Geographic Segment 4 - Sales
+1215,fnd28_value_19761a,"value of annual field: Obsolete field, do not use for research purposes"
+1216,fnd28_value_19762a,"value of annual field: Obsolete field, do not use for research purposes"
+1217,fnd28_value_19763a,"value of annual field: Obsolete field, do not use for research purposes"
+1218,fnd28_value_19764a,"value of annual field: Obsolete field, do not use for research purposes"
+1219,fnd28_value_19765a,"value of annual field: Obsolete field, do not use for research purposes"
+1220,fnd28_value_19767a,"value of annual field: Obsolete field, do not use for research purposes"
+1221,fnd28_value_19768a,"value of annual field: Obsolete field, do not use for research purposes"
+1222,fnd28_value_19769a,"value of annual field: Obsolete field, do not use for research purposes"
+1223,fnd28_value_19770a,"value of annual field: Obsolete field, do not use for research purposes"
+1224,fnd28_value_19771a,"value of annual field: Obsolete field, do not use for research purposes"
+1225,fnd28_value_19773a,"value of annual field: Obsolete field, do not use for research purposes"
+1226,fnd28_value_19774a,"value of annual field: Obsolete field, do not use for research purposes"
+1227,fnd28_value_19775a,"value of annual field: Obsolete field, do not use for research purposes"
+1228,fnd28_value_19776a,"value of annual field: Obsolete field, do not use for research purposes"
+1229,fnd28_value_19777a,"value of annual field: Obsolete field, do not use for research purposes"
+1230,fnd28_value_19779a,"value of annual field: Obsolete field, do not use for research purposes"
+1231,fnd28_value_19780a,"value of annual field: Obsolete field, do not use for research purposes"
+1232,fnd28_value_19781a,"value of annual field: Obsolete field, do not use for research purposes"
+1233,fnd28_value_19782a,"value of annual field: Obsolete field, do not use for research purposes"
+1234,fnd28_value_19783a,"value of annual field: Obsolete field, do not use for research purposes"
+1235,fnd28_value_19785a,"value of annual field: Obsolete field, do not use for research purposes"
+1236,fnd28_value_19786a,"value of annual field: Obsolete field, do not use for research purposes"
+1237,fnd28_value_19787a,"value of annual field: Obsolete field, do not use for research purposes"
+1238,fnd28_value_19788a,"value of annual field: Obsolete field, do not use for research purposes"
+1239,fnd28_value_19789a,"value of annual field: Obsolete field, do not use for research purposes"
+1240,fnd28_wast_value_02502a,value of annual field: Goodwill - Gross
+1241,fnd28_wast_value_02507a,"value of annual field: Brands, Patents - Net"
+1242,fnd28_wast_value_02513a,value of annual field: Other Intangibles - Net
+1243,fnd28_wast_value_18280a,value of annual field: Goodwill/Cost in Excess of Assets Purchased
+1244,fnd28_wcanlevq_value_08226q,value of quarterly field: Long Term Debt % Common Equity
+1245,fnd28_wcanlevq_value_08231q,value of quarterly field: Total Debt % Common Equity
+1246,fnd28_wcanlevq_value_08236q,value of quarterly field: Total Debt % Total Assets
+1247,fnd28_wcanlevq_value_08241q,value of quarterly field: Common Equity % Total Assets
+1248,fnd28_wcanlevq_value_08251q,value of quarterly field: Fixed Charge Coverage Ratio
+1249,fnd28_wcanlevq_value_08261q,value of quarterly field: Operating Cash/Fixed Charges
+1250,fnd28_wcanlevq_value_08266q,value of quarterly field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+1251,fnd28_wcanlevq_value_08287q,value of quarterly field: Total Assets / Common Equity Ratio
+1252,fnd28_wcanstaq_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+1253,fnd28_wcanstaq_value_01100q,value of quarterly field: Gross Income
+1254,fnd28_wcanstaq_value_01101q,"value of quarterly field: Selling, General & Administrative Expenses"
+1255,fnd28_wcanstaq_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+1256,fnd28_wcanstaq_value_01751q,value of quarterly field: Net Income Used to Calculate Earnings per Share
+1257,fnd28_wcanstaq_value_03151q,value of quarterly field: Working Capital
+1258,fnd28_wcbshtasseta_value_02001a,value of annual field: Cash & Short Term Investments
+1259,fnd28_wcbshtasseta_value_02003a,value of annual field: Cash
+1260,fnd28_wcbshtasseta_value_02008a,value of annual field: Short Term Investments
+1261,fnd28_wcbshtasseta_value_02051a,value of annual field: Receivables (Net)
+1262,fnd28_wcbshtasseta_value_02097a,value of annual field: Raw Materials
+1263,fnd28_wcbshtasseta_value_02098a,value of annual field: Work in Process
+1264,fnd28_wcbshtasseta_value_02099a,value of annual field: Finished Goods
+1265,fnd28_wcbshtasseta_value_02100a,value of annual field: Progress Payments & Other
+1266,fnd28_wcbshtasseta_value_02101a,value of annual field: Inventories Total
+1267,fnd28_wcbshtasseta_value_02140a,value of annual field: Prepaid Expenses
+1268,fnd28_wcbshtasseta_value_02149a,value of annual field: Other Current Assets
+1269,fnd28_wcbshtasseta_value_02201a,value of annual field: Current Assets  Total
+1270,fnd28_wcbshtasseta_value_02250a,value of annual field: Other Investments
+1271,fnd28_wcbshtasseta_value_02256a,value of annual field: Investments In Associated Companies
+1272,fnd28_wcbshtasseta_value_02258a,value of annual field: Long Term Receivables
+1273,fnd28_wcbshtasseta_value_02301a,"value of annual field: Property, Plant and Equipment - Gross"
+1274,fnd28_wcbshtasseta_value_02401a,value of annual field: Accumulated Depreciation
+1275,fnd28_wcbshtasseta_value_02501a,"value of annual field: Property, Plant & Equipment - Net"
+1276,fnd28_wcbshtasseta_value_02647a,value of annual field: Deferred Charges
+1277,fnd28_wcbshtasseta_value_02648a,value of annual field: Tangible Other Assets
+1278,fnd28_wcbshtasseta_value_02649a,value of annual field: Total Intangible Other Assets - Net
+1279,fnd28_wcbshtasseta_value_02652a,value of annual field: Other Assets
+1280,fnd28_wcbshtasseta_value_02999a,value of annual field: Total Assets
+1281,fnd28_wcbshtasseta_value_18375a,value of annual field: Land
+1282,fnd28_wcbshtasseta_value_18376a,value of annual field: Buildings
+1283,fnd28_wcbshtasseta_value_18377a,value of annual field: Machinery & Equipment
+1284,fnd28_wcbshtasseta_value_18379a,"value of annual field: Property, Plant & Equipment - Other"
+1285,fnd28_wcbshtassetq_value_02001q,value of quarterly field: Cash & Short Term Investments
+1286,fnd28_wcbshtassetq_value_02003q,value of quarterly field: Cash
+1287,fnd28_wcbshtassetq_value_02051q,value of quarterly field: Receivables (Net)
+1288,fnd28_wcbshtassetq_value_02101q,value of quarterly field: Inventories Total
+1289,fnd28_wcbshtassetq_value_02140q,value of quarterly field: Prepaid Expenses
+1290,fnd28_wcbshtassetq_value_02149q,value of quarterly field: Other Current Assets
+1291,fnd28_wcbshtassetq_value_02201q,value of quarterly field: Current Assets  Total
+1292,fnd28_wcbshtassetq_value_02256q,value of quarterly field: Investments In Associated Companies
+1293,fnd28_wcbshtassetq_value_02301q,"value of quarterly field: Property, Plant and Equipment - Gross"
+1294,fnd28_wcbshtassetq_value_02401q,value of quarterly field: Accumulated Depreciation
+1295,fnd28_wcbshtassetq_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+1296,fnd28_wcbshtassetq_value_02649q,value of quarterly field: Total Intangible Other Assets - Net
+1297,fnd28_wcbshtassetq_value_02652q,value of quarterly field: Other Assets
+1298,fnd28_wcbshtassetq_value_02999q,value of quarterly field: Total Assets
+1299,fnd28_wcbshtassetq_value_18280q,value of quarterly field: Goodwill/Cost in Excess of Assets Purchased
+1300,fnd28_wcdvfq1_value_03251q,value of quarterly field: Long Term Debt
+1301,fnd28_wcdvfq1_value_03995q,value of quarterly field: Total Shareholders` Equity
+1302,fnd28_wcdvfq1_value_03999q,value of quarterly field: Total Liabilities & Shareholders' Equity
+1303,fnd28_wcdvfq1_value_08226q,value of quarterly field: Long Term Debt % Common Equity
+1304,fnd28_wcdvfq1_value_08236q,value of quarterly field: Total Debt % Total Assets
+1305,fnd28_wcdvfq1_value_08241q,value of quarterly field: Common Equity % Total Assets
+1306,fnd28_wcdvfq1_value_08287q,value of quarterly field: Total Assets / Common Equity Ratio
+1307,fnd28_wcdvfq1_value_09104q,value of quarterly field: Price/Earnings Ratio  Close
+1308,fnd28_wcdvfq1_value_09304q,value of quarterly field: Price/Book Value Ratio - Close
+1309,fnd28_wcdvfq1_value_09404q,value of quarterly field: Dividend Yield - Close
+1310,fnd28_wcdvfq1_value_09604q,value of quarterly field: Price/Cash Flow Ratio
+1311,fnd28_wcdvfq1_value_09704q,value of quarterly field: Market Capitalization to Common Equity
+1312,fnd28_wcdvfq2_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1313,fnd28_wcdvfq2_value_02001q,value of quarterly field: Cash & Short Term Investments
+1314,fnd28_wcdvfq2_value_02201q,value of quarterly field: Current Assets  Total
+1315,fnd28_wcdvfq2_value_02649q,value of quarterly field: Total Intangible Other Assets - Net
+1316,fnd28_wcdvfq2_value_02999q,value of quarterly field: Total Assets
+1317,fnd28_wcdvfq2_value_03351q,value of quarterly field: Total Liabilities
+1318,fnd28_wcdvfq2_value_03501q,value of quarterly field: Common Equity
+1319,fnd28_wcfsa1_value_01001a,value of annual field: Net Sales or Revenues
+1320,fnd28_wcfsa1_value_01051a,value of annual field: Cost Of Goods Sold (Excl Depreciation)
+1321,fnd28_wcfsa1_value_01148a,value of annual field: Depreciation
+1322,fnd28_wcfsa1_value_01149a,value of annual field: Amortization of Intangibles
+1323,fnd28_wcfsa1_value_01150a,value of annual field: Amortization of Deferred Charges
+1324,fnd28_wcfsa1_value_01151a,"value of annual field: Depreciation, Depletion & Amortization"
+1325,fnd28_wcfsa1_value_01249a,value of annual field: Operating Expenses - Total
+1326,fnd28_wcfsa1_value_01250a,value of annual field: Operating Income
+1327,fnd28_wcfsa1_value_01251a,value of annual field: Interest Expense on Debt
+1328,fnd28_wcfsa1_value_01253a,value of annual field: Extraordinary Credit - Pretax
+1329,fnd28_wcfsa1_value_01254a,value of annual field: Extraordinary Charge - Pretax
+1330,fnd28_wcfsa1_value_01266a,value of annual field: Non-Operating Interest Income
+1331,fnd28_wcfsa1_value_01301a,value of annual field: Reserves - Increase/Decrease
+1332,fnd28_wcfsa1_value_01401a,value of annual field: Pre-tax Income
+1333,fnd28_wcfsa1_value_01451a,value of annual field: Income Taxes
+1334,fnd28_wcfsa1_value_01501a,value of annual field: Minority Interest
+1335,fnd28_wcfsa1_value_01503a,value of annual field: Equity In Earnings
+1336,fnd28_wcfsa1_value_01551a,value of annual field: Net Income before Extraordinary Items/Preferred Dividends
+1337,fnd28_wcfsa1_value_01706a,value of annual field: Net Income after Preferred Dividends (Basic EPS)
+1338,fnd28_wcfsa1_value_02001a,value of annual field: Cash & Short Term Investments
+1339,fnd28_wcfsa1_value_02051a,value of annual field: Receivables (Net)
+1340,fnd28_wcfsa1_value_02101a,value of annual field: Inventories Total
+1341,fnd28_wcfsa1_value_02140a,value of annual field: Prepaid Expenses
+1342,fnd28_wcfsa1_value_02201a,value of annual field: Current Assets  Total
+1343,fnd28_wcfsa1_value_02250a,value of annual field: Other Investments
+1344,fnd28_wcfsa1_value_02256a,value of annual field: Investments In Associated Companies
+1345,fnd28_wcfsa1_value_02258a,value of annual field: Long Term Receivables
+1346,fnd28_wcfsa1_value_02301a,"value of annual field: Property, Plant and Equipment - Gross"
+1347,fnd28_wcfsa1_value_02401a,value of annual field: Accumulated Depreciation
+1348,fnd28_wcfsa1_value_02501a,"value of annual field: Property, Plant & Equipment - Net"
+1349,fnd28_wcfsa1_value_02502a,value of annual field: Goodwill - Gross
+1350,fnd28_wcfsa1_value_02999a,value of annual field: Total Assets
+1351,fnd28_wcfsa1_value_03040a,value of annual field: Accounts Payable
+1352,fnd28_wcfsa1_value_03051a,value of annual field: Short Term Debt & Current Portion of Long Term Debt
+1353,fnd28_wcfsa1_value_03054a,value of annual field: Accrued Payroll
+1354,fnd28_wcfsa1_value_03061a,value of annual field: Dividends Payable
+1355,fnd28_wcfsa1_value_03063a,value of annual field: Income Taxes Payable
+1356,fnd28_wcfsa1_value_03101a,value of annual field: Current Liabilities - Total
+1357,fnd28_wcfsa1_value_03245a,value of annual field: Long Term Debt Excluding Capitalized Leases
+1358,fnd28_wcfsa1_value_03249a,value of annual field: Capitalized Lease Obligations
+1359,fnd28_wcfsa1_value_03262a,value of annual field: Deferred Income
+1360,fnd28_wcfsa1_value_03263a,value of annual field: Deferred Taxes
+1361,fnd28_wcfsa1_value_03351a,value of annual field: Total Liabilities
+1362,fnd28_wcfsa1_value_03480a,value of annual field: Common Stock
+1363,fnd28_wcfsa1_value_03495a,value of annual field: Retained Earnings
+1364,fnd28_wcfsa1_value_03501a,value of annual field: Common Equity
+1365,fnd28_wcfsa1_value_04401a,value of annual field: Long Term Borrowings
+1366,fnd28_wcfsa1_value_04551a,value of annual field: Cash Dividends Paid - Total
+1367,fnd28_wcfsa1_value_04601a,value of annual field: Capital Expenditures (Additions to Fixed Assets)
+1368,fnd28_wcfsa1_value_04751a,"value of annual field: Common/Preferred Redeemed, Retired, Converted, Etc."
+1369,fnd28_wcfsa1_value_04851a,value of annual field: Increase/Decrease in Cash & Short Term Investments
+1370,fnd28_wcfsa1_value_04860a,value of annual field: Net Cash Flow - Operating Activities
+1371,fnd28_wcfsa1_value_04890a,value of annual field: Net Cash Flow - Financing
+1372,fnd28_wcfsa1_value_18185a,value of annual field: Income Tax Credits
+1373,fnd28_wcfsa1_value_18186a,value of annual field: Current Domestic Income Tax
+1374,fnd28_wcfsa1_value_18187a,value of annual field: Current Foreign Income Tax
+1375,fnd28_wcfsa1_value_18188a,value of annual field: Deferred Domestic Income Tax
+1376,fnd28_wcfsa1_value_18189a,value of annual field: Deferred Foreign Income Tax
+1377,fnd28_wcfsa1_value_18280a,value of annual field: Goodwill/Cost in Excess of Assets Purchased
+1378,fnd28_wcfsa1_value_18281a,value of annual field: Non Convertible Debt
+1379,fnd28_wcfsa1_value_18713a,value of annual field: Tangible Right-of-Use Assets  Total Net
+1380,fnd28_wcfsq1_value_01001q,value of quarterly field: Net Sales or Revenues
+1381,fnd28_wcfsq1_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+1382,fnd28_wcfsq1_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1383,fnd28_wcfsq1_value_01201q,value of quarterly field: Research and Development Expense
+1384,fnd28_wcfsq1_value_01250q,value of quarterly field: Operating Income
+1385,fnd28_wcfsq1_value_01251q,value of quarterly field: Interest Expense on Debt
+1386,fnd28_wcfsq1_value_01401q,value of quarterly field: Pre-tax Income
+1387,fnd28_wcfsq1_value_01451q,value of quarterly field: Income Taxes
+1388,fnd28_wcfsq1_value_01551q,value of quarterly field: Net Income before Extraordinary Items/Preferred Dividends
+1389,fnd28_wcfsq1_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+1390,fnd28_wcfsq1_value_02001q,value of quarterly field: Cash & Short Term Investments
+1391,fnd28_wcfsq1_value_02051q,value of quarterly field: Receivables (Net)
+1392,fnd28_wcfsq1_value_02101q,value of quarterly field: Inventories Total
+1393,fnd28_wcfsq1_value_02140q,value of quarterly field: Prepaid Expenses
+1394,fnd28_wcfsq1_value_02201q,value of quarterly field: Current Assets  Total
+1395,fnd28_wcfsq1_value_02256q,value of quarterly field: Investments In Associated Companies
+1396,fnd28_wcfsq1_value_02301q,"value of quarterly field: Property, Plant and Equipment - Gross"
+1397,fnd28_wcfsq1_value_02401q,value of quarterly field: Accumulated Depreciation
+1398,fnd28_wcfsq1_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+1399,fnd28_wcfsq1_value_02999q,value of quarterly field: Total Assets
+1400,fnd28_wcfsq1_value_03040q,value of quarterly field: Accounts Payable
+1401,fnd28_wcfsq1_value_03051q,value of quarterly field: Short Term Debt & Current Portion of Long Term Debt
+1402,fnd28_wcfsq1_value_03063q,value of quarterly field: Income Taxes Payable
+1403,fnd28_wcfsq1_value_03101q,value of quarterly field: Current Liabilities - Total
+1404,fnd28_wcfsq1_value_03245q,value of quarterly field: Long Term Debt Excluding Capitalized Leases
+1405,fnd28_wcfsq1_value_03249q,value of quarterly field: Capitalized Lease Obligations
+1406,fnd28_wcfsq1_value_03263q,value of quarterly field: Deferred Taxes
+1407,fnd28_wcfsq1_value_03351q,value of quarterly field: Total Liabilities
+1408,fnd28_wcfsq1_value_03480q,value of quarterly field: Common Stock
+1409,fnd28_wcfsq1_value_03495q,value of quarterly field: Retained Earnings
+1410,fnd28_wcfsq1_value_03501q,value of quarterly field: Common Equity
+1411,fnd28_wcfsq1_value_04401q,value of quarterly field: Long Term Borrowings
+1412,fnd28_wcfsq1_value_04551q,value of quarterly field: Cash Dividends Paid - Total
+1413,fnd28_wcfsq1_value_04601q,value of quarterly field: Capital Expenditures (Additions to Fixed Assets)
+1414,fnd28_wcfsq1_value_04751q,"value of quarterly field: Common/Preferred Redeemed, Retired, Converted, Etc."
+1415,fnd28_wcfsq1_value_04851q,value of quarterly field: Increase/Decrease in Cash & Short Term Investments
+1416,fnd28_wcfsq1_value_04860q,value of quarterly field: Net Cash Flow - Operating Activities
+1417,fnd28_wcfsq1_value_04890q,value of quarterly field: Net Cash Flow - Financing
+1418,fnd28_wcfsq1_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+1419,fnd28_wcfsq1_value_18280q,value of quarterly field: Goodwill/Cost in Excess of Assets Purchased
+1420,fnd28_wcfsq1_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+1421,fnd28_wcfsq1_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+1422,fnd28_wcfsq1_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+1423,fnd28_wcfsq1_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+1424,fnd28_wcfsq1_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+1425,fnd28_wcfsq1_value_18722q,value of quarterly field: Current Portion of Long Term Capital Lease Liabilities
+1426,fnd28_wcfsq1_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+1427,fnd28_wcfsq1nbf_value_01001q,value of quarterly field: Net Sales or Revenues
+1428,fnd28_wcfsq1nbf_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+1429,fnd28_wcfsq1nbf_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1430,fnd28_wcfsq1nbf_value_01201q,value of quarterly field: Research and Development Expense
+1431,fnd28_wcfsq1nbf_value_01250q,value of quarterly field: Operating Income
+1432,fnd28_wcfsq1nbf_value_01251q,value of quarterly field: Interest Expense on Debt
+1433,fnd28_wcfsq1nbf_value_01401q,value of quarterly field: Pre-tax Income
+1434,fnd28_wcfsq1nbf_value_01451q,value of quarterly field: Income Taxes
+1435,fnd28_wcfsq1nbf_value_01505q,value of quarterly field: Discontinued Operations
+1436,fnd28_wcfsq1nbf_value_01551q,value of quarterly field: Net Income before Extraordinary Items/Preferred Dividends
+1437,fnd28_wcfsq1nbf_value_01701q,value of quarterly field: Preferred Dividend Requirements
+1438,fnd28_wcfsq1nbf_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+1439,fnd28_wcfsq1nbf_value_02001q,value of quarterly field: Cash & Short Term Investments
+1440,fnd28_wcfsq1nbf_value_02051q,value of quarterly field: Receivables (Net)
+1441,fnd28_wcfsq1nbf_value_02101q,value of quarterly field: Inventories Total
+1442,fnd28_wcfsq1nbf_value_02140q,value of quarterly field: Prepaid Expenses
+1443,fnd28_wcfsq1nbf_value_02201q,value of quarterly field: Current Assets  Total
+1444,fnd28_wcfsq1nbf_value_02256q,value of quarterly field: Investments In Associated Companies
+1445,fnd28_wcfsq1nbf_value_02301q,"value of quarterly field: Property, Plant and Equipment - Gross"
+1446,fnd28_wcfsq1nbf_value_02401q,value of quarterly field: Accumulated Depreciation
+1447,fnd28_wcfsq1nbf_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+1448,fnd28_wcfsq1nbf_value_02999q,value of quarterly field: Total Assets
+1449,fnd28_wcfsq1nbf_value_03040q,value of quarterly field: Accounts Payable
+1450,fnd28_wcfsq1nbf_value_03051q,value of quarterly field: Short Term Debt & Current Portion of Long Term Debt
+1451,fnd28_wcfsq1nbf_value_03063q,value of quarterly field: Income Taxes Payable
+1452,fnd28_wcfsq1nbf_value_03101q,value of quarterly field: Current Liabilities - Total
+1453,fnd28_wcfsq1nbf_value_03245q,value of quarterly field: Long Term Debt Excluding Capitalized Leases
+1454,fnd28_wcfsq1nbf_value_03249q,value of quarterly field: Capitalized Lease Obligations
+1455,fnd28_wcfsq1nbf_value_03263q,value of quarterly field: Deferred Taxes
+1456,fnd28_wcfsq1nbf_value_03351q,value of quarterly field: Total Liabilities
+1457,fnd28_wcfsq1nbf_value_03451q,value of quarterly field: Preferred Stock
+1458,fnd28_wcfsq1nbf_value_03480q,value of quarterly field: Common Stock
+1459,fnd28_wcfsq1nbf_value_03495q,value of quarterly field: Retained Earnings
+1460,fnd28_wcfsq1nbf_value_03501q,value of quarterly field: Common Equity
+1461,fnd28_wcfsq1nbf_value_04401q,value of quarterly field: Long Term Borrowings
+1462,fnd28_wcfsq1nbf_value_04551q,value of quarterly field: Cash Dividends Paid - Total
+1463,fnd28_wcfsq1nbf_value_04601q,value of quarterly field: Capital Expenditures (Additions to Fixed Assets)
+1464,fnd28_wcfsq1nbf_value_04751q,"value of quarterly field: Common/Preferred Redeemed, Retired, Converted, Etc."
+1465,fnd28_wcfsq1nbf_value_04851q,value of quarterly field: Increase/Decrease in Cash & Short Term Investments
+1466,fnd28_wcfsq1nbf_value_04860q,value of quarterly field: Net Cash Flow - Operating Activities
+1467,fnd28_wcfsq1nbf_value_04890q,value of quarterly field: Net Cash Flow - Financing
+1468,fnd28_wcfsq1nbf_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+1469,fnd28_wcfsq1nbf_value_18280q,value of quarterly field: Goodwill/Cost in Excess of Assets Purchased
+1470,fnd28_wcfsq1nbf_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+1471,fnd28_wcfsq1nbf_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+1472,fnd28_wcfsq1nbf_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+1473,fnd28_wcfsq1nbf_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+1474,fnd28_wcfsq1nbf_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+1475,fnd28_wcfsq1nbf_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+1476,fnd28_wcfsq2_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+1477,fnd28_wcfsq2_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+1478,fnd28_wcfsq2_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+1479,fnd28_wcfsq2_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+1480,fnd28_wcfsq2_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+1481,fnd28_wcfsq2_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+1482,fnd28_wcfsq2_value_18722q,value of quarterly field: Current Portion of Long Term Capital Lease Liabilities
+1483,fnd28_wcfsq2_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+1484,fnd28_wcisht2q_value_01149q,value of quarterly field: Amortization of Intangibles
+1485,fnd28_wcishta_value_01001a,value of annual field: Net Sales or Revenues
+1486,fnd28_wcishta_value_01051a,value of annual field: Cost Of Goods Sold (Excl Depreciation)
+1487,fnd28_wcishta_value_01100a,value of annual field: Gross Income
+1488,fnd28_wcishta_value_01101a,"value of annual field: Selling, General & Administrative Expenses"
+1489,fnd28_wcishta_value_01148a,value of annual field: Depreciation
+1490,fnd28_wcishta_value_01149a,value of annual field: Amortization of Intangibles
+1491,fnd28_wcishta_value_01151a,"value of annual field: Depreciation, Depletion & Amortization"
+1492,fnd28_wcishta_value_01230a,value of annual field: Other Operating Expenses
+1493,fnd28_wcishta_value_01249a,value of annual field: Operating Expenses - Total
+1494,fnd28_wcishta_value_01250a,value of annual field: Operating Income
+1495,fnd28_wcishta_value_01251a,value of annual field: Interest Expense on Debt
+1496,fnd28_wcishta_value_01253a,value of annual field: Extraordinary Credit - Pretax
+1497,fnd28_wcishta_value_01254a,value of annual field: Extraordinary Charge - Pretax
+1498,fnd28_wcishta_value_01262a,value of annual field: Other Income/Expense  Net
+1499,fnd28_wcishta_value_01266a,value of annual field: Non-Operating Interest Income
+1500,fnd28_wcishta_value_01401a,value of annual field: Pre-tax Income
+1501,fnd28_wcishta_value_01451a,value of annual field: Income Taxes
+1502,fnd28_wcishta_value_01501a,value of annual field: Minority Interest
+1503,fnd28_wcishta_value_01503a,value of annual field: Equity In Earnings
+1504,fnd28_wcishta_value_01551a,value of annual field: Net Income before Extraordinary Items/Preferred Dividends
+1505,fnd28_wcishta_value_01706a,value of annual field: Net Income after Preferred Dividends (Basic EPS)
+1506,fnd28_wcishta_value_18186a,value of annual field: Current Domestic Income Tax
+1507,fnd28_wcishta_value_18187a,value of annual field: Current Foreign Income Tax
+1508,fnd28_wcishta_value_18188a,value of annual field: Deferred Domestic Income Tax
+1509,fnd28_wcishta_value_18189a,value of annual field: Deferred Foreign Income Tax
+1510,fnd28_wcishtq_value_01001q,value of quarterly field: Net Sales or Revenues
+1511,fnd28_wcishtq_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+1512,fnd28_wcishtq_value_01100q,value of quarterly field: Gross Income
+1513,fnd28_wcishtq_value_01101q,"value of quarterly field: Selling, General & Administrative Expenses"
+1514,fnd28_wcishtq_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1515,fnd28_wcishtq_value_01201q,value of quarterly field: Research and Development Expense
+1516,fnd28_wcishtq_value_01230q,value of quarterly field: Other Operating Expenses
+1517,fnd28_wcishtq_value_01250q,value of quarterly field: Operating Income
+1518,fnd28_wcishtq_value_01251q,value of quarterly field: Interest Expense on Debt
+1519,fnd28_wcishtq_value_01254q,value of quarterly field: Extraordinary Charge - Pretax
+1520,fnd28_wcishtq_value_01262q,value of quarterly field: Other Income/Expense  Net
+1521,fnd28_wcishtq_value_01401q,value of quarterly field: Pre-tax Income
+1522,fnd28_wcishtq_value_01451q,value of quarterly field: Income Taxes
+1523,fnd28_wcishtq_value_01501q,value of quarterly field: Minority Interest
+1524,fnd28_wcishtq_value_01551q,value of quarterly field: Net Income before Extraordinary Items/Preferred Dividends
+1525,fnd28_wcishtq_value_01651q,value of quarterly field: Net Income - Bottom Line
+1526,fnd28_wcishtq_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+1527,fnd28_wcishtq_value_01751q,value of quarterly field: Net Income Used to Calculate Earnings per Share
+1528,fnd28_wcleverageq_value_08226q,value of quarterly field: Long Term Debt % Common Equity
+1529,fnd28_wcleverageq_value_08231q,value of quarterly field: Total Debt % Common Equity
+1530,fnd28_wcleverageq_value_08236q,value of quarterly field: Total Debt % Total Assets
+1531,fnd28_wcleverageq_value_08241q,value of quarterly field: Common Equity % Total Assets
+1532,fnd28_wcleverageq_value_08251q,value of quarterly field: Fixed Charge Coverage Ratio
+1533,fnd28_wcleverageq_value_08261q,value of quarterly field: Operating Cash/Fixed Charges
+1534,fnd28_wcleverageq_value_08266q,value of quarterly field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+1535,fnd28_wcleverageq_value_08287q,value of quarterly field: Total Assets / Common Equity Ratio
+1536,fnd28_wcnaca_value_02201a,value of annual field: Current Assets  Total
+1537,fnd28_wcnaca_value_02501a,"value of annual field: Property, Plant & Equipment - Net"
+1538,fnd28_wcnaca_value_02999a,value of annual field: Total Assets
+1539,fnd28_wcnaca_value_03101a,value of annual field: Current Liabilities - Total
+1540,fnd28_wcnaca_value_18705a,"value of annual field: Tangible Right-of-Use Assets, Operating Lease Net"
+1541,fnd28_wcnaca_value_18713a,value of annual field: Tangible Right-of-Use Assets  Total Net
+1542,fnd28_wcnacq_value_02201q,value of quarterly field: Current Assets  Total
+1543,fnd28_wcnacq_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+1544,fnd28_wcnacq_value_02999q,value of quarterly field: Total Assets
+1545,fnd28_wcnacq_value_03101q,value of quarterly field: Current Liabilities - Total
+1546,fnd28_wcnacq_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+1547,fnd28_wcnacq_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+1548,fnd28_wcnacq_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+1549,fnd28_wcnacq_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+1550,fnd28_wcnacq_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+1551,fnd28_wcnacq_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+1552,fnd28_wcnacq_value_18722q,value of quarterly field: Current Portion of Long Term Capital Lease Liabilities
+1553,fnd28_wcnacq_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+1554,fnd28_wcndda1adj_value_02501a,"value of annual field: Property, Plant & Equipment - Net"
+1555,fnd28_wcndda1adj_value_02999a,value of annual field: Total Assets
+1556,fnd28_wcndda1adj_value_03101a,value of annual field: Current Liabilities - Total
+1557,fnd28_wcndda1adj_value_03351a,value of annual field: Total Liabilities
+1558,fnd28_wcndda2_value_03497a,value of annual field: Unrealized Foreign Exchange Gain/Loss
+1559,fnd28_wcndda2_value_03498a,value of annual field: Unrealized Gain/Loss On Marketable Securities
+1560,fnd28_wcndda2_value_03499a,value of annual field: Treasury Stock
+1561,fnd28_wcndda2_value_03501a,value of annual field: Common Equity
+1562,fnd28_wcndda2_value_03998a,value of annual field: Total Capital
+1563,fnd28_wcndda2_value_04001a,value of annual field: Net Income/Starting Line
+1564,fnd28_wcndda2_value_04049a,value of annual field: Depreciation and Depletion
+1565,fnd28_wcndda2_value_04050a,value of annual field: Amortization of Intangible Assets
+1566,fnd28_wcndda2_value_04100a,value of annual field: Investment Tax Credits
+1567,fnd28_wcndda2_value_04151a,value of annual field: Other Cash Flow - Total
+1568,fnd28_wcndda2_value_04301a,value of annual field: Proceeds From Stock Options
+1569,fnd28_wcndda2_value_04302a,value of annual field: Other Proceeds From Sale/Issuance of Stock
+1570,fnd28_wcndda2_value_04351a,value of annual field: Disposal of Fixed Assets
+1571,fnd28_wcndda2_value_04355a,value of annual field: Net Assets From Acquisitions
+1572,fnd28_wcndda2_value_04401a,value of annual field: Long Term Borrowings
+1573,fnd28_wcndda2_value_04440a,value of annual field: Decrease in Investments
+1574,fnd28_wcndda2_value_04446a,value of annual field: Other Sources - Financing
+1575,fnd28_wcndda2_value_04447a,value of annual field: Other Uses - Financing
+1576,fnd28_wcndda2_value_04551a,value of annual field: Cash Dividends Paid - Total
+1577,fnd28_wcndda2_value_04601a,value of annual field: Capital Expenditures (Additions to Fixed Assets)
+1578,fnd28_wcndda2_value_04701a,value of annual field: Reduction In Long Term Debt
+1579,fnd28_wcndda2_value_04751a,"value of annual field: Common/Preferred Redeemed, Retired, Converted, Etc."
+1580,fnd28_wcndda2_value_04760a,value of annual field: Increase in Investments
+1581,fnd28_wcndda2_value_04795a,value of annual field: Other Uses - Investing
+1582,fnd28_wcndda2_value_04796a,value of annual field: Other Sources - Investing
+1583,fnd28_wcndda2_value_04821a,value of annual field: Increase/Decrease In Short Term Borrowings
+1584,fnd28_wcndda2_value_04825a,value of annual field: Decrease/Increase In Receivables
+1585,fnd28_wcndda2_value_04826a,value of annual field: Decrease/Increase In Inventories
+1586,fnd28_wcndda2_value_04827a,value of annual field: Increase/Decrease In Accounts Payable
+1587,fnd28_wcndda2_value_04828a,value of annual field: Increase/Decrease In Income Tax Payable
+1588,fnd28_wcndda2_value_04829a,value of annual field: Increase/Decrease In Other Accruals
+1589,fnd28_wcndda2_value_04830a,value of annual field: Decrease/Increase In Other Assets/Liabilities
+1590,fnd28_wcndda2_value_04831a,value of annual field: Funds from/for Other Operating Activities
+1591,fnd28_wcndda2_value_04840a,value of annual field: Effect of Exchange Rate on Cash
+1592,fnd28_wcndda2_value_04851a,value of annual field: Increase/Decrease in Cash & Short Term Investments
+1593,fnd28_wcndda2_value_04860a,value of annual field: Net Cash Flow - Operating Activities
+1594,fnd28_wcndda2_value_04890a,value of annual field: Net Cash Flow - Financing
+1595,fnd28_wcndda2_value_07161a,value of annual field: Exports
+1596,fnd28_wcnddq1_value_01001q,value of quarterly field: Net Sales or Revenues
+1597,fnd28_wcnddq1_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+1598,fnd28_wcnddq1_value_01149q,value of quarterly field: Amortization of Intangibles
+1599,fnd28_wcnddq1_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1600,fnd28_wcnddq1_value_01201q,value of quarterly field: Research and Development Expense
+1601,fnd28_wcnddq1_value_01250q,value of quarterly field: Operating Income
+1602,fnd28_wcnddq1_value_01251q,value of quarterly field: Interest Expense on Debt
+1603,fnd28_wcnddq1_value_01254q,value of quarterly field: Extraordinary Charge - Pretax
+1604,fnd28_wcnddq1_value_01401q,value of quarterly field: Pre-tax Income
+1605,fnd28_wcnddq1_value_01451q,value of quarterly field: Income Taxes
+1606,fnd28_wcnddq1_value_01501q,value of quarterly field: Minority Interest
+1607,fnd28_wcnddq1_value_01551q,value of quarterly field: Net Income before Extraordinary Items/Preferred Dividends
+1608,fnd28_wcnddq1_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+1609,fnd28_wcnddq1_value_02001q,value of quarterly field: Cash & Short Term Investments
+1610,fnd28_wcnddq1_value_02003q,value of quarterly field: Cash
+1611,fnd28_wcnddq1_value_02051q,value of quarterly field: Receivables (Net)
+1612,fnd28_wcnddq1_value_02101q,value of quarterly field: Inventories Total
+1613,fnd28_wcnddq1_value_02140q,value of quarterly field: Prepaid Expenses
+1614,fnd28_wcnddq1_value_02201q,value of quarterly field: Current Assets  Total
+1615,fnd28_wcnddq1_value_02256q,value of quarterly field: Investments In Associated Companies
+1616,fnd28_wcnddq1_value_02301q,"value of quarterly field: Property, Plant and Equipment - Gross"
+1617,fnd28_wcnddq1_value_02401q,value of quarterly field: Accumulated Depreciation
+1618,fnd28_wcnddq1_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+1619,fnd28_wcnddq1_value_02649q,value of quarterly field: Total Intangible Other Assets - Net
+1620,fnd28_wcnddq1_value_02999q,value of quarterly field: Total Assets
+1621,fnd28_wcnddq1_value_03040q,value of quarterly field: Accounts Payable
+1622,fnd28_wcnddq1_value_03051q,value of quarterly field: Short Term Debt & Current Portion of Long Term Debt
+1623,fnd28_wcnddq1_value_03063q,value of quarterly field: Income Taxes Payable
+1624,fnd28_wcnddq1_value_03069q,value of quarterly field: Other Accrued Expenses
+1625,fnd28_wcnddq1_value_03101q,value of quarterly field: Current Liabilities - Total
+1626,fnd28_wcnddq1_value_03245q,value of quarterly field: Long Term Debt Excluding Capitalized Leases
+1627,fnd28_wcnddq1_value_03249q,value of quarterly field: Capitalized Lease Obligations
+1628,fnd28_wcnddq1_value_03263q,value of quarterly field: Deferred Taxes
+1629,fnd28_wcnddq1_value_03351q,value of quarterly field: Total Liabilities
+1630,fnd28_wcnddq1_value_03426q,value of quarterly field: Minority Interest
+1631,fnd28_wcnddq1_value_03480q,value of quarterly field: Common Stock
+1632,fnd28_wcnddq1_value_03481q,value of quarterly field: Capital Surplus
+1633,fnd28_wcnddq1_value_03495q,value of quarterly field: Retained Earnings
+1634,fnd28_wcnddq1_value_03497q,value of quarterly field: Unrealized Foreign Exchange Gain/Loss
+1635,fnd28_wcnddq1_value_03498q,value of quarterly field: Unrealized Gain/Loss On Marketable Securities
+1636,fnd28_wcnddq1_value_03499q,value of quarterly field: Treasury Stock
+1637,fnd28_wcnddq1_value_03501q,value of quarterly field: Common Equity
+1638,fnd28_wcnddq1_value_03506q,value of quarterly field: Fully Diluted Equity
+1639,fnd28_wcnddq1_value_04001q,value of quarterly field: Net Income/Starting Line
+1640,fnd28_wcnddq1_value_04049q,value of quarterly field: Depreciation and Depletion
+1641,fnd28_wcnddq1_value_04050q,value of quarterly field: Amortization of Intangible Assets
+1642,fnd28_wcnddq1_value_04151q,value of quarterly field: Other Cash Flow - Total
+1643,fnd28_wcnddq1_value_04301q,value of quarterly field: Proceeds From Stock Options
+1644,fnd28_wcnddq1_value_04302q,value of quarterly field: Other Proceeds From Sale/Issuance of Stock
+1645,fnd28_wcnddq1_value_04351q,value of quarterly field: Disposal of Fixed Assets
+1646,fnd28_wcnddq1_value_04355q,value of quarterly field: Net Assets From Acquisitions
+1647,fnd28_wcnddq1_value_04401q,value of quarterly field: Long Term Borrowings
+1648,fnd28_wcnddq1_value_04440q,value of quarterly field: Decrease in Investments
+1649,fnd28_wcnddq1_value_04446q,value of quarterly field: Other Sources - Financing
+1650,fnd28_wcnddq1_value_04447q,value of quarterly field: Other Uses - Financing
+1651,fnd28_wcnddq1_value_04551q,value of quarterly field: Cash Dividends Paid - Total
+1652,fnd28_wcnddq1_value_04601q,value of quarterly field: Capital Expenditures (Additions to Fixed Assets)
+1653,fnd28_wcnddq1_value_04651q,value of quarterly field:  Additions to Other Assets
+1654,fnd28_wcnddq1_value_04701q,value of quarterly field: Reduction In Long Term Debt
+1655,fnd28_wcnddq1_value_04751q,"value of quarterly field: Common/Preferred Redeemed, Retired, Converted, Etc."
+1656,fnd28_wcnddq1_value_04760q,value of quarterly field: Increase in Investments
+1657,fnd28_wcnddq1_value_04795q,value of quarterly field: Other Uses - Investing
+1658,fnd28_wcnddq1_value_04796q,value of quarterly field: Other Sources - Investing
+1659,fnd28_wcnddq1_value_04821q,value of quarterly field: Increase/Decrease In Short Term Borrowings
+1660,fnd28_wcnddq1_value_04825q,value of quarterly field: Decrease/Increase In Receivables
+1661,fnd28_wcnddq1_value_04826q,value of quarterly field: Decrease/Increase In Inventories
+1662,fnd28_wcnddq1_value_04827q,value of quarterly field: Increase/Decrease In Accounts Payable
+1663,fnd28_wcnddq1_value_04828q,value of quarterly field: Increase/Decrease In Income Tax Payable
+1664,fnd28_wcnddq1_value_04829q,value of quarterly field: Increase/Decrease In Other Accruals
+1665,fnd28_wcnddq1_value_04830q,value of quarterly field: Decrease/Increase In Other Assets/Liabilities
+1666,fnd28_wcnddq1_value_04831q,value of quarterly field: Funds from/for Other Operating Activities
+1667,fnd28_wcnddq1_value_04840q,value of quarterly field: Effect of Exchange Rate on Cash
+1668,fnd28_wcnddq1_value_04851q,value of quarterly field: Increase/Decrease in Cash & Short Term Investments
+1669,fnd28_wcnddq1_value_04860q,value of quarterly field: Net Cash Flow - Operating Activities
+1670,fnd28_wcnddq1_value_04890q,value of quarterly field: Net Cash Flow - Financing
+1671,fnd28_wcnddq1adj_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+1672,fnd28_wcnddq1adj_value_02999q,value of quarterly field: Total Assets
+1673,fnd28_wcnddq1adj_value_03069q,value of quarterly field: Other Accrued Expenses
+1674,fnd28_wcnddq1adj_value_03101q,value of quarterly field: Current Liabilities - Total
+1675,fnd28_wcnddq1adj_value_03351q,value of quarterly field: Total Liabilities
+1676,fnd28_wcnddq2_value_18183q,value of quarterly field: Deferred Taxes-Credit
+1677,fnd28_wcnddq2_value_18184q,value of quarterly field: Deferred Taxes-Debit
+1678,fnd28_wcnddq2_value_18232q,value of quarterly field: Current Portion of Long Term Debt
+1679,fnd28_wcnddq2_value_18280q,value of quarterly field: Goodwill/Cost in Excess of Assets Purchased
+1680,fnd28_wcnddq2_value_18440q,value of quarterly field: Earnings per Share  Fiscal Period - Fully Diluted
+1681,fnd28_wcnddq2_value_18854q,value of quarterly field: Comprehensive Income  Other
+1682,fnd28_wcnewa1_value_01100a,value of annual field: Gross Income
+1683,fnd28_wcnewa1_value_01230a,value of annual field: Other Operating Expenses
+1684,fnd28_wcnewa1_value_01262a,value of annual field: Other Income/Expense  Net
+1685,fnd28_wcnewa1_value_02149a,value of annual field: Other Current Assets
+1686,fnd28_wcnewa1_value_02652a,value of annual field: Other Assets
+1687,fnd28_wcnewa1_value_03066a,value of annual field: Other Current Liabilities
+1688,fnd28_wcnewa1_value_03151a,value of annual field: Working Capital
+1689,fnd28_wcnewa1_value_03251a,value of annual field: Long Term Debt
+1690,fnd28_wcnewa1_value_03255a,value of annual field: Total Debt
+1691,fnd28_wcnewa1_value_03273a,value of annual field: Other Liabilities
+1692,fnd28_wcnewa1_value_03995a,value of annual field: Total Shareholders` Equity
+1693,fnd28_wcnewa1_value_03999a,value of annual field: Total Liabilities & Shareholders' Equity
+1694,fnd28_wcnewa1_value_04051a,"value of annual field: Depreciation, Depletion & Amortization"
+1695,fnd28_wcnewa1_value_04101a,value of annual field: Deferred Income Taxes and Investment Tax Credit
+1696,fnd28_wcnewa1_value_04199a,value of annual field: Deferred Income Taxes (Cash Flow)
+1697,fnd28_wcnewa1_value_04251a,value of annual field: Net Proceeds from Sale/Issuance of Common & Preferred
+1698,fnd28_wcnewa1_value_04501a,value of annual field: Total Sources Uses of Funds
+1699,fnd28_wcnewa1_value_04811a,value of annual field: Total Uses Supplementary Cash Flow Fields
+1700,fnd28_wcnewa1adj_value_03066a,value of annual field: Other Current Liabilities
+1701,fnd28_wcnewa1adj_value_03273a,value of annual field: Other Liabilities
+1702,fnd28_wcnewa1adj_value_03999a,value of annual field: Total Liabilities & Shareholders' Equity
+1703,fnd28_wcnewa3_value_18199a,value of annual field: Net Debt
+1704,fnd28_wcnewq_value_01100q,value of quarterly field: Gross Income
+1705,fnd28_wcnewq_value_01230q,value of quarterly field: Other Operating Expenses
+1706,fnd28_wcnewq_value_01262q,value of quarterly field: Other Income/Expense  Net
+1707,fnd28_wcnewq_value_01601q,value of quarterly field: Extraordinary Items & Gain/Loss Sale of Assets Supplementary Income Statement Fields
+1708,fnd28_wcnewq_value_01651q,value of quarterly field: Net Income - Bottom Line
+1709,fnd28_wcnewq_value_01751q,value of quarterly field: Net Income Used to Calculate Earnings per Share
+1710,fnd28_wcnewq_value_02149q,value of quarterly field: Other Current Assets
+1711,fnd28_wcnewq_value_02652q,value of quarterly field: Other Assets
+1712,fnd28_wcnewq_value_03066q,value of quarterly field: Other Current Liabilities
+1713,fnd28_wcnewq_value_03151q,value of quarterly field: Working Capital
+1714,fnd28_wcnewq_value_03251q,value of quarterly field: Long Term Debt
+1715,fnd28_wcnewq_value_03255q,value of quarterly field: Total Debt
+1716,fnd28_wcnewq_value_03273q,value of quarterly field: Other Liabilities
+1717,fnd28_wcnewq_value_03995q,value of quarterly field: Total Shareholders` Equity
+1718,fnd28_wcnewq_value_03999q,value of quarterly field: Total Liabilities & Shareholders' Equity
+1719,fnd28_wcnewq_value_04051q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1720,fnd28_wcnewq_value_04199q,value of quarterly field: Deferred Income Taxes (Cash Flow)
+1721,fnd28_wcnewq_value_04251q,value of quarterly field: Net Proceeds from Sale/Issuance of Common & Preferred
+1722,fnd28_wcnewq_value_08226q,value of quarterly field: Long Term Debt % Common Equity
+1723,fnd28_wcnewq_value_08231q,value of quarterly field: Total Debt % Common Equity
+1724,fnd28_wcnewq_value_08236q,value of quarterly field: Total Debt % Total Assets
+1725,fnd28_wcnewq_value_08241q,value of quarterly field: Common Equity % Total Assets
+1726,fnd28_wcnewq_value_08251q,value of quarterly field: Fixed Charge Coverage Ratio
+1727,fnd28_wcnewq_value_08261q,value of quarterly field: Operating Cash/Fixed Charges
+1728,fnd28_wcnewq_value_08266q,value of quarterly field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+1729,fnd28_wcnewq_value_08287q,value of quarterly field: Total Assets / Common Equity Ratio
+1730,fnd28_wcnewq_value_08801q,value of quarterly field: Total Investment Return  year ago Growth Rates
+1731,fnd28_wcnewq_value_09104q,value of quarterly field: Price/Earnings Ratio  Close
+1732,fnd28_wcnewq_value_09304q,value of quarterly field: Price/Book Value Ratio - Close
+1733,fnd28_wcnewq_value_09404q,value of quarterly field: Dividend Yield - Close
+1734,fnd28_wcnewq_value_09604q,value of quarterly field: Price/Cash Flow Ratio
+1735,fnd28_wcnewq_value_09704q,value of quarterly field: Market Capitalization to Common Equity
+1736,fnd28_wcnewq_value_18199q,value of quarterly field: Net Debt
+1737,fnd28_wcnewqacctadj_value_03066q,value of quarterly field: Other Current Liabilities
+1738,fnd28_wcnewqacctadj_value_03273q,value of quarterly field: Other Liabilities
+1739,fnd28_wcnewqacctadj_value_03999q,value of quarterly field: Total Liabilities & Shareholders' Equity
+1740,fnd28_wcnewqacctadj_value_08236q,value of quarterly field: Total Debt % Total Assets
+1741,fnd28_wcnewqacctadj_value_08241q,value of quarterly field: Common Equity % Total Assets
+1742,fnd28_wcnewqacctadj_value_08266q,value of quarterly field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+1743,fnd28_wcnewqacctadj_value_08287q,value of quarterly field: Total Assets / Common Equity Ratio
+1744,fnd28_wcratesq_value_08226q,value of quarterly field: Long Term Debt % Common Equity
+1745,fnd28_wcratesq_value_08231q,value of quarterly field: Total Debt % Common Equity
+1746,fnd28_wcratesq_value_08236q,value of quarterly field: Total Debt % Total Assets
+1747,fnd28_wcratesq_value_08241q,value of quarterly field: Common Equity % Total Assets
+1748,fnd28_wcratesq_value_08251q,value of quarterly field: Fixed Charge Coverage Ratio
+1749,fnd28_wcratesq_value_08261q,value of quarterly field: Operating Cash/Fixed Charges
+1750,fnd28_wcratesq_value_08266q,value of quarterly field: Fixed Assets % Common Equity  Company Specific Accounting Practices
+1751,fnd28_wcratesq_value_08287q,value of quarterly field: Total Assets / Common Equity Ratio
+1752,fnd28_wcratesq_value_08801q,value of quarterly field: Total Investment Return  year ago Growth Rates
+1753,fnd28_wcsf2q_value_04355q,value of quarterly field: Net Assets From Acquisitions
+1754,fnd28_wcsf2q_value_04651q,value of quarterly field:  Additions to Other Assets
+1755,fnd28_wcsf_value_04251a,value of annual field: Net Proceeds from Sale/Issuance of Common & Preferred
+1756,fnd28_wcsf_value_04551a,value of annual field: Cash Dividends Paid - Total
+1757,fnd28_wcsf_value_04601a,value of annual field: Capital Expenditures (Additions to Fixed Assets)
+1758,fnd28_wcsf_value_04751a,"value of annual field: Common/Preferred Redeemed, Retired, Converted, Etc."
+1759,fnd28_wcsf_value_04860a,value of annual field: Net Cash Flow - Operating Activities
+1760,fnd28_wcsf_value_04890a,value of annual field: Net Cash Flow - Financing
+1761,fnd28_wcsfothera_value_03151a,value of annual field: Working Capital
+1762,fnd28_wcsfothera_value_03998a,value of annual field: Total Capital
+1763,fnd28_wcsfothera_value_18199a,value of annual field: Net Debt
+1764,fnd28_wcsfq_value_03151q,value of quarterly field: Working Capital
+1765,fnd28_wcsfq_value_03998q,value of quarterly field: Total Capital
+1766,fnd28_wcsfq_value_04001q,value of quarterly field: Net Income/Starting Line
+1767,fnd28_wcsfq_value_04049q,value of quarterly field: Depreciation and Depletion
+1768,fnd28_wcsfq_value_04050q,value of quarterly field: Amortization of Intangible Assets
+1769,fnd28_wcsfq_value_04051q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1770,fnd28_wcsfq_value_04151q,value of quarterly field: Other Cash Flow - Total
+1771,fnd28_wcsfq_value_04199q,value of quarterly field: Deferred Income Taxes (Cash Flow)
+1772,fnd28_wcsfq_value_04201q,value of quarterly field: Funds from Operations
+1773,fnd28_wcsfq_value_04251q,value of quarterly field: Net Proceeds from Sale/Issuance of Common & Preferred
+1774,fnd28_wcsfq_value_04301q,value of quarterly field: Proceeds From Stock Options
+1775,fnd28_wcsfq_value_04302q,value of quarterly field: Other Proceeds From Sale/Issuance of Stock
+1776,fnd28_wcsfq_value_04351q,value of quarterly field: Disposal of Fixed Assets
+1777,fnd28_wcsfq_value_04401q,value of quarterly field: Long Term Borrowings
+1778,fnd28_wcsfq_value_04440q,value of quarterly field: Decrease in Investments
+1779,fnd28_wcsfq_value_04446q,value of quarterly field: Other Sources - Financing
+1780,fnd28_wcsfq_value_04447q,value of quarterly field: Other Uses - Financing
+1781,fnd28_wcsfq_value_04551q,value of quarterly field: Cash Dividends Paid - Total
+1782,fnd28_wcsfq_value_04601q,value of quarterly field: Capital Expenditures (Additions to Fixed Assets)
+1783,fnd28_wcsfq_value_04701q,value of quarterly field: Reduction In Long Term Debt
+1784,fnd28_wcsfq_value_04751q,"value of quarterly field: Common/Preferred Redeemed, Retired, Converted, Etc."
+1785,fnd28_wcsfq_value_04760q,value of quarterly field: Increase in Investments
+1786,fnd28_wcsfq_value_04795q,value of quarterly field: Other Uses - Investing
+1787,fnd28_wcsfq_value_04796q,value of quarterly field: Other Sources - Investing
+1788,fnd28_wcsfq_value_04821q,value of quarterly field: Increase/Decrease In Short Term Borrowings
+1789,fnd28_wcsfq_value_04825q,value of quarterly field: Decrease/Increase In Receivables
+1790,fnd28_wcsfq_value_04826q,value of quarterly field: Decrease/Increase In Inventories
+1791,fnd28_wcsfq_value_04827q,value of quarterly field: Increase/Decrease In Accounts Payable
+1792,fnd28_wcsfq_value_04828q,value of quarterly field: Increase/Decrease In Income Tax Payable
+1793,fnd28_wcsfq_value_04829q,value of quarterly field: Increase/Decrease In Other Accruals
+1794,fnd28_wcsfq_value_04830q,value of quarterly field: Decrease/Increase In Other Assets/Liabilities
+1795,fnd28_wcsfq_value_04831q,value of quarterly field: Funds from/for Other Operating Activities
+1796,fnd28_wcsfq_value_04840q,value of quarterly field: Effect of Exchange Rate on Cash
+1797,fnd28_wcsfq_value_04851q,value of quarterly field: Increase/Decrease in Cash & Short Term Investments
+1798,fnd28_wcsfq_value_04860q,value of quarterly field: Net Cash Flow - Operating Activities
+1799,fnd28_wcsfq_value_04890q,value of quarterly field: Net Cash Flow - Financing
+1800,fnd28_wcsfq_value_18199q,value of quarterly field: Net Debt
+1801,fnd28_wdeq2q_value_03249q,value of quarterly field: Capitalized Lease Obligations
+1802,fnd28_wdeq2q_value_03995q,value of quarterly field: Total Shareholders` Equity
+1803,fnd28_wdeqa_value_03040a,value of annual field: Accounts Payable
+1804,fnd28_wdeqa_value_03051a,value of annual field: Short Term Debt & Current Portion of Long Term Debt
+1805,fnd28_wdeqa_value_03054a,value of annual field: Accrued Payroll
+1806,fnd28_wdeqa_value_03061a,value of annual field: Dividends Payable
+1807,fnd28_wdeqa_value_03063a,value of annual field: Income Taxes Payable
+1808,fnd28_wdeqa_value_03066a,value of annual field: Other Current Liabilities
+1809,fnd28_wdeqa_value_03101a,value of annual field: Current Liabilities - Total
+1810,fnd28_wdeqa_value_03245a,value of annual field: Long Term Debt Excluding Capitalized Leases
+1811,fnd28_wdeqa_value_03249a,value of annual field: Capitalized Lease Obligations
+1812,fnd28_wdeqa_value_03251a,value of annual field: Long Term Debt
+1813,fnd28_wdeqa_value_03255a,value of annual field: Total Debt
+1814,fnd28_wdeqa_value_03260a,value of annual field: Provision for Risks and Charges
+1815,fnd28_wdeqa_value_03262a,value of annual field: Deferred Income
+1816,fnd28_wdeqa_value_03263a,value of annual field: Deferred Taxes
+1817,fnd28_wdeqa_value_03273a,value of annual field: Other Liabilities
+1818,fnd28_wdeqa_value_03351a,value of annual field: Total Liabilities
+1819,fnd28_wdeqa_value_03426a,value of annual field: Minority Interest
+1820,fnd28_wdeqa_value_03480a,value of annual field: Common Stock
+1821,fnd28_wdeqa_value_03481a,value of annual field: Capital Surplus
+1822,fnd28_wdeqa_value_03493a,value of annual field: Other Appropriated Reserves
+1823,fnd28_wdeqa_value_03495a,value of annual field: Retained Earnings
+1824,fnd28_wdeqa_value_03497a,value of annual field: Unrealized Foreign Exchange Gain/Loss
+1825,fnd28_wdeqa_value_03498a,value of annual field: Unrealized Gain/Loss On Marketable Securities
+1826,fnd28_wdeqa_value_03499a,value of annual field: Treasury Stock
+1827,fnd28_wdeqa_value_03501a,value of annual field: Common Equity
+1828,fnd28_wdeqa_value_03999a,value of annual field: Total Liabilities & Shareholders' Equity
+1829,fnd28_wdeqa_value_18183a,value of annual field: Deferred Taxes-Credit
+1830,fnd28_wdeqa_value_18184a,value of annual field: Deferred Taxes-Debit
+1831,fnd28_wdeqa_value_18281a,value of annual field: Non Convertible Debt
+1832,fnd28_wdeqq_value_03040q,value of quarterly field: Accounts Payable
+1833,fnd28_wdeqq_value_03051q,value of quarterly field: Short Term Debt & Current Portion of Long Term Debt
+1834,fnd28_wdeqq_value_03063q,value of quarterly field: Income Taxes Payable
+1835,fnd28_wdeqq_value_03066q,value of quarterly field: Other Current Liabilities
+1836,fnd28_wdeqq_value_03069q,value of quarterly field: Other Accrued Expenses
+1837,fnd28_wdeqq_value_03101q,value of quarterly field: Current Liabilities - Total
+1838,fnd28_wdeqq_value_03245q,value of quarterly field: Long Term Debt Excluding Capitalized Leases
+1839,fnd28_wdeqq_value_03251q,value of quarterly field: Long Term Debt
+1840,fnd28_wdeqq_value_03255q,value of quarterly field: Total Debt
+1841,fnd28_wdeqq_value_03263q,value of quarterly field: Deferred Taxes
+1842,fnd28_wdeqq_value_03273q,value of quarterly field: Other Liabilities
+1843,fnd28_wdeqq_value_03351q,value of quarterly field: Total Liabilities
+1844,fnd28_wdeqq_value_03426q,value of quarterly field: Minority Interest
+1845,fnd28_wdeqq_value_03480q,value of quarterly field: Common Stock
+1846,fnd28_wdeqq_value_03481q,value of quarterly field: Capital Surplus
+1847,fnd28_wdeqq_value_03495q,value of quarterly field: Retained Earnings
+1848,fnd28_wdeqq_value_03497q,value of quarterly field: Unrealized Foreign Exchange Gain/Loss
+1849,fnd28_wdeqq_value_03498q,value of quarterly field: Unrealized Gain/Loss On Marketable Securities
+1850,fnd28_wdeqq_value_03499q,value of quarterly field: Treasury Stock
+1851,fnd28_wdeqq_value_03501q,value of quarterly field: Common Equity
+1852,fnd28_wdeqq_value_03506q,value of quarterly field: Fully Diluted Equity
+1853,fnd28_wdeqq_value_03999q,value of quarterly field: Total Liabilities & Shareholders' Equity
+1854,fnd28_wdeqq_value_18183q,value of quarterly field: Deferred Taxes-Credit
+1855,fnd28_wdeqq_value_18184q,value of quarterly field: Deferred Taxes-Debit
+1856,fnd28_wdeqq_value_18232q,value of quarterly field: Current Portion of Long Term Debt
+1857,fnd28_wdeqq_value_18854q,value of quarterly field: Comprehensive Income  Other
+1858,fnd28_wsannualperfq_value_08801q,value of quarterly field: Total Investment Return  year ago Growth Rates
+1859,fnd28_wsannualperfq_value_09104q,value of quarterly field: Price/Earnings Ratio  Close
+1860,fnd28_wsannualperfq_value_09304q,value of quarterly field: Price/Book Value Ratio - Close
+1861,fnd28_wsannualperfq_value_09404q,value of quarterly field: Dividend Yield - Close
+1862,fnd28_wsannualperfq_value_09604q,value of quarterly field: Price/Cash Flow Ratio
+1863,fnd28_wsannualperfq_value_09704q,value of quarterly field: Market Capitalization to Common Equity
+1864,fnd28_wsbsht_value_02256a,value of annual field: Investments In Associated Companies
+1865,fnd28_wsbsht_value_02501a,"value of annual field: Property, Plant & Equipment - Net"
+1866,fnd28_wsbsht_value_02502a,value of annual field: Goodwill - Gross
+1867,fnd28_wsbsht_value_02507a,"value of annual field: Brands, Patents - Net"
+1868,fnd28_wsbsht_value_02513a,value of annual field: Other Intangibles - Net
+1869,fnd28_wsbsht_value_02999a,value of annual field: Total Assets
+1870,fnd28_wsbsht_value_03051a,value of annual field: Short Term Debt & Current Portion of Long Term Debt
+1871,fnd28_wsbsht_value_03262a,value of annual field: Deferred Income
+1872,fnd28_wsbsht_value_03263a,value of annual field: Deferred Taxes
+1873,fnd28_wsbsht_value_03351a,value of annual field: Total Liabilities
+1874,fnd28_wsbsht_value_03426a,value of annual field: Minority Interest
+1875,fnd28_wsbsht_value_03495a,value of annual field: Retained Earnings
+1876,fnd28_wsbsht_value_03499a,value of annual field: Treasury Stock
+1877,fnd28_wsbsht_value_03501a,value of annual field: Common Equity
+1878,fnd28_wsbsht_value_18280a,value of annual field: Goodwill/Cost in Excess of Assets Purchased
+1879,fnd28_wsbsht_value_18705a,"value of annual field: Tangible Right-of-Use Assets, Operating Lease Net"
+1880,fnd28_wsbsht_value_18713a,value of annual field: Tangible Right-of-Use Assets  Total Net
+1881,fnd28_wsbshtdeeqq_value_03040q,value of quarterly field: Accounts Payable
+1882,fnd28_wsbshtdeeqq_value_03051q,value of quarterly field: Short Term Debt & Current Portion of Long Term Debt
+1883,fnd28_wsbshtdeeqq_value_03063q,value of quarterly field: Income Taxes Payable
+1884,fnd28_wsbshtdeeqq_value_03066q,value of quarterly field: Other Current Liabilities
+1885,fnd28_wsbshtdeeqq_value_03069q,value of quarterly field: Other Accrued Expenses
+1886,fnd28_wsbshtdeeqq_value_03101q,value of quarterly field: Current Liabilities - Total
+1887,fnd28_wsbshtdeeqq_value_03245q,value of quarterly field: Long Term Debt Excluding Capitalized Leases
+1888,fnd28_wsbshtdeeqq_value_03251q,value of quarterly field: Long Term Debt
+1889,fnd28_wsbshtdeeqq_value_03255q,value of quarterly field: Total Debt
+1890,fnd28_wsbshtdeeqq_value_03263q,value of quarterly field: Deferred Taxes
+1891,fnd28_wsbshtdeeqq_value_03273q,value of quarterly field: Other Liabilities
+1892,fnd28_wsbshtdeeqq_value_03351q,value of quarterly field: Total Liabilities
+1893,fnd28_wsbshtdeeqq_value_03426q,value of quarterly field: Minority Interest
+1894,fnd28_wsbshtdeeqq_value_03480q,value of quarterly field: Common Stock
+1895,fnd28_wsbshtdeeqq_value_03481q,value of quarterly field: Capital Surplus
+1896,fnd28_wsbshtdeeqq_value_03495q,value of quarterly field: Retained Earnings
+1897,fnd28_wsbshtdeeqq_value_03497q,value of quarterly field: Unrealized Foreign Exchange Gain/Loss
+1898,fnd28_wsbshtdeeqq_value_03498q,value of quarterly field: Unrealized Gain/Loss On Marketable Securities
+1899,fnd28_wsbshtdeeqq_value_03499q,value of quarterly field: Treasury Stock
+1900,fnd28_wsbshtdeeqq_value_03501q,value of quarterly field: Common Equity
+1901,fnd28_wsbshtdeeqq_value_03506q,value of quarterly field: Fully Diluted Equity
+1902,fnd28_wsbshtdeeqq_value_03999q,value of quarterly field: Total Liabilities & Shareholders' Equity
+1903,fnd28_wsbshtdeeqq_value_18183q,value of quarterly field: Deferred Taxes-Credit
+1904,fnd28_wsbshtdeeqq_value_18184q,value of quarterly field: Deferred Taxes-Debit
+1905,fnd28_wsbshtdeeqq_value_18232q,value of quarterly field: Current Portion of Long Term Debt
+1906,fnd28_wsbshtdeeqq_value_18854q,value of quarterly field: Comprehensive Income  Other
+1907,fnd28_wsbshtq_value_01001q,value of quarterly field: Net Sales or Revenues
+1908,fnd28_wsbshtq_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+1909,fnd28_wsbshtq_value_01149q,value of quarterly field: Amortization of Intangibles
+1910,fnd28_wsbshtq_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+1911,fnd28_wsbshtq_value_01201q,value of quarterly field: Research and Development Expense
+1912,fnd28_wsbshtq_value_01250q,value of quarterly field: Operating Income
+1913,fnd28_wsbshtq_value_01251q,value of quarterly field: Interest Expense on Debt
+1914,fnd28_wsbshtq_value_01401q,value of quarterly field: Pre-tax Income
+1915,fnd28_wsbshtq_value_01451q,value of quarterly field: Income Taxes
+1916,fnd28_wsbshtq_value_01501q,value of quarterly field: Minority Interest
+1917,fnd28_wsbshtq_value_01551q,value of quarterly field: Net Income before Extraordinary Items/Preferred Dividends
+1918,fnd28_wsbshtq_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+1919,fnd28_wsbshtq_value_02001q,value of quarterly field: Cash & Short Term Investments
+1920,fnd28_wsbshtq_value_02003q,value of quarterly field: Cash
+1921,fnd28_wsbshtq_value_02051q,value of quarterly field: Receivables (Net)
+1922,fnd28_wsbshtq_value_02101q,value of quarterly field: Inventories Total
+1923,fnd28_wsbshtq_value_02201q,value of quarterly field: Current Assets  Total
+1924,fnd28_wsbshtq_value_02256q,value of quarterly field: Investments In Associated Companies
+1925,fnd28_wsbshtq_value_02301q,"value of quarterly field: Property, Plant and Equipment - Gross"
+1926,fnd28_wsbshtq_value_02401q,value of quarterly field: Accumulated Depreciation
+1927,fnd28_wsbshtq_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+1928,fnd28_wsbshtq_value_02649q,value of quarterly field: Total Intangible Other Assets - Net
+1929,fnd28_wsbshtq_value_02999q,value of quarterly field: Total Assets
+1930,fnd28_wsbshtq_value_03040q,value of quarterly field: Accounts Payable
+1931,fnd28_wsbshtq_value_03051q,value of quarterly field: Short Term Debt & Current Portion of Long Term Debt
+1932,fnd28_wsbshtq_value_03101q,value of quarterly field: Current Liabilities - Total
+1933,fnd28_wsbshtq_value_03263q,value of quarterly field: Deferred Taxes
+1934,fnd28_wsbshtq_value_03351q,value of quarterly field: Total Liabilities
+1935,fnd28_wsbshtq_value_03426q,value of quarterly field: Minority Interest
+1936,fnd28_wsbshtq_value_03480q,value of quarterly field: Common Stock
+1937,fnd28_wsbshtq_value_03495q,value of quarterly field: Retained Earnings
+1938,fnd28_wsbshtq_value_03499q,value of quarterly field: Treasury Stock
+1939,fnd28_wsbshtq_value_03501q,value of quarterly field: Common Equity
+1940,fnd28_wsbshtq_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+1941,fnd28_wsbshtq_value_18280q,value of quarterly field: Goodwill/Cost in Excess of Assets Purchased
+1942,fnd28_wsbshtq_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+1943,fnd28_wsbshtq_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+1944,fnd28_wsbshtq_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+1945,fnd28_wsbshtq_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+1946,fnd28_wsbshtq_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+1947,fnd28_wsbshtq_value_18722q,value of quarterly field: Current Portion of Long Term Capital Lease Liabilities
+1948,fnd28_wsbshtq_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+1949,fnd28_wsfsa_value_01001a,value of annual field: Net Sales or Revenues
+1950,fnd28_wsfsa_value_01051a,value of annual field: Cost Of Goods Sold (Excl Depreciation)
+1951,fnd28_wsfsa_value_01148a,value of annual field: Depreciation
+1952,fnd28_wsfsa_value_01149a,value of annual field: Amortization of Intangibles
+1953,fnd28_wsfsa_value_01150a,value of annual field: Amortization of Deferred Charges
+1954,fnd28_wsfsa_value_01151a,"value of annual field: Depreciation, Depletion & Amortization"
+1955,fnd28_wsfsa_value_01249a,value of annual field: Operating Expenses - Total
+1956,fnd28_wsfsa_value_01250a,value of annual field: Operating Income
+1957,fnd28_wsfsa_value_01251a,value of annual field: Interest Expense on Debt
+1958,fnd28_wsfsa_value_01253a,value of annual field: Extraordinary Credit - Pretax
+1959,fnd28_wsfsa_value_01254a,value of annual field: Extraordinary Charge - Pretax
+1960,fnd28_wsfsa_value_01266a,value of annual field: Non-Operating Interest Income
+1961,fnd28_wsfsa_value_01301a,value of annual field: Reserves - Increase/Decrease
+1962,fnd28_wsfsa_value_01401a,value of annual field: Pre-tax Income
+1963,fnd28_wsfsa_value_01451a,value of annual field: Income Taxes
+1964,fnd28_wsfsa_value_01501a,value of annual field: Minority Interest
+1965,fnd28_wsfsa_value_01503a,value of annual field: Equity In Earnings
+1966,fnd28_wsfsa_value_01551a,value of annual field: Net Income before Extraordinary Items/Preferred Dividends
+1967,fnd28_wsfsa_value_01706a,value of annual field: Net Income after Preferred Dividends (Basic EPS)
+1968,fnd28_wsfsa_value_02001a,value of annual field: Cash & Short Term Investments
+1969,fnd28_wsfsa_value_02003a,value of annual field: Cash
+1970,fnd28_wsfsa_value_02008a,value of annual field: Short Term Investments
+1971,fnd28_wsfsa_value_02051a,value of annual field: Receivables (Net)
+1972,fnd28_wsfsa_value_02097a,value of annual field: Raw Materials
+1973,fnd28_wsfsa_value_02098a,value of annual field: Work in Process
+1974,fnd28_wsfsa_value_02099a,value of annual field: Finished Goods
+1975,fnd28_wsfsa_value_02100a,value of annual field: Progress Payments & Other
+1976,fnd28_wsfsa_value_02101a,value of annual field: Inventories Total
+1977,fnd28_wsfsa_value_02140a,value of annual field: Prepaid Expenses
+1978,fnd28_wsfsa_value_02201a,value of annual field: Current Assets  Total
+1979,fnd28_wsfsa_value_02250a,value of annual field: Other Investments
+1980,fnd28_wsfsa_value_02256a,value of annual field: Investments In Associated Companies
+1981,fnd28_wsfsa_value_02258a,value of annual field: Long Term Receivables
+1982,fnd28_wsfsa_value_02301a,"value of annual field: Property, Plant and Equipment - Gross"
+1983,fnd28_wsfsa_value_02401a,value of annual field: Accumulated Depreciation
+1984,fnd28_wsfsa_value_02501a,"value of annual field: Property, Plant & Equipment - Net"
+1985,fnd28_wsfsa_value_02647a,value of annual field: Deferred Charges
+1986,fnd28_wsfsa_value_02648a,value of annual field: Tangible Other Assets
+1987,fnd28_wsfsa_value_02649a,value of annual field: Total Intangible Other Assets - Net
+1988,fnd28_wsfsa_value_02999a,value of annual field: Total Assets
+1989,fnd28_wsfsa_value_03040a,value of annual field: Accounts Payable
+1990,fnd28_wsfsa_value_03051a,value of annual field: Short Term Debt & Current Portion of Long Term Debt
+1991,fnd28_wsfsa_value_03054a,value of annual field: Accrued Payroll
+1992,fnd28_wsfsa_value_03061a,value of annual field: Dividends Payable
+1993,fnd28_wsfsa_value_03063a,value of annual field: Income Taxes Payable
+1994,fnd28_wsfsa_value_03101a,value of annual field: Current Liabilities - Total
+1995,fnd28_wsfsa_value_03245a,value of annual field: Long Term Debt Excluding Capitalized Leases
+1996,fnd28_wsfsa_value_03249a,value of annual field: Capitalized Lease Obligations
+1997,fnd28_wsfsa_value_03262a,value of annual field: Deferred Income
+1998,fnd28_wsfsa_value_03263a,value of annual field: Deferred Taxes
+1999,fnd28_wsfsa_value_03351a,value of annual field: Total Liabilities
+2000,fnd28_wsfsa_value_03426a,value of annual field: Minority Interest
+2001,fnd28_wsfsa_value_03480a,value of annual field: Common Stock
+2002,fnd28_wsfsa_value_03481a,value of annual field: Capital Surplus
+2003,fnd28_wsfsa_value_03493a,value of annual field: Other Appropriated Reserves
+2004,fnd28_wsfsa_value_03495a,value of annual field: Retained Earnings
+2005,fnd28_wsfsa_value_03497a,value of annual field: Unrealized Foreign Exchange Gain/Loss
+2006,fnd28_wsfsa_value_03498a,value of annual field: Unrealized Gain/Loss On Marketable Securities
+2007,fnd28_wsfsa_value_03499a,value of annual field: Treasury Stock
+2008,fnd28_wsfsa_value_03501a,value of annual field: Common Equity
+2009,fnd28_wsfsa_value_03998a,value of annual field: Total Capital
+2010,fnd28_wsfsa_value_04001a,value of annual field: Net Income/Starting Line
+2011,fnd28_wsfsa_value_04049a,value of annual field: Depreciation and Depletion
+2012,fnd28_wsfsa_value_04050a,value of annual field: Amortization of Intangible Assets
+2013,fnd28_wsfsa_value_04100a,value of annual field: Investment Tax Credits
+2014,fnd28_wsfsa_value_04151a,value of annual field: Other Cash Flow - Total
+2015,fnd28_wsfsa_value_04301a,value of annual field: Proceeds From Stock Options
+2016,fnd28_wsfsa_value_04302a,value of annual field: Other Proceeds From Sale/Issuance of Stock
+2017,fnd28_wsfsa_value_04351a,value of annual field: Disposal of Fixed Assets
+2018,fnd28_wsfsa_value_04355a,value of annual field: Net Assets From Acquisitions
+2019,fnd28_wsfsa_value_04401a,value of annual field: Long Term Borrowings
+2020,fnd28_wsfsa_value_04440a,value of annual field: Decrease in Investments
+2021,fnd28_wsfsa_value_04446a,value of annual field: Other Sources - Financing
+2022,fnd28_wsfsa_value_04447a,value of annual field: Other Uses - Financing
+2023,fnd28_wsfsa_value_04551a,value of annual field: Cash Dividends Paid - Total
+2024,fnd28_wsfsa_value_04601a,value of annual field: Capital Expenditures (Additions to Fixed Assets)
+2025,fnd28_wsfsa_value_04701a,value of annual field: Reduction In Long Term Debt
+2026,fnd28_wsfsa_value_04751a,"value of annual field: Common/Preferred Redeemed, Retired, Converted, Etc."
+2027,fnd28_wsfsa_value_04760a,value of annual field: Increase in Investments
+2028,fnd28_wsfsa_value_04795a,value of annual field: Other Uses - Investing
+2029,fnd28_wsfsa_value_04796a,value of annual field: Other Sources - Investing
+2030,fnd28_wsfsa_value_04821a,value of annual field: Increase/Decrease In Short Term Borrowings
+2031,fnd28_wsfsa_value_04825a,value of annual field: Decrease/Increase In Receivables
+2032,fnd28_wsfsa_value_04826a,value of annual field: Decrease/Increase In Inventories
+2033,fnd28_wsfsa_value_04827a,value of annual field: Increase/Decrease In Accounts Payable
+2034,fnd28_wsfsa_value_04828a,value of annual field: Increase/Decrease In Income Tax Payable
+2035,fnd28_wsfsa_value_04829a,value of annual field: Increase/Decrease In Other Accruals
+2036,fnd28_wsfsa_value_04830a,value of annual field: Decrease/Increase In Other Assets/Liabilities
+2037,fnd28_wsfsa_value_04831a,value of annual field: Funds from/for Other Operating Activities
+2038,fnd28_wsfsa_value_04840a,value of annual field: Effect of Exchange Rate on Cash
+2039,fnd28_wsfsa_value_04851a,value of annual field: Increase/Decrease in Cash & Short Term Investments
+2040,fnd28_wsfsa_value_04860a,value of annual field: Net Cash Flow - Operating Activities
+2041,fnd28_wsfsa_value_04890a,value of annual field: Net Cash Flow - Financing
+2042,fnd28_wsfsa_value_07161a,value of annual field: Exports
+2043,fnd28_wsfsa_value_18183a,value of annual field: Deferred Taxes-Credit
+2044,fnd28_wsfsa_value_18184a,value of annual field: Deferred Taxes-Debit
+2045,fnd28_wsfsa_value_18185a,value of annual field: Income Tax Credits
+2046,fnd28_wsfsa_value_18186a,value of annual field: Current Domestic Income Tax
+2047,fnd28_wsfsa_value_18187a,value of annual field: Current Foreign Income Tax
+2048,fnd28_wsfsa_value_18188a,value of annual field: Deferred Domestic Income Tax
+2049,fnd28_wsfsa_value_18189a,value of annual field: Deferred Foreign Income Tax
+2050,fnd28_wsfsa_value_18281a,value of annual field: Non Convertible Debt
+2051,fnd28_wsfsa_value_18375a,value of annual field: Land
+2052,fnd28_wsfsa_value_18376a,value of annual field: Buildings
+2053,fnd28_wsfsa_value_18377a,value of annual field: Machinery & Equipment
+2054,fnd28_wsfsa_value_18379a,"value of annual field: Property, Plant & Equipment - Other"
+2055,fnd28_wsfsa_value_18705a,"value of annual field: Tangible Right-of-Use Assets, Operating Lease Net"
+2056,fnd28_wsfsa_value_18713a,value of annual field: Tangible Right-of-Use Assets  Total Net
+2057,fnd28_wsfsaacctadj_value_02501a,"value of annual field: Property, Plant & Equipment - Net"
+2058,fnd28_wsfsaacctadj_value_02999a,value of annual field: Total Assets
+2059,fnd28_wsfsaacctadj_value_03101a,value of annual field: Current Liabilities - Total
+2060,fnd28_wsfsaacctadj_value_03351a,value of annual field: Total Liabilities
+2061,fnd28_wsfsaacctadj_value_18379a,"value of annual field: Property, Plant & Equipment - Other"
+2062,fnd28_wsfsq_value_01001q,value of quarterly field: Net Sales or Revenues
+2063,fnd28_wsfsq_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+2064,fnd28_wsfsq_value_01149q,value of quarterly field: Amortization of Intangibles
+2065,fnd28_wsfsq_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+2066,fnd28_wsfsq_value_01250q,value of quarterly field: Operating Income
+2067,fnd28_wsfsq_value_01251q,value of quarterly field: Interest Expense on Debt
+2068,fnd28_wsfsq_value_01254q,value of quarterly field: Extraordinary Charge - Pretax
+2069,fnd28_wsfsq_value_01401q,value of quarterly field: Pre-tax Income
+2070,fnd28_wsfsq_value_01451q,value of quarterly field: Income Taxes
+2071,fnd28_wsfsq_value_01501q,value of quarterly field: Minority Interest
+2072,fnd28_wsfsq_value_01551q,value of quarterly field: Net Income before Extraordinary Items/Preferred Dividends
+2073,fnd28_wsfsq_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+2074,fnd28_wsfsq_value_02001q,value of quarterly field: Cash & Short Term Investments
+2075,fnd28_wsfsq_value_02003q,value of quarterly field: Cash
+2076,fnd28_wsfsq_value_02051q,value of quarterly field: Receivables (Net)
+2077,fnd28_wsfsq_value_02101q,value of quarterly field: Inventories Total
+2078,fnd28_wsfsq_value_02140q,value of quarterly field: Prepaid Expenses
+2079,fnd28_wsfsq_value_02201q,value of quarterly field: Current Assets  Total
+2080,fnd28_wsfsq_value_02256q,value of quarterly field: Investments In Associated Companies
+2081,fnd28_wsfsq_value_02301q,"value of quarterly field: Property, Plant and Equipment - Gross"
+2082,fnd28_wsfsq_value_02401q,value of quarterly field: Accumulated Depreciation
+2083,fnd28_wsfsq_value_02501q,"value of quarterly field: Property, Plant & Equipment - Net"
+2084,fnd28_wsfsq_value_02649q,value of quarterly field: Total Intangible Other Assets - Net
+2085,fnd28_wsfsq_value_02999q,value of quarterly field: Total Assets
+2086,fnd28_wsfsq_value_03040q,value of quarterly field: Accounts Payable
+2087,fnd28_wsfsq_value_03051q,value of quarterly field: Short Term Debt & Current Portion of Long Term Debt
+2088,fnd28_wsfsq_value_03063q,value of quarterly field: Income Taxes Payable
+2089,fnd28_wsfsq_value_03101q,value of quarterly field: Current Liabilities - Total
+2090,fnd28_wsfsq_value_03245q,value of quarterly field: Long Term Debt Excluding Capitalized Leases
+2091,fnd28_wsfsq_value_03249q,value of quarterly field: Capitalized Lease Obligations
+2092,fnd28_wsfsq_value_03263q,value of quarterly field: Deferred Taxes
+2093,fnd28_wsfsq_value_03351q,value of quarterly field: Total Liabilities
+2094,fnd28_wsfsq_value_03426q,value of quarterly field: Minority Interest
+2095,fnd28_wsfsq_value_03480q,value of quarterly field: Common Stock
+2096,fnd28_wsfsq_value_03481q,value of quarterly field: Capital Surplus
+2097,fnd28_wsfsq_value_03495q,value of quarterly field: Retained Earnings
+2098,fnd28_wsfsq_value_03497q,value of quarterly field: Unrealized Foreign Exchange Gain/Loss
+2099,fnd28_wsfsq_value_03498q,value of quarterly field: Unrealized Gain/Loss On Marketable Securities
+2100,fnd28_wsfsq_value_03499q,value of quarterly field: Treasury Stock
+2101,fnd28_wsfsq_value_03501q,value of quarterly field: Common Equity
+2102,fnd28_wsfsq_value_04001q,value of quarterly field: Net Income/Starting Line
+2103,fnd28_wsfsq_value_04049q,value of quarterly field: Depreciation and Depletion
+2104,fnd28_wsfsq_value_04050q,value of quarterly field: Amortization of Intangible Assets
+2105,fnd28_wsfsq_value_04151q,value of quarterly field: Other Cash Flow - Total
+2106,fnd28_wsfsq_value_04301q,value of quarterly field: Proceeds From Stock Options
+2107,fnd28_wsfsq_value_04302q,value of quarterly field: Other Proceeds From Sale/Issuance of Stock
+2108,fnd28_wsfsq_value_04351q,value of quarterly field: Disposal of Fixed Assets
+2109,fnd28_wsfsq_value_04355q,value of quarterly field: Net Assets From Acquisitions
+2110,fnd28_wsfsq_value_04401q,value of quarterly field: Long Term Borrowings
+2111,fnd28_wsfsq_value_04440q,value of quarterly field: Decrease in Investments
+2112,fnd28_wsfsq_value_04446q,value of quarterly field: Other Sources - Financing
+2113,fnd28_wsfsq_value_04447q,value of quarterly field: Other Uses - Financing
+2114,fnd28_wsfsq_value_04551q,value of quarterly field: Cash Dividends Paid - Total
+2115,fnd28_wsfsq_value_04601q,value of quarterly field: Capital Expenditures (Additions to Fixed Assets)
+2116,fnd28_wsfsq_value_04651q,value of quarterly field:  Additions to Other Assets
+2117,fnd28_wsfsq_value_04701q,value of quarterly field: Reduction In Long Term Debt
+2118,fnd28_wsfsq_value_04751q,"value of quarterly field: Common/Preferred Redeemed, Retired, Converted, Etc."
+2119,fnd28_wsfsq_value_04760q,value of quarterly field: Increase in Investments
+2120,fnd28_wsfsq_value_04795q,value of quarterly field: Other Uses - Investing
+2121,fnd28_wsfsq_value_04796q,value of quarterly field: Other Sources - Investing
+2122,fnd28_wsfsq_value_04821q,value of quarterly field: Increase/Decrease In Short Term Borrowings
+2123,fnd28_wsfsq_value_04825q,value of quarterly field: Decrease/Increase In Receivables
+2124,fnd28_wsfsq_value_04826q,value of quarterly field: Decrease/Increase In Inventories
+2125,fnd28_wsfsq_value_04827q,value of quarterly field: Increase/Decrease In Accounts Payable
+2126,fnd28_wsfsq_value_04828q,value of quarterly field: Increase/Decrease In Income Tax Payable
+2127,fnd28_wsfsq_value_04829q,value of quarterly field: Increase/Decrease In Other Accruals
+2128,fnd28_wsfsq_value_04830q,value of quarterly field: Decrease/Increase In Other Assets/Liabilities
+2129,fnd28_wsfsq_value_04831q,value of quarterly field: Funds from/for Other Operating Activities
+2130,fnd28_wsfsq_value_04840q,value of quarterly field: Effect of Exchange Rate on Cash
+2131,fnd28_wsfsq_value_04851q,value of quarterly field: Increase/Decrease in Cash & Short Term Investments
+2132,fnd28_wsfsq_value_04860q,value of quarterly field: Net Cash Flow - Operating Activities
+2133,fnd28_wsfsq_value_04890q,value of quarterly field: Net Cash Flow - Financing
+2134,fnd28_wsfsq_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+2135,fnd28_wsfsq_value_18183q,value of quarterly field: Deferred Taxes-Credit
+2136,fnd28_wsfsq_value_18184q,value of quarterly field: Deferred Taxes-Debit
+2137,fnd28_wsfsq_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+2138,fnd28_wsfsq_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+2139,fnd28_wsfsq_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+2140,fnd28_wsfsq_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+2141,fnd28_wsfsq_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+2142,fnd28_wsfsq_value_18722q,value of quarterly field: Current Portion of Long Term Capital Lease Liabilities
+2143,fnd28_wsfsq_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+2144,fnd28_wsisht_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+2145,fnd28_wsisht_value_18440q,value of quarterly field: Earnings per Share  Fiscal Period - Fully Diluted
+2146,fnd28_wsisht_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+2147,fnd28_wsisht_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+2148,fnd28_wsisht_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+2149,fnd28_wsisht_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+2150,fnd28_wsisht_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+2151,fnd28_wsisht_value_18722q,value of quarterly field: Current Portion of Long Term Capital Lease Liabilities
+2152,fnd28_wsisht_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+2153,fnd28_wsishtq_value_01001q,value of quarterly field: Net Sales or Revenues
+2154,fnd28_wsishtq_value_01051q,value of quarterly field: Cost Of Goods Sold (Excl Depreciation)
+2155,fnd28_wsishtq_value_01149q,value of quarterly field: Amortization of Intangibles
+2156,fnd28_wsishtq_value_01151q,"value of quarterly field: Depreciation, Depletion & Amortization"
+2157,fnd28_wsishtq_value_01250q,value of quarterly field: Operating Income
+2158,fnd28_wsishtq_value_01251q,value of quarterly field: Interest Expense on Debt
+2159,fnd28_wsishtq_value_01254q,value of quarterly field: Extraordinary Charge - Pretax
+2160,fnd28_wsishtq_value_01401q,value of quarterly field: Pre-tax Income
+2161,fnd28_wsishtq_value_01451q,value of quarterly field: Income Taxes
+2162,fnd28_wsishtq_value_01501q,value of quarterly field: Minority Interest
+2163,fnd28_wsishtq_value_01551q,value of quarterly field: Net Income before Extraordinary Items/Preferred Dividends
+2164,fnd28_wsishtq_value_01706q,value of quarterly field: Net Income after Preferred Dividends (Basic EPS)
+2165,fnd28_wsishtq_value_18147q,value of quarterly field: Operating Lease Payments - Interest Cost/Imputed Interest
+2166,fnd28_wsishtq_value_18705q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Net"
+2167,fnd28_wsishtq_value_18706q,"value of quarterly field: Tangible Right-of-Use Assets, Operating Lease Gross"
+2168,fnd28_wsishtq_value_18713q,value of quarterly field: Tangible Right-of-Use Assets  Total Net
+2169,fnd28_wsishtq_value_18714q,value of quarterly field: Tangible Right-of-Use Assets  Total Gross
+2170,fnd28_wsishtq_value_18721q,value of quarterly field: Current Portion of Long Term Operating Lease Liabilities
+2171,fnd28_wsishtq_value_18722q,value of quarterly field: Current Portion of Long Term Capital Lease Liabilities
+2172,fnd28_wsishtq_value_18725q,value of quarterly field: Long Term Operating Lease Liabilities
+2173,fnd28_wsu_value_04001a,value of annual field: Net Income/Starting Line
+2174,fnd28_wsu_value_04049a,value of annual field: Depreciation and Depletion
+2175,fnd28_wsu_value_04050a,value of annual field: Amortization of Intangible Assets
+2176,fnd28_wsu_value_04051a,"value of annual field: Depreciation, Depletion & Amortization"
+2177,fnd28_wsu_value_04101a,value of annual field: Deferred Income Taxes and Investment Tax Credit
+2178,fnd28_wsu_value_04151a,value of annual field: Other Cash Flow - Total
+2179,fnd28_wsu_value_04199a,value of annual field: Deferred Income Taxes (Cash Flow)
+2180,fnd28_wsu_value_04201a,value of annual field: Funds from Operations
+2181,fnd28_wsu_value_04251a,value of annual field: Net Proceeds from Sale/Issuance of Common & Preferred
+2182,fnd28_wsu_value_04301a,value of annual field: Proceeds From Stock Options
+2183,fnd28_wsu_value_04302a,value of annual field: Other Proceeds From Sale/Issuance of Stock
+2184,fnd28_wsu_value_04351a,value of annual field: Disposal of Fixed Assets
+2185,fnd28_wsu_value_04355a,value of annual field: Net Assets From Acquisitions
+2186,fnd28_wsu_value_04401a,value of annual field: Long Term Borrowings
+2187,fnd28_wsu_value_04440a,value of annual field: Decrease in Investments
+2188,fnd28_wsu_value_04446a,value of annual field: Other Sources - Financing
+2189,fnd28_wsu_value_04447a,value of annual field: Other Uses - Financing
+2190,fnd28_wsu_value_04501a,value of annual field: Total Sources Uses of Funds
+2191,fnd28_wsu_value_04551a,value of annual field: Cash Dividends Paid - Total
+2192,fnd28_wsu_value_04601a,value of annual field: Capital Expenditures (Additions to Fixed Assets)
+2193,fnd28_wsu_value_04701a,value of annual field: Reduction In Long Term Debt
+2194,fnd28_wsu_value_04751a,"value of annual field: Common/Preferred Redeemed, Retired, Converted, Etc."
+2195,fnd28_wsu_value_04760a,value of annual field: Increase in Investments
+2196,fnd28_wsu_value_04795a,value of annual field: Other Uses - Investing
+2197,fnd28_wsu_value_04796a,value of annual field: Other Sources - Investing
+2198,fnd28_wsu_value_04811a,value of annual field: Total Uses Supplementary Cash Flow Fields
+2199,fnd28_wsu_value_04821a,value of annual field: Increase/Decrease In Short Term Borrowings
+2200,fnd28_wsu_value_04825a,value of annual field: Decrease/Increase In Receivables
+2201,fnd28_wsu_value_04826a,value of annual field: Decrease/Increase In Inventories
+2202,fnd28_wsu_value_04827a,value of annual field: Increase/Decrease In Accounts Payable
+2203,fnd28_wsu_value_04828a,value of annual field: Increase/Decrease In Income Tax Payable
+2204,fnd28_wsu_value_04829a,value of annual field: Increase/Decrease In Other Accruals
+2205,fnd28_wsu_value_04830a,value of annual field: Decrease/Increase In Other Assets/Liabilities
+2206,fnd28_wsu_value_04831a,value of annual field: Funds from/for Other Operating Activities
+2207,fnd28_wsu_value_04840a,value of annual field: Effect of Exchange Rate on Cash
+2208,fnd28_wsu_value_04851a,value of annual field: Increase/Decrease in Cash & Short Term Investments

@@ -1,0 +1,13 @@
+,id,description
+0,fnd45_us_lda_bigram_pr,LDA model score based on biagram of Presentation Section
+1,fnd45_us_mktcap,Market capitalization
+2,fnd45_us_numeric_perct_pr,Numerical/Text Percentage Presentation
+3,fnd45_us_numeric_perct_qa,Numerical/Text Percentage Q&A
+4,fnd45_us_readability_executives,Readability Score
+5,fnd45_us_score,Final Aggregate Score
+6,fnd45_us_sentiment_chanage_ceo,Change in Sentiment (CEO)
+7,fnd45_us_sentiment_chanage_othr,Change in Sentiment (Others)
+8,fnd45_us_sentiment_lm2_net_pr,Sentiment Score based on LM2 Presentation
+9,fnd45_us_sentiment_lm2_net_qa,Sentiment Score based on LM2 Q&A
+10,fnd45_us_sentiment_vader_net_pr,Sentiment Score based on Vader Presentation
+11,fnd45_us_sentiment_vader_net_qa,Sentiment Score based on Vader Q&A

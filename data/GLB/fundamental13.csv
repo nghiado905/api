@@ -1,0 +1,65 @@
+,id,description
+0,fnd13_adbs,Normalized EBITDA
+1,fnd13_agse,Selling/General/Administrative Expense
+2,fnd13_balancesheetq_acta,Total Current Assets
+3,fnd13_balancesheetq_aint,"Intangibles, Net"
+4,fnd13_balancesheetq_aitl,Total Inventory
+5,fnd13_balancesheetq_atot,Total Assets
+6,fnd13_balancesheetq_crta,"Total Receivables, Net"
+7,fnd13_balancesheetq_dttl,Total Long Term Debt
+8,fnd13_balancesheetq_eltq,Total Equity
+9,fnd13_balancesheetq_iscs,Cash and Short Term Investments
+10,fnd13_balancesheetq_iwga,"Goodwill, Net"
+11,fnd13_balancesheetq_lapb,Accounts Payable
+12,fnd13_balancesheetq_lctl,Total Current Liabilities
+13,fnd13_balancesheetq_lltl,Total Liabilities
+14,fnd13_balancesheetq_nppa,"Property/Plant/Equipment, Total - Net"
+15,fnd13_balancesheetq_rcaa,"Accounts Receivable - Trade, Net"
+16,fnd13_balancesheetq_xeal,Accrued Expenses
+17,fnd13_bash_orain,Original Announcement
+18,fnd13_caic,Income Available to Common Excluding Extraordinary Items
+19,fnd13_cinx,Income Available to Common Excluding Extraordinary Items
+20,fnd13_dlcl,Current Portion of Long Term Debt/Capital Leases
+21,fnd13_dlts,Total Debt
+22,fnd13_dtll,Long Term Debt
+23,fnd13_dtns,Net Debt
+24,fnd13_dtsl,Notes Payable/Short Term Debt
+25,fnd13_eaca,Cash & Equivalents
+26,fnd13_ecor,Cost of Revenue
+27,fnd13_fbbs,Basic EPS Excluding Extraordinary Items
+28,fnd13_iabs,Basic EPS Including Extraordinary Items
+29,fnd13_icste_orain,Original Announcement
+30,fnd13_ists,Total Special Items
+31,fnd13_itpv,Normalized Income Before Taxes
+32,fnd13_letq,Total Liabilities & Shareholders' Equity
+33,fnd13_ltll,Other Long Term Liabilities
+34,fnd13_ltls,"Other Liabilities, Total"
+35,fnd13_nins,"Interest Income (Expense), Net-Non-Operating, Total"
+36,fnd13_ntiv,Inc Tax Ex Impact of Sp Items
+37,fnd13_octq,Total Common Shares Outstanding
+38,fnd13_qred,Retained Earnings (Accumulated Deficit)
+39,fnd13_saoa,Other Long Term Assets
+40,fnd13_sbit,Normalized EBIT
+41,fnd13_scor,"Cost of Revenue, Total"
+42,fnd13_smcq,Common Stock
+43,fnd13_smcs,"Common Stock, Total"
+44,fnd13_soca,"Other Current Assets, Total"
+45,fnd13_socl,"Other Current liabilities, Total"
+46,fnd13_sola,"Other Long Term Assets, Total"
+47,fnd13_statementq_agss,"Selling/General/Admin. Expenses, Total"
+48,fnd13_statementq_cnin,Net Income
+49,fnd13_statementq_dgcd,Gross Dividends - Common Stock
+50,fnd13_statementq_etoe,Total Operating Expense
+51,fnd13_statementq_nibx,Net Income Before Extra. Items
+52,fnd13_statementq_prgs,Gross Profit
+53,fnd13_statementq_rltr,Total Revenue
+54,fnd13_statementq_sopi,Operating Income
+55,fnd13_statementq_srev,Revenue
+56,fnd13_statementq_stnr,Net Sales
+57,fnd13_statementq_tait,Net Income After Taxes
+58,fnd13_statementq_tbie,Net Income Before Taxes
+59,fnd13_statementq_vbes,Basic Normalized EPS
+60,fnd13_tdbs,Deferred Income Tax
+61,fnd13_ttax,Provision for Income Taxes
+62,fnd13_viac,Normalized Income Avail to Common Shareholders
+63,fnd13_viat,Normalized Income After Taxes

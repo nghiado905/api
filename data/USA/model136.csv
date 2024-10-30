@@ -1,0 +1,46 @@
+,id,description
+0,mdl136_qes_etf_us_flow_gross,Daily total notional of gross stock flowsfrom ETF creation/redemption
+1,mdl136_qes_etf_us_flow_gross_1m,Monthly total notional of gross stock flowsthrough ETF creation/redemption
+2,mdl136_qes_etf_us_flow_gross_1w,Weekly total notional of gross stock flowsfrom ETF creation/redemption
+3,mdl136_qes_etf_us_flow_gross_pctvol,Daily total notional of gross stock flows from ETF creation/redemption relative to stock volume
+4,mdl136_qes_etf_us_flow_gross_pctvol_1m,Monthly total notional of gross stock flows from ETF creation/redemption relative to stock volume
+5,mdl136_qes_etf_us_flow_gross_pctvol_1w,Weekly total notional of gross stock flows from ETF creation/redemption relative to stock volume
+6,mdl136_qes_etf_us_flow_in,Daily total notional of stock inflows from ETF creation
+7,mdl136_qes_etf_us_flow_in_1m,Monthly total notional of stock inflowsfrom ETF creation
+8,mdl136_qes_etf_us_flow_in_1w,Weekly total notional of stock inflowsfrom ETF creation
+9,mdl136_qes_etf_us_flow_in_pctvol,Daily total notional of stock inflows from ETF creation relative to stock volume
+10,mdl136_qes_etf_us_flow_in_pctvol_1m,Monthly total notional of stock inflowsfrom ETF creation relative to stock volume
+11,mdl136_qes_etf_us_flow_in_pctvol_1w,Weekly total notional of stock inflowsfrom ETF creation relative to stock volume
+12,mdl136_qes_etf_us_flow_net,Daily total notional of net stock flowsfrom ETF creation/redemption
+13,mdl136_qes_etf_us_flow_net_1m,Monthly total notional of net stock flowsfrom ETF creation/redemption
+14,mdl136_qes_etf_us_flow_net_1w,Weekly total notional of net stock flowsfrom ETF creation/redemption
+15,mdl136_qes_etf_us_flow_net_pctvol,Daily total notional of net stock flowsfrom ETF creation/redemption relative to stock volume
+16,mdl136_qes_etf_us_flow_net_pctvol_1m,Monthly total notional of net stock flowsfrom ETF creation/redemption relative to stock volume
+17,mdl136_qes_etf_us_flow_net_pctvol_1w,Weekly total notional of net stock flowsfrom ETF creation/redemption relative to stock volume
+18,mdl136_qes_etf_us_flow_out,Daily total notional of stock outflowsfrom ETF redemptions
+19,mdl136_qes_etf_us_flow_out_1m,Monthly total notional of stock outflowsfrom ETF redemptions
+20,mdl136_qes_etf_us_flow_out_1w,Weekly total notional of stock outflowsfrom ETF redemptions
+21,mdl136_qes_etf_us_flow_out_pctvol,Daily total notional of stock outflowsfrom ETF redemptions relative to stock volume
+22,mdl136_qes_etf_us_flow_out_pctvol_1m,Monthly total notional of stock outflowsfrom ETF redemptions relative to stock volume
+23,mdl136_qes_etf_us_flow_out_pctvol_1w,Weekly total notional of stock outflowsfrom ETF redemptions relative to stock volume
+24,mdl136_qes_etf_us_flow_skew,Ratio of daily net stock flows to gross stock flows from ETF creation/redemption
+25,mdl136_qes_etf_us_intensity,Percentage of float-adjusted number of shares outstanding held by ETFs
+26,mdl136_qes_etf_us_intensity_delta_12m,12m change in percentage of floatadjusted number of shares outstanding held by ETFs
+27,mdl136_qes_etf_us_intensity_delta_1m,1m change in percentage of floatadjusted number of shares outstanding held by ETFs
+28,mdl136_qes_etf_us_intensity_delta_3m,3m change in percentage of floatadjusted number of shares outstanding held by ETFs
+29,mdl136_qes_etf_us_intensity_delta_6m,6m change in percentage of floatadjusted number of shares outstanding held by ETFs
+30,mdl136_qes_etf_us_intensity_pctchg_12m,12m growth in percentage of floatadjusted number of shares outstanding held by ETFs
+31,mdl136_qes_etf_us_intensity_pctchg_1m,1m growth in percentage of floatadjusted number of shares outstanding held by ETFs
+32,mdl136_qes_etf_us_intensity_pctchg_3m,3m growth in percentage of floatadjusted number of shares outstanding held by ETFs
+33,mdl136_qes_etf_us_intensity_pctchg_6m,6m growth in percentage of floatadjusted number of shares outstanding held by ETFs
+34,mdl136_qes_etf_us_level,Market value held in aggregate by ETFs
+35,mdl136_qes_etf_us_level_delta_12m,12m change in market value held in aggregate by ETFs
+36,mdl136_qes_etf_us_level_delta_1m,1m change in market value held in aggregate by ETFs
+37,mdl136_qes_etf_us_level_delta_3m,3m change in market value held in aggregate by ETFs
+38,mdl136_qes_etf_us_level_delta_6m,6m change in market value held in aggregate by ETFs
+39,mdl136_qes_etf_us_level_pctchg_12m,12m growth in market value held in aggregate by ETFs
+40,mdl136_qes_etf_us_level_pctchg_3m,3m growth in market value held in aggregate by ETFs
+41,mdl136_qes_etf_us_level_pctchg_6m,6m growth in market value held in aggregate by ETFs
+42,mdl136_qes_etf_us_popularity,Number of ETFs holding the stock
+43,mdl136_qes_etf_us_popularity_delta_1m,1m change in number of ETFs holding the stock
+44,mdl136_qes_etf_us_popularity_delta_3m,3m change in number of ETFs holding the stock

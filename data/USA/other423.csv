@@ -1,0 +1,18 @@
+,id,description
+0,oth423_b_mtl_dlyspe,Earnings Yield
+1,oth423_cfrnoa,Cash Flow Return/Asset
+2,oth423_div_payout,Dividend Payout
+3,oth423_divyld,Dividend Yield
+4,oth423_divyld_exp,Exp. Dividend Yield
+5,oth423_find,Find score
+6,oth423_gva_mmocer_se,Sell side average recommendation for the stock
+7,oth423_m1m21_ntr,Momentum Neutralized
+8,oth423_m3r_mtn_spd_se,DPS Revision
+9,oth423_m3r_mtn_spe_se,EPS Revision
+10,oth423_mktcap,Market Cap
+11,oth423_news_sent_3m,News Sentiment Change
+12,oth423_ntr_pt,Target Price Return
+13,oth423_roe,Return on Equity
+14,oth423_spd_rtni_rg,Dividend Growth
+15,oth423_spe_rtni_rg,Earnings Growth
+16,oth423_ve_fcf,Free Cash Flow

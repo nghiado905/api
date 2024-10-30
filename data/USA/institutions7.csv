@@ -1,0 +1,14 @@
+,id,description
+0,inst7_activistcrowding,% of stock (active funds)
+1,inst7_consensus,% of funds owning the stock
+2,inst7_eventdrivencrowding,% of stock (Event Driven Funds)
+3,inst7_fcrowding,% of stock (hedge-funds)
+4,inst7_healthcarefocusedcrowding,% of stock (Healthcare Funds)
+5,inst7_mmcrowding,% of stock (multi fund managers)
+6,inst7_perf20day,Score representing fund performance based on last 5 days.High score indicates that the holders are underperforming & vice versa
+7,inst7_perf5day,Score representing fund performance based on last 5 days.High score indicates that the holders are underperforming & vice versa
+8,inst7_perf60day,Score representing fund performance based on last 60 days. High score indicates that the holders are underperforming & vice versa
+9,inst7_quantscrowding,% of stock (quant funds)
+10,inst7_techfocusedcrowding,% of stock (Tech Funds)
+11,inst7_tigercubscrowding,% of stock (Tiger Cubs manager)
+12,inst7_turnover,Score representing turnover of holders of security.

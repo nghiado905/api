@@ -1,0 +1,34 @@
+,id,description
+0,mdl54_daily_ets_bias,"A alpha signal with ""bias"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+1,mdl54_daily_ets_bias_signal,"A alpha signal using ""ETC_Bias "". Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+2,mdl54_daily_ets_confirmation,"A alpha signal with ""confirmation"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+3,mdl54_daily_ets_fast,"A alpha signal with ""fast"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+4,mdl54_daily_ets_std,"A alpha signal with ""std"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+5,mdl54_dma_daily,It is daily displaced moving average based signal. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0).
+6,mdl54_dma_monthly,It is monthly displaced moving average based signal. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0).
+7,mdl54_dma_weekly,It is weekly displaced moving average based signal. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0).
+8,mdl54_ec_daily,The daily erlagner crossover indicator. Vendor doesn't explicitly explain what it is. No unit signal (value +/-1).
+9,mdl54_ec_daily_signal,The signal generated from daily erlagner crossover indicator.  No unit signal (value from -200.0-200.0).
+10,mdl54_ec_daily_spread,The momentum strength of EC_Daily_Signal. No unit signal (value from 0.0-000.0).
+11,mdl54_ec_monthly,The monthly erlagner crossover indicator. Vendor doesn't explicitly explain what it is. No unit signal (value +/-1).
+12,mdl54_ec_monthly_signal,The signal generated from monthly erlagner crossover indicator.  No unit signal (value from -200.0-200.0).
+13,mdl54_ec_monthly_spread,The momentum strength of EC_Monthly_Signal. No unit signal (value from 0.0-000.0).
+14,mdl54_ec_weekly,The weekly erlagner crossover indicator. Vendor doesn't explicitly explain what it is. No unit signal (value +/-1).
+15,mdl54_ec_weekly_signal,The signal generated from weekly erlagner crossover indicator.   No unit signal (value from -200.0-200.0).
+16,mdl54_ec_weekly_spread,The momentum strength of EC_Weekly_Signal. No unit signal (value from 0.0-000.0).
+17,mdl54_ezlm_month,"It is monthly EZLM. ""Erlanger Zero Lag Momentum is a bias indicator in given time frame."
+18,mdl54_group_avg_evs,Erlanger Volume Swing (EVS) index is a ratio between up and down volume. This is the monthly version. Value from [0.0-100.0]
+19,mdl54_high,high price
+20,mdl54_low,low price
+21,mdl54_monthly_ets_bias,"A alpha signal with ""bias"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+22,mdl54_monthly_ets_bias_signal,"A alpha signal using ""ETC_Bias "". Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+23,mdl54_monthly_ets_confirmation,"A alpha signal with ""confirmation"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+24,mdl54_monthly_ets_fast,"A alpha signal with ""fast"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+25,mdl54_monthly_ets_std,"A alpha signal with ""std"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+26,mdl54_monthly_evs,Erlanger Volume Swing (EVS) index is a ratio between up and down volume. This is the monthly version. Value from [0.0-100.0]
+27,mdl54_price,close price
+28,mdl54_weekly_ets_bias,"A alpha signal with ""bias"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+29,mdl54_weekly_ets_bias_signal,"A alpha signal using ""ETC_Bias "". Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+30,mdl54_weekly_ets_confirmation,"A alpha signal with ""confirmation"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+31,mdl54_weekly_ets_fast,"A alpha signal with ""fast"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."
+32,mdl54_weekly_ets_std,"A alpha signal with ""std"" concept. Vendor doesn't explicitly explain what it is. No unit signal (value from 0.0-100.0)."

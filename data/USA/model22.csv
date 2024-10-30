@@ -1,0 +1,2 @@
+,id,description
+0,mdl22_fundamentalfocusrank,"Each stock has rank one value from 0 to 100 each week. When value greater than 90, that means we should buy this stock When value less than 10, we should sell this stock. For the others, they should be neutral"

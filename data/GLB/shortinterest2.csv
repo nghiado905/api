@@ -1,0 +1,7 @@
+,id,description
+0,shrt2_t12m_volatility_rank,the 1~100 percentile rank of the stock versus all other US trading stocks on traiiling 12 month volatility
+1,shrt2_t3m_volatility_rank,the 1~100 percentile rank of the stock versus all other US trading stocks on traiiling 3 month volatility
+3,star_si_country_rank,the 1~100 percentile rank of the stock versus all other US trading stocks
+4,star_si_country_rank_unadj,"the 1~100 percentile rank of the stock versus all other US trading stocks, prior to being adjusted for arbitrage trading strategies"
+5,star_si_insown_pct,institutional ownership percentile for each fund reported in the last 2 years. Divide the total fund holding shares by the primary shares outstanding
+7,star_si_shortsqueeze_rank,"the 1~100 percentile rank of the stock versus all other US trading stocks on the short squeeze indicator, based on volatility and liquidity. For example, a score of 90 indicates that only 10% of stocks have a higher likelihood of a significant relative price rise in the next 30 days."

@@ -1,0 +1,59 @@
+,id,description
+0,shrt10_730_standalone_assetsend,"Total net assets, in US $ millions, of the selected asset class/manager/fund at the end of that period."
+1,shrt10_730_standalone_assetsstart,"The assets, in US $ millions, of a the fund or share class at the beginning of the specified period"
+2,shrt10_730_standalone_bear,Specifies whether a fund is inversely single leveraged
+3,shrt10_730_standalone_bear2x,Specifies whether a fund is inversely leveraged 2x
+4,shrt10_730_standalone_bear3x,Specifies whether a fund is inversely leveraged 3x
+5,shrt10_730_standalone_commodity,Specifies whether the fund invests solely in physical commodity futures
+6,shrt10_730_standalone_dividend,Specifies whether a fund invests in high dividend paying investments
+7,shrt10_730_standalone_flow,"The flows into or out of the selected asset class/manager/fund, in US $ millions, by frequency during the specified date range."
+8,shrt10_730_standalone_flowpct,"The flows into or out of the selected asset class/manager/fund, as a percentage of the total net assets."
+9,shrt10_730_standalone_frontier,Specifies whether the fund invests solely in frontier markets
+10,shrt10_730_standalone_fte,Specifies whether a fund is an ETF (Y) or mutual fund (N)
+11,shrt10_730_standalone_hedge_yn,Specifies whether this fund is directly related to hedge fund investment
+12,shrt10_730_standalone_islamic_yn,Specifies whether a fund follows Sharia law
+13,shrt10_730_standalone_leverage1x,Specifies whether a fund is positively single leveraged
+14,shrt10_730_standalone_leverage2x,Specifies whether a fund is positively leveraged 2x
+15,shrt10_730_standalone_leverage3x,Specifies whether a fund is positively leveraged 3x
+16,shrt10_730_standalone_portfoliochangepct,"The change in the underlying value of the assets, expressed in %, by frequency during the date range."
+17,shrt10_730_standalone_sni,Specifies whether a fund is insurance linked
+18,shrt10_730_standalone_syn,"Specifies whether this fund focuses on Socially Responsible Investing (SRI) or Environmental, Social and Governance; ESG factors are a subset of non financial performance indicators that includes sustainable, ethical and corporate governance issues"
+19,shrt10_900_standalone_assetsend,"Total net assets, in US $ millions, of the selected asset class/manager/fund at the end of that period."
+20,shrt10_900_standalone_assetsstart,"The assets, in US $ millions, of a the fund or share class at the beginning of the specified period"
+21,shrt10_900_standalone_bear,Specifies whether a fund is inversely single leveraged
+22,shrt10_900_standalone_bear2x,Specifies whether a fund is inversely leveraged 2x
+23,shrt10_900_standalone_bear3x,Specifies whether a fund is inversely leveraged 3x
+24,shrt10_900_standalone_commodity,Specifies whether the fund invests solely in physical commodity futures
+25,shrt10_900_standalone_dividend,Specifies whether a fund invests in high dividend paying investments
+26,shrt10_900_standalone_flow,"The flows into or out of the selected asset class/manager/fund, in US $ millions, by frequency during the specified date range."
+27,shrt10_900_standalone_flowpct,"The flows into or out of the selected asset class/manager/fund, as a percentage of the total net assets."
+28,shrt10_900_standalone_frontier,Specifies whether the fund invests solely in frontier markets
+29,shrt10_900_standalone_fte,Specifies whether a fund is an ETF (Y) or mutual fund (N)
+30,shrt10_900_standalone_hedge_yn,Specifies whether this fund is directly related to hedge fund investment
+31,shrt10_900_standalone_islamic_yn,Specifies whether a fund follows Sharia law
+32,shrt10_900_standalone_leverage1x,Specifies whether a fund is positively single leveraged
+33,shrt10_900_standalone_leverage2x,Specifies whether a fund is positively leveraged 2x
+34,shrt10_900_standalone_leverage3x,Specifies whether a fund is positively leveraged 3x
+35,shrt10_900_standalone_portfoliochangepct,"The change in the underlying value of the assets, expressed in %, by frequency during the date range."
+36,shrt10_900_standalone_sni,Specifies whether a fund is insurance linked
+37,shrt10_900_standalone_syn,"Specifies whether this fund focuses on Socially Responsible Investing (SRI) or Environmental, Social and Governance; ESG factors are a subset of non financial performance indicators that includes sustainable, ethical and corporate governance issues"
+38,shrt10_standalone_assetsend,"Total net assets, in US $ millions, of the selected asset class/manager/fund at the end of that period."
+39,shrt10_standalone_assetsstart,"The assets, in US $ millions, of a the fund or share class at the beginning of the specified period"
+40,shrt10_standalone_bear,Specifies whether a fund is inversely single leveraged
+41,shrt10_standalone_bear2x,Specifies whether a fund is inversely leveraged 2x
+42,shrt10_standalone_bear3x,Specifies whether a fund is inversely leveraged 3x
+43,shrt10_standalone_commodity,Specifies whether the fund invests solely in physical commodity futures
+44,shrt10_standalone_dividend,Specifies whether a fund invests in high dividend paying investments
+45,shrt10_standalone_flow,"The flows into or out of the selected asset class/manager/fund, in US $ millions, by frequency during the specified date range."
+46,shrt10_standalone_flowpct,"The flows into or out of the selected asset class/manager/fund, as a percentage of the total net assets."
+47,shrt10_standalone_forexchange,The foreign exchange rate change that has affected the price of the assets.
+48,shrt10_standalone_frontier,Specifies whether the fund invests solely in frontier markets
+49,shrt10_standalone_fte,Specifies whether a fund is an ETF (Y) or mutual fund (N)
+50,shrt10_standalone_hedge_yn,Specifies whether this fund is directly related to hedge fund investment
+51,shrt10_standalone_islamic_yn,Specifies whether a fund follows Sharia law
+52,shrt10_standalone_leverage1x,Specifies whether a fund is positively single leveraged
+53,shrt10_standalone_leverage2x,Specifies whether a fund is positively leveraged 2x
+54,shrt10_standalone_leverage3x,Specifies whether a fund is positively leveraged 3x
+55,shrt10_standalone_portfoliochangepct,"The change in the underlying value of the assets, expressed in %, by frequency during the date range."
+56,shrt10_standalone_sni,Specifies whether a fund is insurance linked
+57,shrt10_standalone_syn,"Specifies whether this fund focuses on Socially Responsible Investing (SRI) or Environmental, Social and Governance; ESG factors are a subset of non financial performance indicators that includes sustainable, ethical and corporate governance issues"

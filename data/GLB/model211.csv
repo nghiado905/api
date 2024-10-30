@@ -1,0 +1,97 @@
+,id,description
+0,mdl211_delta_epsq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 eps
+1,mdl211_delta_epsq_q1_madp,Mean of absolute deviation of predicted values for Q1 eps
+2,mdl211_delta_epsq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 eps
+3,mdl211_delta_epsq_q1_predict,Predicted value of Q1 eps
+4,mdl211_delta_epsq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 eps
+5,mdl211_delta_epsq_q2_madp,Mean of absolute deviation of predicted values for Q2 eps
+6,mdl211_delta_epsq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 eps
+7,mdl211_delta_epsq_q2_predict,Predicted value of Q2 eps
+8,mdl211_delta_epsq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 eps
+9,mdl211_delta_epsq_q3_madp,Mean of absolute deviation of predicted values for Q3 eps
+10,mdl211_delta_epsq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 eps
+11,mdl211_delta_epsq_q3_predict,Predicted value of Q3 eps
+12,mdl211_delta_epsq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 eps
+13,mdl211_delta_epsq_q4_madp,Mean of absolute deviation of predicted values for Q4 eps
+14,mdl211_delta_epsq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 eps
+15,mdl211_delta_epsq_q4_predict,Predicted value of Q4 eps
+16,mdl211_delta_epsy_y1_mada,Mean of absolute deviation of scaled actual values for annual eps
+17,mdl211_delta_epsy_y1_madp,Mean of absolute deviation of predicted values for annual eps
+18,mdl211_delta_epsy_y1_mae,Mean of absolute error of the model of a particular stock for annual eps
+19,mdl211_delta_epsy_y1_predict,Predicted value of annual eps
+20,mdl211_delta_salq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 sales
+21,mdl211_delta_salq_q1_madp,Mean of absolute deviation of predicted values for Q1 sales
+22,mdl211_delta_salq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 sales
+23,mdl211_delta_salq_q1_predict,Predicted value of Q1 sales
+24,mdl211_delta_salq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 sales
+25,mdl211_delta_salq_q2_madp,Mean of absolute deviation of predicted values for Q2 sales
+26,mdl211_delta_salq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 sales
+27,mdl211_delta_salq_q2_predict,Predicted value of Q2 sales
+28,mdl211_delta_salq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 sales
+29,mdl211_delta_salq_q3_madp,Mean of absolute deviation of predicted values for Q3 sales
+30,mdl211_delta_salq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 sales
+31,mdl211_delta_salq_q3_predict,Predicted value of Q3 sales
+32,mdl211_delta_salq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 sales
+33,mdl211_delta_salq_q4_madp,Mean of absolute deviation of predicted values for Q4 sales
+34,mdl211_delta_salq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 sales
+35,mdl211_delta_salq_q4_predict,Predicted value of Q4 sales
+36,mdl211_delta_saly_y1_mada,Mean of absolute deviation of scaled actual values for annual sales
+37,mdl211_delta_saly_y1_madp,Mean of absolute deviation of predicted values for annual sales
+38,mdl211_delta_saly_y1_mae,Mean of absolute error of the model of a particular stock for annual sales
+39,mdl211_delta_saly_y1_predict,Predicted value of annual sales
+40,mdl211_epsq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 eps
+41,mdl211_epsq_q1_madp,Mean of absolute deviation of predicted values for Q1 eps
+42,mdl211_epsq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 eps
+43,mdl211_epsq_q1_predict,Predicted value of Q1 eps
+44,mdl211_epsq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 eps
+45,mdl211_epsq_q2_madp,Mean of absolute deviation of predicted values for Q2 eps
+46,mdl211_epsq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 eps
+47,mdl211_epsq_q2_predict,Predicted value of Q2 eps
+48,mdl211_epsq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 eps
+49,mdl211_epsq_q3_madp,Mean of absolute deviation of predicted values for Q3 eps
+50,mdl211_epsq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 eps
+51,mdl211_epsq_q3_predict,Predicted value of Q3 eps
+52,mdl211_epsq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 eps
+53,mdl211_epsq_q4_madp,Mean of absolute deviation of predicted values for Q4 eps
+54,mdl211_epsq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 eps
+55,mdl211_epsq_q4_predict,Predicted value of Q4 eps
+56,mdl211_epsy_y1_mada,Mean of absolute deviation of scaled actual values for annual eps
+57,mdl211_epsy_y1_madp,Mean of absolute deviation of predicted values for annual eps
+58,mdl211_epsy_y1_mae,Mean of absolute error of the model of a particular stock for annual eps
+59,mdl211_epsy_y1_predict,Predicted value of annual eps
+60,mdl211_netq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 net income
+61,mdl211_netq_q1_madp,Mean of absolute deviation of predicted values for Q1 net income
+62,mdl211_netq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 net income
+63,mdl211_netq_q1_predict,Predicted value of Q1 net income
+64,mdl211_netq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 net income
+65,mdl211_netq_q2_madp,Mean of absolute deviation of predicted values for Q2 net income
+66,mdl211_netq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 net income
+67,mdl211_netq_q2_predict,Predicted value of Q2 net income
+68,mdl211_netq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 net income
+69,mdl211_netq_q3_madp,Mean of absolute deviation of predicted values for Q3 net income
+70,mdl211_netq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 net income
+71,mdl211_netq_q3_predict,Predicted value of Q3 net income
+72,mdl211_netq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 net income
+73,mdl211_netq_q4_madp,Mean of absolute deviation of predicted values for Q4 net income
+74,mdl211_netq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 net income
+75,mdl211_netq_q4_predict,Predicted value of Q4 net income
+76,mdl211_nety_y1_mada,Mean of absolute deviation of scaled actual values for annual net income
+77,mdl211_nety_y1_madp,Mean of absolute deviation of predicted values for annual net income
+78,mdl211_nety_y1_mae,Mean of absolute error of the model of a particular stock for annual net income
+79,mdl211_nety_y1_predict,Predicted value of annual net income
+80,mdl211_salq_q1_mada,Mean of absolute deviation of scaled actual values for Q1 sales
+81,mdl211_salq_q1_madp,Mean of absolute deviation of predicted values for Q1 sales
+82,mdl211_salq_q1_mae,Mean of absolute error of the model of a particular stock for Q1 sales
+83,mdl211_salq_q1_predict,Predicted value of Q1 sales
+84,mdl211_salq_q2_mada,Mean of absolute deviation of scaled actual values for Q2 sales
+85,mdl211_salq_q2_madp,Mean of absolute deviation of predicted values for Q2 sales
+86,mdl211_salq_q2_mae,Mean of absolute error of the model of a particular stock for Q2 sales
+87,mdl211_salq_q2_predict,Predicted value of Q2 sales
+88,mdl211_salq_q3_mada,Mean of absolute deviation of scaled actual values for Q3 sales
+89,mdl211_salq_q3_madp,Mean of absolute deviation of predicted values for Q3 sales
+90,mdl211_salq_q3_mae,Mean of absolute error of the model of a particular stock for Q3 sales
+91,mdl211_salq_q3_predict,Predicted value of Q3 sales
+92,mdl211_salq_q4_mada,Mean of absolute deviation of scaled actual values for Q4 sales
+93,mdl211_salq_q4_madp,Mean of absolute deviation of predicted values for Q4 sales
+94,mdl211_salq_q4_mae,Mean of absolute error of the model of a particular stock for Q4 sales
+95,mdl211_salq_q4_predict,Predicted value of Q4 sales

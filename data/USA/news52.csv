@@ -1,0 +1,19 @@
+,id,description
+0,mws52_chars_in_presentation,Number of chars in presentation
+1,mws52_chars_in_qa,Number of chars in Q&A
+2,mws52_conference_call_participants,Number of conference call participants
+3,mws52_corporate_participants,Number of corporate participants
+4,mws52_eventtype,Type of conference call event
+5,mws52_expirationtime,Expiration time of the event
+6,mws52_lastuptime,Last update time
+10,mws52_paragraphs_in_presentation,Number of paragraph in presentation
+14,mws52_pparagraphs_in_qa,Number of paragraph in Q&A
+15,mws52_questions_in_presentation,Number of questions in presentation
+16,mws52_questions_in_qa,Number of questions in Q&A
+17,mws52_sentences_in_presentation,Number of sentences in presentation
+18,mws52_sentences_in_qa,Number of sentences in Q&A
+19,mws52_starttime,Start time of the event
+20,mws52_talks_in_presentation,Number of talks in presentation
+21,mws52_talks_in_qa,Number of talks in Q&A
+22,mws52_words_in_presentation,Number of words in presentation
+23,mws52_words_in_qa,Number of words in Q&A

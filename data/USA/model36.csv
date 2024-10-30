@@ -1,0 +1,12 @@
+,id,description
+0,mdl36_index_rating,Financial health rating
+1,star_sr_country_rank,Financial health rank in this country
+2,star_sr_coverage,Financial health score: coverage
+3,star_sr_global_rank,Financial health rank
+4,star_sr_growth,Financial health score: growth
+5,star_sr_industr_rank,Financial health rank in this industry
+6,star_sr_leverage,Financial health score: leverage
+7,star_sr_liquidity,Financial health score: liquidity
+8,star_sr_profitability,Financial health score: profitability
+9,star_sr_region_rank,Financial health rank in this region
+10,star_sr_sector_rank,Financial health rank in this sector

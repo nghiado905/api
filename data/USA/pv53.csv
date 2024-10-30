@@ -1,0 +1,6 @@
+,id,description
+0,pv53_beta_vix_normalized,Beta VIX normalized
+1,pv53_logreturns5_normalized,Normalized log returns for 5 days
+2,pv53_usa_uber_beta_ung_125_normalized,Beta information
+3,pv53_usa_uber_beta_uso_125_normalized,Beta information
+4,pv53_weights,Weight information

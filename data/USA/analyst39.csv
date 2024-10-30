@@ -1,0 +1,38 @@
+,id,description
+0,anl39_aepsinclxo,EPS including extraordinary items - most recent fiscal year
+1,anl39_agrosmgn,Gross Margin - 1st historical fiscal year
+2,anl39_agrosmgn2,Gross Margin - 2nd historical fiscal year
+3,anl39_analyststart,Analyst start date
+4,anl39_atanbvps,Book value (tangible) per share - most recent fiscal year
+5,anl39_bvpsmean,Mean book value per share
+6,anl39_cfpsmean,Mean cash flow per share
+7,anl39_curfperiodend,Current fiscal period end
+8,anl39_curfyearend,Current fiscal year end
+9,anl39_curperiodtype,Type of current period
+10,anl39_cursharesoutstanding,Current shares outstanding
+11,anl39_divmean,Mean dividend per share
+12,anl39_epschngin,EPS Change % - prior quarter
+13,anl39_epschngyri,EPS Change % - year to date
+14,anl39_epsmean,Mean earnings per share
+15,anl39_ghcspea,EPS Change % - year over year
+16,anl39_ghcspemtt,"EPS Change %, TTM over TTM"
+17,anl39_grosmgn5yr,Gross Margin - 5 year average
+18,anl39_ptmepsincx,EPS including extraordinary items - prior trailing 12 month
+19,anl39_qepsinclxo,EPS including extraordinary items - most recent quarter
+20,anl39_qgrosmgn,Gross Margin - most recent quarter
+21,anl39_qtanbvps,Book value (tangible) per share - most recent quarter
+22,anl39_qtotd2eq,Total debt/total equity - most recent quarter
+23,anl39_qtotd2eq2,"Total debt/total equity - most recent quarter, 1 year ago"
+24,anl39_rasv2_atotd2eq,Total debt/total equity - most recent fiscal year
+25,anl39_rkdrepnomap,Company report number
+26,anl39_rkdxrefmap,Company xref
+27,anl39_roxlcxspea,EPS excluding extraordinary items - most recent fiscal year
+28,anl39_roxlcxspeq,EPS excluding extraordinary items - most recent quarter
+29,anl39_rygnhcspe,EPS Change % - most recent quarter 1 year ago
+30,anl39_spvba,Book value (Common Equity) per share - most recent fiscal year
+31,anl39_spvbq,Book value (Common Equity) per share - most recent quarter
+32,anl39_ttmepsincx,EPS including extraordinary items - trailing 12 month
+33,anl39_ttmgrosmgn,Gross Margin - trailing 12 month
+34,anl39_xlcxspemtp,EPS excluding extraordinary items - prior trailing 12 month
+35,anl39_xlcxspemtt,EPS excluding extraordinary items - trailing 12 month
+36,anl39_xrefmap,Company xref

@@ -1,0 +1,5 @@
+,id,description
+0,mdl44_marketcap,Market capitalization in $000's
+1,mdl44_overallscore,Overall participant score for the stock
+2,mdl44_previousscore,"Company level participant score from previous week,null values are negative"
+3,mdl44_statusindicator,"a character to tell whether current score is revised (R), decayed (D) or unchanged (N) from previous score"

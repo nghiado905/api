@@ -1,0 +1,6 @@
+,id,description
+0,mdl12_1mt,Combined score of all components
+1,mdl12_factor_momentum_component,Momentum component score
+2,mdl12_liquidity_shock_component,Liquidity component score
+3,mdl12_reversal_component,Reversal component score
+4,mdl12_seasonality_component,Seasonality component score

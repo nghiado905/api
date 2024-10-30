@@ -1,0 +1,1318 @@
+,id,description
+0,act_12m_bps_value,actual book value per share regarding the last 4 quarters
+1,act_12m_cps_value,actual cash flow per share regarding the last 4 quarters
+2,act_12m_cpx_value,actual capital expenditure regarding the last 4 quarters
+3,act_12m_dps_value,actual dividend per share regarding the last 4 quarters
+4,act_12m_ebi_value,actual EBIT regarding the last 4 quarters
+5,act_12m_ebt_value,actual EBITDA regarding the last 4 quarters
+6,act_12m_eps_value,actual earnings per share regarding the last 4 quarters
+7,act_12m_gps_value,actual GAAP earnings per share regarding the last 4 quarters
+8,act_12m_grm_value,actual gross margin in percent regarding the last 4 quarters
+9,act_12m_nav_value,actual net asset value regarding the last 4 quarters
+10,act_12m_ner_value,actual net profit as reported regarding the last 4 quarters
+11,act_12m_net_value,actual net income regarding the last 4 quarters
+12,act_12m_opr_value,actual operating profit regarding the last 4 quarters
+13,act_12m_pre_value,actual pre-tax profit regarding the last 4 quarters
+14,act_12m_prr_value,actual pretax profit as reported regarding the last 4 quarters
+15,act_12m_roa_value,actual return on assets in percent regarding the last 4 quarters
+16,act_12m_roe_value,actual return on equity in percent regarding the last 4 quarters
+17,act_12m_sal_value,actual sales/revenue regarding the last 4 quarters
+18,act_q_afo_surprisenum,Number of estimates used for surprise calc of actual adjusted funds from operations per share regarding the last quarter
+19,act_q_bps_surprisemean,Mean surprise (actual - estimate) of actual book value per share regarding the last quarter
+20,act_q_bps_surprisenum,Number of estimates used for surprise calc of actual book value per share regarding the last quarter
+21,act_q_bps_surprisestd,Standard deviation of surprise (actual - estimate) of actual book value per share regarding the last quarter
+22,act_q_bps_value,actual book value per share regarding the last quarter
+23,act_q_cps_surprisemean,Mean surprise (actual - estimate) of actual cash flow per share regarding the last quarter
+24,act_q_cps_surprisenum,Number of estimates used for surprise calc of actual cash flow per share regarding the last quarter
+25,act_q_cps_surprisestd,Standard deviation of surprise (actual - estimate) of actual cash flow per share regarding the last quarter
+26,act_q_cps_value,actual cash flow per share regarding the last quarter
+27,act_q_cpx_surprisemean,Mean surprise (actual - estimate) of actual capital expenditure regarding the last quarter
+28,act_q_cpx_surprisenum,Number of estimates used for surprise calc of actual capital expenditure regarding the last quarter
+29,act_q_cpx_surprisestd,Standard deviation of surprise (actual - estimate) of actual capital expenditure regarding the last quarter
+30,act_q_cpx_value,actual capital expenditure regarding the last quarter
+31,act_q_csh_surprisenum,Number of estimates used for surprise calc of actual cash earnings per share regarding the last quarter
+32,act_q_dps_surprisemean,Mean surprise (actual - estimate) of actual dividend per share regarding the last quarter
+33,act_q_dps_surprisenum,Number of estimates used for surprise calc of actual dividend per share regarding the last quarter
+34,act_q_dps_surprisestd,Standard deviation of surprise (actual - estimate) of actual dividend per share regarding the last quarter
+35,act_q_dps_value,actual dividend per share regarding the last quarter
+36,act_q_ebi_surprisemean,Mean surprise (actual - estimate) of actual EBIT regarding the last quarter
+37,act_q_ebi_surprisenum,Number of estimates used for surprise calc of actual EBIT regarding the last quarter
+38,act_q_ebi_surprisestd,Standard deviation of surprise (actual - estimate) of actual EBIT regarding the last quarter
+39,act_q_ebi_value,actual EBIT regarding the last quarter
+40,act_q_ebs_surprisemean,Mean surprise (actual - estimate) of actual EBITDA per share regarding the last quarter
+41,act_q_ebs_surprisenum,Number of estimates used for surprise calc of actual EBITDA per share regarding the last quarter
+42,act_q_ebs_value,actual EBITDA per share regarding the last quarter
+43,act_q_ebt_surprisemean,Mean surprise (actual - estimate) of actual EBITDA regarding the last quarter
+44,act_q_ebt_surprisestd,Standard deviation of surprise (actual - estimate) of actual EBITDA regarding the last quarter
+45,act_q_ebt_value,actual EBITDA regarding the last quarter
+46,act_q_ent_surprisenum,Number of estimates used for surprise calc of actual enterprise value regarding the last quarter
+47,act_q_eps_surprisemean,Mean surprise (actual - estimate) of actual earnings per share regarding the last quarter
+48,act_q_eps_surprisestd,Standard deviation of surprise (actual - estimate) of actual earnings per share regarding the last quarter
+49,act_q_eps_value,actual earnings per share regarding the last quarter
+50,act_q_epx_surprisenum,Number of estimates used for surprise calc of actual ? regarding the last quarter
+51,act_q_fcf_surprisemean,Mean surprise (actual - estimate) of actual free cash flow per share regarding the last quarter
+52,act_q_fcf_surprisenum,Number of estimates used for surprise calc of actual free cash flow per share regarding the last quarter
+53,act_q_fcf_surprisestd,Standard deviation of surprise (actual - estimate) of actual free cash flow per share regarding the last quarter
+54,act_q_fcf_value,actual free cash flow per share regarding the last quarter
+55,act_q_gps_surprisemean,Mean surprise (actual - estimate) of actual GAAP earnings per share regarding the last quarter
+56,act_q_gps_surprisenum,Number of estimates used for surprise calc of actual GAAP earnings per share regarding the last quarter
+57,act_q_gps_surprisestd,Standard deviation of surprise (actual - estimate) of actual GAAP earnings per share regarding the last quarter
+58,act_q_gps_value,actual GAAP earnings per share regarding the last quarter
+59,act_q_grm_surprisemean,Mean surprise (actual - estimate) of actual gross margin in percent regarding the last quarter
+60,act_q_grm_surprisenum,Number of estimates used for surprise calc of actual gross margin in percent regarding the last quarter
+61,act_q_grm_surprisestd,Standard deviation of surprise (actual - estimate) of actual gross margin in percent regarding the last quarter
+62,act_q_grm_value,actual gross margin in percent regarding the last quarter
+63,act_q_nav_surprisemean,Mean surprise (actual - estimate) of actual net asset value regarding the last quarter
+64,act_q_nav_surprisenum,Number of estimates used for surprise calc of actual net asset value regarding the last quarter
+65,act_q_nav_surprisestd,Standard deviation of surprise (actual - estimate) of actual net asset value regarding the last quarter
+66,act_q_nav_value,actual net asset value regarding the last quarter
+67,act_q_ndt_surprisemean,Mean surprise (actual - estimate) of actual net debt regarding the last quarter
+68,act_q_ndt_surprisenum,Number of estimates used for surprise calc of actual net debt regarding the last quarter
+69,act_q_ndt_surprisestd,Standard deviation of surprise (actual - estimate) of actual net debt regarding the last quarter
+70,act_q_ndt_value,actual net debt regarding the last quarter
+71,act_q_ner_surprisemean,Mean surprise (actual - estimate) of actual net profit as reported regarding the last quarter
+72,act_q_ner_surprisenum,Number of estimates used for surprise calc of actual net profit as reported regarding the last quarter
+73,act_q_ner_surprisestd,Standard deviation of surprise (actual - estimate) of actual net profit as reported regarding the last quarter
+74,act_q_ner_value,actual net profit as reported regarding the last quarter
+75,act_q_net_surprisemean,Mean surprise (actual - estimate) of actual net income regarding the last quarter
+76,act_q_net_surprisenum,Number of estimates used for surprise calc of actual net income regarding the last quarter
+77,act_q_net_surprisestd,Standard deviation of surprise (actual - estimate) of actual net income regarding the last quarter
+78,act_q_net_value,actual net income regarding the last quarter
+79,act_q_opr_surprisemean,Mean surprise (actual - estimate) of actual operating profit regarding the last quarter
+80,act_q_opr_surprisenum,Number of estimates used for surprise calc of actual operating profit regarding the last quarter
+81,act_q_opr_surprisestd,Standard deviation of surprise (actual - estimate) of actual operating profit regarding the last quarter
+82,act_q_opr_value,actual operating profit regarding the last quarter
+83,act_q_pre_surprisemean,Mean surprise (actual - estimate) of actual pre-tax profit regarding the last quarter
+84,act_q_pre_surprisestd,Standard deviation of surprise (actual - estimate) of actual pre-tax profit regarding the last quarter
+85,act_q_pre_value,actual pre-tax profit regarding the last quarter
+86,act_q_prr_surprisemean,Mean surprise (actual - estimate) of actual pretax profit as reported regarding the last quarter
+87,act_q_prr_surprisenum,Number of estimates used for surprise calc of actual pretax profit as reported regarding the last quarter
+88,act_q_prr_surprisestd,Standard deviation of surprise (actual - estimate) of actual pretax profit as reported regarding the last quarter
+89,act_q_prr_value,actual pretax profit as reported regarding the last quarter
+90,act_q_roa_surprisemean,Mean surprise (actual - estimate) of actual return on assets in percent regarding the last quarter
+91,act_q_roa_surprisenum,Number of estimates used for surprise calc of actual return on assets in percent regarding the last quarter
+92,act_q_roa_value,actual return on assets in percent regarding the last quarter
+93,act_q_roe_surprisemean,Mean surprise (actual - estimate) of actual return on equity in percent regarding the last quarter
+94,act_q_roe_surprisenum,Number of estimates used for surprise calc of actual return on equity in percent regarding the last quarter
+95,act_q_roe_surprisestd,Standard deviation of surprise (actual - estimate) of actual return on equity in percent regarding the last quarter
+96,act_q_roe_value,actual return on equity in percent regarding the last quarter
+97,act_q_sal_surprisemean,Mean surprise (actual - estimate) of actual sales/revenue regarding the last quarter
+98,act_q_sal_surprisestd,Standard deviation of surprise (actual - estimate) of actual sales/revenue regarding the last quarter
+99,act_q_sal_value,actual sales/revenue regarding the last quarter
+100,act_q_tbv_surprisemean,Mean surprise (actual - estimate) of actual tangible book value per share regarding the last quarter
+101,act_q_tbv_surprisenum,Number of estimates used for surprise calc of actual tangible book value per share regarding the last quarter
+102,annualdiv,Indicated annual dividend
+103,chgprice,Difference in weekly price today and 4 weeks ago
+104,eps_12m,Actual EPS in the last 4 quarters
+105,est_12m_bps_high,Highest analyst estimate of book value per share regarding the next 4 quarters
+106,est_12m_bps_high_3mth_ago,"Highest analyst estimate of book value per share regarding the next 4 quarters, made in past 3 months"
+107,est_12m_bps_high_4wks_ago,"Highest analyst estimate of book value per share regarding the next 4 quarters, made in past 4 weeks"
+108,est_12m_bps_low,Lowest analyst estimate of book value per share regarding the next 4 quarters
+109,est_12m_bps_low_3mth_ago,"Lowest analyst estimate of book value per share regarding the next 4 quarters, made in past 3 months"
+110,est_12m_bps_low_4wks_ago,"Lowest analyst estimate of book value per share regarding the next 4 quarters, made in past 4 weeks"
+111,est_12m_bps_lowered_1wk,"Number of lowered analyst estimate of book value per share regarding the next 4 quarters, since last weekly update"
+112,est_12m_bps_lowerednum_1mth,"Number of lowered analyst estimate of book value per share regarding the next 4 quarters, since last montly update"
+113,est_12m_bps_lowerednum_4wks,"Number of lowered analyst estimate of book value per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+114,est_12m_bps_mean,Mean analyst estimate of book value per share regarding the next 4 quarters
+115,est_12m_bps_mean_28d,"Mean analyst estimate of book value per share regarding the next 4 quarters, made in the last 28 days"
+116,est_12m_bps_mean_3mth_ago,"Mean analyst estimate of book value per share regarding the next 4 quarters, 3 made in past 3 months"
+117,est_12m_bps_mean_4wks_ago,"Mean analyst estimate of book value per share regarding the next 4 quarters, made in past 4 weeks"
+118,est_12m_bps_median,Median analyst estimate of book value per share regarding the next 4 quarters
+119,est_12m_bps_median_3mth_ago,"Median analyst estimate of book value per share regarding the next 4 quarters, made in past 3 months"
+120,est_12m_bps_median_4wks_ago,"Median analyst estimate of book value per share regarding the next 4 quarters, made in past 4 weeks"
+121,est_12m_bps_num,Number of analyst estimate of book value per share regarding the next 4 quarters
+122,est_12m_bps_num_28d,"Number of analyst estimate of book value per share regarding the next 4 quarters, made in the last 28 days"
+123,est_12m_bps_num_3mth_ago,"Number of analyst estimate of book value per share regarding the next 4 quarters, made in past 3 months"
+124,est_12m_bps_num_4wks_ago,"Number of analyst estimate of book value per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+125,est_12m_bps_raised_1wk,"Number of raised analyst estimate of book value per share regarding the next 4 quarters, compared to last weekly update"
+126,est_12m_bps_raisednum_1mth,"Number of raised analyst estimate of book value per share regarding the next 4 quarters, compared to last montly update"
+127,est_12m_bps_raisednum_4wks,"Number of raised analyst estimate of book value per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+128,est_12m_bps_std,Standard deviation of analyst estimate of book value per share regarding the next 4 quarters
+129,est_12m_bps_std_28d,"Standard deviation of the analyst estimate of book value per share regarding the next 4 quarters, made in the last 28 days"
+130,est_12m_bps_std_3mth_ago,"Standard deviation of the analyst estimate of book value per share regarding the next 4 quarters, made in past 3 months"
+131,est_12m_bps_std_4wks_ago,"Standard deviation of the analyst estimate of book value per share regarding the next 4 quarters, made in past 4 weeks"
+132,est_12m_cps_high,Highest analyst estimate of cash flow per share regarding the next 4 quarters
+133,est_12m_cps_high_3mth_ago,"Highest analyst estimate of cash flow per share regarding the next 4 quarters, made in past 3 months"
+134,est_12m_cps_high_4wks_ago,"Highest analyst estimate of cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+135,est_12m_cps_low,Lowest analyst estimate of cash flow per share regarding the next 4 quarters
+136,est_12m_cps_low_3mth_ago,"Lowest analyst estimate of cash flow per share regarding the next 4 quarters, made in past 3 months"
+137,est_12m_cps_low_4wks_ago,"Lowest analyst estimate of cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+138,est_12m_cps_lowered_1wk,"Number of lowered analyst estimate of cash flow per share regarding the next 4 quarters, since last weekly update"
+139,est_12m_cps_lowerednum_1mth,"Number of lowered analyst estimate of cash flow per share regarding the next 4 quarters, since last montly update"
+140,est_12m_cps_lowerednum_4wks,"Number of lowered analyst estimate of cash flow per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+141,est_12m_cps_mean,Mean analyst estimate of cash flow per share regarding the next 4 quarters
+142,est_12m_cps_mean_28d,"Mean analyst estimate of cash flow per share regarding the next 4 quarters, made in the last 28 days"
+143,est_12m_cps_mean_3mth_ago,"Mean analyst estimate of cash flow per share regarding the next 4 quarters, 3 made in past 3 months"
+144,est_12m_cps_mean_4wks_ago,"Mean analyst estimate of cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+145,est_12m_cps_median,Median analyst estimate of cash flow per share regarding the next 4 quarters
+146,est_12m_cps_median_3mth_ago,"Median analyst estimate of cash flow per share regarding the next 4 quarters, made in past 3 months"
+147,est_12m_cps_median_4wks_ago,"Median analyst estimate of cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+148,est_12m_cps_num,Number of analyst estimate of cash flow per share regarding the next 4 quarters
+149,est_12m_cps_num_28d,"Number of analyst estimate of cash flow per share regarding the next 4 quarters, made in the last 28 days"
+150,est_12m_cps_num_3mth_ago,"Number of analyst estimate of cash flow per share regarding the next 4 quarters, made in past 3 months"
+151,est_12m_cps_num_4wks_ago,"Number of analyst estimate of cash flow per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+152,est_12m_cps_raised_1wk,"Number of raised analyst estimate of cash flow per share regarding the next 4 quarters, compared to last weekly update"
+153,est_12m_cps_raisednum_1mth,"Number of raised analyst estimate of cash flow per share regarding the next 4 quarters, compared to last montly update"
+154,est_12m_cps_raisednum_4wks,"Number of raised analyst estimate of cash flow per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+155,est_12m_cps_std,Standard deviation of analyst estimate of cash flow per share regarding the next 4 quarters
+156,est_12m_cps_std_28d,"Standard deviation of the analyst estimate of cash flow per share regarding the next 4 quarters, made in the last 28 days"
+157,est_12m_cps_std_3mth_ago,"Standard deviation of the analyst estimate of cash flow per share regarding the next 4 quarters, made in past 3 months"
+158,est_12m_cps_std_4wks_ago,"Standard deviation of the analyst estimate of cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+159,est_12m_cpx_high,Highest analyst estimate of capital expenditure regarding the next 4 quarters
+160,est_12m_cpx_high_3mth_ago,"Highest analyst estimate of capital expenditure regarding the next 4 quarters, made in past 3 months"
+161,est_12m_cpx_high_4wks_ago,"Highest analyst estimate of capital expenditure regarding the next 4 quarters, made in past 4 weeks"
+162,est_12m_cpx_low,Lowest analyst estimate of capital expenditure regarding the next 4 quarters
+163,est_12m_cpx_low_3mth_ago,"Lowest analyst estimate of capital expenditure regarding the next 4 quarters, made in past 3 months"
+164,est_12m_cpx_low_4wks_ago,"Lowest analyst estimate of capital expenditure regarding the next 4 quarters, made in past 4 weeks"
+165,est_12m_cpx_lowered_1wk,"Number of lowered analyst estimate of capital expenditure regarding the next 4 quarters, since last weekly update"
+166,est_12m_cpx_lowerednum_1mth,"Number of lowered analyst estimate of capital expenditure regarding the next 4 quarters, since last montly update"
+167,est_12m_cpx_lowerednum_4wks,"Number of lowered analyst estimate of capital expenditure regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+168,est_12m_cpx_mean,Mean analyst estimate of capital expenditure regarding the next 4 quarters
+169,est_12m_cpx_mean_28d,"Mean analyst estimate of capital expenditure regarding the next 4 quarters, made in the last 28 days"
+170,est_12m_cpx_mean_3mth_ago,"Mean analyst estimate of capital expenditure regarding the next 4 quarters, 3 made in past 3 months"
+171,est_12m_cpx_mean_4wks_ago,"Mean analyst estimate of capital expenditure regarding the next 4 quarters, made in past 4 weeks"
+172,est_12m_cpx_median,Median analyst estimate of capital expenditure regarding the next 4 quarters
+173,est_12m_cpx_median_3mth_ago,"Median analyst estimate of capital expenditure regarding the next 4 quarters, made in past 3 months"
+174,est_12m_cpx_median_4wks_ago,"Median analyst estimate of capital expenditure regarding the next 4 quarters, made in past 4 weeks"
+175,est_12m_cpx_num,Number of analyst estimate of capital expenditure regarding the next 4 quarters
+176,est_12m_cpx_num_28d,"Number of analyst estimate of capital expenditure regarding the next 4 quarters, made in the last 28 days"
+177,est_12m_cpx_num_3mth_ago,"Number of analyst estimate of capital expenditure regarding the next 4 quarters, made in past 3 months"
+178,est_12m_cpx_num_4wks_ago,"Number of analyst estimate of capital expenditure regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+179,est_12m_cpx_raised_1wk,"Number of raised analyst estimate of capital expenditure regarding the next 4 quarters, compared to last weekly update"
+180,est_12m_cpx_raisednum_1mth,"Number of raised analyst estimate of capital expenditure regarding the next 4 quarters, compared to last montly update"
+181,est_12m_cpx_raisednum_4wks,"Number of raised analyst estimate of capital expenditure regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+182,est_12m_cpx_std,Standard deviation of analyst estimate of capital expenditure regarding the next 4 quarters
+183,est_12m_cpx_std_28d,"Standard deviation of the analyst estimate of capital expenditure regarding the next 4 quarters, made in the last 28 days"
+184,est_12m_cpx_std_3mth_ago,"Standard deviation of the analyst estimate of capital expenditure regarding the next 4 quarters, made in past 3 months"
+185,est_12m_cpx_std_4wks_ago,"Standard deviation of the analyst estimate of capital expenditure regarding the next 4 quarters, made in past 4 weeks"
+186,est_12m_dps_high,Highest analyst estimate of dividend per share regarding the next 4 quarters
+187,est_12m_dps_high_3mth_ago,"Highest analyst estimate of dividend per share regarding the next 4 quarters, made in past 3 months"
+188,est_12m_dps_high_4wks_ago,"Highest analyst estimate of dividend per share regarding the next 4 quarters, made in past 4 weeks"
+189,est_12m_dps_low,Lowest analyst estimate of dividend per share regarding the next 4 quarters
+190,est_12m_dps_low_3mth_ago,"Lowest analyst estimate of dividend per share regarding the next 4 quarters, made in past 3 months"
+191,est_12m_dps_low_4wks_ago,"Lowest analyst estimate of dividend per share regarding the next 4 quarters, made in past 4 weeks"
+192,est_12m_dps_lowered_1wk,"Number of lowered analyst estimate of dividend per share regarding the next 4 quarters, since last weekly update"
+193,est_12m_dps_lowerednum_1mth,"Number of lowered analyst estimate of dividend per share regarding the next 4 quarters, since last montly update"
+194,est_12m_dps_lowerednum_4wks,"Number of lowered analyst estimate of dividend per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+195,est_12m_dps_mean,Mean analyst estimate of dividend per share regarding the next 4 quarters
+196,est_12m_dps_mean_28d,"Mean analyst estimate of dividend per share regarding the next 4 quarters, made in the last 28 days"
+197,est_12m_dps_mean_3mth_ago,"Mean analyst estimate of dividend per share regarding the next 4 quarters, 3 made in past 3 months"
+198,est_12m_dps_mean_4wks_ago,"Mean analyst estimate of dividend per share regarding the next 4 quarters, made in past 4 weeks"
+199,est_12m_dps_median,Median analyst estimate of dividend per share regarding the next 4 quarters
+200,est_12m_dps_median_3mth_ago,"Median analyst estimate of dividend per share regarding the next 4 quarters, made in past 3 months"
+201,est_12m_dps_median_4wks_ago,"Median analyst estimate of dividend per share regarding the next 4 quarters, made in past 4 weeks"
+202,est_12m_dps_num,Number of analyst estimate of dividend per share regarding the next 4 quarters
+203,est_12m_dps_num_28d,"Number of analyst estimate of dividend per share regarding the next 4 quarters, made in the last 28 days"
+204,est_12m_dps_num_3mth_ago,"Number of analyst estimate of dividend per share regarding the next 4 quarters, made in past 3 months"
+205,est_12m_dps_num_4wks_ago,"Number of analyst estimate of dividend per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+206,est_12m_dps_raised_1wk,"Number of raised analyst estimate of dividend per share regarding the next 4 quarters, compared to last weekly update"
+207,est_12m_dps_raisednum_1mth,"Number of raised analyst estimate of dividend per share regarding the next 4 quarters, compared to last montly update"
+208,est_12m_dps_raisednum_4wks,"Number of raised analyst estimate of dividend per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+209,est_12m_dps_std,Standard deviation of analyst estimate of dividend per share regarding the next 4 quarters
+210,est_12m_dps_std_28d,"Standard deviation of the analyst estimate of dividend per share regarding the next 4 quarters, made in the last 28 days"
+211,est_12m_dps_std_3mth_ago,"Standard deviation of the analyst estimate of dividend per share regarding the next 4 quarters, made in past 3 months"
+212,est_12m_dps_std_4wks_ago,"Standard deviation of the analyst estimate of dividend per share regarding the next 4 quarters, made in past 4 weeks"
+213,est_12m_ebi_high,Highest analyst estimate of EBIT regarding the next 4 quarters
+214,est_12m_ebi_high_3mth_ago,"Highest analyst estimate of EBIT regarding the next 4 quarters, made in past 3 months"
+215,est_12m_ebi_high_4wks_ago,"Highest analyst estimate of EBIT regarding the next 4 quarters, made in past 4 weeks"
+216,est_12m_ebi_low,Lowest analyst estimate of EBIT regarding the next 4 quarters
+217,est_12m_ebi_low_3mth_ago,"Lowest analyst estimate of EBIT regarding the next 4 quarters, made in past 3 months"
+218,est_12m_ebi_low_4wks_ago,"Lowest analyst estimate of EBIT regarding the next 4 quarters, made in past 4 weeks"
+219,est_12m_ebi_lowered_1wk,"Number of lowered analyst estimate of EBIT regarding the next 4 quarters, since last weekly update"
+220,est_12m_ebi_lowerednum_1mth,"Number of lowered analyst estimate of EBIT regarding the next 4 quarters, since last montly update"
+221,est_12m_ebi_lowerednum_4wks,"Number of lowered analyst estimate of EBIT regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+222,est_12m_ebi_mean,Mean analyst estimate of EBIT regarding the next 4 quarters
+223,est_12m_ebi_mean_28d,"Mean analyst estimate of EBIT regarding the next 4 quarters, made in the last 28 days"
+224,est_12m_ebi_mean_3mth_ago,"Mean analyst estimate of EBIT regarding the next 4 quarters, 3 made in past 3 months"
+225,est_12m_ebi_mean_4wks_ago,"Mean analyst estimate of EBIT regarding the next 4 quarters, made in past 4 weeks"
+226,est_12m_ebi_median,Median analyst estimate of EBIT regarding the next 4 quarters
+227,est_12m_ebi_median_3mth_ago,"Median analyst estimate of EBIT regarding the next 4 quarters, made in past 3 months"
+228,est_12m_ebi_median_4wks_ago,"Median analyst estimate of EBIT regarding the next 4 quarters, made in past 4 weeks"
+229,est_12m_ebi_num,Number of analyst estimate of EBIT regarding the next 4 quarters
+230,est_12m_ebi_num_28d,"Number of analyst estimate of EBIT regarding the next 4 quarters, made in the last 28 days"
+231,est_12m_ebi_num_3mth_ago,"Number of analyst estimate of EBIT regarding the next 4 quarters, made in past 3 months"
+232,est_12m_ebi_num_4wks_ago,"Number of analyst estimate of EBIT regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+233,est_12m_ebi_raised_1wk,"Number of raised analyst estimate of EBIT regarding the next 4 quarters, compared to last weekly update"
+234,est_12m_ebi_raisednum_1mth,"Number of raised analyst estimate of EBIT regarding the next 4 quarters, compared to last montly update"
+235,est_12m_ebi_raisednum_4wks,"Number of raised analyst estimate of EBIT regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+236,est_12m_ebi_std,Standard deviation of analyst estimate of EBIT regarding the next 4 quarters
+237,est_12m_ebi_std_28d,"Standard deviation of the analyst estimate of EBIT regarding the next 4 quarters, made in the last 28 days"
+238,est_12m_ebi_std_3mth_ago,"Standard deviation of the analyst estimate of EBIT regarding the next 4 quarters, made in past 3 months"
+239,est_12m_ebi_std_4wks_ago,"Standard deviation of the analyst estimate of EBIT regarding the next 4 quarters, made in past 4 weeks"
+240,est_12m_ebs_high,Highest analyst estimate of EBITDA per share regarding the next 4 quarters
+241,est_12m_ebs_high_3mth_ago,"Highest analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 3 months"
+242,est_12m_ebs_high_4wks_ago,"Highest analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 4 weeks"
+243,est_12m_ebs_low,Lowest analyst estimate of EBITDA per share regarding the next 4 quarters
+244,est_12m_ebs_low_3mth_ago,"Lowest analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 3 months"
+245,est_12m_ebs_low_4wks_ago,"Lowest analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 4 weeks"
+246,est_12m_ebs_lowered_1wk,"Number of lowered analyst estimate of EBITDA per share regarding the next 4 quarters, since last weekly update"
+247,est_12m_ebs_lowerednum_1mth,"Number of lowered analyst estimate of EBITDA per share regarding the next 4 quarters, since last montly update"
+248,est_12m_ebs_lowerednum_4wks,"Number of lowered analyst estimate of EBITDA per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+249,est_12m_ebs_mean,Mean analyst estimate of EBITDA per share regarding the next 4 quarters
+250,est_12m_ebs_mean_28d,"Mean analyst estimate of EBITDA per share regarding the next 4 quarters, made in the last 28 days"
+251,est_12m_ebs_mean_3mth_ago,"Mean analyst estimate of EBITDA per share regarding the next 4 quarters, 3 made in past 3 months"
+252,est_12m_ebs_mean_4wks_ago,"Mean analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 4 weeks"
+253,est_12m_ebs_median,Median analyst estimate of EBITDA per share regarding the next 4 quarters
+254,est_12m_ebs_median_3mth_ago,"Median analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 3 months"
+255,est_12m_ebs_median_4wks_ago,"Median analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 4 weeks"
+256,est_12m_ebs_num,Number of analyst estimate of EBITDA per share regarding the next 4 quarters
+257,est_12m_ebs_num_28d,"Number of analyst estimate of EBITDA per share regarding the next 4 quarters, made in the last 28 days"
+258,est_12m_ebs_num_3mth_ago,"Number of analyst estimate of EBITDA per share regarding the next 4 quarters, made in past 3 months"
+259,est_12m_ebs_num_4wks_ago,"Number of analyst estimate of EBITDA per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+260,est_12m_ebs_raised_1wk,"Number of raised analyst estimate of EBITDA per share regarding the next 4 quarters, compared to last weekly update"
+261,est_12m_ebs_raisednum_1mth,"Number of raised analyst estimate of EBITDA per share regarding the next 4 quarters, compared to last montly update"
+262,est_12m_ebs_raisednum_4wks,"Number of raised analyst estimate of EBITDA per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+263,est_12m_ebt_high,Highest analyst estimate of EBITDA regarding the next 4 quarters
+264,est_12m_ebt_high_3mth_ago,"Highest analyst estimate of EBITDA regarding the next 4 quarters, made in past 3 months"
+265,est_12m_ebt_high_4wks_ago,"Highest analyst estimate of EBITDA regarding the next 4 quarters, made in past 4 weeks"
+266,est_12m_ebt_low,Lowest analyst estimate of EBITDA regarding the next 4 quarters
+267,est_12m_ebt_low_3mth_ago,"Lowest analyst estimate of EBITDA regarding the next 4 quarters, made in past 3 months"
+268,est_12m_ebt_low_4wks_ago,"Lowest analyst estimate of EBITDA regarding the next 4 quarters, made in past 4 weeks"
+269,est_12m_ebt_lowered_1wk,"Number of lowered analyst estimate of EBITDA regarding the next 4 quarters, since last weekly update"
+270,est_12m_ebt_lowerednum_1mth,"Number of lowered analyst estimate of EBITDA regarding the next 4 quarters, since last montly update"
+271,est_12m_ebt_lowerednum_4wks,"Number of lowered analyst estimate of EBITDA regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+272,est_12m_ebt_mean,Mean analyst estimate of EBITDA regarding the next 4 quarters
+273,est_12m_ebt_mean_28d,"Mean analyst estimate of EBITDA regarding the next 4 quarters, made in the last 28 days"
+274,est_12m_ebt_mean_3mth_ago,"Mean analyst estimate of EBITDA regarding the next 4 quarters, 3 made in past 3 months"
+275,est_12m_ebt_mean_4wks_ago,"Mean analyst estimate of EBITDA regarding the next 4 quarters, made in past 4 weeks"
+276,est_12m_ebt_median,Median analyst estimate of EBITDA regarding the next 4 quarters
+277,est_12m_ebt_median_3mth_ago,"Median analyst estimate of EBITDA regarding the next 4 quarters, made in past 3 months"
+278,est_12m_ebt_median_4wks_ago,"Median analyst estimate of EBITDA regarding the next 4 quarters, made in past 4 weeks"
+279,est_12m_ebt_num,Number of analyst estimate of EBITDA regarding the next 4 quarters
+280,est_12m_ebt_num_28d,"Number of analyst estimate of EBITDA regarding the next 4 quarters, made in the last 28 days"
+281,est_12m_ebt_num_3mth_ago,"Number of analyst estimate of EBITDA regarding the next 4 quarters, made in past 3 months"
+282,est_12m_ebt_num_4wks_ago,"Number of analyst estimate of EBITDA regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+283,est_12m_ebt_raised_1wk,"Number of raised analyst estimate of EBITDA regarding the next 4 quarters, compared to last weekly update"
+284,est_12m_ebt_raisednum_1mth,"Number of raised analyst estimate of EBITDA regarding the next 4 quarters, compared to last montly update"
+285,est_12m_ebt_raisednum_4wks,"Number of raised analyst estimate of EBITDA regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+286,est_12m_ebt_std,Standard deviation of analyst estimate of EBITDA regarding the next 4 quarters
+287,est_12m_ebt_std_28d,"Standard deviation of the analyst estimate of EBITDA regarding the next 4 quarters, made in the last 28 days"
+288,est_12m_ebt_std_3mth_ago,"Standard deviation of the analyst estimate of EBITDA regarding the next 4 quarters, made in past 3 months"
+289,est_12m_ebt_std_4wks_ago,"Standard deviation of the analyst estimate of EBITDA regarding the next 4 quarters, made in past 4 weeks"
+290,est_12m_ent_high,Highest analyst estimate of enterprise value regarding the next 4 quarters
+291,est_12m_ent_high_3mth_ago,"Highest analyst estimate of enterprise value regarding the next 4 quarters, made in past 3 months"
+292,est_12m_ent_high_4wks_ago,"Highest analyst estimate of enterprise value regarding the next 4 quarters, made in past 4 weeks"
+293,est_12m_ent_low,Lowest analyst estimate of enterprise value regarding the next 4 quarters
+294,est_12m_ent_low_3mth_ago,"Lowest analyst estimate of enterprise value regarding the next 4 quarters, made in past 3 months"
+295,est_12m_ent_low_4wks_ago,"Lowest analyst estimate of enterprise value regarding the next 4 quarters, made in past 4 weeks"
+296,est_12m_ent_lowered_1wk,"Number of lowered analyst estimate of enterprise value regarding the next 4 quarters, since last weekly update"
+297,est_12m_ent_lowerednum_1mth,"Number of lowered analyst estimate of enterprise value regarding the next 4 quarters, since last montly update"
+298,est_12m_ent_lowerednum_4wks,"Number of lowered analyst estimate of enterprise value regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+299,est_12m_ent_mean,Mean analyst estimate of enterprise value regarding the next 4 quarters
+300,est_12m_ent_mean_28d,"Mean analyst estimate of enterprise value regarding the next 4 quarters, made in the last 28 days"
+301,est_12m_ent_mean_3mth_ago,"Mean analyst estimate of enterprise value regarding the next 4 quarters, 3 made in past 3 months"
+302,est_12m_ent_mean_4wks_ago,"Mean analyst estimate of enterprise value regarding the next 4 quarters, made in past 4 weeks"
+303,est_12m_ent_median,Median analyst estimate of enterprise value regarding the next 4 quarters
+304,est_12m_ent_median_3mth_ago,"Median analyst estimate of enterprise value regarding the next 4 quarters, made in past 3 months"
+305,est_12m_ent_median_4wks_ago,"Median analyst estimate of enterprise value regarding the next 4 quarters, made in past 4 weeks"
+306,est_12m_ent_num,Number of analyst estimate of enterprise value regarding the next 4 quarters
+307,est_12m_ent_num_28d,"Number of analyst estimate of enterprise value regarding the next 4 quarters, made in the last 28 days"
+308,est_12m_ent_num_3mth_ago,"Number of analyst estimate of enterprise value regarding the next 4 quarters, made in past 3 months"
+309,est_12m_ent_num_4wks_ago,"Number of analyst estimate of enterprise value regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+310,est_12m_ent_raised_1wk,"Number of raised analyst estimate of enterprise value regarding the next 4 quarters, compared to last weekly update"
+311,est_12m_ent_raisednum_1mth,"Number of raised analyst estimate of enterprise value regarding the next 4 quarters, compared to last montly update"
+312,est_12m_ent_raisednum_4wks,"Number of raised analyst estimate of enterprise value regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+313,est_12m_ent_std,Standard deviation of analyst estimate of enterprise value regarding the next 4 quarters
+314,est_12m_ent_std_28d,"Standard deviation of the analyst estimate of enterprise value regarding the next 4 quarters, made in the last 28 days"
+315,est_12m_ent_std_3mth_ago,"Standard deviation of the analyst estimate of enterprise value regarding the next 4 quarters, made in past 3 months"
+316,est_12m_ent_std_4wks_ago,"Standard deviation of the analyst estimate of enterprise value regarding the next 4 quarters, made in past 4 weeks"
+317,est_12m_eps_high,Highest analyst estimate of earnings per share regarding the next 4 quarters
+318,est_12m_eps_high_3mth_ago,"Highest analyst estimate of earnings per share regarding the next 4 quarters, made in past 3 months"
+319,est_12m_eps_high_4wks_ago,"Highest analyst estimate of earnings per share regarding the next 4 quarters, made in past 4 weeks"
+320,est_12m_eps_low,Lowest analyst estimate of earnings per share regarding the next 4 quarters
+321,est_12m_eps_low_3mth_ago,"Lowest analyst estimate of earnings per share regarding the next 4 quarters, made in past 3 months"
+322,est_12m_eps_low_4wks_ago,"Lowest analyst estimate of earnings per share regarding the next 4 quarters, made in past 4 weeks"
+323,est_12m_eps_lowered_1wk,"Number of lowered analyst estimate of earnings per share regarding the next 4 quarters, since last weekly update"
+324,est_12m_eps_lowerednum_1mth,"Number of lowered analyst estimate of earnings per share regarding the next 4 quarters, since last montly update"
+325,est_12m_eps_lowerednum_4wks,"Number of lowered analyst estimate of earnings per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+326,est_12m_eps_mean,Mean analyst estimate of earnings per share regarding the next 4 quarters
+327,est_12m_eps_mean_28d,"Mean analyst estimate of earnings per share regarding the next 4 quarters, made in the last 28 days"
+328,est_12m_eps_mean_3mth_ago,"Mean analyst estimate of earnings per share regarding the next 4 quarters, 3 made in past 3 months"
+329,est_12m_eps_mean_4wks_ago,"Mean analyst estimate of earnings per share regarding the next 4 quarters, made in past 4 weeks"
+330,est_12m_eps_median,Median analyst estimate of earnings per share regarding the next 4 quarters
+331,est_12m_eps_median_3mth_ago,"Median analyst estimate of earnings per share regarding the next 4 quarters, made in past 3 months"
+332,est_12m_eps_median_4wks_ago,"Median analyst estimate of earnings per share regarding the next 4 quarters, made in past 4 weeks"
+333,est_12m_eps_num,Number of analyst estimate of earnings per share regarding the next 4 quarters
+334,est_12m_eps_num_28d,"Number of analyst estimate of earnings per share regarding the next 4 quarters, made in the last 28 days"
+335,est_12m_eps_num_3mth_ago,"Number of analyst estimate of earnings per share regarding the next 4 quarters, made in past 3 months"
+336,est_12m_eps_num_4wks_ago,"Number of analyst estimate of earnings per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+337,est_12m_eps_raised_1wk,"Number of raised analyst estimate of earnings per share regarding the next 4 quarters, compared to last weekly update"
+338,est_12m_eps_raisednum_1mth,"Number of raised analyst estimate of earnings per share regarding the next 4 quarters, compared to last montly update"
+339,est_12m_eps_raisednum_4wks,"Number of raised analyst estimate of earnings per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+340,est_12m_eps_std,Standard deviation of analyst estimate of earnings per share regarding the next 4 quarters
+341,est_12m_eps_std_28d,"Standard deviation of the analyst estimate of earnings per share regarding the next 4 quarters, made in the last 28 days"
+342,est_12m_eps_std_3mth_ago,"Standard deviation of the analyst estimate of earnings per share regarding the next 4 quarters, made in past 3 months"
+343,est_12m_eps_std_4wks_ago,"Standard deviation of the analyst estimate of earnings per share regarding the next 4 quarters, made in past 4 weeks"
+344,est_12m_fcf_high,Highest analyst estimate of free cash flow per share regarding the next 4 quarters
+345,est_12m_fcf_high_3mth_ago,"Highest analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 3 months"
+346,est_12m_fcf_high_4wks_ago,"Highest analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+347,est_12m_fcf_low,Lowest analyst estimate of free cash flow per share regarding the next 4 quarters
+348,est_12m_fcf_low_3mth_ago,"Lowest analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 3 months"
+349,est_12m_fcf_low_4wks_ago,"Lowest analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+350,est_12m_fcf_lowered_1wk,"Number of lowered analyst estimate of free cash flow per share regarding the next 4 quarters, since last weekly update"
+351,est_12m_fcf_lowerednum_1mth,"Number of lowered analyst estimate of free cash flow per share regarding the next 4 quarters, since last montly update"
+352,est_12m_fcf_lowerednum_4wks,"Number of lowered analyst estimate of free cash flow per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+353,est_12m_fcf_mean,Mean analyst estimate of free cash flow per share regarding the next 4 quarters
+354,est_12m_fcf_mean_28d,"Mean analyst estimate of free cash flow per share regarding the next 4 quarters, made in the last 28 days"
+355,est_12m_fcf_mean_3mth_ago,"Mean analyst estimate of free cash flow per share regarding the next 4 quarters, 3 made in past 3 months"
+356,est_12m_fcf_mean_4wks_ago,"Mean analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+357,est_12m_fcf_median,Median analyst estimate of free cash flow per share regarding the next 4 quarters
+358,est_12m_fcf_median_3mth_ago,"Median analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 3 months"
+359,est_12m_fcf_median_4wks_ago,"Median analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+360,est_12m_fcf_num,Number of analyst estimate of free cash flow per share regarding the next 4 quarters
+361,est_12m_fcf_num_28d,"Number of analyst estimate of free cash flow per share regarding the next 4 quarters, made in the last 28 days"
+362,est_12m_fcf_num_3mth_ago,"Number of analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 3 months"
+363,est_12m_fcf_num_4wks_ago,"Number of analyst estimate of free cash flow per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+364,est_12m_fcf_raised_1wk,"Number of raised analyst estimate of free cash flow per share regarding the next 4 quarters, compared to last weekly update"
+365,est_12m_fcf_raisednum_1mth,"Number of raised analyst estimate of free cash flow per share regarding the next 4 quarters, compared to last montly update"
+366,est_12m_fcf_raisednum_4wks,"Number of raised analyst estimate of free cash flow per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+367,est_12m_fcf_std,Standard deviation of analyst estimate of free cash flow per share regarding the next 4 quarters
+368,est_12m_fcf_std_28d,"Standard deviation of the analyst estimate of free cash flow per share regarding the next 4 quarters, made in the last 28 days"
+369,est_12m_fcf_std_3mth_ago,"Standard deviation of the analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 3 months"
+370,est_12m_fcf_std_4wks_ago,"Standard deviation of the analyst estimate of free cash flow per share regarding the next 4 quarters, made in past 4 weeks"
+371,est_12m_gps_high,Highest analyst estimate of GAAP earnings per share regarding the next 4 quarters
+372,est_12m_gps_high_3mth_ago,"Highest analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 3 months"
+373,est_12m_gps_high_4wks_ago,"Highest analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 4 weeks"
+374,est_12m_gps_low,Lowest analyst estimate of GAAP earnings per share regarding the next 4 quarters
+375,est_12m_gps_low_3mth_ago,"Lowest analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 3 months"
+376,est_12m_gps_low_4wks_ago,"Lowest analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 4 weeks"
+377,est_12m_gps_lowered_1wk,"Number of lowered analyst estimate of GAAP earnings per share regarding the next 4 quarters, since last weekly update"
+378,est_12m_gps_lowerednum_1mth,"Number of lowered analyst estimate of GAAP earnings per share regarding the next 4 quarters, since last montly update"
+379,est_12m_gps_lowerednum_4wks,"Number of lowered analyst estimate of GAAP earnings per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+380,est_12m_gps_mean,Mean analyst estimate of GAAP earnings per share regarding the next 4 quarters
+381,est_12m_gps_mean_28d,"Mean analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in the last 28 days"
+382,est_12m_gps_mean_3mth_ago,"Mean analyst estimate of GAAP earnings per share regarding the next 4 quarters, 3 made in past 3 months"
+383,est_12m_gps_mean_4wks_ago,"Mean analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 4 weeks"
+384,est_12m_gps_median,Median analyst estimate of GAAP earnings per share regarding the next 4 quarters
+385,est_12m_gps_median_3mth_ago,"Median analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 3 months"
+386,est_12m_gps_median_4wks_ago,"Median analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 4 weeks"
+387,est_12m_gps_num,Number of analyst estimate of GAAP earnings per share regarding the next 4 quarters
+388,est_12m_gps_num_28d,"Number of analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in the last 28 days"
+389,est_12m_gps_num_3mth_ago,"Number of analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 3 months"
+390,est_12m_gps_num_4wks_ago,"Number of analyst estimate of GAAP earnings per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+391,est_12m_gps_raised_1wk,"Number of raised analyst estimate of GAAP earnings per share regarding the next 4 quarters, compared to last weekly update"
+392,est_12m_gps_raisednum_1mth,"Number of raised analyst estimate of GAAP earnings per share regarding the next 4 quarters, compared to last montly update"
+393,est_12m_gps_raisednum_4wks,"Number of raised analyst estimate of GAAP earnings per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+394,est_12m_gps_std,Standard deviation of analyst estimate of GAAP earnings per share regarding the next 4 quarters
+395,est_12m_gps_std_28d,"Standard deviation of the analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in the last 28 days"
+396,est_12m_gps_std_3mth_ago,"Standard deviation of the analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 3 months"
+397,est_12m_gps_std_4wks_ago,"Standard deviation of the analyst estimate of GAAP earnings per share regarding the next 4 quarters, made in past 4 weeks"
+398,est_12m_grm_high,Highest analyst estimate of gross margin in percent regarding the next 4 quarters
+399,est_12m_grm_high_3mth_ago,"Highest analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 3 months"
+400,est_12m_grm_high_4wks_ago,"Highest analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 4 weeks"
+401,est_12m_grm_low,Lowest analyst estimate of gross margin in percent regarding the next 4 quarters
+402,est_12m_grm_low_3mth_ago,"Lowest analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 3 months"
+403,est_12m_grm_low_4wks_ago,"Lowest analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 4 weeks"
+404,est_12m_grm_lowered_1wk,"Number of lowered analyst estimate of gross margin in percent regarding the next 4 quarters, since last weekly update"
+405,est_12m_grm_lowerednum_1mth,"Number of lowered analyst estimate of gross margin in percent regarding the next 4 quarters, since last montly update"
+406,est_12m_grm_lowerednum_4wks,"Number of lowered analyst estimate of gross margin in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+407,est_12m_grm_mean,Mean analyst estimate of gross margin in percent regarding the next 4 quarters
+408,est_12m_grm_mean_28d,"Mean analyst estimate of gross margin in percent regarding the next 4 quarters, made in the last 28 days"
+409,est_12m_grm_mean_3mth_ago,"Mean analyst estimate of gross margin in percent regarding the next 4 quarters, 3 made in past 3 months"
+410,est_12m_grm_mean_4wks_ago,"Mean analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 4 weeks"
+411,est_12m_grm_median,Median analyst estimate of gross margin in percent regarding the next 4 quarters
+412,est_12m_grm_median_3mth_ago,"Median analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 3 months"
+413,est_12m_grm_median_4wks_ago,"Median analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 4 weeks"
+414,est_12m_grm_num,Number of analyst estimate of gross margin in percent regarding the next 4 quarters
+415,est_12m_grm_num_28d,"Number of analyst estimate of gross margin in percent regarding the next 4 quarters, made in the last 28 days"
+416,est_12m_grm_num_3mth_ago,"Number of analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 3 months"
+417,est_12m_grm_num_4wks_ago,"Number of analyst estimate of gross margin in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+418,est_12m_grm_raised_1wk,"Number of raised analyst estimate of gross margin in percent regarding the next 4 quarters, compared to last weekly update"
+419,est_12m_grm_raisednum_1mth,"Number of raised analyst estimate of gross margin in percent regarding the next 4 quarters, compared to last montly update"
+420,est_12m_grm_raisednum_4wks,"Number of raised analyst estimate of gross margin in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+421,est_12m_grm_std,Standard deviation of analyst estimate of gross margin in percent regarding the next 4 quarters
+422,est_12m_grm_std_28d,"Standard deviation of the analyst estimate of gross margin in percent regarding the next 4 quarters, made in the last 28 days"
+423,est_12m_grm_std_3mth_ago,"Standard deviation of the analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 3 months"
+424,est_12m_grm_std_4wks_ago,"Standard deviation of the analyst estimate of gross margin in percent regarding the next 4 quarters, made in past 4 weeks"
+425,est_12m_nav_high,Highest analyst estimate of net asset value regarding the next 4 quarters
+426,est_12m_nav_high_3mth_ago,"Highest analyst estimate of net asset value regarding the next 4 quarters, made in past 3 months"
+427,est_12m_nav_high_4wks_ago,"Highest analyst estimate of net asset value regarding the next 4 quarters, made in past 4 weeks"
+428,est_12m_nav_low,Lowest analyst estimate of net asset value regarding the next 4 quarters
+429,est_12m_nav_low_3mth_ago,"Lowest analyst estimate of net asset value regarding the next 4 quarters, made in past 3 months"
+430,est_12m_nav_low_4wks_ago,"Lowest analyst estimate of net asset value regarding the next 4 quarters, made in past 4 weeks"
+431,est_12m_nav_lowered_1wk,"Number of lowered analyst estimate of net asset value regarding the next 4 quarters, since last weekly update"
+432,est_12m_nav_lowerednum_1mth,"Number of lowered analyst estimate of net asset value regarding the next 4 quarters, since last montly update"
+433,est_12m_nav_lowerednum_4wks,"Number of lowered analyst estimate of net asset value regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+434,est_12m_nav_mean,Mean analyst estimate of net asset value regarding the next 4 quarters
+435,est_12m_nav_mean_28d,"Mean analyst estimate of net asset value regarding the next 4 quarters, made in the last 28 days"
+436,est_12m_nav_mean_3mth_ago,"Mean analyst estimate of net asset value regarding the next 4 quarters, 3 made in past 3 months"
+437,est_12m_nav_mean_4wks_ago,"Mean analyst estimate of net asset value regarding the next 4 quarters, made in past 4 weeks"
+438,est_12m_nav_median,Median analyst estimate of net asset value regarding the next 4 quarters
+439,est_12m_nav_median_3mth_ago,"Median analyst estimate of net asset value regarding the next 4 quarters, made in past 3 months"
+440,est_12m_nav_median_4wks_ago,"Median analyst estimate of net asset value regarding the next 4 quarters, made in past 4 weeks"
+441,est_12m_nav_num,Number of analyst estimate of net asset value regarding the next 4 quarters
+442,est_12m_nav_num_28d,"Number of analyst estimate of net asset value regarding the next 4 quarters, made in the last 28 days"
+443,est_12m_nav_num_3mth_ago,"Number of analyst estimate of net asset value regarding the next 4 quarters, made in past 3 months"
+444,est_12m_nav_num_4wks_ago,"Number of analyst estimate of net asset value regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+445,est_12m_nav_raised_1wk,"Number of raised analyst estimate of net asset value regarding the next 4 quarters, compared to last weekly update"
+446,est_12m_nav_raisednum_1mth,"Number of raised analyst estimate of net asset value regarding the next 4 quarters, compared to last montly update"
+447,est_12m_nav_raisednum_4wks,"Number of raised analyst estimate of net asset value regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+448,est_12m_nav_std,Standard deviation of analyst estimate of net asset value regarding the next 4 quarters
+449,est_12m_nav_std_28d,"Standard deviation of the analyst estimate of net asset value regarding the next 4 quarters, made in the last 28 days"
+450,est_12m_nav_std_3mth_ago,"Standard deviation of the analyst estimate of net asset value regarding the next 4 quarters, made in past 3 months"
+451,est_12m_nav_std_4wks_ago,"Standard deviation of the analyst estimate of net asset value regarding the next 4 quarters, made in past 4 weeks"
+452,est_12m_ndt_high,Highest analyst estimate of net debt regarding the next 4 quarters
+453,est_12m_ndt_high_3mth_ago,"Highest analyst estimate of net debt regarding the next 4 quarters, made in past 3 months"
+454,est_12m_ndt_high_4wks_ago,"Highest analyst estimate of net debt regarding the next 4 quarters, made in past 4 weeks"
+455,est_12m_ndt_low,Lowest analyst estimate of net debt regarding the next 4 quarters
+456,est_12m_ndt_low_3mth_ago,"Lowest analyst estimate of net debt regarding the next 4 quarters, made in past 3 months"
+457,est_12m_ndt_low_4wks_ago,"Lowest analyst estimate of net debt regarding the next 4 quarters, made in past 4 weeks"
+458,est_12m_ndt_lowered_1wk,"Number of lowered analyst estimate of net debt regarding the next 4 quarters, since last weekly update"
+459,est_12m_ndt_lowerednum_1mth,"Number of lowered analyst estimate of net debt regarding the next 4 quarters, since last montly update"
+460,est_12m_ndt_lowerednum_4wks,"Number of lowered analyst estimate of net debt regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+461,est_12m_ndt_mean,Mean analyst estimate of net debt regarding the next 4 quarters
+462,est_12m_ndt_mean_28d,"Mean analyst estimate of net debt regarding the next 4 quarters, made in the last 28 days"
+463,est_12m_ndt_mean_3mth_ago,"Mean analyst estimate of net debt regarding the next 4 quarters, 3 made in past 3 months"
+464,est_12m_ndt_mean_4wks_ago,"Mean analyst estimate of net debt regarding the next 4 quarters, made in past 4 weeks"
+465,est_12m_ndt_median,Median analyst estimate of net debt regarding the next 4 quarters
+466,est_12m_ndt_median_3mth_ago,"Median analyst estimate of net debt regarding the next 4 quarters, made in past 3 months"
+467,est_12m_ndt_median_4wks_ago,"Median analyst estimate of net debt regarding the next 4 quarters, made in past 4 weeks"
+468,est_12m_ndt_num,Number of analyst estimate of net debt regarding the next 4 quarters
+469,est_12m_ndt_num_28d,"Number of analyst estimate of net debt regarding the next 4 quarters, made in the last 28 days"
+470,est_12m_ndt_num_3mth_ago,"Number of analyst estimate of net debt regarding the next 4 quarters, made in past 3 months"
+471,est_12m_ndt_num_4wks_ago,"Number of analyst estimate of net debt regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+472,est_12m_ndt_raised_1wk,"Number of raised analyst estimate of net debt regarding the next 4 quarters, compared to last weekly update"
+473,est_12m_ndt_raisednum_1mth,"Number of raised analyst estimate of net debt regarding the next 4 quarters, compared to last montly update"
+474,est_12m_ndt_raisednum_4wks,"Number of raised analyst estimate of net debt regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+475,est_12m_ndt_std,Standard deviation of analyst estimate of net debt regarding the next 4 quarters
+476,est_12m_ndt_std_28d,"Standard deviation of the analyst estimate of net debt regarding the next 4 quarters, made in the last 28 days"
+477,est_12m_ndt_std_3mth_ago,"Standard deviation of the analyst estimate of net debt regarding the next 4 quarters, made in past 3 months"
+478,est_12m_ndt_std_4wks_ago,"Standard deviation of the analyst estimate of net debt regarding the next 4 quarters, made in past 4 weeks"
+479,est_12m_ner_high,Highest analyst estimate of net profit as reported regarding the next 4 quarters
+480,est_12m_ner_high_3mth_ago,"Highest analyst estimate of net profit as reported regarding the next 4 quarters, made in past 3 months"
+481,est_12m_ner_high_4wks_ago,"Highest analyst estimate of net profit as reported regarding the next 4 quarters, made in past 4 weeks"
+482,est_12m_ner_low,Lowest analyst estimate of net profit as reported regarding the next 4 quarters
+483,est_12m_ner_low_3mth_ago,"Lowest analyst estimate of net profit as reported regarding the next 4 quarters, made in past 3 months"
+484,est_12m_ner_low_4wks_ago,"Lowest analyst estimate of net profit as reported regarding the next 4 quarters, made in past 4 weeks"
+485,est_12m_ner_lowered_1wk,"Number of lowered analyst estimate of net profit as reported regarding the next 4 quarters, since last weekly update"
+486,est_12m_ner_lowerednum_1mth,"Number of lowered analyst estimate of net profit as reported regarding the next 4 quarters, since last montly update"
+487,est_12m_ner_lowerednum_4wks,"Number of lowered analyst estimate of net profit as reported regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+488,est_12m_ner_mean,Mean analyst estimate of net profit as reported regarding the next 4 quarters
+489,est_12m_ner_mean_28d,"Mean analyst estimate of net profit as reported regarding the next 4 quarters, made in the last 28 days"
+490,est_12m_ner_mean_3mth_ago,"Mean analyst estimate of net profit as reported regarding the next 4 quarters, 3 made in past 3 months"
+491,est_12m_ner_mean_4wks_ago,"Mean analyst estimate of net profit as reported regarding the next 4 quarters, made in past 4 weeks"
+492,est_12m_ner_median,Median analyst estimate of net profit as reported regarding the next 4 quarters
+493,est_12m_ner_median_3mth_ago,"Median analyst estimate of net profit as reported regarding the next 4 quarters, made in past 3 months"
+494,est_12m_ner_median_4wks_ago,"Median analyst estimate of net profit as reported regarding the next 4 quarters, made in past 4 weeks"
+495,est_12m_ner_num,Number of analyst estimate of net profit as reported regarding the next 4 quarters
+496,est_12m_ner_num_28d,"Number of analyst estimate of net profit as reported regarding the next 4 quarters, made in the last 28 days"
+497,est_12m_ner_num_3mth_ago,"Number of analyst estimate of net profit as reported regarding the next 4 quarters, made in past 3 months"
+498,est_12m_ner_num_4wks_ago,"Number of analyst estimate of net profit as reported regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+499,est_12m_ner_raised_1wk,"Number of raised analyst estimate of net profit as reported regarding the next 4 quarters, compared to last weekly update"
+500,est_12m_ner_raisednum_1mth,"Number of raised analyst estimate of net profit as reported regarding the next 4 quarters, compared to last montly update"
+501,est_12m_ner_raisednum_4wks,"Number of raised analyst estimate of net profit as reported regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+502,est_12m_ner_std,Standard deviation of analyst estimate of net profit as reported regarding the next 4 quarters
+503,est_12m_ner_std_28d,"Standard deviation of the analyst estimate of net profit as reported regarding the next 4 quarters, made in the last 28 days"
+504,est_12m_ner_std_3mth_ago,"Standard deviation of the analyst estimate of net profit as reported regarding the next 4 quarters, made in past 3 months"
+505,est_12m_ner_std_4wks_ago,"Standard deviation of the analyst estimate of net profit as reported regarding the next 4 quarters, made in past 4 weeks"
+506,est_12m_net_high,Highest analyst estimate of net income regarding the next 4 quarters
+507,est_12m_net_high_3mth_ago,"Highest analyst estimate of net income regarding the next 4 quarters, made in past 3 months"
+508,est_12m_net_high_4wks_ago,"Highest analyst estimate of net income regarding the next 4 quarters, made in past 4 weeks"
+509,est_12m_net_low,Lowest analyst estimate of net income regarding the next 4 quarters
+510,est_12m_net_low_3mth_ago,"Lowest analyst estimate of net income regarding the next 4 quarters, made in past 3 months"
+511,est_12m_net_low_4wks_ago,"Lowest analyst estimate of net income regarding the next 4 quarters, made in past 4 weeks"
+512,est_12m_net_lowered_1wk,"Number of lowered analyst estimate of net income regarding the next 4 quarters, since last weekly update"
+513,est_12m_net_lowerednum_1mth,"Number of lowered analyst estimate of net income regarding the next 4 quarters, since last montly update"
+514,est_12m_net_lowerednum_4wks,"Number of lowered analyst estimate of net income regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+515,est_12m_net_mean,Mean analyst estimate of net income regarding the next 4 quarters
+516,est_12m_net_mean_28d,"Mean analyst estimate of net income regarding the next 4 quarters, made in the last 28 days"
+517,est_12m_net_mean_3mth_ago,"Mean analyst estimate of net income regarding the next 4 quarters, 3 made in past 3 months"
+518,est_12m_net_mean_4wks_ago,"Mean analyst estimate of net income regarding the next 4 quarters, made in past 4 weeks"
+519,est_12m_net_median,Median analyst estimate of net income regarding the next 4 quarters
+520,est_12m_net_median_3mth_ago,"Median analyst estimate of net income regarding the next 4 quarters, made in past 3 months"
+521,est_12m_net_median_4wks_ago,"Median analyst estimate of net income regarding the next 4 quarters, made in past 4 weeks"
+522,est_12m_net_num,Number of analyst estimate of net income regarding the next 4 quarters
+523,est_12m_net_num_28d,"Number of analyst estimate of net income regarding the next 4 quarters, made in the last 28 days"
+524,est_12m_net_num_3mth_ago,"Number of analyst estimate of net income regarding the next 4 quarters, made in past 3 months"
+525,est_12m_net_num_4wks_ago,"Number of analyst estimate of net income regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+526,est_12m_net_raised_1wk,"Number of raised analyst estimate of net income regarding the next 4 quarters, compared to last weekly update"
+527,est_12m_net_raisednum_1mth,"Number of raised analyst estimate of net income regarding the next 4 quarters, compared to last montly update"
+528,est_12m_net_raisednum_4wks,"Number of raised analyst estimate of net income regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+529,est_12m_net_std,Standard deviation of analyst estimate of net income regarding the next 4 quarters
+530,est_12m_net_std_28d,"Standard deviation of the analyst estimate of net income regarding the next 4 quarters, made in the last 28 days"
+531,est_12m_net_std_3mth_ago,"Standard deviation of the analyst estimate of net income regarding the next 4 quarters, made in past 3 months"
+532,est_12m_net_std_4wks_ago,"Standard deviation of the analyst estimate of net income regarding the next 4 quarters, made in past 4 weeks"
+533,est_12m_opr_high,Highest analyst estimate of operating profit regarding the next 4 quarters
+534,est_12m_opr_high_3mth_ago,"Highest analyst estimate of operating profit regarding the next 4 quarters, made in past 3 months"
+535,est_12m_opr_high_4wks_ago,"Highest analyst estimate of operating profit regarding the next 4 quarters, made in past 4 weeks"
+536,est_12m_opr_low,Lowest analyst estimate of operating profit regarding the next 4 quarters
+537,est_12m_opr_low_3mth_ago,"Lowest analyst estimate of operating profit regarding the next 4 quarters, made in past 3 months"
+538,est_12m_opr_low_4wks_ago,"Lowest analyst estimate of operating profit regarding the next 4 quarters, made in past 4 weeks"
+539,est_12m_opr_lowered_1wk,"Number of lowered analyst estimate of operating profit regarding the next 4 quarters, since last weekly update"
+540,est_12m_opr_lowerednum_1mth,"Number of lowered analyst estimate of operating profit regarding the next 4 quarters, since last montly update"
+541,est_12m_opr_lowerednum_4wks,"Number of lowered analyst estimate of operating profit regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+542,est_12m_opr_mean,Mean analyst estimate of operating profit regarding the next 4 quarters
+543,est_12m_opr_mean_28d,"Mean analyst estimate of operating profit regarding the next 4 quarters, made in the last 28 days"
+544,est_12m_opr_mean_3mth_ago,"Mean analyst estimate of operating profit regarding the next 4 quarters, 3 made in past 3 months"
+545,est_12m_opr_mean_4wks_ago,"Mean analyst estimate of operating profit regarding the next 4 quarters, made in past 4 weeks"
+546,est_12m_opr_median,Median analyst estimate of operating profit regarding the next 4 quarters
+547,est_12m_opr_median_3mth_ago,"Median analyst estimate of operating profit regarding the next 4 quarters, made in past 3 months"
+548,est_12m_opr_median_4wks_ago,"Median analyst estimate of operating profit regarding the next 4 quarters, made in past 4 weeks"
+549,est_12m_opr_num,Number of analyst estimate of operating profit regarding the next 4 quarters
+550,est_12m_opr_num_28d,"Number of analyst estimate of operating profit regarding the next 4 quarters, made in the last 28 days"
+551,est_12m_opr_num_3mth_ago,"Number of analyst estimate of operating profit regarding the next 4 quarters, made in past 3 months"
+552,est_12m_opr_num_4wks_ago,"Number of analyst estimate of operating profit regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+553,est_12m_opr_raised_1wk,"Number of raised analyst estimate of operating profit regarding the next 4 quarters, compared to last weekly update"
+554,est_12m_opr_raisednum_1mth,"Number of raised analyst estimate of operating profit regarding the next 4 quarters, compared to last montly update"
+555,est_12m_opr_raisednum_4wks,"Number of raised analyst estimate of operating profit regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+556,est_12m_opr_std,Standard deviation of analyst estimate of operating profit regarding the next 4 quarters
+557,est_12m_opr_std_28d,"Standard deviation of the analyst estimate of operating profit regarding the next 4 quarters, made in the last 28 days"
+558,est_12m_opr_std_3mth_ago,"Standard deviation of the analyst estimate of operating profit regarding the next 4 quarters, made in past 3 months"
+559,est_12m_opr_std_4wks_ago,"Standard deviation of the analyst estimate of operating profit regarding the next 4 quarters, made in past 4 weeks"
+560,est_12m_pre_high,Highest analyst estimate of pre-tax profit regarding the next 4 quarters
+561,est_12m_pre_high_3mth_ago,"Highest analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 3 months"
+562,est_12m_pre_high_4wks_ago,"Highest analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 4 weeks"
+563,est_12m_pre_low,Lowest analyst estimate of pre-tax profit regarding the next 4 quarters
+564,est_12m_pre_low_3mth_ago,"Lowest analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 3 months"
+565,est_12m_pre_low_4wks_ago,"Lowest analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 4 weeks"
+566,est_12m_pre_lowered_1wk,"Number of lowered analyst estimate of pre-tax profit regarding the next 4 quarters, since last weekly update"
+567,est_12m_pre_lowerednum_1mth,"Number of lowered analyst estimate of pre-tax profit regarding the next 4 quarters, since last montly update"
+568,est_12m_pre_lowerednum_4wks,"Number of lowered analyst estimate of pre-tax profit regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+569,est_12m_pre_mean,Mean analyst estimate of pre-tax profit regarding the next 4 quarters
+570,est_12m_pre_mean_28d,"Mean analyst estimate of pre-tax profit regarding the next 4 quarters, made in the last 28 days"
+571,est_12m_pre_mean_3mth_ago,"Mean analyst estimate of pre-tax profit regarding the next 4 quarters, 3 made in past 3 months"
+572,est_12m_pre_mean_4wks_ago,"Mean analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 4 weeks"
+573,est_12m_pre_median,Median analyst estimate of pre-tax profit regarding the next 4 quarters
+574,est_12m_pre_median_3mth_ago,"Median analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 3 months"
+575,est_12m_pre_median_4wks_ago,"Median analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 4 weeks"
+576,est_12m_pre_num,Number of analyst estimate of pre-tax profit regarding the next 4 quarters
+577,est_12m_pre_num_28d,"Number of analyst estimate of pre-tax profit regarding the next 4 quarters, made in the last 28 days"
+578,est_12m_pre_num_3mth_ago,"Number of analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 3 months"
+579,est_12m_pre_num_4wks_ago,"Number of analyst estimate of pre-tax profit regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+580,est_12m_pre_raised_1wk,"Number of raised analyst estimate of pre-tax profit regarding the next 4 quarters, compared to last weekly update"
+581,est_12m_pre_raisednum_1mth,"Number of raised analyst estimate of pre-tax profit regarding the next 4 quarters, compared to last montly update"
+582,est_12m_pre_raisednum_4wks,"Number of raised analyst estimate of pre-tax profit regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+583,est_12m_pre_std,Standard deviation of analyst estimate of pre-tax profit regarding the next 4 quarters
+584,est_12m_pre_std_28d,"Standard deviation of the analyst estimate of pre-tax profit regarding the next 4 quarters, made in the last 28 days"
+585,est_12m_pre_std_3mth_ago,"Standard deviation of the analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 3 months"
+586,est_12m_pre_std_4wks_ago,"Standard deviation of the analyst estimate of pre-tax profit regarding the next 4 quarters, made in past 4 weeks"
+587,est_12m_prr_high,Highest analyst estimate of pretax profit as reported regarding the next 4 quarters
+588,est_12m_prr_high_3mth_ago,"Highest analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 3 months"
+589,est_12m_prr_high_4wks_ago,"Highest analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 4 weeks"
+590,est_12m_prr_low,Lowest analyst estimate of pretax profit as reported regarding the next 4 quarters
+591,est_12m_prr_low_3mth_ago,"Lowest analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 3 months"
+592,est_12m_prr_low_4wks_ago,"Lowest analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 4 weeks"
+593,est_12m_prr_lowered_1wk,"Number of lowered analyst estimate of pretax profit as reported regarding the next 4 quarters, since last weekly update"
+594,est_12m_prr_lowerednum_1mth,"Number of lowered analyst estimate of pretax profit as reported regarding the next 4 quarters, since last montly update"
+595,est_12m_prr_lowerednum_4wks,"Number of lowered analyst estimate of pretax profit as reported regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+596,est_12m_prr_mean,Mean analyst estimate of pretax profit as reported regarding the next 4 quarters
+597,est_12m_prr_mean_28d,"Mean analyst estimate of pretax profit as reported regarding the next 4 quarters, made in the last 28 days"
+598,est_12m_prr_mean_3mth_ago,"Mean analyst estimate of pretax profit as reported regarding the next 4 quarters, 3 made in past 3 months"
+599,est_12m_prr_mean_4wks_ago,"Mean analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 4 weeks"
+600,est_12m_prr_median,Median analyst estimate of pretax profit as reported regarding the next 4 quarters
+601,est_12m_prr_median_3mth_ago,"Median analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 3 months"
+602,est_12m_prr_median_4wks_ago,"Median analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 4 weeks"
+603,est_12m_prr_num,Number of analyst estimate of pretax profit as reported regarding the next 4 quarters
+604,est_12m_prr_num_28d,"Number of analyst estimate of pretax profit as reported regarding the next 4 quarters, made in the last 28 days"
+605,est_12m_prr_num_3mth_ago,"Number of analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 3 months"
+606,est_12m_prr_num_4wks_ago,"Number of analyst estimate of pretax profit as reported regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+607,est_12m_prr_raised_1wk,"Number of raised analyst estimate of pretax profit as reported regarding the next 4 quarters, compared to last weekly update"
+608,est_12m_prr_raisednum_1mth,"Number of raised analyst estimate of pretax profit as reported regarding the next 4 quarters, compared to last montly update"
+609,est_12m_prr_raisednum_4wks,"Number of raised analyst estimate of pretax profit as reported regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+610,est_12m_prr_std,Standard deviation of analyst estimate of pretax profit as reported regarding the next 4 quarters
+611,est_12m_prr_std_28d,"Standard deviation of the analyst estimate of pretax profit as reported regarding the next 4 quarters, made in the last 28 days"
+612,est_12m_prr_std_3mth_ago,"Standard deviation of the analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 3 months"
+613,est_12m_prr_std_4wks_ago,"Standard deviation of the analyst estimate of pretax profit as reported regarding the next 4 quarters, made in past 4 weeks"
+614,est_12m_roa_high,Highest analyst estimate of return on assets in percent regarding the next 4 quarters
+615,est_12m_roa_high_3mth_ago,"Highest analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 3 months"
+616,est_12m_roa_high_4wks_ago,"Highest analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 4 weeks"
+617,est_12m_roa_low,Lowest analyst estimate of return on assets in percent regarding the next 4 quarters
+618,est_12m_roa_low_3mth_ago,"Lowest analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 3 months"
+619,est_12m_roa_low_4wks_ago,"Lowest analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 4 weeks"
+620,est_12m_roa_lowered_1wk,"Number of lowered analyst estimate of return on assets in percent regarding the next 4 quarters, since last weekly update"
+621,est_12m_roa_lowerednum_1mth,"Number of lowered analyst estimate of return on assets in percent regarding the next 4 quarters, since last montly update"
+622,est_12m_roa_lowerednum_4wks,"Number of lowered analyst estimate of return on assets in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+623,est_12m_roa_mean,Mean analyst estimate of return on assets in percent regarding the next 4 quarters
+624,est_12m_roa_mean_28d,"Mean analyst estimate of return on assets in percent regarding the next 4 quarters, made in the last 28 days"
+625,est_12m_roa_mean_3mth_ago,"Mean analyst estimate of return on assets in percent regarding the next 4 quarters, 3 made in past 3 months"
+626,est_12m_roa_mean_4wks_ago,"Mean analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 4 weeks"
+627,est_12m_roa_median,Median analyst estimate of return on assets in percent regarding the next 4 quarters
+628,est_12m_roa_median_3mth_ago,"Median analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 3 months"
+629,est_12m_roa_median_4wks_ago,"Median analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 4 weeks"
+630,est_12m_roa_num,Number of analyst estimate of return on assets in percent regarding the next 4 quarters
+631,est_12m_roa_num_28d,"Number of analyst estimate of return on assets in percent regarding the next 4 quarters, made in the last 28 days"
+632,est_12m_roa_num_3mth_ago,"Number of analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 3 months"
+633,est_12m_roa_num_4wks_ago,"Number of analyst estimate of return on assets in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+634,est_12m_roa_raised_1wk,"Number of raised analyst estimate of return on assets in percent regarding the next 4 quarters, compared to last weekly update"
+635,est_12m_roa_raisednum_1mth,"Number of raised analyst estimate of return on assets in percent regarding the next 4 quarters, compared to last montly update"
+636,est_12m_roa_raisednum_4wks,"Number of raised analyst estimate of return on assets in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+637,est_12m_roa_std,Standard deviation of analyst estimate of return on assets in percent regarding the next 4 quarters
+638,est_12m_roa_std_28d,"Standard deviation of the analyst estimate of return on assets in percent regarding the next 4 quarters, made in the last 28 days"
+639,est_12m_roa_std_3mth_ago,"Standard deviation of the analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 3 months"
+640,est_12m_roa_std_4wks_ago,"Standard deviation of the analyst estimate of return on assets in percent regarding the next 4 quarters, made in past 4 weeks"
+641,est_12m_roe_high,Highest analyst estimate of return on equity in percent regarding the next 4 quarters
+642,est_12m_roe_high_3mth_ago,"Highest analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 3 months"
+643,est_12m_roe_high_4wks_ago,"Highest analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 4 weeks"
+644,est_12m_roe_low,Lowest analyst estimate of return on equity in percent regarding the next 4 quarters
+645,est_12m_roe_low_3mth_ago,"Lowest analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 3 months"
+646,est_12m_roe_low_4wks_ago,"Lowest analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 4 weeks"
+647,est_12m_roe_lowered_1wk,"Number of lowered analyst estimate of return on equity in percent regarding the next 4 quarters, since last weekly update"
+648,est_12m_roe_lowerednum_1mth,"Number of lowered analyst estimate of return on equity in percent regarding the next 4 quarters, since last montly update"
+649,est_12m_roe_lowerednum_4wks,"Number of lowered analyst estimate of return on equity in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+650,est_12m_roe_mean,Mean analyst estimate of return on equity in percent regarding the next 4 quarters
+651,est_12m_roe_mean_28d,"Mean analyst estimate of return on equity in percent regarding the next 4 quarters, made in the last 28 days"
+652,est_12m_roe_mean_3mth_ago,"Mean analyst estimate of return on equity in percent regarding the next 4 quarters, 3 made in past 3 months"
+653,est_12m_roe_mean_4wks_ago,"Mean analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 4 weeks"
+654,est_12m_roe_median,Median analyst estimate of return on equity in percent regarding the next 4 quarters
+655,est_12m_roe_median_3mth_ago,"Median analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 3 months"
+656,est_12m_roe_median_4wks_ago,"Median analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 4 weeks"
+657,est_12m_roe_num,Number of analyst estimate of return on equity in percent regarding the next 4 quarters
+658,est_12m_roe_num_28d,"Number of analyst estimate of return on equity in percent regarding the next 4 quarters, made in the last 28 days"
+659,est_12m_roe_num_3mth_ago,"Number of analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 3 months"
+660,est_12m_roe_num_4wks_ago,"Number of analyst estimate of return on equity in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+661,est_12m_roe_raised_1wk,"Number of raised analyst estimate of return on equity in percent regarding the next 4 quarters, compared to last weekly update"
+662,est_12m_roe_raisednum_1mth,"Number of raised analyst estimate of return on equity in percent regarding the next 4 quarters, compared to last montly update"
+663,est_12m_roe_raisednum_4wks,"Number of raised analyst estimate of return on equity in percent regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+664,est_12m_roe_std,Standard deviation of analyst estimate of return on equity in percent regarding the next 4 quarters
+665,est_12m_roe_std_28d,"Standard deviation of the analyst estimate of return on equity in percent regarding the next 4 quarters, made in the last 28 days"
+666,est_12m_roe_std_3mth_ago,"Standard deviation of the analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 3 months"
+667,est_12m_roe_std_4wks_ago,"Standard deviation of the analyst estimate of return on equity in percent regarding the next 4 quarters, made in past 4 weeks"
+668,est_12m_sal_high,Highest analyst estimate of sales/revenue regarding the next 4 quarters
+669,est_12m_sal_high_3mth_ago,"Highest analyst estimate of sales/revenue regarding the next 4 quarters, made in past 3 months"
+670,est_12m_sal_high_4wks_ago,"Highest analyst estimate of sales/revenue regarding the next 4 quarters, made in past 4 weeks"
+671,est_12m_sal_low,Lowest analyst estimate of sales/revenue regarding the next 4 quarters
+672,est_12m_sal_low_3mth_ago,"Lowest analyst estimate of sales/revenue regarding the next 4 quarters, made in past 3 months"
+673,est_12m_sal_low_4wks_ago,"Lowest analyst estimate of sales/revenue regarding the next 4 quarters, made in past 4 weeks"
+674,est_12m_sal_lowered_1wk,"Number of lowered analyst estimate of sales/revenue regarding the next 4 quarters, since last weekly update"
+675,est_12m_sal_lowerednum_1mth,"Number of lowered analyst estimate of sales/revenue regarding the next 4 quarters, since last montly update"
+676,est_12m_sal_lowerednum_4wks,"Number of lowered analyst estimate of sales/revenue regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+677,est_12m_sal_mean,Mean analyst estimate of sales/revenue regarding the next 4 quarters
+678,est_12m_sal_mean_28d,"Mean analyst estimate of sales/revenue regarding the next 4 quarters, made in the last 28 days"
+679,est_12m_sal_mean_3mth_ago,"Mean analyst estimate of sales/revenue regarding the next 4 quarters, 3 made in past 3 months"
+680,est_12m_sal_mean_4wks_ago,"Mean analyst estimate of sales/revenue regarding the next 4 quarters, made in past 4 weeks"
+681,est_12m_sal_median,Median analyst estimate of sales/revenue regarding the next 4 quarters
+682,est_12m_sal_median_3mth_ago,"Median analyst estimate of sales/revenue regarding the next 4 quarters, made in past 3 months"
+683,est_12m_sal_median_4wks_ago,"Median analyst estimate of sales/revenue regarding the next 4 quarters, made in past 4 weeks"
+684,est_12m_sal_num,Number of analyst estimate of sales/revenue regarding the next 4 quarters
+685,est_12m_sal_num_28d,"Number of analyst estimate of sales/revenue regarding the next 4 quarters, made in the last 28 days"
+686,est_12m_sal_num_3mth_ago,"Number of analyst estimate of sales/revenue regarding the next 4 quarters, made in past 3 months"
+687,est_12m_sal_num_4wks_ago,"Number of analyst estimate of sales/revenue regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+688,est_12m_sal_raised_1wk,"Number of raised analyst estimate of sales/revenue regarding the next 4 quarters, compared to last weekly update"
+689,est_12m_sal_raisednum_1mth,"Number of raised analyst estimate of sales/revenue regarding the next 4 quarters, compared to last montly update"
+690,est_12m_sal_raisednum_4wks,"Number of raised analyst estimate of sales/revenue regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+691,est_12m_sal_std,Standard deviation of analyst estimate of sales/revenue regarding the next 4 quarters
+692,est_12m_sal_std_28d,"Standard deviation of the analyst estimate of sales/revenue regarding the next 4 quarters, made in the last 28 days"
+693,est_12m_sal_std_3mth_ago,"Standard deviation of the analyst estimate of sales/revenue regarding the next 4 quarters, made in past 3 months"
+694,est_12m_sal_std_4wks_ago,"Standard deviation of the analyst estimate of sales/revenue regarding the next 4 quarters, made in past 4 weeks"
+695,est_12m_tbv_high,Highest analyst estimate of tangible book value per share regarding the next 4 quarters
+696,est_12m_tbv_high_3mth_ago,"Highest analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 3 months"
+697,est_12m_tbv_high_4wks_ago,"Highest analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 4 weeks"
+698,est_12m_tbv_low,Lowest analyst estimate of tangible book value per share regarding the next 4 quarters
+699,est_12m_tbv_low_3mth_ago,"Lowest analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 3 months"
+700,est_12m_tbv_low_4wks_ago,"Lowest analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 4 weeks"
+701,est_12m_tbv_lowered_1wk,"Number of lowered analyst estimate of tangible book value per share regarding the next 4 quarters, since last weekly update"
+702,est_12m_tbv_lowerednum_1mth,"Number of lowered analyst estimate of tangible book value per share regarding the next 4 quarters, since last montly update"
+703,est_12m_tbv_lowerednum_4wks,"Number of lowered analyst estimate of tangible book value per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+704,est_12m_tbv_mean,Mean analyst estimate of tangible book value per share regarding the next 4 quarters
+705,est_12m_tbv_mean_28d,"Mean analyst estimate of tangible book value per share regarding the next 4 quarters, made in the last 28 days"
+706,est_12m_tbv_mean_3mth_ago,"Mean analyst estimate of tangible book value per share regarding the next 4 quarters, 3 made in past 3 months"
+707,est_12m_tbv_mean_4wks_ago,"Mean analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 4 weeks"
+708,est_12m_tbv_median,Median analyst estimate of tangible book value per share regarding the next 4 quarters
+709,est_12m_tbv_median_3mth_ago,"Median analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 3 months"
+710,est_12m_tbv_median_4wks_ago,"Median analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 4 weeks"
+711,est_12m_tbv_num,Number of analyst estimate of tangible book value per share regarding the next 4 quarters
+712,est_12m_tbv_num_28d,"Number of analyst estimate of tangible book value per share regarding the next 4 quarters, made in the last 28 days"
+713,est_12m_tbv_num_3mth_ago,"Number of analyst estimate of tangible book value per share regarding the next 4 quarters, made in past 3 months"
+714,est_12m_tbv_num_4wks_ago,"Number of analyst estimate of tangible book value per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+715,est_12m_tbv_raised_1wk,"Number of raised analyst estimate of tangible book value per share regarding the next 4 quarters, compared to last weekly update"
+716,est_12m_tbv_raisednum_1mth,"Number of raised analyst estimate of tangible book value per share regarding the next 4 quarters, compared to last montly update"
+717,est_12m_tbv_raisednum_4wks,"Number of raised analyst estimate of tangible book value per share regarding the next 4 quarters, where old and new estimate were made in past 4 weeks"
+718,est_q_bps_high,Highest analyst estimate of book value per share regarding the next quarter
+719,est_q_bps_high_3mth_ago,"Highest analyst estimate of book value per share regarding the next quarter, made in past 3 months"
+720,est_q_bps_high_4wks_ago,"Highest analyst estimate of book value per share regarding the next quarter, made in past 4 weeks"
+721,est_q_bps_low,Lowest analyst estimate of book value per share regarding the next quarter
+722,est_q_bps_low_3mth_ago,"Lowest analyst estimate of book value per share regarding the next quarter, made in past 3 months"
+723,est_q_bps_low_4wks_ago,"Lowest analyst estimate of book value per share regarding the next quarter, made in past 4 weeks"
+724,est_q_bps_lowered_1wk,"Number of lowered analyst estimate of book value per share regarding the next quarter, since last weekly update"
+725,est_q_bps_lowerednum_1mth,"Number of lowered analyst estimate of book value per share regarding the next quarter, since last montly update"
+726,est_q_bps_lowerednum_4wks,"Number of lowered analyst estimate of book value per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+727,est_q_bps_mean,Mean analyst estimate of book value per share regarding the next quarter
+728,est_q_bps_mean_28d,"Mean analyst estimate of book value per share regarding the next quarter, made in the last 28 days"
+729,est_q_bps_mean_3mth_ago,"Mean analyst estimate of book value per share regarding the next quarter, 3 made in past 3 months"
+730,est_q_bps_mean_4wks_ago,"Mean analyst estimate of book value per share regarding the next quarter, made in past 4 weeks"
+731,est_q_bps_median,Median analyst estimate of book value per share regarding the next quarter
+732,est_q_bps_median_3mth_ago,"Median analyst estimate of book value per share regarding the next quarter, made in past 3 months"
+733,est_q_bps_median_4wks_ago,"Median analyst estimate of book value per share regarding the next quarter, made in past 4 weeks"
+734,est_q_bps_num,Number of analyst estimate of book value per share regarding the next quarter
+735,est_q_bps_num_28d,"Number of analyst estimate of book value per share regarding the next quarter, made in the last 28 days"
+736,est_q_bps_num_3mth_ago,"Number of analyst estimate of book value per share regarding the next quarter, made in past 3 months"
+737,est_q_bps_num_4wks_ago,"Number of analyst estimate of book value per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+738,est_q_bps_raised_1wk,"Number of raised analyst estimate of book value per share regarding the next quarter, compared to last weekly update"
+739,est_q_bps_raisednum_1mth,"Number of raised analyst estimate of book value per share regarding the next quarter, compared to last montly update"
+740,est_q_bps_raisednum_4wks,"Number of raised analyst estimate of book value per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+741,est_q_bps_std,Standard deviation of analyst estimate of book value per share regarding the next quarter
+742,est_q_bps_std_4wks_ago,"Standard deviation of the analyst estimate of book value per share regarding the next quarter, made in past 4 weeks"
+743,est_q_cps_high,Highest analyst estimate of cash flow per share regarding the next quarter
+744,est_q_cps_high_3mth_ago,"Highest analyst estimate of cash flow per share regarding the next quarter, made in past 3 months"
+745,est_q_cps_high_4wks_ago,"Highest analyst estimate of cash flow per share regarding the next quarter, made in past 4 weeks"
+746,est_q_cps_low,Lowest analyst estimate of cash flow per share regarding the next quarter
+747,est_q_cps_low_3mth_ago,"Lowest analyst estimate of cash flow per share regarding the next quarter, made in past 3 months"
+748,est_q_cps_low_4wks_ago,"Lowest analyst estimate of cash flow per share regarding the next quarter, made in past 4 weeks"
+749,est_q_cps_lowered_1wk,"Number of lowered analyst estimate of cash flow per share regarding the next quarter, since last weekly update"
+750,est_q_cps_lowerednum_1mth,"Number of lowered analyst estimate of cash flow per share regarding the next quarter, since last montly update"
+751,est_q_cps_lowerednum_4wks,"Number of lowered analyst estimate of cash flow per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+752,est_q_cps_mean,Mean analyst estimate of cash flow per share regarding the next quarter
+753,est_q_cps_mean_28d,"Mean analyst estimate of cash flow per share regarding the next quarter, made in the last 28 days"
+754,est_q_cps_mean_3mth_ago,"Mean analyst estimate of cash flow per share regarding the next quarter, 3 made in past 3 months"
+755,est_q_cps_mean_4wks_ago,"Mean analyst estimate of cash flow per share regarding the next quarter, made in past 4 weeks"
+756,est_q_cps_median,Median analyst estimate of cash flow per share regarding the next quarter
+757,est_q_cps_median_3mth_ago,"Median analyst estimate of cash flow per share regarding the next quarter, made in past 3 months"
+758,est_q_cps_median_4wks_ago,"Median analyst estimate of cash flow per share regarding the next quarter, made in past 4 weeks"
+759,est_q_cps_num,Number of analyst estimate of cash flow per share regarding the next quarter
+760,est_q_cps_num_28d,"Number of analyst estimate of cash flow per share regarding the next quarter, made in the last 28 days"
+761,est_q_cps_num_3mth_ago,"Number of analyst estimate of cash flow per share regarding the next quarter, made in past 3 months"
+762,est_q_cps_num_4wks_ago,"Number of analyst estimate of cash flow per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+763,est_q_cps_raised_1wk,"Number of raised analyst estimate of cash flow per share regarding the next quarter, compared to last weekly update"
+764,est_q_cps_raisednum_1mth,"Number of raised analyst estimate of cash flow per share regarding the next quarter, compared to last montly update"
+765,est_q_cps_raisednum_4wks,"Number of raised analyst estimate of cash flow per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+766,est_q_cpx_high,Highest analyst estimate of capital expenditure regarding the next quarter
+767,est_q_cpx_high_3mth_ago,"Highest analyst estimate of capital expenditure regarding the next quarter, made in past 3 months"
+768,est_q_cpx_high_4wks_ago,"Highest analyst estimate of capital expenditure regarding the next quarter, made in past 4 weeks"
+769,est_q_cpx_low,Lowest analyst estimate of capital expenditure regarding the next quarter
+770,est_q_cpx_low_3mth_ago,"Lowest analyst estimate of capital expenditure regarding the next quarter, made in past 3 months"
+771,est_q_cpx_low_4wks_ago,"Lowest analyst estimate of capital expenditure regarding the next quarter, made in past 4 weeks"
+772,est_q_cpx_lowered_1wk,"Number of lowered analyst estimate of capital expenditure regarding the next quarter, since last weekly update"
+773,est_q_cpx_lowerednum_1mth,"Number of lowered analyst estimate of capital expenditure regarding the next quarter, since last montly update"
+774,est_q_cpx_lowerednum_4wks,"Number of lowered analyst estimate of capital expenditure regarding the next quarter, where old and new estimate were made in past 4 weeks"
+775,est_q_cpx_mean,Mean analyst estimate of capital expenditure regarding the next quarter
+776,est_q_cpx_mean_28d,"Mean analyst estimate of capital expenditure regarding the next quarter, made in the last 28 days"
+777,est_q_cpx_mean_3mth_ago,"Mean analyst estimate of capital expenditure regarding the next quarter, 3 made in past 3 months"
+778,est_q_cpx_mean_4wks_ago,"Mean analyst estimate of capital expenditure regarding the next quarter, made in past 4 weeks"
+779,est_q_cpx_median,Median analyst estimate of capital expenditure regarding the next quarter
+780,est_q_cpx_median_3mth_ago,"Median analyst estimate of capital expenditure regarding the next quarter, made in past 3 months"
+781,est_q_cpx_median_4wks_ago,"Median analyst estimate of capital expenditure regarding the next quarter, made in past 4 weeks"
+782,est_q_cpx_num,Number of analyst estimate of capital expenditure regarding the next quarter
+783,est_q_cpx_num_28d,"Number of analyst estimate of capital expenditure regarding the next quarter, made in the last 28 days"
+784,est_q_cpx_num_3mth_ago,"Number of analyst estimate of capital expenditure regarding the next quarter, made in past 3 months"
+785,est_q_cpx_num_4wks_ago,"Number of analyst estimate of capital expenditure regarding the next quarter, where old and new estimate were made in past 4 weeks"
+786,est_q_cpx_raised_1wk,"Number of raised analyst estimate of capital expenditure regarding the next quarter, compared to last weekly update"
+787,est_q_cpx_raisednum_1mth,"Number of raised analyst estimate of capital expenditure regarding the next quarter, compared to last montly update"
+788,est_q_cpx_raisednum_4wks,"Number of raised analyst estimate of capital expenditure regarding the next quarter, where old and new estimate were made in past 4 weeks"
+789,est_q_cpx_std,Standard deviation of analyst estimate of capital expenditure regarding the next quarter
+790,est_q_cpx_std_3mth_ago,"Standard deviation of the analyst estimate of capital expenditure regarding the next quarter, made in past 3 months"
+791,est_q_cpx_std_4wks_ago,"Standard deviation of the analyst estimate of capital expenditure regarding the next quarter, made in past 4 weeks"
+792,est_q_dps_high,Highest analyst estimate of dividend per share regarding the next quarter
+793,est_q_dps_high_3mth_ago,"Highest analyst estimate of dividend per share regarding the next quarter, made in past 3 months"
+794,est_q_dps_high_4wks_ago,"Highest analyst estimate of dividend per share regarding the next quarter, made in past 4 weeks"
+795,est_q_dps_low,Lowest analyst estimate of dividend per share regarding the next quarter
+796,est_q_dps_low_3mth_ago,"Lowest analyst estimate of dividend per share regarding the next quarter, made in past 3 months"
+797,est_q_dps_low_4wks_ago,"Lowest analyst estimate of dividend per share regarding the next quarter, made in past 4 weeks"
+798,est_q_dps_lowered_1wk,"Number of lowered analyst estimate of dividend per share regarding the next quarter, since last weekly update"
+799,est_q_dps_lowerednum_1mth,"Number of lowered analyst estimate of dividend per share regarding the next quarter, since last montly update"
+800,est_q_dps_lowerednum_4wks,"Number of lowered analyst estimate of dividend per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+801,est_q_dps_mean,Mean analyst estimate of dividend per share regarding the next quarter
+802,est_q_dps_mean_28d,"Mean analyst estimate of dividend per share regarding the next quarter, made in the last 28 days"
+803,est_q_dps_mean_3mth_ago,"Mean analyst estimate of dividend per share regarding the next quarter, 3 made in past 3 months"
+804,est_q_dps_mean_4wks_ago,"Mean analyst estimate of dividend per share regarding the next quarter, made in past 4 weeks"
+805,est_q_dps_median,Median analyst estimate of dividend per share regarding the next quarter
+806,est_q_dps_median_3mth_ago,"Median analyst estimate of dividend per share regarding the next quarter, made in past 3 months"
+807,est_q_dps_median_4wks_ago,"Median analyst estimate of dividend per share regarding the next quarter, made in past 4 weeks"
+808,est_q_dps_num,Number of analyst estimate of dividend per share regarding the next quarter
+809,est_q_dps_num_28d,"Number of analyst estimate of dividend per share regarding the next quarter, made in the last 28 days"
+810,est_q_dps_num_3mth_ago,"Number of analyst estimate of dividend per share regarding the next quarter, made in past 3 months"
+811,est_q_dps_num_4wks_ago,"Number of analyst estimate of dividend per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+812,est_q_dps_raised_1wk,"Number of raised analyst estimate of dividend per share regarding the next quarter, compared to last weekly update"
+813,est_q_dps_raisednum_1mth,"Number of raised analyst estimate of dividend per share regarding the next quarter, compared to last montly update"
+814,est_q_dps_raisednum_4wks,"Number of raised analyst estimate of dividend per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+815,est_q_dps_std,Standard deviation of analyst estimate of dividend per share regarding the next quarter
+816,est_q_dps_std_3mth_ago,"Standard deviation of the analyst estimate of dividend per share regarding the next quarter, made in past 3 months"
+817,est_q_dps_std_4wks_ago,"Standard deviation of the analyst estimate of dividend per share regarding the next quarter, made in past 4 weeks"
+818,est_q_ebi_high,Highest analyst estimate of EBIT regarding the next quarter
+819,est_q_ebi_high_3mth_ago,"Highest analyst estimate of EBIT regarding the next quarter, made in past 3 months"
+820,est_q_ebi_high_4wks_ago,"Highest analyst estimate of EBIT regarding the next quarter, made in past 4 weeks"
+821,est_q_ebi_low,Lowest analyst estimate of EBIT regarding the next quarter
+822,est_q_ebi_low_3mth_ago,"Lowest analyst estimate of EBIT regarding the next quarter, made in past 3 months"
+823,est_q_ebi_low_4wks_ago,"Lowest analyst estimate of EBIT regarding the next quarter, made in past 4 weeks"
+824,est_q_ebi_lowered_1wk,"Number of lowered analyst estimate of EBIT regarding the next quarter, since last weekly update"
+825,est_q_ebi_lowerednum_1mth,"Number of lowered analyst estimate of EBIT regarding the next quarter, since last montly update"
+826,est_q_ebi_lowerednum_4wks,"Number of lowered analyst estimate of EBIT regarding the next quarter, where old and new estimate were made in past 4 weeks"
+827,est_q_ebi_mean,Mean analyst estimate of EBIT regarding the next quarter
+828,est_q_ebi_mean_28d,"Mean analyst estimate of EBIT regarding the next quarter, made in the last 28 days"
+829,est_q_ebi_mean_3mth_ago,"Mean analyst estimate of EBIT regarding the next quarter, 3 made in past 3 months"
+830,est_q_ebi_mean_4wks_ago,"Mean analyst estimate of EBIT regarding the next quarter, made in past 4 weeks"
+831,est_q_ebi_median,Median analyst estimate of EBIT regarding the next quarter
+832,est_q_ebi_median_3mth_ago,"Median analyst estimate of EBIT regarding the next quarter, made in past 3 months"
+833,est_q_ebi_median_4wks_ago,"Median analyst estimate of EBIT regarding the next quarter, made in past 4 weeks"
+834,est_q_ebi_num,Number of analyst estimate of EBIT regarding the next quarter
+835,est_q_ebi_num_28d,"Number of analyst estimate of EBIT regarding the next quarter, made in the last 28 days"
+836,est_q_ebi_num_3mth_ago,"Number of analyst estimate of EBIT regarding the next quarter, made in past 3 months"
+837,est_q_ebi_num_4wks_ago,"Number of analyst estimate of EBIT regarding the next quarter, where old and new estimate were made in past 4 weeks"
+838,est_q_ebi_raised_1wk,"Number of raised analyst estimate of EBIT regarding the next quarter, compared to last weekly update"
+839,est_q_ebi_raisednum_1mth,"Number of raised analyst estimate of EBIT regarding the next quarter, compared to last montly update"
+840,est_q_ebi_raisednum_4wks,"Number of raised analyst estimate of EBIT regarding the next quarter, where old and new estimate were made in past 4 weeks"
+841,est_q_ebi_std,Standard deviation of analyst estimate of EBIT regarding the next quarter
+842,est_q_ebi_std_28d,"Standard deviation of the analyst estimate of EBIT regarding the next quarter, made in the last 28 days"
+843,est_q_ebi_std_3mth_ago,"Standard deviation of the analyst estimate of EBIT regarding the next quarter, made in past 3 months"
+844,est_q_ebi_std_4wks_ago,"Standard deviation of the analyst estimate of EBIT regarding the next quarter, made in past 4 weeks"
+845,est_q_ebs_high,Highest analyst estimate of EBITDA per share regarding the next quarter
+846,est_q_ebs_high_3mth_ago,"Highest analyst estimate of EBITDA per share regarding the next quarter, made in past 3 months"
+847,est_q_ebs_high_4wks_ago,"Highest analyst estimate of EBITDA per share regarding the next quarter, made in past 4 weeks"
+848,est_q_ebs_low,Lowest analyst estimate of EBITDA per share regarding the next quarter
+849,est_q_ebs_low_3mth_ago,"Lowest analyst estimate of EBITDA per share regarding the next quarter, made in past 3 months"
+850,est_q_ebs_low_4wks_ago,"Lowest analyst estimate of EBITDA per share regarding the next quarter, made in past 4 weeks"
+851,est_q_ebs_lowered_1wk,"Number of lowered analyst estimate of EBITDA per share regarding the next quarter, since last weekly update"
+852,est_q_ebs_lowerednum_1mth,"Number of lowered analyst estimate of EBITDA per share regarding the next quarter, since last montly update"
+853,est_q_ebs_lowerednum_4wks,"Number of lowered analyst estimate of EBITDA per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+854,est_q_ebs_mean,Mean analyst estimate of EBITDA per share regarding the next quarter
+855,est_q_ebs_mean_28d,"Mean analyst estimate of EBITDA per share regarding the next quarter, made in the last 28 days"
+856,est_q_ebs_mean_3mth_ago,"Mean analyst estimate of EBITDA per share regarding the next quarter, 3 made in past 3 months"
+857,est_q_ebs_mean_4wks_ago,"Mean analyst estimate of EBITDA per share regarding the next quarter, made in past 4 weeks"
+858,est_q_ebs_median,Median analyst estimate of EBITDA per share regarding the next quarter
+859,est_q_ebs_median_3mth_ago,"Median analyst estimate of EBITDA per share regarding the next quarter, made in past 3 months"
+860,est_q_ebs_median_4wks_ago,"Median analyst estimate of EBITDA per share regarding the next quarter, made in past 4 weeks"
+861,est_q_ebs_num,Number of analyst estimate of EBITDA per share regarding the next quarter
+862,est_q_ebs_num_28d,"Number of analyst estimate of EBITDA per share regarding the next quarter, made in the last 28 days"
+863,est_q_ebs_num_3mth_ago,"Number of analyst estimate of EBITDA per share regarding the next quarter, made in past 3 months"
+864,est_q_ebs_num_4wks_ago,"Number of analyst estimate of EBITDA per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+865,est_q_ebs_raised_1wk,"Number of raised analyst estimate of EBITDA per share regarding the next quarter, compared to last weekly update"
+866,est_q_ebs_raisednum_1mth,"Number of raised analyst estimate of EBITDA per share regarding the next quarter, compared to last montly update"
+867,est_q_ebs_raisednum_4wks,"Number of raised analyst estimate of EBITDA per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+868,est_q_ebt_high,Highest analyst estimate of EBITDA regarding the next quarter
+869,est_q_ebt_high_3mth_ago,"Highest analyst estimate of EBITDA regarding the next quarter, made in past 3 months"
+870,est_q_ebt_high_4wks_ago,"Highest analyst estimate of EBITDA regarding the next quarter, made in past 4 weeks"
+871,est_q_ebt_low,Lowest analyst estimate of EBITDA regarding the next quarter
+872,est_q_ebt_low_3mth_ago,"Lowest analyst estimate of EBITDA regarding the next quarter, made in past 3 months"
+873,est_q_ebt_low_4wks_ago,"Lowest analyst estimate of EBITDA regarding the next quarter, made in past 4 weeks"
+874,est_q_ebt_lowered_1wk,"Number of lowered analyst estimate of EBITDA regarding the next quarter, since last weekly update"
+875,est_q_ebt_lowerednum_1mth,"Number of lowered analyst estimate of EBITDA regarding the next quarter, since last montly update"
+876,est_q_ebt_lowerednum_4wks,"Number of lowered analyst estimate of EBITDA regarding the next quarter, where old and new estimate were made in past 4 weeks"
+877,est_q_ebt_mean,Mean analyst estimate of EBITDA regarding the next quarter
+878,est_q_ebt_mean_28d,"Mean analyst estimate of EBITDA regarding the next quarter, made in the last 28 days"
+879,est_q_ebt_mean_3mth_ago,"Mean analyst estimate of EBITDA regarding the next quarter, 3 made in past 3 months"
+880,est_q_ebt_mean_4wks_ago,"Mean analyst estimate of EBITDA regarding the next quarter, made in past 4 weeks"
+881,est_q_ebt_median,Median analyst estimate of EBITDA regarding the next quarter
+882,est_q_ebt_median_3mth_ago,"Median analyst estimate of EBITDA regarding the next quarter, made in past 3 months"
+883,est_q_ebt_median_4wks_ago,"Median analyst estimate of EBITDA regarding the next quarter, made in past 4 weeks"
+884,est_q_ebt_num,Number of analyst estimate of EBITDA regarding the next quarter
+885,est_q_ebt_num_28d,"Number of analyst estimate of EBITDA regarding the next quarter, made in the last 28 days"
+886,est_q_ebt_num_3mth_ago,"Number of analyst estimate of EBITDA regarding the next quarter, made in past 3 months"
+887,est_q_ebt_num_4wks_ago,"Number of analyst estimate of EBITDA regarding the next quarter, where old and new estimate were made in past 4 weeks"
+888,est_q_ebt_raised_1wk,"Number of raised analyst estimate of EBITDA regarding the next quarter, compared to last weekly update"
+889,est_q_ebt_raisednum_1mth,"Number of raised analyst estimate of EBITDA regarding the next quarter, compared to last montly update"
+890,est_q_ebt_raisednum_4wks,"Number of raised analyst estimate of EBITDA regarding the next quarter, where old and new estimate were made in past 4 weeks"
+891,est_q_ebt_std,Standard deviation of analyst estimate of EBITDA regarding the next quarter
+892,est_q_ebt_std_28d,"Standard deviation of the analyst estimate of EBITDA regarding the next quarter, made in the last 28 days"
+893,est_q_ebt_std_3mth_ago,"Standard deviation of the analyst estimate of EBITDA regarding the next quarter, made in past 3 months"
+894,est_q_ebt_std_4wks_ago,"Standard deviation of the analyst estimate of EBITDA regarding the next quarter, made in past 4 weeks"
+895,est_q_ent_high,Highest analyst estimate of enterprise value regarding the next quarter
+896,est_q_ent_low,Lowest analyst estimate of enterprise value regarding the next quarter
+897,est_q_ent_lowered_1wk,"Number of lowered analyst estimate of enterprise value regarding the next quarter, since last weekly update"
+898,est_q_ent_lowerednum_1mth,"Number of lowered analyst estimate of enterprise value regarding the next quarter, since last montly update"
+899,est_q_ent_lowerednum_4wks,"Number of lowered analyst estimate of enterprise value regarding the next quarter, where old and new estimate were made in past 4 weeks"
+900,est_q_ent_mean,Mean analyst estimate of enterprise value regarding the next quarter
+901,est_q_ent_median,Median analyst estimate of enterprise value regarding the next quarter
+902,est_q_ent_num,Number of analyst estimate of enterprise value regarding the next quarter
+903,est_q_ent_num_28d,"Number of analyst estimate of enterprise value regarding the next quarter, made in the last 28 days"
+904,est_q_ent_num_3mth_ago,"Number of analyst estimate of enterprise value regarding the next quarter, made in past 3 months"
+905,est_q_ent_num_4wks_ago,"Number of analyst estimate of enterprise value regarding the next quarter, where old and new estimate were made in past 4 weeks"
+906,est_q_ent_raised_1wk,"Number of raised analyst estimate of enterprise value regarding the next quarter, compared to last weekly update"
+907,est_q_ent_raisednum_1mth,"Number of raised analyst estimate of enterprise value regarding the next quarter, compared to last montly update"
+908,est_q_ent_raisednum_4wks,"Number of raised analyst estimate of enterprise value regarding the next quarter, where old and new estimate were made in past 4 weeks"
+909,est_q_eps_high,Highest analyst estimate of earnings per share regarding the next quarter
+910,est_q_eps_high_3mth_ago,"Highest analyst estimate of earnings per share regarding the next quarter, made in past 3 months"
+911,est_q_eps_high_4wks_ago,"Highest analyst estimate of earnings per share regarding the next quarter, made in past 4 weeks"
+912,est_q_eps_low,Lowest analyst estimate of earnings per share regarding the next quarter
+913,est_q_eps_low_3mth_ago,"Lowest analyst estimate of earnings per share regarding the next quarter, made in past 3 months"
+914,est_q_eps_low_4wks_ago,"Lowest analyst estimate of earnings per share regarding the next quarter, made in past 4 weeks"
+915,est_q_eps_lowered_1wk,"Number of lowered analyst estimate of earnings per share regarding the next quarter, since last weekly update"
+916,est_q_eps_lowerednum_1mth,"Number of lowered analyst estimate of earnings per share regarding the next quarter, since last montly update"
+917,est_q_eps_lowerednum_4wks,"Number of lowered analyst estimate of earnings per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+918,est_q_eps_mean,Mean analyst estimate of earnings per share regarding the next quarter
+919,est_q_eps_mean_28d,"Mean analyst estimate of earnings per share regarding the next quarter, made in the last 28 days"
+920,est_q_eps_mean_3mth_ago,"Mean analyst estimate of earnings per share regarding the next quarter, 3 made in past 3 months"
+921,est_q_eps_mean_4wks_ago,"Mean analyst estimate of earnings per share regarding the next quarter, made in past 4 weeks"
+922,est_q_eps_median,Median analyst estimate of earnings per share regarding the next quarter
+923,est_q_eps_median_3mth_ago,"Median analyst estimate of earnings per share regarding the next quarter, made in past 3 months"
+924,est_q_eps_median_4wks_ago,"Median analyst estimate of earnings per share regarding the next quarter, made in past 4 weeks"
+925,est_q_eps_num,Number of analyst estimate of earnings per share regarding the next quarter
+926,est_q_eps_num_28d,"Number of analyst estimate of earnings per share regarding the next quarter, made in the last 28 days"
+927,est_q_eps_num_3mth_ago,"Number of analyst estimate of earnings per share regarding the next quarter, made in past 3 months"
+928,est_q_eps_num_4wks_ago,"Number of analyst estimate of earnings per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+929,est_q_eps_raised_1wk,"Number of raised analyst estimate of earnings per share regarding the next quarter, compared to last weekly update"
+930,est_q_eps_raisednum_1mth,"Number of raised analyst estimate of earnings per share regarding the next quarter, compared to last montly update"
+931,est_q_eps_raisednum_4wks,"Number of raised analyst estimate of earnings per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+932,est_q_eps_std,Standard deviation of analyst estimate of earnings per share regarding the next quarter
+933,est_q_eps_std_28d,"Standard deviation of the analyst estimate of earnings per share regarding the next quarter, made in the last 28 days"
+934,est_q_eps_std_3mth_ago,"Standard deviation of the analyst estimate of earnings per share regarding the next quarter, made in past 3 months"
+935,est_q_eps_std_4wks_ago,"Standard deviation of the analyst estimate of earnings per share regarding the next quarter, made in past 4 weeks"
+936,est_q_fcf_high,Highest analyst estimate of free cash flow per share regarding the next quarter
+937,est_q_fcf_high_3mth_ago,"Highest analyst estimate of free cash flow per share regarding the next quarter, made in past 3 months"
+938,est_q_fcf_high_4wks_ago,"Highest analyst estimate of free cash flow per share regarding the next quarter, made in past 4 weeks"
+939,est_q_fcf_low,Lowest analyst estimate of free cash flow per share regarding the next quarter
+940,est_q_fcf_low_3mth_ago,"Lowest analyst estimate of free cash flow per share regarding the next quarter, made in past 3 months"
+941,est_q_fcf_low_4wks_ago,"Lowest analyst estimate of free cash flow per share regarding the next quarter, made in past 4 weeks"
+942,est_q_fcf_lowered_1wk,"Number of lowered analyst estimate of free cash flow per share regarding the next quarter, since last weekly update"
+943,est_q_fcf_lowerednum_1mth,"Number of lowered analyst estimate of free cash flow per share regarding the next quarter, since last montly update"
+944,est_q_fcf_lowerednum_4wks,"Number of lowered analyst estimate of free cash flow per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+945,est_q_fcf_mean,Mean analyst estimate of free cash flow per share regarding the next quarter
+946,est_q_fcf_mean_28d,"Mean analyst estimate of free cash flow per share regarding the next quarter, made in the last 28 days"
+947,est_q_fcf_mean_3mth_ago,"Mean analyst estimate of free cash flow per share regarding the next quarter, 3 made in past 3 months"
+948,est_q_fcf_mean_4wks_ago,"Mean analyst estimate of free cash flow per share regarding the next quarter, made in past 4 weeks"
+949,est_q_fcf_median,Median analyst estimate of free cash flow per share regarding the next quarter
+950,est_q_fcf_median_3mth_ago,"Median analyst estimate of free cash flow per share regarding the next quarter, made in past 3 months"
+951,est_q_fcf_median_4wks_ago,"Median analyst estimate of free cash flow per share regarding the next quarter, made in past 4 weeks"
+952,est_q_fcf_num,Number of analyst estimate of free cash flow per share regarding the next quarter
+953,est_q_fcf_num_28d,"Number of analyst estimate of free cash flow per share regarding the next quarter, made in the last 28 days"
+954,est_q_fcf_num_3mth_ago,"Number of analyst estimate of free cash flow per share regarding the next quarter, made in past 3 months"
+955,est_q_fcf_num_4wks_ago,"Number of analyst estimate of free cash flow per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+956,est_q_fcf_raised_1wk,"Number of raised analyst estimate of free cash flow per share regarding the next quarter, compared to last weekly update"
+957,est_q_fcf_raisednum_1mth,"Number of raised analyst estimate of free cash flow per share regarding the next quarter, compared to last montly update"
+958,est_q_fcf_raisednum_4wks,"Number of raised analyst estimate of free cash flow per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+959,est_q_gps_high,Highest analyst estimate of GAAP earnings per share regarding the next quarter
+960,est_q_gps_high_3mth_ago,"Highest analyst estimate of GAAP earnings per share regarding the next quarter, made in past 3 months"
+961,est_q_gps_high_4wks_ago,"Highest analyst estimate of GAAP earnings per share regarding the next quarter, made in past 4 weeks"
+962,est_q_gps_low,Lowest analyst estimate of GAAP earnings per share regarding the next quarter
+963,est_q_gps_low_3mth_ago,"Lowest analyst estimate of GAAP earnings per share regarding the next quarter, made in past 3 months"
+964,est_q_gps_low_4wks_ago,"Lowest analyst estimate of GAAP earnings per share regarding the next quarter, made in past 4 weeks"
+965,est_q_gps_lowered_1wk,"Number of lowered analyst estimate of GAAP earnings per share regarding the next quarter, since last weekly update"
+966,est_q_gps_lowerednum_1mth,"Number of lowered analyst estimate of GAAP earnings per share regarding the next quarter, since last montly update"
+967,est_q_gps_lowerednum_4wks,"Number of lowered analyst estimate of GAAP earnings per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+968,est_q_gps_mean,Mean analyst estimate of GAAP earnings per share regarding the next quarter
+969,est_q_gps_mean_28d,"Mean analyst estimate of GAAP earnings per share regarding the next quarter, made in the last 28 days"
+970,est_q_gps_mean_3mth_ago,"Mean analyst estimate of GAAP earnings per share regarding the next quarter, 3 made in past 3 months"
+971,est_q_gps_mean_4wks_ago,"Mean analyst estimate of GAAP earnings per share regarding the next quarter, made in past 4 weeks"
+972,est_q_gps_median,Median analyst estimate of GAAP earnings per share regarding the next quarter
+973,est_q_gps_median_3mth_ago,"Median analyst estimate of GAAP earnings per share regarding the next quarter, made in past 3 months"
+974,est_q_gps_median_4wks_ago,"Median analyst estimate of GAAP earnings per share regarding the next quarter, made in past 4 weeks"
+975,est_q_gps_num,Number of analyst estimate of GAAP earnings per share regarding the next quarter
+976,est_q_gps_num_28d,"Number of analyst estimate of GAAP earnings per share regarding the next quarter, made in the last 28 days"
+977,est_q_gps_num_3mth_ago,"Number of analyst estimate of GAAP earnings per share regarding the next quarter, made in past 3 months"
+978,est_q_gps_num_4wks_ago,"Number of analyst estimate of GAAP earnings per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+979,est_q_gps_raised_1wk,"Number of raised analyst estimate of GAAP earnings per share regarding the next quarter, compared to last weekly update"
+980,est_q_gps_raisednum_1mth,"Number of raised analyst estimate of GAAP earnings per share regarding the next quarter, compared to last montly update"
+981,est_q_gps_raisednum_4wks,"Number of raised analyst estimate of GAAP earnings per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+982,est_q_gps_std,Standard deviation of analyst estimate of GAAP earnings per share regarding the next quarter
+983,est_q_gps_std_28d,"Standard deviation of the analyst estimate of GAAP earnings per share regarding the next quarter, made in the last 28 days"
+984,est_q_gps_std_3mth_ago,"Standard deviation of the analyst estimate of GAAP earnings per share regarding the next quarter, made in past 3 months"
+985,est_q_gps_std_4wks_ago,"Standard deviation of the analyst estimate of GAAP earnings per share regarding the next quarter, made in past 4 weeks"
+986,est_q_grm_high,Highest analyst estimate of gross margin in percent regarding the next quarter
+987,est_q_grm_high_3mth_ago,"Highest analyst estimate of gross margin in percent regarding the next quarter, made in past 3 months"
+988,est_q_grm_high_4wks_ago,"Highest analyst estimate of gross margin in percent regarding the next quarter, made in past 4 weeks"
+989,est_q_grm_low,Lowest analyst estimate of gross margin in percent regarding the next quarter
+990,est_q_grm_low_3mth_ago,"Lowest analyst estimate of gross margin in percent regarding the next quarter, made in past 3 months"
+991,est_q_grm_low_4wks_ago,"Lowest analyst estimate of gross margin in percent regarding the next quarter, made in past 4 weeks"
+992,est_q_grm_lowered_1wk,"Number of lowered analyst estimate of gross margin in percent regarding the next quarter, since last weekly update"
+993,est_q_grm_lowerednum_1mth,"Number of lowered analyst estimate of gross margin in percent regarding the next quarter, since last montly update"
+994,est_q_grm_lowerednum_4wks,"Number of lowered analyst estimate of gross margin in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+995,est_q_grm_mean,Mean analyst estimate of gross margin in percent regarding the next quarter
+996,est_q_grm_mean_28d,"Mean analyst estimate of gross margin in percent regarding the next quarter, made in the last 28 days"
+997,est_q_grm_mean_3mth_ago,"Mean analyst estimate of gross margin in percent regarding the next quarter, 3 made in past 3 months"
+998,est_q_grm_mean_4wks_ago,"Mean analyst estimate of gross margin in percent regarding the next quarter, made in past 4 weeks"
+999,est_q_grm_median,Median analyst estimate of gross margin in percent regarding the next quarter
+1000,est_q_grm_median_3mth_ago,"Median analyst estimate of gross margin in percent regarding the next quarter, made in past 3 months"
+1001,est_q_grm_median_4wks_ago,"Median analyst estimate of gross margin in percent regarding the next quarter, made in past 4 weeks"
+1002,est_q_grm_num,Number of analyst estimate of gross margin in percent regarding the next quarter
+1003,est_q_grm_num_28d,"Number of analyst estimate of gross margin in percent regarding the next quarter, made in the last 28 days"
+1004,est_q_grm_num_3mth_ago,"Number of analyst estimate of gross margin in percent regarding the next quarter, made in past 3 months"
+1005,est_q_grm_num_4wks_ago,"Number of analyst estimate of gross margin in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1006,est_q_grm_raised_1wk,"Number of raised analyst estimate of gross margin in percent regarding the next quarter, compared to last weekly update"
+1007,est_q_grm_raisednum_1mth,"Number of raised analyst estimate of gross margin in percent regarding the next quarter, compared to last montly update"
+1008,est_q_grm_raisednum_4wks,"Number of raised analyst estimate of gross margin in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1009,est_q_grm_std,Standard deviation of analyst estimate of gross margin in percent regarding the next quarter
+1010,est_q_grm_std_28d,"Standard deviation of the analyst estimate of gross margin in percent regarding the next quarter, made in the last 28 days"
+1011,est_q_grm_std_3mth_ago,"Standard deviation of the analyst estimate of gross margin in percent regarding the next quarter, made in past 3 months"
+1012,est_q_grm_std_4wks_ago,"Standard deviation of the analyst estimate of gross margin in percent regarding the next quarter, made in past 4 weeks"
+1013,est_q_nav_high,Highest analyst estimate of net asset value regarding the next quarter
+1014,est_q_nav_high_3mth_ago,"Highest analyst estimate of net asset value regarding the next quarter, made in past 3 months"
+1015,est_q_nav_high_4wks_ago,"Highest analyst estimate of net asset value regarding the next quarter, made in past 4 weeks"
+1016,est_q_nav_low,Lowest analyst estimate of net asset value regarding the next quarter
+1017,est_q_nav_low_3mth_ago,"Lowest analyst estimate of net asset value regarding the next quarter, made in past 3 months"
+1018,est_q_nav_low_4wks_ago,"Lowest analyst estimate of net asset value regarding the next quarter, made in past 4 weeks"
+1019,est_q_nav_lowered_1wk,"Number of lowered analyst estimate of net asset value regarding the next quarter, since last weekly update"
+1020,est_q_nav_lowerednum_1mth,"Number of lowered analyst estimate of net asset value regarding the next quarter, since last montly update"
+1021,est_q_nav_lowerednum_4wks,"Number of lowered analyst estimate of net asset value regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1022,est_q_nav_mean,Mean analyst estimate of net asset value regarding the next quarter
+1023,est_q_nav_mean_28d,"Mean analyst estimate of net asset value regarding the next quarter, made in the last 28 days"
+1024,est_q_nav_mean_3mth_ago,"Mean analyst estimate of net asset value regarding the next quarter, 3 made in past 3 months"
+1025,est_q_nav_mean_4wks_ago,"Mean analyst estimate of net asset value regarding the next quarter, made in past 4 weeks"
+1026,est_q_nav_median,Median analyst estimate of net asset value regarding the next quarter
+1027,est_q_nav_median_3mth_ago,"Median analyst estimate of net asset value regarding the next quarter, made in past 3 months"
+1028,est_q_nav_median_4wks_ago,"Median analyst estimate of net asset value regarding the next quarter, made in past 4 weeks"
+1029,est_q_nav_num,Number of analyst estimate of net asset value regarding the next quarter
+1030,est_q_nav_num_28d,"Number of analyst estimate of net asset value regarding the next quarter, made in the last 28 days"
+1031,est_q_nav_num_3mth_ago,"Number of analyst estimate of net asset value regarding the next quarter, made in past 3 months"
+1032,est_q_nav_num_4wks_ago,"Number of analyst estimate of net asset value regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1033,est_q_nav_raised_1wk,"Number of raised analyst estimate of net asset value regarding the next quarter, compared to last weekly update"
+1034,est_q_nav_raisednum_1mth,"Number of raised analyst estimate of net asset value regarding the next quarter, compared to last montly update"
+1035,est_q_nav_raisednum_4wks,"Number of raised analyst estimate of net asset value regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1036,est_q_nav_std,Standard deviation of analyst estimate of net asset value regarding the next quarter
+1037,est_q_nav_std_28d,"Standard deviation of the analyst estimate of net asset value regarding the next quarter, made in the last 28 days"
+1038,est_q_nav_std_3mth_ago,"Standard deviation of the analyst estimate of net asset value regarding the next quarter, made in past 3 months"
+1039,est_q_nav_std_4wks_ago,"Standard deviation of the analyst estimate of net asset value regarding the next quarter, made in past 4 weeks"
+1040,est_q_ndt_high,Highest analyst estimate of net debt regarding the next quarter
+1041,est_q_ndt_high_3mth_ago,"Highest analyst estimate of net debt regarding the next quarter, made in past 3 months"
+1042,est_q_ndt_high_4wks_ago,"Highest analyst estimate of net debt regarding the next quarter, made in past 4 weeks"
+1043,est_q_ndt_low,Lowest analyst estimate of net debt regarding the next quarter
+1044,est_q_ndt_low_3mth_ago,"Lowest analyst estimate of net debt regarding the next quarter, made in past 3 months"
+1045,est_q_ndt_low_4wks_ago,"Lowest analyst estimate of net debt regarding the next quarter, made in past 4 weeks"
+1046,est_q_ndt_lowered_1wk,"Number of lowered analyst estimate of net debt regarding the next quarter, since last weekly update"
+1047,est_q_ndt_lowerednum_1mth,"Number of lowered analyst estimate of net debt regarding the next quarter, since last montly update"
+1048,est_q_ndt_lowerednum_4wks,"Number of lowered analyst estimate of net debt regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1049,est_q_ndt_mean,Mean analyst estimate of net debt regarding the next quarter
+1050,est_q_ndt_mean_28d,"Mean analyst estimate of net debt regarding the next quarter, made in the last 28 days"
+1051,est_q_ndt_mean_3mth_ago,"Mean analyst estimate of net debt regarding the next quarter, 3 made in past 3 months"
+1052,est_q_ndt_mean_4wks_ago,"Mean analyst estimate of net debt regarding the next quarter, made in past 4 weeks"
+1053,est_q_ndt_median,Median analyst estimate of net debt regarding the next quarter
+1054,est_q_ndt_median_3mth_ago,"Median analyst estimate of net debt regarding the next quarter, made in past 3 months"
+1055,est_q_ndt_median_4wks_ago,"Median analyst estimate of net debt regarding the next quarter, made in past 4 weeks"
+1056,est_q_ndt_num,Number of analyst estimate of net debt regarding the next quarter
+1057,est_q_ndt_num_28d,"Number of analyst estimate of net debt regarding the next quarter, made in the last 28 days"
+1058,est_q_ndt_num_3mth_ago,"Number of analyst estimate of net debt regarding the next quarter, made in past 3 months"
+1059,est_q_ndt_num_4wks_ago,"Number of analyst estimate of net debt regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1060,est_q_ndt_raised_1wk,"Number of raised analyst estimate of net debt regarding the next quarter, compared to last weekly update"
+1061,est_q_ndt_raisednum_1mth,"Number of raised analyst estimate of net debt regarding the next quarter, compared to last montly update"
+1062,est_q_ndt_raisednum_4wks,"Number of raised analyst estimate of net debt regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1063,est_q_ner_high,Highest analyst estimate of net profit as reported regarding the next quarter
+1064,est_q_ner_high_3mth_ago,"Highest analyst estimate of net profit as reported regarding the next quarter, made in past 3 months"
+1065,est_q_ner_high_4wks_ago,"Highest analyst estimate of net profit as reported regarding the next quarter, made in past 4 weeks"
+1066,est_q_ner_low,Lowest analyst estimate of net profit as reported regarding the next quarter
+1067,est_q_ner_low_3mth_ago,"Lowest analyst estimate of net profit as reported regarding the next quarter, made in past 3 months"
+1068,est_q_ner_low_4wks_ago,"Lowest analyst estimate of net profit as reported regarding the next quarter, made in past 4 weeks"
+1069,est_q_ner_lowered_1wk,"Number of lowered analyst estimate of net profit as reported regarding the next quarter, since last weekly update"
+1070,est_q_ner_lowerednum_1mth,"Number of lowered analyst estimate of net profit as reported regarding the next quarter, since last montly update"
+1071,est_q_ner_lowerednum_4wks,"Number of lowered analyst estimate of net profit as reported regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1072,est_q_ner_mean,Mean analyst estimate of net profit as reported regarding the next quarter
+1073,est_q_ner_mean_28d,"Mean analyst estimate of net profit as reported regarding the next quarter, made in the last 28 days"
+1074,est_q_ner_mean_3mth_ago,"Mean analyst estimate of net profit as reported regarding the next quarter, 3 made in past 3 months"
+1075,est_q_ner_mean_4wks_ago,"Mean analyst estimate of net profit as reported regarding the next quarter, made in past 4 weeks"
+1076,est_q_ner_median,Median analyst estimate of net profit as reported regarding the next quarter
+1077,est_q_ner_median_3mth_ago,"Median analyst estimate of net profit as reported regarding the next quarter, made in past 3 months"
+1078,est_q_ner_median_4wks_ago,"Median analyst estimate of net profit as reported regarding the next quarter, made in past 4 weeks"
+1079,est_q_ner_num,Number of analyst estimate of net profit as reported regarding the next quarter
+1080,est_q_ner_num_28d,"Number of analyst estimate of net profit as reported regarding the next quarter, made in the last 28 days"
+1081,est_q_ner_num_3mth_ago,"Number of analyst estimate of net profit as reported regarding the next quarter, made in past 3 months"
+1082,est_q_ner_num_4wks_ago,"Number of analyst estimate of net profit as reported regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1083,est_q_ner_raised_1wk,"Number of raised analyst estimate of net profit as reported regarding the next quarter, compared to last weekly update"
+1084,est_q_ner_raisednum_1mth,"Number of raised analyst estimate of net profit as reported regarding the next quarter, compared to last montly update"
+1085,est_q_ner_raisednum_4wks,"Number of raised analyst estimate of net profit as reported regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1086,est_q_ner_std,Standard deviation of analyst estimate of net profit as reported regarding the next quarter
+1087,est_q_ner_std_28d,"Standard deviation of the analyst estimate of net profit as reported regarding the next quarter, made in the last 28 days"
+1088,est_q_ner_std_3mth_ago,"Standard deviation of the analyst estimate of net profit as reported regarding the next quarter, made in past 3 months"
+1089,est_q_ner_std_4wks_ago,"Standard deviation of the analyst estimate of net profit as reported regarding the next quarter, made in past 4 weeks"
+1090,est_q_net_high,Highest analyst estimate of net income regarding the next quarter
+1091,est_q_net_high_3mth_ago,"Highest analyst estimate of net income regarding the next quarter, made in past 3 months"
+1092,est_q_net_high_4wks_ago,"Highest analyst estimate of net income regarding the next quarter, made in past 4 weeks"
+1093,est_q_net_low,Lowest analyst estimate of net income regarding the next quarter
+1094,est_q_net_low_3mth_ago,"Lowest analyst estimate of net income regarding the next quarter, made in past 3 months"
+1095,est_q_net_low_4wks_ago,"Lowest analyst estimate of net income regarding the next quarter, made in past 4 weeks"
+1096,est_q_net_lowered_1wk,"Number of lowered analyst estimate of net income regarding the next quarter, since last weekly update"
+1097,est_q_net_lowerednum_1mth,"Number of lowered analyst estimate of net income regarding the next quarter, since last montly update"
+1098,est_q_net_lowerednum_4wks,"Number of lowered analyst estimate of net income regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1099,est_q_net_mean,Mean analyst estimate of net income regarding the next quarter
+1100,est_q_net_mean_28d,"Mean analyst estimate of net income regarding the next quarter, made in the last 28 days"
+1101,est_q_net_mean_3mth_ago,"Mean analyst estimate of net income regarding the next quarter, 3 made in past 3 months"
+1102,est_q_net_mean_4wks_ago,"Mean analyst estimate of net income regarding the next quarter, made in past 4 weeks"
+1103,est_q_net_median,Median analyst estimate of net income regarding the next quarter
+1104,est_q_net_median_3mth_ago,"Median analyst estimate of net income regarding the next quarter, made in past 3 months"
+1105,est_q_net_median_4wks_ago,"Median analyst estimate of net income regarding the next quarter, made in past 4 weeks"
+1106,est_q_net_num,Number of analyst estimate of net income regarding the next quarter
+1107,est_q_net_num_28d,"Number of analyst estimate of net income regarding the next quarter, made in the last 28 days"
+1108,est_q_net_num_3mth_ago,"Number of analyst estimate of net income regarding the next quarter, made in past 3 months"
+1109,est_q_net_num_4wks_ago,"Number of analyst estimate of net income regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1110,est_q_net_raised_1wk,"Number of raised analyst estimate of net income regarding the next quarter, compared to last weekly update"
+1111,est_q_net_raisednum_1mth,"Number of raised analyst estimate of net income regarding the next quarter, compared to last montly update"
+1112,est_q_net_raisednum_4wks,"Number of raised analyst estimate of net income regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1113,est_q_net_std,Standard deviation of analyst estimate of net income regarding the next quarter
+1114,est_q_net_std_28d,"Standard deviation of the analyst estimate of net income regarding the next quarter, made in the last 28 days"
+1115,est_q_net_std_3mth_ago,"Standard deviation of the analyst estimate of net income regarding the next quarter, made in past 3 months"
+1116,est_q_net_std_4wks_ago,"Standard deviation of the analyst estimate of net income regarding the next quarter, made in past 4 weeks"
+1117,est_q_opr_high,Highest analyst estimate of operating profit regarding the next quarter
+1118,est_q_opr_high_3mth_ago,"Highest analyst estimate of operating profit regarding the next quarter, made in past 3 months"
+1119,est_q_opr_high_4wks_ago,"Highest analyst estimate of operating profit regarding the next quarter, made in past 4 weeks"
+1120,est_q_opr_low,Lowest analyst estimate of operating profit regarding the next quarter
+1121,est_q_opr_low_3mth_ago,"Lowest analyst estimate of operating profit regarding the next quarter, made in past 3 months"
+1122,est_q_opr_low_4wks_ago,"Lowest analyst estimate of operating profit regarding the next quarter, made in past 4 weeks"
+1123,est_q_opr_lowered_1wk,"Number of lowered analyst estimate of operating profit regarding the next quarter, since last weekly update"
+1124,est_q_opr_lowerednum_1mth,"Number of lowered analyst estimate of operating profit regarding the next quarter, since last montly update"
+1125,est_q_opr_lowerednum_4wks,"Number of lowered analyst estimate of operating profit regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1126,est_q_opr_mean,Mean analyst estimate of operating profit regarding the next quarter
+1127,est_q_opr_mean_28d,"Mean analyst estimate of operating profit regarding the next quarter, made in the last 28 days"
+1128,est_q_opr_mean_3mth_ago,"Mean analyst estimate of operating profit regarding the next quarter, 3 made in past 3 months"
+1129,est_q_opr_mean_4wks_ago,"Mean analyst estimate of operating profit regarding the next quarter, made in past 4 weeks"
+1130,est_q_opr_median,Median analyst estimate of operating profit regarding the next quarter
+1131,est_q_opr_median_3mth_ago,"Median analyst estimate of operating profit regarding the next quarter, made in past 3 months"
+1132,est_q_opr_median_4wks_ago,"Median analyst estimate of operating profit regarding the next quarter, made in past 4 weeks"
+1133,est_q_opr_num,Number of analyst estimate of operating profit regarding the next quarter
+1134,est_q_opr_num_28d,"Number of analyst estimate of operating profit regarding the next quarter, made in the last 28 days"
+1135,est_q_opr_num_3mth_ago,"Number of analyst estimate of operating profit regarding the next quarter, made in past 3 months"
+1136,est_q_opr_num_4wks_ago,"Number of analyst estimate of operating profit regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1137,est_q_opr_raised_1wk,"Number of raised analyst estimate of operating profit regarding the next quarter, compared to last weekly update"
+1138,est_q_opr_raisednum_1mth,"Number of raised analyst estimate of operating profit regarding the next quarter, compared to last montly update"
+1139,est_q_opr_raisednum_4wks,"Number of raised analyst estimate of operating profit regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1140,est_q_opr_std,Standard deviation of analyst estimate of operating profit regarding the next quarter
+1141,est_q_opr_std_28d,"Standard deviation of the analyst estimate of operating profit regarding the next quarter, made in the last 28 days"
+1142,est_q_opr_std_3mth_ago,"Standard deviation of the analyst estimate of operating profit regarding the next quarter, made in past 3 months"
+1143,est_q_opr_std_4wks_ago,"Standard deviation of the analyst estimate of operating profit regarding the next quarter, made in past 4 weeks"
+1144,est_q_pre_high,Highest analyst estimate of pre-tax profit regarding the next quarter
+1145,est_q_pre_high_3mth_ago,"Highest analyst estimate of pre-tax profit regarding the next quarter, made in past 3 months"
+1146,est_q_pre_high_4wks_ago,"Highest analyst estimate of pre-tax profit regarding the next quarter, made in past 4 weeks"
+1147,est_q_pre_low,Lowest analyst estimate of pre-tax profit regarding the next quarter
+1148,est_q_pre_low_3mth_ago,"Lowest analyst estimate of pre-tax profit regarding the next quarter, made in past 3 months"
+1149,est_q_pre_low_4wks_ago,"Lowest analyst estimate of pre-tax profit regarding the next quarter, made in past 4 weeks"
+1150,est_q_pre_lowered_1wk,"Number of lowered analyst estimate of pre-tax profit regarding the next quarter, since last weekly update"
+1151,est_q_pre_lowerednum_1mth,"Number of lowered analyst estimate of pre-tax profit regarding the next quarter, since last montly update"
+1152,est_q_pre_lowerednum_4wks,"Number of lowered analyst estimate of pre-tax profit regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1153,est_q_pre_mean,Mean analyst estimate of pre-tax profit regarding the next quarter
+1154,est_q_pre_mean_28d,"Mean analyst estimate of pre-tax profit regarding the next quarter, made in the last 28 days"
+1155,est_q_pre_mean_3mth_ago,"Mean analyst estimate of pre-tax profit regarding the next quarter, 3 made in past 3 months"
+1156,est_q_pre_mean_4wks_ago,"Mean analyst estimate of pre-tax profit regarding the next quarter, made in past 4 weeks"
+1157,est_q_pre_median,Median analyst estimate of pre-tax profit regarding the next quarter
+1158,est_q_pre_median_3mth_ago,"Median analyst estimate of pre-tax profit regarding the next quarter, made in past 3 months"
+1159,est_q_pre_median_4wks_ago,"Median analyst estimate of pre-tax profit regarding the next quarter, made in past 4 weeks"
+1160,est_q_pre_num,Number of analyst estimate of pre-tax profit regarding the next quarter
+1161,est_q_pre_num_28d,"Number of analyst estimate of pre-tax profit regarding the next quarter, made in the last 28 days"
+1162,est_q_pre_num_3mth_ago,"Number of analyst estimate of pre-tax profit regarding the next quarter, made in past 3 months"
+1163,est_q_pre_num_4wks_ago,"Number of analyst estimate of pre-tax profit regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1164,est_q_pre_raised_1wk,"Number of raised analyst estimate of pre-tax profit regarding the next quarter, compared to last weekly update"
+1165,est_q_pre_raisednum_1mth,"Number of raised analyst estimate of pre-tax profit regarding the next quarter, compared to last montly update"
+1166,est_q_pre_raisednum_4wks,"Number of raised analyst estimate of pre-tax profit regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1167,est_q_pre_std,Standard deviation of analyst estimate of pre-tax profit regarding the next quarter
+1168,est_q_pre_std_28d,"Standard deviation of the analyst estimate of pre-tax profit regarding the next quarter, made in the last 28 days"
+1169,est_q_pre_std_3mth_ago,"Standard deviation of the analyst estimate of pre-tax profit regarding the next quarter, made in past 3 months"
+1170,est_q_pre_std_4wks_ago,"Standard deviation of the analyst estimate of pre-tax profit regarding the next quarter, made in past 4 weeks"
+1171,est_q_prr_high,Highest analyst estimate of pretax profit as reported regarding the next quarter
+1172,est_q_prr_high_3mth_ago,"Highest analyst estimate of pretax profit as reported regarding the next quarter, made in past 3 months"
+1173,est_q_prr_high_4wks_ago,"Highest analyst estimate of pretax profit as reported regarding the next quarter, made in past 4 weeks"
+1174,est_q_prr_low,Lowest analyst estimate of pretax profit as reported regarding the next quarter
+1175,est_q_prr_low_3mth_ago,"Lowest analyst estimate of pretax profit as reported regarding the next quarter, made in past 3 months"
+1176,est_q_prr_low_4wks_ago,"Lowest analyst estimate of pretax profit as reported regarding the next quarter, made in past 4 weeks"
+1177,est_q_prr_lowered_1wk,"Number of lowered analyst estimate of pretax profit as reported regarding the next quarter, since last weekly update"
+1178,est_q_prr_lowerednum_1mth,"Number of lowered analyst estimate of pretax profit as reported regarding the next quarter, since last montly update"
+1179,est_q_prr_lowerednum_4wks,"Number of lowered analyst estimate of pretax profit as reported regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1180,est_q_prr_mean,Mean analyst estimate of pretax profit as reported regarding the next quarter
+1181,est_q_prr_mean_28d,"Mean analyst estimate of pretax profit as reported regarding the next quarter, made in the last 28 days"
+1182,est_q_prr_mean_3mth_ago,"Mean analyst estimate of pretax profit as reported regarding the next quarter, 3 made in past 3 months"
+1183,est_q_prr_mean_4wks_ago,"Mean analyst estimate of pretax profit as reported regarding the next quarter, made in past 4 weeks"
+1184,est_q_prr_median,Median analyst estimate of pretax profit as reported regarding the next quarter
+1185,est_q_prr_median_3mth_ago,"Median analyst estimate of pretax profit as reported regarding the next quarter, made in past 3 months"
+1186,est_q_prr_median_4wks_ago,"Median analyst estimate of pretax profit as reported regarding the next quarter, made in past 4 weeks"
+1187,est_q_prr_num,Number of analyst estimate of pretax profit as reported regarding the next quarter
+1188,est_q_prr_num_28d,"Number of analyst estimate of pretax profit as reported regarding the next quarter, made in the last 28 days"
+1189,est_q_prr_num_3mth_ago,"Number of analyst estimate of pretax profit as reported regarding the next quarter, made in past 3 months"
+1190,est_q_prr_num_4wks_ago,"Number of analyst estimate of pretax profit as reported regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1191,est_q_prr_raised_1wk,"Number of raised analyst estimate of pretax profit as reported regarding the next quarter, compared to last weekly update"
+1192,est_q_prr_raisednum_1mth,"Number of raised analyst estimate of pretax profit as reported regarding the next quarter, compared to last montly update"
+1193,est_q_prr_raisednum_4wks,"Number of raised analyst estimate of pretax profit as reported regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1194,est_q_prr_std,Standard deviation of analyst estimate of pretax profit as reported regarding the next quarter
+1195,est_q_prr_std_28d,"Standard deviation of the analyst estimate of pretax profit as reported regarding the next quarter, made in the last 28 days"
+1196,est_q_prr_std_3mth_ago,"Standard deviation of the analyst estimate of pretax profit as reported regarding the next quarter, made in past 3 months"
+1197,est_q_prr_std_4wks_ago,"Standard deviation of the analyst estimate of pretax profit as reported regarding the next quarter, made in past 4 weeks"
+1198,est_q_roa_high,Highest analyst estimate of return on assets in percent regarding the next quarter
+1199,est_q_roa_high_3mth_ago,"Highest analyst estimate of return on assets in percent regarding the next quarter, made in past 3 months"
+1200,est_q_roa_high_4wks_ago,"Highest analyst estimate of return on assets in percent regarding the next quarter, made in past 4 weeks"
+1201,est_q_roa_low,Lowest analyst estimate of return on assets in percent regarding the next quarter
+1202,est_q_roa_low_3mth_ago,"Lowest analyst estimate of return on assets in percent regarding the next quarter, made in past 3 months"
+1203,est_q_roa_low_4wks_ago,"Lowest analyst estimate of return on assets in percent regarding the next quarter, made in past 4 weeks"
+1204,est_q_roa_lowered_1wk,"Number of lowered analyst estimate of return on assets in percent regarding the next quarter, since last weekly update"
+1205,est_q_roa_lowerednum_1mth,"Number of lowered analyst estimate of return on assets in percent regarding the next quarter, since last montly update"
+1206,est_q_roa_lowerednum_4wks,"Number of lowered analyst estimate of return on assets in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1207,est_q_roa_mean,Mean analyst estimate of return on assets in percent regarding the next quarter
+1208,est_q_roa_mean_28d,"Mean analyst estimate of return on assets in percent regarding the next quarter, made in the last 28 days"
+1209,est_q_roa_mean_3mth_ago,"Mean analyst estimate of return on assets in percent regarding the next quarter, 3 made in past 3 months"
+1210,est_q_roa_mean_4wks_ago,"Mean analyst estimate of return on assets in percent regarding the next quarter, made in past 4 weeks"
+1211,est_q_roa_median,Median analyst estimate of return on assets in percent regarding the next quarter
+1212,est_q_roa_median_3mth_ago,"Median analyst estimate of return on assets in percent regarding the next quarter, made in past 3 months"
+1213,est_q_roa_median_4wks_ago,"Median analyst estimate of return on assets in percent regarding the next quarter, made in past 4 weeks"
+1214,est_q_roa_num,Number of analyst estimate of return on assets in percent regarding the next quarter
+1215,est_q_roa_num_28d,"Number of analyst estimate of return on assets in percent regarding the next quarter, made in the last 28 days"
+1216,est_q_roa_num_3mth_ago,"Number of analyst estimate of return on assets in percent regarding the next quarter, made in past 3 months"
+1217,est_q_roa_num_4wks_ago,"Number of analyst estimate of return on assets in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1218,est_q_roa_raised_1wk,"Number of raised analyst estimate of return on assets in percent regarding the next quarter, compared to last weekly update"
+1219,est_q_roa_raisednum_1mth,"Number of raised analyst estimate of return on assets in percent regarding the next quarter, compared to last montly update"
+1220,est_q_roa_raisednum_4wks,"Number of raised analyst estimate of return on assets in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1221,est_q_roe_high,Highest analyst estimate of return on equity in percent regarding the next quarter
+1222,est_q_roe_high_3mth_ago,"Highest analyst estimate of return on equity in percent regarding the next quarter, made in past 3 months"
+1223,est_q_roe_high_4wks_ago,"Highest analyst estimate of return on equity in percent regarding the next quarter, made in past 4 weeks"
+1224,est_q_roe_low,Lowest analyst estimate of return on equity in percent regarding the next quarter
+1225,est_q_roe_low_3mth_ago,"Lowest analyst estimate of return on equity in percent regarding the next quarter, made in past 3 months"
+1226,est_q_roe_low_4wks_ago,"Lowest analyst estimate of return on equity in percent regarding the next quarter, made in past 4 weeks"
+1227,est_q_roe_lowered_1wk,"Number of lowered analyst estimate of return on equity in percent regarding the next quarter, since last weekly update"
+1228,est_q_roe_lowerednum_1mth,"Number of lowered analyst estimate of return on equity in percent regarding the next quarter, since last montly update"
+1229,est_q_roe_lowerednum_4wks,"Number of lowered analyst estimate of return on equity in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1230,est_q_roe_mean,Mean analyst estimate of return on equity in percent regarding the next quarter
+1231,est_q_roe_mean_28d,"Mean analyst estimate of return on equity in percent regarding the next quarter, made in the last 28 days"
+1232,est_q_roe_mean_3mth_ago,"Mean analyst estimate of return on equity in percent regarding the next quarter, 3 made in past 3 months"
+1233,est_q_roe_mean_4wks_ago,"Mean analyst estimate of return on equity in percent regarding the next quarter, made in past 4 weeks"
+1234,est_q_roe_median,Median analyst estimate of return on equity in percent regarding the next quarter
+1235,est_q_roe_median_3mth_ago,"Median analyst estimate of return on equity in percent regarding the next quarter, made in past 3 months"
+1236,est_q_roe_median_4wks_ago,"Median analyst estimate of return on equity in percent regarding the next quarter, made in past 4 weeks"
+1237,est_q_roe_num,Number of analyst estimate of return on equity in percent regarding the next quarter
+1238,est_q_roe_num_28d,"Number of analyst estimate of return on equity in percent regarding the next quarter, made in the last 28 days"
+1239,est_q_roe_num_3mth_ago,"Number of analyst estimate of return on equity in percent regarding the next quarter, made in past 3 months"
+1240,est_q_roe_num_4wks_ago,"Number of analyst estimate of return on equity in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1241,est_q_roe_raised_1wk,"Number of raised analyst estimate of return on equity in percent regarding the next quarter, compared to last weekly update"
+1242,est_q_roe_raisednum_1mth,"Number of raised analyst estimate of return on equity in percent regarding the next quarter, compared to last montly update"
+1243,est_q_roe_raisednum_4wks,"Number of raised analyst estimate of return on equity in percent regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1244,est_q_sal_high,Highest analyst estimate of sales/revenue regarding the next quarter
+1245,est_q_sal_high_3mth_ago,"Highest analyst estimate of sales/revenue regarding the next quarter, made in past 3 months"
+1246,est_q_sal_high_4wks_ago,"Highest analyst estimate of sales/revenue regarding the next quarter, made in past 4 weeks"
+1247,est_q_sal_low,Lowest analyst estimate of sales/revenue regarding the next quarter
+1248,est_q_sal_low_3mth_ago,"Lowest analyst estimate of sales/revenue regarding the next quarter, made in past 3 months"
+1249,est_q_sal_low_4wks_ago,"Lowest analyst estimate of sales/revenue regarding the next quarter, made in past 4 weeks"
+1250,est_q_sal_lowered_1wk,"Number of lowered analyst estimate of sales/revenue regarding the next quarter, since last weekly update"
+1251,est_q_sal_lowerednum_1mth,"Number of lowered analyst estimate of sales/revenue regarding the next quarter, since last montly update"
+1252,est_q_sal_lowerednum_4wks,"Number of lowered analyst estimate of sales/revenue regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1253,est_q_sal_mean,Mean analyst estimate of sales/revenue regarding the next quarter
+1254,est_q_sal_mean_28d,"Mean analyst estimate of sales/revenue regarding the next quarter, made in the last 28 days"
+1255,est_q_sal_mean_3mth_ago,"Mean analyst estimate of sales/revenue regarding the next quarter, 3 made in past 3 months"
+1256,est_q_sal_mean_4wks_ago,"Mean analyst estimate of sales/revenue regarding the next quarter, made in past 4 weeks"
+1257,est_q_sal_median,Median analyst estimate of sales/revenue regarding the next quarter
+1258,est_q_sal_median_3mth_ago,"Median analyst estimate of sales/revenue regarding the next quarter, made in past 3 months"
+1259,est_q_sal_median_4wks_ago,"Median analyst estimate of sales/revenue regarding the next quarter, made in past 4 weeks"
+1260,est_q_sal_num,Number of analyst estimate of sales/revenue regarding the next quarter
+1261,est_q_sal_num_28d,"Number of analyst estimate of sales/revenue regarding the next quarter, made in the last 28 days"
+1262,est_q_sal_num_3mth_ago,"Number of analyst estimate of sales/revenue regarding the next quarter, made in past 3 months"
+1263,est_q_sal_num_4wks_ago,"Number of analyst estimate of sales/revenue regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1264,est_q_sal_raised_1wk,"Number of raised analyst estimate of sales/revenue regarding the next quarter, compared to last weekly update"
+1265,est_q_sal_raisednum_1mth,"Number of raised analyst estimate of sales/revenue regarding the next quarter, compared to last montly update"
+1266,est_q_sal_raisednum_4wks,"Number of raised analyst estimate of sales/revenue regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1267,est_q_sal_std,Standard deviation of analyst estimate of sales/revenue regarding the next quarter
+1268,est_q_sal_std_28d,"Standard deviation of the analyst estimate of sales/revenue regarding the next quarter, made in the last 28 days"
+1269,est_q_sal_std_3mth_ago,"Standard deviation of the analyst estimate of sales/revenue regarding the next quarter, made in past 3 months"
+1270,est_q_sal_std_4wks_ago,"Standard deviation of the analyst estimate of sales/revenue regarding the next quarter, made in past 4 weeks"
+1271,est_q_tbv_high,Highest analyst estimate of tangible book value per share regarding the next quarter
+1272,est_q_tbv_high_3mth_ago,"Highest analyst estimate of tangible book value per share regarding the next quarter, made in past 3 months"
+1273,est_q_tbv_high_4wks_ago,"Highest analyst estimate of tangible book value per share regarding the next quarter, made in past 4 weeks"
+1274,est_q_tbv_low,Lowest analyst estimate of tangible book value per share regarding the next quarter
+1275,est_q_tbv_low_3mth_ago,"Lowest analyst estimate of tangible book value per share regarding the next quarter, made in past 3 months"
+1276,est_q_tbv_low_4wks_ago,"Lowest analyst estimate of tangible book value per share regarding the next quarter, made in past 4 weeks"
+1277,est_q_tbv_lowered_1wk,"Number of lowered analyst estimate of tangible book value per share regarding the next quarter, since last weekly update"
+1278,est_q_tbv_lowerednum_1mth,"Number of lowered analyst estimate of tangible book value per share regarding the next quarter, since last montly update"
+1279,est_q_tbv_lowerednum_4wks,"Number of lowered analyst estimate of tangible book value per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1280,est_q_tbv_mean,Mean analyst estimate of tangible book value per share regarding the next quarter
+1281,est_q_tbv_mean_28d,"Mean analyst estimate of tangible book value per share regarding the next quarter, made in the last 28 days"
+1282,est_q_tbv_mean_3mth_ago,"Mean analyst estimate of tangible book value per share regarding the next quarter, 3 made in past 3 months"
+1283,est_q_tbv_mean_4wks_ago,"Mean analyst estimate of tangible book value per share regarding the next quarter, made in past 4 weeks"
+1284,est_q_tbv_median,Median analyst estimate of tangible book value per share regarding the next quarter
+1285,est_q_tbv_median_3mth_ago,"Median analyst estimate of tangible book value per share regarding the next quarter, made in past 3 months"
+1286,est_q_tbv_median_4wks_ago,"Median analyst estimate of tangible book value per share regarding the next quarter, made in past 4 weeks"
+1287,est_q_tbv_num,Number of analyst estimate of tangible book value per share regarding the next quarter
+1288,est_q_tbv_num_28d,"Number of analyst estimate of tangible book value per share regarding the next quarter, made in the last 28 days"
+1289,est_q_tbv_num_3mth_ago,"Number of analyst estimate of tangible book value per share regarding the next quarter, made in past 3 months"
+1290,est_q_tbv_num_4wks_ago,"Number of analyst estimate of tangible book value per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1291,est_q_tbv_raised_1wk,"Number of raised analyst estimate of tangible book value per share regarding the next quarter, compared to last weekly update"
+1292,est_q_tbv_raisednum_1mth,"Number of raised analyst estimate of tangible book value per share regarding the next quarter, compared to last montly update"
+1293,est_q_tbv_raisednum_4wks,"Number of raised analyst estimate of tangible book value per share regarding the next quarter, where old and new estimate were made in past 4 weeks"
+1294,growth,Historical 5 year growth
+1295,high_52wks,Highest price in the past 52 weeks
+1296,low_52wks,Lowest price in the past 52 weeks
+1297,marketbeta,Market beta
+1298,price,Yesterday's price
+1299,price_26wks,Price 26 weeks ago
+1300,ptg_high,Highest pice target
+1301,ptg_low,Lowest pice target
+1302,ptg_lowerednum_4wks,"Number of pice target, where old and new estimate were made in past 4 weeks"
+1303,ptg_mean,Mean pice target
+1304,ptg_median,Median pice target
+1305,ptg_num,Number of estimates used for pice target
+1306,ptg_raisednum_4wks,"Number of raisedpice target, where old and new estimate were made in past 4 weeks"
+1307,ptg_std,Standard deviation of the pice target
+1308,rec_lowerednum_4wks,"Number of lowered analyst recommnedation, where old and new estimate were made in past 4 weeks"
+1309,rec_mean,Mean estimate of the analyst recommnedation
+1310,rec_num,Number of estimates of the analyst recommnedation
+1311,rec_raisednum_4wks,"Number of raised analyst recommnedation, where old and new estimate were made in past 4 weeks"
+1312,shares,Number of shares outstanding
+1313,sp500,S&P 500 indicator
+1314,stability,Historical 5 year stability
+1315,totalreturn,Yesterday's return
+1316,volume_10wks,Weekly median volume of the last 10 weeks (in millions/billions)

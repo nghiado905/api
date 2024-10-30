@@ -1,0 +1,32 @@
+,id,description
+0,rsk70_mfm2_gemtrd_anlystsn,Analysts' Sentiment Style Factor Loading
+1,rsk70_mfm2_gemtrd_beta,Beta Style Factor Loading
+2,rsk70_mfm2_gemtrd_btop,Book-to-Price Style Factor Loading
+3,rsk70_mfm2_gemtrd_cnt_jpn,Japan Country Factor Loading
+4,rsk70_mfm2_gemtrd_cnt_usa,United States Country Factor Loading
+5,rsk70_mfm2_gemtrd_cntadj,Country adjusted factor loading
+6,rsk70_mfm2_gemtrd_divyild,Dividend Yield Style Factor Loading
+7,rsk70_mfm2_gemtrd_dsrt,Specific returns
+8,rsk70_mfm2_gemtrd_earnqlty,Earnings Quality Style Factor Loading
+9,rsk70_mfm2_gemtrd_earnvar,Earnings Variability Style Factor Loading
+10,rsk70_mfm2_gemtrd_earnyild,Earnings Yield Style Factor Loading
+11,rsk70_mfm2_gemtrd_growth,Growth Style Factor Loading
+12,rsk70_mfm2_gemtrd_indadj,Indsutry Factor loading
+13,rsk70_mfm2_gemtrd_indmom,Industrial Momentum Style Factor Loading
+14,rsk70_mfm2_gemtrd_invsqlty,Investment Quality Style Factor Loading
+15,rsk70_mfm2_gemtrd_leverage,Leverage Style Factor Loading
+16,rsk70_mfm2_gemtrd_ltrevrsl,Long-Term Reversal Style Factor Loading
+17,rsk70_mfm2_gemtrd_midcap,Midcap Style Factor Loading
+18,rsk70_mfm2_gemtrd_momentum,Momentum Style Factor Loading
+19,rsk70_mfm2_gemtrd_newssent,News Sentiment Style Factor Loading
+20,rsk70_mfm2_gemtrd_primaryindustry,Industry factor loading
+21,rsk70_mfm2_gemtrd_profit,Profit Style Factor Loading
+22,rsk70_mfm2_gemtrd_resvol,Residual Volatility Style Factor Loading
+23,rsk70_mfm2_gemtrd_season,Season Style Factor Loading
+24,rsk70_mfm2_gemtrd_shortint,Short Interest Style Factor Loading
+25,rsk70_mfm2_gemtrd_size,Size Style Factor Loading
+26,rsk70_mfm2_gemtrd_srisk,Final specific risk annualized in units of %-squared
+27,rsk70_mfm2_gemtrd_srisku,Unadjusted initial specific risk annualized in units of %-squared
+28,rsk70_mfm2_gemtrd_srtindcnt,Industry factor loading
+29,rsk70_mfm2_gemtrd_strevrsl,Short-Term Reversal Style Factor Loading
+30,rsk70_mfm2_gemtrd_world,World Market Factor Loading
